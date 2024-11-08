@@ -5,11 +5,10 @@ import lores from "../Data/Lores";
 import warscrolls from "../Data/Warscrolls";
 import List from "../Types/ListTypes/List";
 import Unit from "../Types/ListTypes/Unit";
-import { unitsCost } from "./pointSums";
+import { listSum, unitsCost } from "./pointSums";
 
 function listToText(list: List): string {
     const lines: string[] = [];
-    let totalPoints = 0; // Initialize total points
 
     const filteredWarscrolls = warscrolls.filter(o=>!o.isSpearhead)
 
@@ -17,7 +16,7 @@ function listToText(list: List): string {
     if (list.factionId) lines.push(`<em><strong>${ factions.find(o=>o.id===list.factionId)?.name}</strong></em>`);
     if (list.formationId) {
         lines.push(`<em><strong>${formations.find(o=>o.id===list.formationId)?.name}</strong></em>`);
-        lines.push(`<em><strong>Total Points: ${totalPoints}</strong></em>`); // Placeholder for total points
+        lines.push(`<em><strong>Total Points: ${listSum(list,filteredWarscrolls)}</strong></em>`); // Placeholder for total points
     }
     
     // Drops
@@ -38,11 +37,9 @@ function listToText(list: List): string {
         if (i === 0 && regiment.isGeneral && regiment.leader) {
             const leaderUnit = formatUnit(regiment.leader, true);
             lines.push(leaderUnit);
-            totalPoints += unitsCost(regiment.leader, filteredWarscrolls);
         } else if (regiment.leader) {
             const leaderUnit = formatUnit(regiment.leader);
             lines.push(leaderUnit);
-            totalPoints += unitsCost(regiment.leader, filteredWarscrolls);
         }
 
         // Regiment items and units
@@ -50,7 +47,6 @@ function listToText(list: List): string {
             item.units.forEach(unit => {
                 const unitString = formatUnit(unit);
                 lines.push(unitString);
-                totalPoints += unitsCost(unit, filteredWarscrolls); 
             });
         });
     });
@@ -61,7 +57,6 @@ function listToText(list: List): string {
         list.auxiliaries.forEach(auxiliary => {
             const auxiliaryString = formatUnit(auxiliary);
             lines.push(auxiliaryString);
-            totalPoints += unitsCost(auxiliary, filteredWarscrolls);
         });
     }
 
@@ -71,15 +66,13 @@ function listToText(list: List): string {
         lines.push(`<em><strong>${filteredWarscrolls.find(o=>o.id===list.terrain?.warscrollId)?.name}</strong></em>`); // Wrap terrain name with <em> and <strong>
     }
 
-    // Update the total points line with the actual total
-    lines[2] = `<em><strong>Total Points: ${totalPoints}</strong></em>`; // Update total points after the formation name
-
     return lines.join("\n"); // Return with newline characters retained
 }
 
 // Helper function to format a unit, now with reinforced points
 function formatUnit(unit: Unit, isGeneral: boolean = false): string {
-    const warscroll = warscrolls.filter(o=>!o.isSpearhead).find(w => w.id === unit.warscrollId);
+    const filteredWarscrolls =  warscrolls.filter(o=>!o.isSpearhead)
+    const warscroll = filteredWarscrolls.find(w => w.id === unit.warscrollId);
     let points = warscroll?.points ?? 0;
 
     // Double points if unit is reinforced
@@ -88,7 +81,7 @@ function formatUnit(unit: Unit, isGeneral: boolean = false): string {
     }
 
     const parts: string[] = [];
-    parts.push(`<em><strong>${warscroll?.name}</strong></em> (${points} Points)`);
+    parts.push(`<em><strong>${warscroll?.name}</strong></em> (${unitsCost(unit,filteredWarscrolls)} Points)`);
 
     if (unit.reinforced) {
         parts.push("• Reinforced");
