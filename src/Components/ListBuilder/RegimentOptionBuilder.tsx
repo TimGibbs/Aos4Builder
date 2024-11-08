@@ -37,7 +37,7 @@ const RegimentItemBuilder: React.FC<RegimentItemParams> = ({item, setItem}) => {
         units[i] = unit;
         setItem({...item, units:units})
     }
-
+    if(warscolls.length === 0 ) return <></>
     return <>
         <h6>{option?.optionText} {regimentItemSum(item, allWarscrolls)}pts</h6>
         {item.units.map(o=><UnitBuilder 
