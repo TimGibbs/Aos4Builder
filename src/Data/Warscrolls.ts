@@ -24,7 +24,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "c01f5685-3704-4b3f-942f-e59d6ad8b9ef",
+    "id": "4c364ba1-a07b-447e-8a3b-0cd67752f329",
     "name": "Yndrasta, the Celestial Spear",
     "subname": null,
     "lore": "Yndrasta is Sigmar’s Huntress. Her spear, Thengavar, is steel-sister to the God-King’s own legendary polearm; when hurled, it seeks out her prey, piercing its monstrous heart before returning to Yndrasta’s grip. There are those who whisper that lifetimes of battle have hollowed out Yndrasta’s soul and replaced it with pitiless starfire, her divine aura so intense it can protect her even from the emanations of Chaos. Even other Stormcasts mutter a prayer as she hunts the deadliest prey in the realms, for her transformation into an unfeeling instrument of vengeance sparks unease. Yet she remains one of Sigmar’s greatest champions, and her might is questioned by none.",
@@ -68,7 +68,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "9027df1f-9754-421e-b4da-dfe86e8b28e0",
+    "id": "a2767011-abb9-4484-9995-554289b7de58",
     "name": "Magister on Disc of Tzeentch",
     "subname": null,
     "lore": "Magisters are amongst the most powerful of Tzeentch’s mortal agents, corrupted in body and soul by the mind-shattering secrets they bear witness to. It is they who command the Arcanite cults, weaving webs of intrigue in the name of the Change God. Filled with eldritch energies as they ride their Discs of Tzeentch, they can wield fantastical fires to scorch the foe or turn men into bestial Tzaangor allies ready to fight for Chaos.",
@@ -178,7 +178,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "6fd8762e-e1cf-4911-8c06-c173e500ad14",
+    "id": "a137cd0c-2ede-498e-8255-cc8be5453d78",
     "name": "Chaos Chariot",
     "subname": null,
     "lore": "Swift Chaos Chariots thunder across the plains hunting for worthy foes. Drawn by corrupted steeds, the momentum of these constructs is a weapon of its own, and the charioteers take dark pleasure in crushing enemies beneath their spiked wheels, each as heavy as a boulder of iron. Once the chariot has smashed a hole through the enemy’s main formation, it will rampage among their back lines with impunity, its riders lashing and bludgeoning stragglers and any who try to flee with cruel abandon.",
@@ -442,7 +442,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "ef69e06b-bdff-4451-a22b-c6d36049bd41",
+    "id": "1cae26e7-58d7-47b2-bf8b-635b21fba49c",
     "name": "Warlock Engineer",
     "subname": null,
     "lore": "Warlock Engineers are those Skryre artificer-rats who have mastered the various branches of skaven engineering. Skilled in the creation of ingenious and insane weapons, these Skaven take every opportunity to put their latest inventions to the test – even if it means overcharging them to the point of dangerous volatility.",
@@ -618,7 +618,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "0d7ede6e-b5e2-4a15-bded-c79e66dfa299",
+    "id": "87b983cc-0365-4eff-bfa9-952273af41ad",
     "name": "Doomfire Warlocks",
     "subname": null,
     "lore": "Doomfire Warlocks are expert light cavalry, adept at harrying flanks with crossbow fire or cutting down targets with their cursed scimitars. They can harness the power of shadow, hurling bolts of black flame to destroy their targets. Each is branded with a painful rune upon their forehead, without which they would gradually wither away, for the majority of males in the temple-cities are born weak of body and spirit. These sigils greatly amplify the Warlocks’ magical potential , allowing them to cast searing bolts of magical doomfire at those nearby, but forever leash them to Morathi‑Khaine’s service.",
@@ -684,7 +684,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "7750f236-6bda-4534-abf9-f6c14b2fd3c9",
+    "id": "697a2212-23cd-4acf-9859-357cdf7ef1d3",
     "name": "Skywardens",
     "subname": null,
     "lore": "Skywardens are elite formations of Arkanaut warriors whose duty is to safeguard their skyfleet’s vessels against attack. Granted the power of flight by portable aether-endrins, they soar alongside their metal wards, scanning the clouds and the ground below for potential threats. Should battle be joined, Skywardens will swoop from on high to skewer enemies upon long-hafted skypikes or hover at short range to incinerate them with vulcaniser pistols. Whenever the enemy gather close, they withdraw to fight anew, leaving behind floating mines that detonate to cover their escape.",
@@ -1014,7 +1014,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "efa4220c-9761-40ef-9813-77ed86e244aa",
+    "id": "332d8ee9-eac7-4f52-b537-e72065813700",
     "name": "Gothizzar Harvester",
     "subname": null,
     "lore": "Gothizzar Harvesters are perhaps the most horrific of all Ossiarch constructs. From their maws leap bolts of killing baleflame, and their nadirite weapons are capable of inflicting horrendous carnage. Yet a Gothizzar Harvester’s true value to the Ossiarchs is the great hollow on its back and the bones contained therein; as the thing marches across the battlefield, it snatches up the remains of the dead, flensing the worthy and storing them for delivery to a necropolis. In extremis, a Harvester can even perform field repairs on fellow Ossiarchs, making it a formidable anchor in a legion’s battleline.",
@@ -1080,7 +1080,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "83fd3e52-1fcd-4ef7-a9e1-1ecab4759e66",
+    "id": "a27cc05d-c05d-4f7c-a262-9ab8ed95b236",
     "name": "Knight of Shrouds",
     "subname": null,
     "lore": "Each Knight of Shrouds is an arch-traitor who abandoned their oaths and their people rather than fight an unwinnable war against the legions of Nagash. In return, the Great Necromancer bound them eternally in his service, making use of their vicious skill in warfare to further subjugate the living. Wielding the Sword of Stolen Hours that marks their rank, a Knight of Shrouds cuts down those they once swore to protect, each killing stroke accompanied by a fresh rush of self-loathing. Should the enemy mount a stalwart counter-attack, they will order their minions to discorporate entirely, the blades of the foe finding no purchase upon them until the danger is passed.",
@@ -1212,7 +1212,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "6f112458-32fb-412b-b860-23e1f9ec4c7b",
+    "id": "98109b00-2673-454f-b9fc-fdb8d427928b",
     "name": "Knight-Vexillor",
     "subname": null,
     "lore": "The Knight-Vexillors are warriors of unshakeable will, proving themselves so many times that they have been entrusted with the sacred standards of Azyr. These relics, woven from star-silk by Sigmarite saints, have the power to restore the forms of those who have undergone Reforging.",
@@ -1564,7 +1564,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "70cf61fb-f8c4-4d30-bb19-6511b3c21cea",
+    "id": "d0f646c4-3e64-4cde-912d-2aac77f3aa22",
     "name": "Stormstrike Chariot",
     "subname": null,
     "lore": "Stormstrike Chariots are potent linebreakers. When the clarion call to attack sounds, they thunder across even the most rugged terrain, with the archer in their carriage sending killing shafts from their great stormbow as they come. The chariot’s most devastating weapon, however, is its charge. As the charioteers build up speed, they draw the energies of Azyr to themselves until a crackling aurora surrounds them. Upon impact into the enemy lines, the Stormcasts unleash this energy in thunderous blasts even as they strike out with axe and blade.",
@@ -1608,7 +1608,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "db035ac5-f574-4b76-b879-8849ce7b2e43",
+    "id": "fb2d43ee-1297-4134-8c20-6b623f516827",
     "name": "Blood Warriors",
     "subname": null,
     "lore": "Blood Warriors are those who have drawn the War God’s gaze through acts of great carnage. Each has undergone the dreaded Red Baptism – a grisly process in which their skin agonisingly scabs over with thick layers of blood, before hardening into formidable armour. Armed with cleaving blades and spiked gauntlets, the Blood Warriors revel in the battle-strength their divine favour affords. All know, however, that their wrathful god might rescind his boons as swiftly as he provided them. So do the Blood Warriors never rest in their murdermaking, fighting even at the point of death to drag down one last enemy in the name of the Blood God.",
@@ -1718,7 +1718,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "c1073e38-b548-49a4-91f1-9764fc1dccfd",
+    "id": "82197086-282d-42fe-a632-3196a00969fb",
     "name": "Kavalos Deathriders",
     "subname": null,
     "lore": "Deathriders are the feared cavalry hosts of the Ossiarch Empire. Infamy cloaks these warriors; any who have fought against the Ossiarchs have heard of their devastating charges, for their arrowhead formations and thunderous charges can shatter any battleline. The steeds of the Deathriders are not lowly equine remains but constructs in their own right, often crafted from the bodies and soultrap gems of failed Ossiarch commanders. Existence as a Kavalos steed is a humiliating thing and renders these creatures just as eager to vent cold fury upon the living as their riders.",
@@ -1740,7 +1740,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "f1cbcad0-6878-4d90-aaba-2aa223cc512c",
+    "id": "434ee2a5-5085-4f75-b9dd-02c0fc961f0e",
     "name": "Scinari Cathallar",
     "subname": null,
     "lore": "It is the noble duty of a Scinari Cathallar to take the spiritual anguish locked within spent aetherquartz and redirect it against their enemies. They are the lone point of darkness in the brilliance of a Lumineth line, capable of wielding despair itself as a weapon. The burdens of a Cathallar forever mark them out from their fellows, for the Lumineth are a people who shun emotion where possible. It is a task that the Cathallars accept without complaint; few know better than they the dangers of using aetherquartz unchecked.",
@@ -1762,7 +1762,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "e8cafbfa-4f45-4d6e-b3c1-7daf23d1d86d",
+    "id": "d213163a-8f7b-4e55-b47a-88a4b5ede175",
     "name": "Vargheists",
     "subname": null,
     "lore": "The leather-winged horrors known as Vargheists are vampires who were overwhelmed by their bloody thirst. Now reduced to savage and near-uncontrollable beasts, they viciously attack any prey within reach. Though they are a common sight in hunting parties for their speed and overwhelming strength, their courtly brethren often treat them with contempt. Deep down, vampires know that they are only a few steps away from transforming into a ravening, blood-maddened Vargheist themselves.",
@@ -1872,7 +1872,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "f16b2ddb-cd56-4139-8d8c-3b90d2fd8055",
+    "id": "9c16ad20-f95d-49a2-9417-a3ff00bd4c56",
     "name": "Clanrats",
     "subname": null,
     "lore": "Clanrats form the verminous masses of Skavendom, warriors that compensate for their natural cowardice with a vicious spite and overwhelming numbers.",
@@ -2070,7 +2070,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "9c3d1b7c-1cf1-4d38-a53d-383d40e744ad",
+    "id": "9e173f98-a411-4bda-9253-e7b315de7ca5",
     "name": "Kurnoth Hunters",
     "subname": null,
     "lore": "Champions amongst the forest kindred, each Kurnoth Hunter is skilled in the use of a variety of enchanted weapons, among them a greatbow the size of an artillery piece. The first of these ferocious warriors was planted after Alarielle came into her summer aspect, imbuing her chosen envoys with the tenacity and strength required for war. They are particularly in tune with the realmroots, allowing them to sense the Everqueen’s will and convey orders to their kin. During battle, Kurnoth Hunters armed with bows will dig their roots into the ground and fire into the enemy’s lines tirelessly, weathering any oncoming storm.",
@@ -2334,7 +2334,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "e003fab4-9730-4640-8902-8f02d26084b3",
+    "id": "481cb116-a321-4961-9456-8da6a8b0e1e9",
     "name": "Slaangor Fiendbloods",
     "subname": null,
     "lore": "The Slaangor Fiendbloods are towering beastmen utterly in thrall to the Lord of Dark Delights. With an animalistic lack of restraint, they have over-indulged until only the most visceral and torturous of sensations can now rouse them. Slaangors roam Slaaneshi camps in a glassy-eyed stupor, allowing fellow Sybarites to drape them in fine gems and silks. When battle beckons, a transformation seizes them; they become arrow-swift instruments of manic violence, barrelling forwards without a hint of self preservation in their maddened desire to feel anything at all.",
@@ -2444,7 +2444,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "e43966c7-990d-45e7-a8c8-ffca27db6926",
+    "id": "0a66e184-d23c-4fe6-836c-d9a8dad75ae7",
     "name": "Shardspeaker of Slaanesh",
     "subname": null,
     "lore": "The Shardspeakers are sorcerers and seers amongst the Hedonite hosts, inducted into the higher mysteries of their decadent god. Wrapped in sumptuous fabrics and surrounded by swirling, sighing mist-daemons, they cut enigmatic figures amongst the hordes of revellers. Each Shardspeaker bears a Twisted Mirror, a fragment of ensorcelled glass said to be taken from Slaanesh’s own palace. By channelling their will through these relics, a Shardspeaker can display to their foe a vision of utmost perfection or abject personal horror, enrapturing them with the unhallowed majesty of Slaanesh.",
@@ -2466,7 +2466,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "f2a57a58-f553-4645-94cf-fe5664df205d",
+    "id": "c9370856-db71-4467-a557-7bc2fe6005e1",
     "name": "Mortek Guard",
     "subname": null,
     "lore": "Mortek Guard are the backbone of the Ossiarch legions, crafted for resilience and obedience. These are no mindless revenants, in the manner of a reanimated skeleton; their soultrap gems contain the stolen essence of dutiful warriors and servants, and they are capable of performing intricate manoeuvres with precision and skill. The weapons of the Mortek Guard are forged from nadirite, a soul-sucking material that is said to be crafted in proximity to the abominable Shyish Nadir. With such tools of war, the Mortek diligently cut a path through anything their masters mark for destruction.",
@@ -2488,7 +2488,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "e0cc3856-24f1-4066-9aa3-f76a1a4c0751",
+    "id": "ea9cf1f5-027e-47ad-8991-dd7e35470f65",
     "name": "Melusai Ironscale",
     "subname": null,
     "lore": "Crafted from the souls of aelves that blazed brightest with the need for revenge, the Melusai Ironscales serve Morathi- Khaine as elite war leaders amongst the Scáthborn and are terrifying martial champions in their own right. Each of the Scáthborn is bound in loyalty to Morathi‑Khaine, and they are her eyes and ears outside her temple within Hagg Nar. Their baleful magic is capable of transforming their enemies into statues of living crystal, in which they remain forever imprisoned at the agonising point of death.",
@@ -2884,7 +2884,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "99da4f81-bdb2-4f58-9fe9-f095c74c151f",
+    "id": "6056b681-023b-4402-8564-b1fbc4dd8169",
     "name": "Slickblade Seekers",
     "subname": null,
     "lore": "Whooping and screaming in unearthly glee, Slickblade Seekers ride at the fore of the Sybarite carnivals. They make war at a blistering pace, carried atop their daemonic steeds – creatures able to exist in the Mortal Realms due to a blooddeep connection with their rider. For a Slickblade Seeker, no sensation is finer than to slay an enemy without breaking stride. As they charge into melee they spin and twirl their glaives so fast the air itself seems to shriek, before the Sybarites lash out to neatly sever heads from necks.",
@@ -3104,7 +3104,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "f52dbbc4-b942-46cb-a4ac-53018e73c35e",
+    "id": "2ab31950-4483-453b-b0a1-ca72a17b1267",
     "name": "Arkanaut Admiral",
     "subname": null,
     "lore": "Arkanaut Admirals are the cream of the sky-ports’ officer class, intrepid leaders and battle-hardened veterans of a thousand aerial engagements whose booming commands inspire their crew to mighty deeds in the search for profit. Armed with an ornately crafted volley pistol and a massive, aether-powered skalfhammer, they lead by example, crushing skulls and blasting smoking craters in any foes that stand between them and their next big score.",
@@ -3280,7 +3280,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "33c674fb-440d-4713-b34c-f4a7202dc237",
+    "id": "ffa57842-9faf-4f89-823e-8141a600a069",
     "name": "Flamers of Tzeentch",
     "subname": null,
     "lore": "Flamers of Tzeentch are bizarre entities created solely to spread the Change God’s fires across reality and beyond. Bounding forward on hot gusts of discoloured aether, they spew streams of sorcerous flame from their limbs and multiple gnashing mouths. The more tightly packed the ranks of the foe, the more damage such a barrage will do.",
@@ -3500,7 +3500,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "2e5a2d2d-4ead-432e-8275-8259dd4061c8",
+    "id": "0b3cfea5-69d7-4deb-9e21-e93b5c809a17",
     "name": "Chaos Lord",
     "subname": null,
     "lore": "Chaos Lords are baleful champions who have walked the Path to Glory and are now only one step away from ascension or damnation. They are the rulers of great warbands and hordes, and their followers would rather risk death than face their wrath. Each one is a legendary warrior, gifted by the gods with enough raw strength to command by pure fear, for deep down, they know that it only takes a single misstep to disappoint their fell patrons. Their feats of epic violence inspire the bloodthirsty throngs that follow them, shaping them into an unstoppable legion of dark-hearted killers.",
@@ -3654,7 +3654,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "6376c762-ded8-4ee2-a0d7-78b8e7b49c40",
+    "id": "a0df1407-9863-45e5-a62e-bd99d320747f",
     "name": "Squig Hoppers",
     "subname": null,
     "lore": "Squig Hoppers bounce madly into battle, wreaking havoc on anything they collide with. Each ill-tempered squig has a cackling grot clinging to its back, who flails wildly at nearby enemies as he tries vainly to steer his weird steed. Only the most madcap of grots will attempt to enter the Squig Hoppers’ bounding ranks, for each fang-filled mount is nigh uncontrollable – its rider must simply cling to its bumpy body and hope not to be bucked off amidst the mayhem.",
@@ -3962,7 +3962,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": true
   },
   {
-    "id": "0808c144-52f7-4f87-9184-de603131cb0b",
+    "id": "feafaace-e885-4a87-bc43-974f5637a55d",
     "name": "Spirit Hosts",
     "subname": null,
     "lore": "Spirit Hosts are formed from a mass of lesser gheists, bound together by a need to consume the energies of death. Drawn to the battlefield’s feast of morbid energies, they possess neither individuality nor recognisable form, but this does not make them any less deadly as they sweep across the battlefield, their grasping claws and rusting blades passing through physical armour to wound their prey’s very essence.",
@@ -4072,7 +4072,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "3cafe0f4-3398-414f-a3ca-8188a15aa6e3",
+    "id": "55b045f3-4ed2-4a63-a783-41b9f4a27096",
     "name": "Ironblaster",
     "subname": null,
     "lore": "The most destructive blackpowder weapon deployed by the Gutbuster warglutts, the Ironblaster is an immense cannon that hurls solid shot into the heart of the enemy’s ranks, blasting foes into scraps of charred meat. Said to be relics of the long-dead Sky-Titans, these weapons are seen as status symbols amongst the mawtribes, and their deafening roar has announced the commencement of countless gory feasts. Each is mounted on a crude carriage and pulled into battle by a rhinox, a bad-tempered beast of the frozen plains that has all the aggression of its ogor master and a battering charge to back it up.",
@@ -4270,7 +4270,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": true
   },
   {
-    "id": "bad60a6c-6611-45f0-8fd0-553688060a1b",
+    "id": "85b69383-999e-45da-aac6-def469138be6",
     "name": "Moonclan Stabbas",
     "subname": null,
     "lore": "Moonclan Stabbas form ragged ranks that advance upon the foe with gongs clanging and banners waving. Eyes filled with the madness of the Gloomspite, they pour over the enemy lines and stab wildly at everything in their path. Alone, a single grot can do little to an armoured foe, but when the Bad Moon shines and they surge forth in a never-ending horde, they can drag down warriors many times their size.",
@@ -4380,7 +4380,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": true
   },
   {
-    "id": "270e149f-2fe4-4179-a7fa-90fe838a5be7",
+    "id": "60924227-9fd2-44a6-8b8a-d1172480b8ad",
     "name": "Blood Stalkers",
     "subname": null,
     "lore": "Drawing their ornate heartseeker bows, the slithering Melusai archers known as Blood Stalkers loose terrifyingly accurate volleys. Their bows are carved from wood taken from the sentient ashdusk tree, and their arrows are blessed by the Hag Queens of their coven. Each missile fired by these serpentine hunters is guided by these enchantments straight towards an enemy’s heart.",
@@ -4578,7 +4578,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "795d5136-e084-419b-84b2-9cf6b1e566ee",
+    "id": "c9dc88ca-a22b-40ba-9bb0-ed1c45f558bf",
     "name": "Chainrasps",
     "subname": null,
     "lore": "Chainrasps are twisted and tormented entities, fashioned from the souls of criminals and transformed into the footsoldiers of Nagash’s spectral hosts. Sweeping forth in a groaning, clattering mass, they overwhelm their living prey with sheer numbers, dragging them down to the underworlds to share their own grim fate.",
@@ -4732,7 +4732,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "71979d22-0b29-4967-8a6f-42242f18a617",
+    "id": "736c0ddb-882f-4736-8290-a0c1d57a4530",
     "name": "Murknob with Belcha-banna",
     "subname": null,
     "lore": "Murknobs are champions amongst the Kruleboyz, and they revel in taking the heads of their adversaries – honestly or otherwise. They alone are granted the honour of carrying the Belcha-bannas into battle, foul relics with all manner of strange powers. When the enemy close in, these uncanny standards belch a revolting miasma that can make even the toughest foe collapse in agony.",
@@ -4754,7 +4754,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "cd6894c9-a261-40a3-afff-7143b283e380",
+    "id": "65f7fa9e-453e-4b99-8f63-be6497c9ee1e",
     "name": "Chaos Warriors",
     "subname": null,
     "lore": "Clad in hellforged iron and swollen with dark blessings, Chaos Warriors are the bane of civilisation. Entire legions of these armoured killers march into battle in search of divine favour, each warrior the equal of several lesser mortals. Though they obey their chosen lord without hesitation, each one also walks the Path to Glory – and knows that once they gain enough power to rival their leader, they will do so in an instant. Many Chaos Warriors eventually fuse with their armour, having spent so long within their suits of cursed metal.",
@@ -4776,7 +4776,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "fc5334f7-a90f-4b2b-acaf-754eab2db41f",
+    "id": "a4f8c36c-52c5-4e89-b7c1-fa2ffbccebbc",
     "name": "Plaguebearers",
     "subname": null,
     "lore": "Plaguebearers trudge to battle amidst the drone of flies’ wings and endless counting. These daemons tally the diseases unleashed upon the realms, all the while stabbing and hacking at their enemies with filthy plagueswords. Each one is born of the soul of a mortal killed by Nurgle’s Rot, a debilitating disease that decays both the spirit and body until the sufferer dies an agonisingly slow death. After feeding on their despair in life, the Plague God accepts their souls into his Garden in death, remaking them as pus-ridden daemons swathed in clouds of fat-bodied flies.",
@@ -4886,7 +4886,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "0b8a4ec4-c101-4730-b315-0c06e37dee7b",
+    "id": "0a292d10-51bf-45cd-b033-7386d8f7819e",
     "name": "Ogor Gluttons",
     "subname": null,
     "lore": "Ogor Gluttons are hulking, muscle-bound brutes driven entirely by an unending desire for food. They thunder into battle like an avalanche of sweaty flesh, taking great bites out of their foes even as they attack with crude clubs and cleavers.",
@@ -5128,7 +5128,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "e233f4fa-729c-4877-9147-22d4188869ed",
+    "id": "95f46666-4b32-476b-9458-e7681a5fac35",
     "name": "Vanari Auralan Wardens",
     "subname": null,
     "lore": "The Auralan Wardens are the lynchpins of the Vanari military. These phalanxes of skilled aelven warriors embody the Tyrionic traditions of their people; they do not flinch in the face of danger, nor do they hesitate to wield their pikes to impale oncoming enemies. The Wardens’ strength is built upon unity of purpose and a discipline that only those as long-lived as the aelves can hope to master. Empowered by the energies of aetherquartz and the arcane moonfire entrusted to their High Warden, they are the proud fortress wall upon which the forces of disorder break.",
@@ -5150,7 +5150,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "89562fe2-8685-43de-9830-ed9d5c364f84",
+    "id": "10ebcd01-0bc8-48d4-b173-68f2dc2b25e4",
     "name": "Arkanaut Frigate",
     "subname": null,
     "lore": "The unmistakable profile of an Arkanaut Frigate set against the sky is a sight greatly feared by the Kharadron’s enemies, who know all too well the devastating firepower these airships possess and the fighting spirit of the skysailors they carry into battle. As much transport vessels as weapon platforms, Frigates launch blistering attack runs upon enemy formations with harpoon-like skyhooks and expertly deployed munitions from their bomb racks, before swooping in low to disgorge companies of hard-bitten Arkanauts into their midst.",
@@ -5172,7 +5172,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "e6537bfb-9f17-488f-abfd-e29e5a00b15d",
+    "id": "b90af676-e523-4cbc-8d9c-61030a4436d2",
     "name": "Man-skewer Boltboyz",
     "subname": null,
     "lore": "Man-skewer Boltboyz wield crossbows powerful enough to take down a charging warhorse with a single shot. Even minor wounds inflicted by these weapons soon turn gangrenous and foul thanks to the poisons that the orruks smear over every projectile.",
@@ -5194,7 +5194,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "f3b68149-0e4d-4e25-ab44-025324fdc9bb",
+    "id": "99f0ac97-92d4-4437-b49b-0df17865c799",
     "name": "Vanquishers",
     "subname": null,
     "lore": "Vanquishers bear swords that incorporate shards of celestium, a mineral that radiates the power of foresight. This, combined with their expert bladecraft, makes them deadly fighters indeed. The more foes they face, the higher the toll they take.",
@@ -5238,7 +5238,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "da214432-c7bf-4940-8a7a-5e8d4b1a3a6f",
+    "id": "2a80e4a8-efc7-47b8-a4f2-1977b8cdfc6f",
     "name": "Branchwych",
     "subname": null,
     "lore": "Warrior matriarchs and guardians of the Sylvaneth’s legacy, Branchwyches lead their kin to battle with blasts of sorcery and hissing swings of their scythes, even as their bittergrub familiars lash and bite their adversaries. These same weapons are used when the fighting is done to harvest the life essence and memories from the Sylvaneth’s fallen. It is the duty of the Branchwyches to revive their kin with the verdurous harmonies of Ghyran and, if they fall, to plant their lamentiri amidst the soulpod groves to allow Alarielle’s future children to inherit the feelings and experiences within them.",
@@ -5304,7 +5304,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "5b4a2efc-d509-4e95-8102-9409bbf34f1a",
+    "id": "033d2d1e-7806-4661-88ae-71172ba394b5",
     "name": "Battlesmith",
     "subname": null,
     "lore": "Battlesmiths are war-skalds and icon bearers who memorialise the glorious history of the Fyreslayers through the force of their oratory. As skilled in combat as any of their kin, they keep their sacred icons aloft in the midst of war, rallying their brethren with the image of their grim-faced god. As they fight, the Battlesmiths recite the histories of the lodge, inspiring nearby Fyreslayers to ever greater deeds.",
@@ -5348,7 +5348,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": true
   },
   {
-    "id": "2b52e4ad-7d82-42cc-94b8-b39130c192ee",
+    "id": "27f8cbaf-2f46-404a-b6e0-3748aacb3dc3",
     "name": "Mournfang Pack",
     "subname": null,
     "lore": "One might as well try to stop a boulder rolling down a mountain as halt the charge of an ogor mounted atop a Mournfang. These beasts make perfect linebreakers – they are ornery in the extreme, feel little in the way of pain, and possess an appetite to rival that of their riders.",
@@ -5392,7 +5392,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "a4c15ce5-1bfe-4f3d-86e8-bd0427d5e5c1",
+    "id": "67ffbd49-51a4-45a1-9e53-0e5f0e5b0e90",
     "name": "Saurus Oldblood on Carnosaur",
     "subname": null,
     "lore": "As a saurus ages, their body become even more finely honed for war, and greater degrees of tactical skill are unlocked within them. They become able to orchestrate grand flanking attacks and sudden feints, though they still act upon instinct above all. They also grow to possess the will not only to wield the destructive relics of the Old Ones but to master a Carnosaur – a huge bipedal monster of ancient times. The battle frenzy of a Carnosaur is, if anything, even greater than its saurus rider, and together beast and master can tear apart even the most terrible of adversaries.",
@@ -5810,7 +5810,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "5bda55a6-2cfa-40ce-93b3-a52fd70d3fc2",
+    "id": "830832c6-a3bf-45ca-9751-001ac9dde511",
     "name": "Putrid Blightkings",
     "subname": null,
     "lore": "Putrid Blightkings carve their way forwards with slime-encrusted blades, hammers and axes. Their bloated, rotting bodies can absorb tremendous punishment, allowing them to drive relentlessly through the foe’s battleline as they sow lethal disease and crippling despair alike. They are paragons of despair, having their origins as not only warriors but also apothecaries and philosophers who became obsessed with the futility of existence. Their all-consuming need to spread disease and despondency has earned them Nurgle’s favour, and in return, their swollen, plague-ridden frames have become all but immune to pain.",
@@ -5854,7 +5854,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "26cfe8d7-5ece-4190-a640-67d85d65519f",
+    "id": "9b0f3d50-308c-4833-91a8-57a3cb378265",
     "name": "Blissbarb Archers",
     "subname": null,
     "lore": "Blissbarb Archers are the footsoldiers of Slaanesh’s mortal hosts, the sinful masses who partake in the bacchanals and the carnivals of agony. Having abandoned their past lives, these fleet-footed Sybarites are single-minded in their pursuit of decadence. Though forbidden from engaging in the glorious sensations of melee by their cruel overlords – though many cannot help but seek to wet their daggers when opportunity arises – they instead assail the foe with barbed arrows, laced with hallucinogenic toxins that open the mind to new vistas of dark possibility.",
@@ -5898,7 +5898,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "f72384fe-8723-40d7-af21-8de58b65f424",
+    "id": "496c303a-a30c-44e3-9e27-2bceed7472f6",
     "name": "Loonboss",
     "subname": null,
     "lore": "A Loonboss never fights fair, ducking and weaving around his enemies and hurling endless mobs of grots at them to wear them down, before finishing them off with a blade to the throat or between the shoulder blades. Some will don moon-shaped helms in homage to their deity, the Bad Moon, in the hopes that it will shine upon their battles and allow them to spread more madness and mayhem. Though they will lay about themselves with impressive commitment if pressed, Loonbosses prefer to lord it over their diminutive minions, urging them into the fray with ear-splitting shrieks of outrage should the grot assault falter.",
@@ -5920,7 +5920,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "957b9673-6c90-484b-8b0e-33e0bf45c1bc",
+    "id": "02d63186-09b5-46a8-9672-18c36ab60379",
     "name": "Deathrattle Skeletons",
     "subname": null,
     "lore": "Skulls locked in an eternal grimace, Deathrattle Skeletons are the footsoldiers of the undead. To stand before these clattering companies demands great courage, for they are the fate of all mortals given horrifying animus, and their rusted weapons have retained their killing edge. Though these macabre soldiers are slow and their bodies brittle, they can rise again and again under the right circumstances. In this way they overwhelm the enemy, who become locked in a perpetual struggle with the skeletal hordes that can end only in their own demise.",
@@ -5986,7 +5986,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": true
   },
   {
-    "id": "4f17c264-fc47-4a04-a985-6ff2c27d3231",
+    "id": "82dc37c6-a37a-4522-9141-30761cf8ef45",
     "name": "Chaos Knights",
     "subname": null,
     "lore": "The coming of the Chaos Knights heralds the death of empires. These dreaded champions charge fearlessly into the staunchest battlelines, striking down foes all around them with sundering blows from their ensorcelled weapons. The huge destriers they ride are no ordinary horses; each snorts clouds of brimstone, and tongues of flame drip from their pounding hooves. For a Chaos Knight to be chosen by one of these daemon-touched steeds is a blessing from the Dark Gods themselves, for the creatures are wild and untameable.",
@@ -6052,7 +6052,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "dc52859a-3319-4220-a61b-f51784a40f8c",
+    "id": "10b3bf76-14df-4fd1-b147-5f6179e3950c",
     "name": "Lord-Vigilant on Gryph-Stalker",
     "subname": null,
     "lore": "The Lord-Vigilants are the steadfast commanders of the Ruination chambers. They wield not only hallowed greataxes but also centuries of experience, leading the charge in the God- King’s name. Like the rest of their chamber, they struggle to maintain their memories and empathy, though the Gryphstalker mounts ridden by the Lord-Vigilants are rumoured to slow the degradation of their souls. This allows them to strike a careful balance as merciless fighters and shrewd commanders. Their ability to read the tides of battle borders on the prophetic. They use this to great effect in order to deliver the judgement of the God-King, spurring their troops to redouble their efforts against key enemy strongpoints even as they ride hard into the foe.",
@@ -6140,7 +6140,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "6f975b1f-0228-4be3-a275-c850a5c6b84c",
+    "id": "d03da0b1-8da4-431e-b253-728b9a5b4834",
     "name": "Vampire Lord",
     "subname": null,
     "lore": "Vampire Lords are elder undead whose dark powers have only intensified over the long centuries. Each is a warrior to be feared, with an instinctive command of death magic. In battle, they fight with selfassurance and a cold sense of pride, knowing that at the flick of their finger they can raise more skeletal servants to overwhelm their foe or siphon the soul energies from their victims in order to live anew. Each fights with an heirloom of their vampiric bloodline, which is both an expertly crafted relic and a symbol of dread to their enemies.",
@@ -6404,7 +6404,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "f16b2ddb-cd56-4139-8d8c-3b90d2fd8055",
+    "id": "9c16ad20-f95d-49a2-9417-a3ff00bd4c56",
     "name": "Clanrats",
     "subname": null,
     "lore": "Clanrats form the verminous masses of Skavendom, an endless sea of filthy fangs, rusty blades and red eyes filled with malice. They are spite made manifest, seeking to advance their own position while leaving rivals – which is everyone – to a grisly fate. Clanrats are utterly expendable to their masters, herded forwards in chittering swarms to slow an enemy and die upon their blades. Yet though Clanrats are craven by nature, they can be overcome by a terrible frenzy in battle – and should one fall, there are always more where they came from…",
@@ -6668,7 +6668,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "6fea767a-570e-408f-9ed6-0fc6c682c116",
+    "id": "5f609dc8-f3d8-4c31-8722-d3262f3dd077",
     "name": "Vanari Auralan Sentinels",
     "subname": null,
     "lore": "The bow is considered a noble weapon in Lumineth society, for the ability to send an arrow soaring through the radiant skies appeals greatly to aelven sensibilities – as does avoiding the need to close with their base adversaries. Sentinels are the archers of the Vanari, each having trained until they can shoot a foe through the eye from great distance. Their bows use a complex series of strings that allow them to moderate range and power, and their armour shines with the power of Hysh, capable of temporarily blinding any foes who weather their storm of sunmetal tipped arrows.",
@@ -6976,7 +6976,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "6982f25e-c504-490b-9ab5-32b3db768d04",
+    "id": "6153e3e4-8423-4ebd-bb3b-f9fc731d240d",
     "name": "Rat Ogors",
     "subname": null,
     "lore": "Perhaps the most infamous creations of the Clans Moulder, Rat Ogors are flesh-grafted shock troops that fly into a terrifying frenzy when the stench of death fills the air.",
@@ -7086,7 +7086,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "da674447-2450-4717-85ea-300c53d92f40",
+    "id": "ed784227-958b-4506-9788-ee5d529ece90",
     "name": "Vanari Bladelords",
     "subname": null,
     "lore": "Bladelords are amongst the most elite Lumineth warriors. Each has formed a deep connection with the essence of their weapon and views combat as a series of elegant and artful equations. To kill with the perfectly calculated cut or degree of force is seen as the greatest of virtues – not out of a sense of ego or self-aggrandisement, they say, but because it brings them closer to true enlightenment. Bladelords serve as guardians to the mages of the Scinari, souls who share their quest for mental perfection and will give their lives in service of their honoured charges.",
@@ -7438,7 +7438,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "5838172c-6dae-44d2-ad0a-deee45bb497f",
+    "id": "bc37599d-0fe8-4c53-a1cb-f11ab18f22f8",
     "name": "Rockgut Troggoths",
     "subname": null,
     "lore": "Rockgut Troggoths have stony hides that are proof against blade, bolt and magical blast alike. Their lumpen claws and rangy limbs have a steely strength, allowing them to wield huge but primitive clubs and hurl nearby boulders. Their leathery flesh can also regenerate with ease, rendering each beast almost impossible to kill.",
@@ -7460,7 +7460,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "f3ef9b73-9107-4438-bcbd-e356151fda01",
+    "id": "4ec46390-b344-4a3c-bb98-1382c45ee6f1",
     "name": "Screamers of Tzeentch",
     "subname": null,
     "lore": "Speeding daemon-beasts that leave shimmering trails of change-magic in the air, Screamers streak across the skies with wailing cries. They slash any foes they pass with razor-sharp horns and fins before darting down to savage their chosen quarry.",
@@ -7504,7 +7504,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "ae2b2dad-bf1e-4da6-a661-a0334571da46",
+    "id": "d8b6a82e-887a-4cae-9fbb-8e994a47f731",
     "name": "Freeguild Cavalier-Marshal",
     "subname": null,
     "lore": "Every Cavalier-Marshal is trained to be bold and aggressive, taking the fight to the foe when they are at their weakest. Nigh unstoppable on the charge, they gallop hard into the enemy ahead of their soldiers, collapsing battlelines in a single decisive attack even as they spur their fellow Sigmarites into battle with rousing calls to action. Though they often carry the weight of a Dawnbringer Crusade upon their shoulders, they are inspiring champions well used to leading by example.",
@@ -7592,7 +7592,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "421aba80-8d60-4d79-a167-be2a20b07ffd",
+    "id": "8320687e-f2eb-4ba7-bf9a-690a36ef33df",
     "name": "Freeguild Steelhelms",
     "subname": null,
     "lore": "While the hard-slogging Freeguild Steelhelms are often individually outmatched by the myriad threats they face in their mission to retake the realms, they have three things on their side: discipline, gutsy determination and their faith in Sigmar. With shields locked together and voices joined in song, they can prove a difficult prospect for even the most hardened killers. The Battle Priests who accompany them are experts in reconsecrating those lands tainted by Chaos, and turning the innate power of the land to their advantage – even if it takes the sacrifice of their comrades-in-arms to do so.",
@@ -7768,7 +7768,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": true
   },
   {
-    "id": "eeb0632a-3846-456e-b5d7-3776f3dc4592",
+    "id": "9f7d32fe-eb7a-4552-95d5-baf827102456",
     "name": "Mortisan Soulreaper",
     "subname": null,
     "lore": "Soulreapers are the most warlike and destructive Ossiarch mages. Though they possess the ability to reknit fellow constructs, alone of the Mortisan Order they do not create in any meaningful sense – their only task is to rip the spirits of the living from their bodies with their scythes and store them for later use in the creation of new construct legions. Soulreapers are seen as grim and sinister even by other Ossiarchs; created without mouths, the better to avoid stolen souls channelling screams through them, they fight in an eerie silence, surrounded by flickering gheist-energies.",
@@ -7834,7 +7834,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "9adbd871-01e5-43ab-b3f2-bb71709a7809",
+    "id": "e37d5d1d-1d3d-4043-a6e4-9507bec53cb0",
     "name": "Ironweld Great Cannon",
     "subname": null,
     "lore": "The massive artillery pieces known as Ironweld Great Cannons act as the bastions of the Castelite formations. Protected by thick oaken gunshields affixed to the weapon’s fore, the crew tirelessly load and reload their weapon to ensure the barrage upon the enemy is relentless. Should foes draw too close, a muzzle full of grapeshot will bring their charge to an abrupt and gory halt.",
@@ -7922,7 +7922,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "efb9407f-3e52-404d-bc00-0d6fd0949814",
+    "id": "12a8d1ab-d61a-4416-be66-19b32b9d34b7",
     "name": "Morbheg Knights",
     "subname": null,
     "lore": "The Morbheg Knights believe themselves to be proud and chivalric warriors mounted upon noble feathered steeds of the sky. This could not be further from the truth, for their mounts are in fact vile Nightshriekers, the latter-day spawn of Morbheg – ancient godbeast sire to all chiropteran beasts. Though Nightshriekers cannot fly in the conventional sense, they possess immensely powerful hind limbs with which to leap far through the air, allowing the Morbheg Knights to crash into unsuspecting foes and wreak havoc.",
@@ -7966,7 +7966,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "3043f2d3-2ebe-48f2-9004-11aa0a3fd9e8",
+    "id": "c7eb4898-9e61-4652-a539-53b69c92fc21",
     "name": "Grey Seer",
     "subname": null,
     "lore": "Grey Seers are marked out from their minions not only by their pale fur and curling horns but also by their ability to wield the withering magics of the Great Horned Rat. They serve as the executors of their terrible god’s will amongst the clans – though this does not prevent them from pursuing their own schemes as a matter of course. Able to handle warpstone with greater ease than fellow ratmen, a Grey Seer will use all manner of relics to try and glean an advantage, all while using their sorcery and innate cunning to undermine and drag down enemies and rivals alike.",
@@ -8274,7 +8274,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "0a152da1-861b-47e6-81d1-6675af471734",
+    "id": "1a4ff416-e3a7-4926-bc53-f5b34c3be6d5",
     "name": "Mighty Skullcrushers",
     "subname": null,
     "lore": "The ground shakes as the Mighty Skullcrushers ride into battle. These are the chosen mortal knights of Khorne, forming a stampede of cursed lances and hellforged metal that can shatter any shieldwall with the force of its charge. Each Skullcrusher has drawn the attention of a Juggernaut, goading it to burst from its prison within Khorne’s domain and chase them down, before breaking the daemon through their brutality and force of will. Together, armoured champion and brass-skinned daemon are nigh impossible to slay.",
@@ -8494,7 +8494,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "67395d3b-72f2-4034-8cd9-54d87f8ebc96",
+    "id": "bf288234-065a-4474-9c3d-2080d4b42b19",
     "name": "Tree-Revenants",
     "subname": null,
     "lore": "The Tree-Revenants move with flowing grace, flickering along the spirit paths to carve their way through the enemy’s ranks. Their highly ritualised way of war lends them a lethal speed and skill that few enemies can stand against. Each one has a lamentiri at their core, a seed imbued with the memories and experiences of those who came before. This allows the Tree-Revenants to accumulate multiple mortal lifetimes’ worth of martial memories, strengthened by their eternal desire to protect their homes and kin.",
@@ -8538,7 +8538,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "b4f92c0a-a4b3-4853-9b4b-310967e433ca",
+    "id": "cfaf9dad-5682-4fc2-83bf-28efa1c71f1b",
     "name": "Cryptguard",
     "subname": null,
     "lore": "Cryptguard are drawn from the cannibal ‘serfs’ of an abhorrant’s kingdom. Each has impressed their liege through some great feat of endurance – perhaps catching a blade intended for the vampire, deliberately or otherwise. As a reward, they are inducted into their monarch’s bodyguard, given better scraps from the feasting table and a pick of weapons from the royal armoury – relics that have long been steeped in a miasma of madness. Cryptguard take great pride in their tenacity, and their proximity to the abhorrants’ necromantic energies render them remarkably difficult to slay.",
@@ -8560,7 +8560,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "b5a1374e-2519-4d17-9de8-292839796fd5",
+    "id": "c52e44ce-3274-4b52-92f3-340452744268",
     "name": "Stormfiends",
     "subname": null,
     "lore": "Stormfiends represent the flesh-crafting arts of the Clans Moulder and the warped weaponsmithing of the Clans Skryre brought together in dreadful symbiosis. They are hulking brutes implanted with all manner of weapons, from rotary ratling cannons and windlaunchers that hurl globes of poison gas to wrecking-ball clubs and shock gauntlets capable of sparking fierce chain reactions. To operate these devices is beyond the intellect of the typical Rat Ogor, and so each Stormfiend has grafted to them a ghoulish and withered ‘brain-rat’ that makes up the difference. Yet the Stormfiends’ duties are simple enough – bring blasting, crushing death to the enemies of the Skaven.",
@@ -8714,7 +8714,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "46edf6de-6331-4995-b19f-30f2cfac5706",
+    "id": "20083735-a6d0-4b97-8eea-07152bbbd0dd",
     "name": "Gutrippaz",
     "subname": null,
     "lore": "Gutrippaz form the slimy heart of the Kruleboyz, stalking forwards behind their leering skareshields. These mobs of sadistic greenskins are known for their vicious kunnin’ and the spiteful amusement they find in laying low the enemy with their wicked, venom-laced weapons. Even their appearance is honed to intimidate and confuse the foe.",
@@ -9264,7 +9264,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": true
   },
   {
-    "id": "56cd7ff3-3069-46e4-aff9-24e2f85f2046",
+    "id": "67a58fea-a7f9-4fb4-a638-ecef69892c49",
     "name": "Saurus Warriors",
     "subname": null,
     "lore": "The saurus are the warrior caste of the Seraphon race. From the moment they emerge from the spawning pools, they are perfectly adapted for their task: muscular, protected by iron-hard scales and possessing vicious claws and teeth. Saurus are predators by nature, capable of fighting with immense savagery, yet though their minds are focused entirely on war, they are not mindless. They share a bond with their spawn-kin that goes beyond words, allowing them to fight with uncanny coordination and discipline in the prosecution of the Great Plan.",
@@ -9484,7 +9484,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "008ca1b6-c4e2-4a58-b1ec-84ed4f32a759",
+    "id": "1c43c50e-2cd8-4112-a03a-6a8ac18ef4e2",
     "name": "Akhelian Allopex",
     "subname": null,
     "lore": "Allopexes are vicious predators of the deep known for their voracious appetites. As Akhelian bond-beasts, they are more dangerous still, boasting scythe fins and deadly back-mounted harpoon launchers. Even the bravest fear these blank-eyed terrors, and with good reason: as soon as it scents fresh blood, an Allopex enters a thrashing frenzy, tearing its prey limb from limb.",
@@ -9748,7 +9748,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "c80de68e-d97c-46a1-b86d-39252733a410",
+    "id": "da95acc3-349d-4b1e-8a8d-99a2540b4f70",
     "name": "Beast-skewer Killbow",
     "subname": null,
     "lore": "Orruks are not renowned for their ability to shoot straight, but the Kruleboyz known as ‘Big Shots’ understand the benefit of maiming your prey from as far away as possible. Beast-skewer Killbows are designed to take down the realms’ mightiest monsters, and the oversized missiles they hurl can indeed punch through several inches of armoured hide or bone plating with ease. Such is the force with which these missiles strike home that they can also impale several man-sized targets at once.",
@@ -9770,7 +9770,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "2e16282c-3943-4e9f-b6fc-22a4a576899a",
+    "id": "7fd2be68-c0c8-4cab-8b90-20290e314767",
     "name": "Akhelian Morrsarr Guard",
     "subname": null,
     "lore": "Swift and hard-hitting, Morrsarr Guard are the shock cavalry of the Akhelian warrior caste. Carried by their fearsomely swift Fangmora Eel steeds, the lowered voltspears of these elite riders strike with devastating force, unleashing a concentrated pulse of biovoltaic energy on impact.",
@@ -9902,7 +9902,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "a658963f-e44e-4635-b80f-9043be8349cc",
+    "id": "217d3e88-bcec-4844-a27a-0353541beaf9",
     "name": "Namarti Thralls",
     "subname": null,
     "lore": "The core infantry of the Idoneth Deepkin, Namarti Thralls advance into battle brandishing massive two-handed weapons known as lanmari. Despite their blindness and the heft of their blades, they whirl and chop with aelven grace, adapting their attacks to deal with whatever foe they face.",
@@ -9946,7 +9946,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "9adebd33-7890-40ae-929a-e85f6a82757f",
+    "id": "9f61068a-bfbc-4de1-a23d-4f1b63074616",
     "name": "Freeguild Cavaliers",
     "subname": null,
     "lore": "The battlefield shakes as the heavy cavalry of the Sigmarite cities make their charge. No idle jousters are the Freeguild Cavaliers but men and women hardened by bitter experience and keen to take out their wrath on the enemies of the God-King. These knights are at their most fearsome when they crash into the foe at full speed, but they are certainly no strangers to brutal attritional melees in which rider and steed are expected to fight for hours at a time without rest.",
@@ -10034,7 +10034,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "09054ec3-eb6e-44a6-bc8c-04cd251c207d",
+    "id": "9869ec58-8081-4f8c-b966-e5abd13f3e3d",
     "name": "Slaughterpriest",
     "subname": null,
     "lore": "Slaughterpriests are the holiest of Khorne’s mortal champions, possessed of a spiritual connection with the Lord of the Skull Throne. Where the priests of another deity might channel their essence through sorcery or simpering prayer, these brutal demagogues gain power through ritually drinking the blood of butchered foes and allies alike whilst bellowing their invectives to the raging skies. As well as being formidable warriors in their own right, a Slaughterpriest can command blood in the name of its rightful master – compelling it to boil within an enemy’s veins before bursting forth in gruesome sanguinary sprays.",
@@ -10276,7 +10276,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "9381b491-02f0-4abe-9310-e280fa415a65",
+    "id": "ec6d0fa7-2418-4037-a663-77a87a746963",
     "name": "Abhorrant Archregent",
     "subname": null,
     "lore": "The vampiric abhorrants known as Archregents are amongst the most powerful of all their degenerate brood. Through crazed bloodlust and the sheer force of their deluded will, they have bound vast cannibal empires to them, and they command the loyalty of innumerable gibbering ghouls. Though Archregents are more than capable of tearing foes apart in a flurry of fangs, they take a warped satisfaction in watching their minions carry the day. Many wield their dark magics to ‘bless’ those under their command, turning them into even more ferocious killing machines.",
@@ -10320,7 +10320,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "49668d5f-3d42-42e6-b3dc-72a45e82f68e",
+    "id": "c2bddef8-84df-4702-9161-62a6d06118e4",
     "name": "Liberators",
     "subname": null,
     "lore": "Countless tyrants have fallen to the Liberators. These staunch souls are the most famed warriors of the Redeemer conclaves; whether forming implacable shieldwalls to defend key strongpoints or expertly wielding paired weapons, they are undeniably the soul of their Stormhost made manifest. The iconic line infantry of the Stormcast Eternals, Liberators are depicted in a thousand statues and tapestries, their hammers raised and their Masks Impassive staring down with intimidating intensity. Their appearance has brought hope to countless struggling townships and beleaguered defenders across the realms.",
@@ -10452,7 +10452,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "c57b4292-03cb-45fa-9069-d93f15b2700e",
+    "id": "d0222286-4e9b-4114-8f24-41151198420a",
     "name": "Leadbelchers",
     "subname": null,
     "lore": "The blackpowder-obsessed gunners known as Leadbelchers lumber into battle, blasting away with their massive guns and utilising them as makeshift bludgeons should the foe be foolish enough to engage them in hand-to-hand combat.",
@@ -10540,7 +10540,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "15087bcf-f664-41b3-aa18-7d5658edabdf",
+    "id": "20eb03fc-e277-49f7-aea3-57507af11896",
     "name": "Spoilpox Scrivener, Herald of Nurgle",
     "subname": null,
     "lore": "Spoilpox Scriveners keep a strict watch over the tallying of the Plaguebearers. Under their shrewd tri-eyed gaze, no daemon dares neglect their plague-counting duties. Though the Scriveners prefer to command from a distance, enemies that stray too close will find their heads and limbs bitten off by the Scrivener’s trunklike maw. The Scriveners are woefully allergic to the stuff of reality, which fouls their mood constantly. Fortunately for Nurgle’s followers, however, the daemons’ sneezes can blanket foes in layers of rancid, highly corrosive mucus.",
@@ -10628,7 +10628,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "b5511bad-9d69-43d0-9fc5-5f09a895e517",
+    "id": "80040c7a-3bbf-4a00-9e04-d7a2926086c7",
     "name": "Treelord",
     "subname": null,
     "lore": "Treelords stomp towards the enemy with earth-shaking strides. Their roots burrow through the soil as fast as arrows through the air, exploding from the ground to rend and throttle, while every swing of their vast talons slaughters another swathe of foes. Each one draws upon the experience of several mortal lifespans in battle. Their sheer power and dominance of the battlefield allows smaller Sylvaneth kin to dart around them and pick apart floundering enemy formations. The great strength and wisdom of Treelords often sees them act as the captains and champions of each wargrove.",
@@ -11178,7 +11178,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "bc0939ee-34ec-4714-a82f-02b030e52240",
+    "id": "97350fd3-c8cd-4000-9455-c15e4ca456ba",
     "name": "Lord-Veritant",
     "subname": null,
     "lore": "Long have the Lord-Veritants been known as the witchfinders of the realms, their bright fires allowing them to judge the spiritual state of mortals – and, in the heat of battle, send forth a blast of cleansing flame into the foe. Those who serve in the Ruination chambers look not only for corruption of the soul but also any kind of spiritual void. Blindfolded to better focus the spirit-sight with which they scry the souls of friend and foe, they are daunting figures known for their lack of mercy. At their feet bound faithful Gryph‑crows, creatures drawn to condemned beings.",
@@ -11398,7 +11398,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "b12ae934-956b-4dd0-949d-1e863694a14e",
+    "id": "4728b885-8991-44ea-9364-5ae8c45636e3",
     "name": "Killaboss on Great Gnashtoof",
     "subname": null,
     "lore": "Killabosses are cunning warlords well used to using their ‘thinkin’ muscles’ to guide their fellow orruks in ambushes and traps. With a string of victories under their belts, they have won something akin to trust from their minions, who stick to the plan even when things get nasty. They take great pride in procuring the vilest and most malicious monsters to serve as their war-mounts, and few are as deadly as the Great Gnashtoof. This wiry canine killer is as swift as it is foul-tempered, capable of navigating the slimy homelands of the Kruleboyz with ease. When it finds its prey, it leaps upon them with an ear-splitting howl that seems to come from two directions at once.",
@@ -11596,7 +11596,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "10b5f932-af4d-44b4-af57-25b72a5e61d4",
+    "id": "76a1ce6d-1173-4f77-9853-40e95b7f0e9d",
     "name": "Blood Knights",
     "subname": null,
     "lore": "Blood Knights are vampires obsessed with battle, and their codes of chivalric honour are warped indeed. Mounted atop imposing Nightmares, they seek out war wherever it can be found, trampling straight over lesser foes to reach the worthiest challenges. They excel at mounted combat and can spear enemies through the heart in an instant with finely wrought blade or lance. Their skeletal steeds are fearsome creatures armoured from head to hoof, their savage bites and lashing kicks adding to the carnage of their rider’s charge.",
@@ -12014,7 +12014,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "6f1f444e-3a5e-4b36-acd5-bb7f22c18a24",
+    "id": "6da027fd-3865-4ffa-b5a2-22f68a13a26d",
     "name": "Kairic Acolytes",
     "subname": null,
     "lore": "Kairic Acolytes are the chosen human cultists of Tzeentch. They wear masks and weave illusions to conceal their identities, for they have infiltrated cities and war-camps across the Mortal Realms, awaiting the hour when Change God calls upon them to rise up in open insurrection. Harnessing their collective magical might, Acolytes unleash it in the form of searing bolts that burn through armour with ease. Enemies that do not fall before this arcane fusillade must face their curved blades, which they wield with a strength and skill granted them not by toil and experience but by forfeiting their soul to the Architect of Fate.",
@@ -12124,7 +12124,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "e1a3c3c7-0765-49f1-9188-99550ce959e1",
+    "id": "c6778f58-105b-4fdc-b998-42bdef35e672",
     "name": "Vulkite Berzerkers",
     "subname": null,
     "lore": "Skilled and fearless, Vulkite Berzerkers wielding twin fyresteel axes make up the core of Fyreslayer fyrds. Determined to prove their valour to the lodge, they will risk their lives in pursuit of glory without a second thought. As their ur-gold runes blaze, they become ever more ferocious, the power and fiery rage of Grimnir coursing through their bodies.",
@@ -12410,7 +12410,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "575a1b25-436f-4ad7-b449-5f9535ba710c",
+    "id": "a2f78690-433f-4eec-aab5-120c7d24c970",
     "name": "Isharann Soulscryer",
     "subname": null,
     "lore": "Reclusive and mysterious even by the standards of the Isharann caste, Soulscryers are able to sense the richest sources of soul-stuff across the realms. They work their strange magics to navigate the utter darkness of the deep places and blanket the lands in creeping mists to disorient the foe. Their eldritch senses allow them to guide other Idoneth along hidden paths in the realms’ oceans and rivers, so that they can strike the foe from unexpected angles.",
@@ -12740,7 +12740,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": true
   },
   {
-    "id": "da884625-8323-4741-8d4b-e9202ecf868d",
+    "id": "7042507b-7516-42c4-8564-318915075639",
     "name": "Arkanaut Company",
     "subname": null,
     "lore": "The backbone of the Kharadron airfleets are the Arkanaut Companies. These grizzled privateers crew the sky-ports’ vessels and are armed with a variety of aether-powered firearms and deck tools with which to repel boarders or take the fight to the enemy. Eager to earn an officer’s commission, Arkanauts compete to outdo each other with acts of reckless bravado, risking everything to secure glory – and thus earn a better share of the profits.",
@@ -12784,7 +12784,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "b8214969-9157-433c-9c82-ec07980a6b41",
+    "id": "b6052155-200a-419e-af03-58e88d9b7f53",
     "name": "Grimghast Reapers",
     "subname": null,
     "lore": "In life, the beings known as Grimghast Reapers considered themselves subtle plotters and assassins, who changed the fortune of entire kingdoms with the stroke of a blade. Now they kill indiscriminately at the behest of the Great Necromancer, unable to witness the awful carnage they are wreaking with each great sweep of their scythes due to the blindfolds that rob them of their witchsight.",
@@ -12806,7 +12806,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "39c124d6-d81c-4d80-928f-ae8805839598",
+    "id": "ffb09506-cd45-46ff-8a5c-d4228603efb2",
     "name": "Hearthguard Berzerkers",
     "subname": null,
     "lore": "Hearthguard Berzerkers are the chosen champions of the lodge, assigned the sacred task of protecting its dynastic rulers and most prestigious figures with a near-supernatural determination. Masterful warriors skilled in the use of the more exotic armaments within their lodge’s armoury, they wreak devastation among the enemy’s ranks, their flamestrike poleaxes cleaving, bludgeoning and burning foes all at once.",
@@ -12916,7 +12916,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "7bae36d7-9d2e-4ff5-95f8-43f79dae52dd",
+    "id": "ee8b9685-8e5c-4207-adf6-f5762ea0fe7f",
     "name": "Tyrant",
     "subname": null,
     "lore": "The ferocious warleaders of the Gutbuster warglutts, Tyrants are living mountains of iron and blubbery flesh. Each has risen to the heights of power by eating their rivals and bullying their tribe-mates into doing as they’re told, and their bottomless appetite can only be satisfied by a lifestyle of constant plunder and war. Despite their girth, they move with surprising speed, hacking their prey into bloody chunks for easier consumption and relying upon a heavy gutplate – and several thick layers of fat – to keep them from harm.",
@@ -13092,7 +13092,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "78c7de99-816b-4a6f-876b-430d9f2903cb",
+    "id": "e0881f97-cd83-4c38-a4c7-35ea63177beb",
     "name": "Bloodreavers",
     "subname": null,
     "lore": "Bloodreavers form the howling masses of the Bloodbound warhordes. Though rightly feared by their enemies for their murderous fury, they are themselves cursed. To earn a place amongst the Brazen One’s armies, each has endured gruelling trials, the last of which is to consume the flesh of their own fallen. Such a monstrous desecration ensures there can be no turning back from the path of skulls. Bloodreavers congregate around the Slaughterpriests in frothing packs, fighting beyond sanity and surging back to their feet when struck down in battle rather than disgracing themselves before the prophets of their deity.",
@@ -13378,7 +13378,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "d08c3cf2-d82b-40de-ab29-0a8d0c559290",
+    "id": "230191f8-a564-43fc-9dcf-2366e8a85edf",
     "name": "Kroxigor",
     "subname": null,
     "lore": "Kroxigor are towering brutes, spawned in aeons past to serve as the physical labourers of the Seraphon. Their comparative lack of intellect is offset by their primitive determination and, most of all, their terrifying strength – strength that can see them snatch an armoured knight from the saddle and rip them apart. When war calls, the might of the Kroxigor is brought to bear against the Seraphon’s enemies. Wielding toothed mauls and hammers that glow with celestial energies, the Kroxigor demolish foes with broad and punishing swings while shrugging off their panicked retaliatory strikes.",
@@ -13488,7 +13488,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": true
   },
   {
-    "id": "a36b46a3-faa6-4755-b26c-d21eb509526f",
+    "id": "9c1c0877-7e38-45ce-bcb0-dacc2c4d50ad",
     "name": "Pusgoyle Blightlord",
     "subname": null,
     "lore": "Elite Rotbringers mounted atop horrific daemon-beasts, Pusgoyle Blightlords thrum ahead of their kindred to sow panic and death as the linebreakers of the diseased host. Their crushing tocsins and whistling scythes make short work of any who would slow the spread of decay. Should enemies survive such a diseased onslaught, they will find themselves impaled upon the stingers of horrifying Rot Flies. The pact made between Pusgoyle and Rot Fly strengthens the daemon’s connection to the mortal plane, allowing them to exist indefinitely beyond the boundary of Nurgle’s Garden while the accord stands.",
@@ -13642,7 +13642,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "dc73f092-0fca-4845-9c67-15c268be5a57",
+    "id": "397b5c01-acce-406b-be7c-de2e940977c8",
     "name": "Tzaangors",
     "subname": null,
     "lore": "Tzaangors are savage, avian beastmen dedicated to Tzeentch and gifted with his dark blessings. Eager to impress their duplicitous god, the Tzaangors fight with lunatic energies, hoping to earn further gifts of change.",
@@ -13972,7 +13972,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "142291b8-fffc-4a76-804c-550aca11a3a7",
+    "id": "5d383ea0-48e8-4f1d-9e47-e52660ffc8e3",
     "name": "Clawlord on Gnaw-beast",
     "subname": null,
     "lore": "Clawlords are the tyrannical rulers of the Clans Verminus, the lives of thousands of minions theirs to expend at a moment’s notice. It takes both cunning and viciousness to hold their lofty position, and successful Clawlords must be willing to stoop to any foul end and fight like cornered animals in order to keep their star in the ascendant. Accumulating favours from members of the other Great Clans is a fine way to do this, and so the most powerful Clawlords will ride upon a Gnaw-beast bred by the Clans Moulder – a gangly, shrieking abomination whose hunger is even more voracious than that of its Skaven master.",
@@ -14588,7 +14588,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "0d3d5455-ffee-4e9a-b35c-181ab0902a64",
+    "id": "73a95697-03ba-4b3f-9b4c-996fedcc5a8b",
     "name": "Witch Aelves",
     "subname": null,
     "lore": "Witch Aelves are devotees of bloodshed and murder, eschewing heavy armour in favour of nigh-supernatural agility. As they charge headlong into the foe, they enter an ecstatic killing frenzy. For the Witch Aelves, battle is a sacred ritual where they can truly express their devotion to their Murder God. Each carries a sciansá, a holy tool tempered in blood – one twist of this notched blade causes extreme pain as it slices through foes’ guts and severs their arteries in a crimson spray.",
@@ -14896,7 +14896,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "5f757e21-fd7c-448c-9c98-acd3a5af0cdf",
+    "id": "775ad338-9ddd-46d9-92bf-e810303e2020",
     "name": "Prosecutors",
     "subname": null,
     "lore": "Though the Prosecutors once shone with the light of Azyr, Be’lakor’s fell rituals forced a great many of them to share the skies with billowing clouds of Chaos corruption. Whilst their unshakeable faith in the God-King has afforded them protection against the worst effects of the Cursed Skies, their exposure has left the majority of them hollow-eyed and eerily quiet. Each Reforging claims much more from these warriors than it does their kin. Now they swoop alongside the Ruination chambers, their crumbling souls watched closely by their Lord-Veritants. To see them vent their righteous fury in a death-defying, breakneck charge is to see something of the simmering anger within.",
@@ -15446,7 +15446,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "eeb6211f-ba55-40ec-acfb-ed2f4fc26596",
+    "id": "b7f9ba55-b2a4-43c9-84a4-af02bfacadd8",
     "name": "Warp Lightning Cannon",
     "subname": null,
     "lore": "Warp Lightning Cannons are perhaps the most infamous wonder-weapons of the Clans Skryre. Channelling volatile energies through a chunk of potent warpstone, they unleash blasts of ruinous energies that can reduce targets to ash. Warp Lightning Cannons are unpredictable creations, prone to shorting out or catastrophically overtaxing themselves at inopportune moments. When operating at maximum capacity, however, a Warp Lightning Cannon can stop a gargant in its tracks.",
@@ -15886,7 +15886,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "2c7751ad-35c1-4b76-8732-4dc407232b54",
+    "id": "76da38fc-17be-4c60-a502-881a7ad2e9fe",
     "name": "Mancrusher Gargant",
     "subname": null,
     "lore": "When the earth shakes to the thunder of gargant footfalls, the Mancrushers muster for war. No longer are they aimless nomads and indulgent drunkards; now they are war-hungry terrors inspired to violence. Driven by the promise of claiming their own territories and with dreams of growing to the size of their towering kin, the Mega-Gargants, they seek out fights of spectacular violence. Though they fight primarily with hurled boulders and tree-trunk sized clubs, they are not averse to grabbing up their enemies in great meaty fists and stuffing them into a bag for later consumption. Even in death they can be lethal – more than one hero of the realms has been crushed by the toppling corpse of the very gargant they slew moments before.",
@@ -16040,7 +16040,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "aea7407f-e52b-4935-b80b-cb1d9da26325",
+    "id": "54fec5b5-5cbf-45d4-bd8c-096bbcd18689",
     "name": "Annihilators",
     "subname": null,
     "lore": "Clad in the thickest plate and wielding weaponry hewn from enchanted celestial rock, Annihilators shrug off bolts and arrows as they charge forward with meteoric force. Those struck by them are bowled over even as the death blows rain down to finish the job.",
@@ -16084,7 +16084,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "b6975e1d-400e-43ff-a462-6a9b1891d07e",
+    "id": "f8ae2700-ede9-4882-92b2-9142f658c0e1",
     "name": "Varghulf Courtier",
     "subname": null,
     "lore": "In the eyes of the ghouls, Varghulfs are saintly warriors, aglow with divine power. Undeniably, they are amongst the most monstrous examples of the abhorrant bloodline, misbegotten horrors whose lust for blood and meat has overwhelmed whatever trace of self-control that remained. Only the most lordly of their kin can hope to command a Varghulf; any other who approaches will be torn apart in a shower of gore. Even then, one can do little more than goad these beasts into the fray before letting the Varghulf indulge its flesh-mangling hungers as it wishes, feasting on the fallen before darting away to strike elsewhere with preternatural swiftness.",
@@ -17668,7 +17668,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "3043f2d3-2ebe-48f2-9004-11aa0a3fd9e8",
+    "id": "c7eb4898-9e61-4652-a539-53b69c92fc21",
     "name": "Grey Seer",
     "subname": null,
     "lore": "Grey Seers are marked out from their minions not only by their pale fur and curling horns but also by their ability to wield the withering magics of the Great Horned Rat. They serve as the executors of their terrible god’s will amongst the clans – though this does not prevent them from pursuing their own schemes as a matter of course. Able to handle warpstone with greater ease than fellow ratmen, a Grey Seer will use all manner of relics to try and glean an advantage, all while using their sorcery and innate cunning to undermine and drag down enemies and rivals alike.",
@@ -21210,5 +21210,4 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   }
 ];
-
 export default warscrolls;
