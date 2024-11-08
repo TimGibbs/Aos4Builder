@@ -29,9 +29,9 @@ const UnitBuilder: React.FC<UnitBuilderParams> = ({unit, setUnit, warscrolls}) =
       <option>-</option>
       {warscrolls.map(x=>(<option key={x.id} value={x.id} disabled={!isntDuplicateUnique(x) || !isntLimited(x)} >{x.name} {(x.points ?? 0) > 0 ? `${x.points}pts`: ""}</option>))}
     </Form.Select>
-  {!warscroll?.cannotBeReinforced && unit && <Form.Check reverse label={`Reinforced`} className="fs-3" type='checkbox' checked={unit.reinforced} id={`checkbox-${unit.id}`} onChange={()=>setUnit({...unit, reinforced:!unit.reinforced})}/>}
+  {warscroll && !warscroll?.cannotBeReinforced && unit && <Form.Check reverse label={`Reinforced`} className="fs-3" type='checkbox' checked={unit.reinforced} id={`checkbox-${unit.id}`} onChange={()=>setUnit({...unit, reinforced:!unit.reinforced})}/>}
   </div>
-  {warscroll?.isHero && !warscroll?.isUnique && unit && <EnhancementSelector unit={unit} />}
+  {warscroll && warscroll?.isHero && !warscroll?.isUnique && unit && <EnhancementSelector unit={unit} />}
   </>
 }
 
