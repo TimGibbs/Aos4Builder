@@ -93,7 +93,7 @@ function formatUnit(unit: Unit, isGeneral: boolean = false): string {
         parts.push(`• ${abilities.find(o=>o.id===unit.heroicTraitId)?.name}`);
     }
     if (unit.artifactId) {
-        parts.push(`• ${abilities.find(o=>o.id===unit.artifactId)?.name}}`);
+        parts.push(`• ${abilities.find(o=>o.id===unit.artifactId)?.name}`);
     }
     return parts.join("\n"); // Return unit details with newline characters
 }

@@ -20,7 +20,8 @@ const UnitBuilder: React.FC<UnitBuilderParams> = ({unit, setUnit, warscrolls}) =
     }
 
     const isntDuplicateUnique = (warscroll: EnrichedWarscroll) =>  warscroll.isUnique === false || allListWarscrollIds.includes(warscroll.id) === false;
-    const isntLimited = (warscroll: EnrichedWarscroll) => !warscroll.limitingWarscrollId || allListUnits.filter(o=>o.id === warscroll.limitingWarscrollId).length > allListUnits.filter(o=>o.id === warscroll.id).length;
+    const isntLimited = (warscroll: EnrichedWarscroll) => !warscroll.limitingWarscrollId 
+      || allListUnits.filter(o=>o.id === warscroll.limitingWarscrollId).length > allListUnits.filter(o=>o.id === warscroll.id).length;
    
     const warscroll = warscrolls.find(o=>o.id===unit?.warscrollId)
     const reinforce = unit.reinforced ? 2 : 1;
