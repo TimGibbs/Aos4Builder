@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aos4Builder/static/css/main.9a5c6096.css",
+    "main.js": "/Aos4Builder/static/js/main.e8bba761.js",
+    "index.html": "/Aos4Builder/index.html",
+    "main.9a5c6096.css.map": "/Aos4Builder/static/css/main.9a5c6096.css.map",
+    "main.e8bba761.js.map": "/Aos4Builder/static/js/main.e8bba761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.e8bba761.js"
+  ]
+}
