@@ -102,13 +102,13 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skaven"
   },
   {
-    "id": "bd38b17f-2bfa-40aa-bb82-9b33292794a7",
+    "id": "aaac59fd-343b-4b9c-b61a-9f50cdcbe039",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
+    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31",
     "optionText": "0-1 Cursed Soul"
   },
   {
@@ -572,13 +572,13 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Grimnir’s Chosen"
   },
   {
-    "id": "f840de70-ffda-4462-bcd4-fb37c51e4926",
+    "id": "5d49c1b2-2bc0-4cda-87b2-085251960699",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
+    "warscrollId": "2f5ce910-2283-48ca-b2a8-9ab50262cb9f",
     "optionText": "Any Soulblight Gravelords"
   },
   {
@@ -952,13 +952,13 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "cff65b64-b3e9-487c-9eea-ab9b4d4f686d",
+    "id": "1d5aac6e-e7a9-40fe-bd86-22321788cdde",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece",
+    "warscrollId": "3c152a9a-8abb-4de8-bef8-ea1df87b866a",
     "optionText": "Any Gloomspite Gitz"
   },
   {
@@ -1042,13 +1042,13 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warriors of Chaos"
   },
   {
-    "id": "2b017461-d30d-4d89-8b24-976bc569ef21",
+    "id": "c633a737-aa87-42d6-a1bd-3303c9c2c6ea",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
+    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31",
     "optionText": "Any Nighthaunt"
   },
   {
@@ -1692,13 +1692,13 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "68253a3f-432c-40de-9630-8b89de0bc55c",
+    "id": "6facfcb7-c683-4ff4-ac17-31ab5bb86cf5",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece",
+    "warscrollId": "28647412-df3c-4aaf-9519-3f7966ef367d",
     "optionText": "Any Ogor Mawtribes"
   },
   {
@@ -2472,23 +2472,23 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "1f64eae6-cce0-47af-99fc-91c109233a7a",
+    "id": "495b314f-8ad9-4646-b579-353a4773dd17",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece",
+    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f",
     "optionText": "0-1 Eager Lout"
   },
   {
-    "id": "0d3084b8-b781-4738-b0ad-6e0fe49aa2b7",
+    "id": "e78b9cbf-6ae6-4c4d-8b12-2e2169be8635",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece",
+    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f",
     "optionText": "Any Sons of Behemat"
   },
   {
@@ -2782,23 +2782,23 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "0a46b994-9f34-4dab-b74c-b034d4d5f87d",
+    "id": "1479d92c-c869-4074-bbdb-92b5834b0517",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece",
+    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324",
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "04c136a4-331b-49dc-99e3-a9c8ef0c4c9c",
+    "id": "8eb01ff0-e169-425f-af79-e7cf347d7ee7",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece",
+    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324",
     "optionText": "Any Ironjawz"
   },
   {
@@ -4152,23 +4152,23 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari"
   },
   {
-    "id": "64ae8464-a6c3-4308-92cd-a209a0026440",
+    "id": "143ab65a-fc62-48c3-a384-dcf919b6d46b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
+    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c",
     "optionText": "0-1 Legion Subcommander"
   },
   {
-    "id": "8653c976-81a8-4ec2-be31-42eee8eb356e",
+    "id": "64b5ea19-e3f5-488e-9f74-b5a8b2b8d7f6",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
+    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c",
     "optionText": "Any Ossiarch Bonereapers"
   },
   {
@@ -6052,23 +6052,23 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Lofnir Drothkeepers Auric Runesmiter"
   },
   {
-    "id": "ea57f562-6d91-4cdf-ab36-5026eb633de5",
+    "id": "aa80f8be-5200-4eda-aa81-1d7ad72b0c2b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
+    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545",
     "optionText": "0-1 Flesh-eater Noble"
   },
   {
-    "id": "7134cce5-430a-48f1-aa64-610b27da03bc",
+    "id": "8052e431-ca8d-432c-8864-ac4dcb3de380",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
+    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545",
     "optionText": "Any Flesh-eater Courts"
   },
   {
@@ -6892,13 +6892,13 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 War Machine Skryre"
   },
   {
-    "id": "fc7776c2-22d5-47df-809f-3d5740201b62",
+    "id": "0201b483-fc56-44a6-ab1d-b459efafb137",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece",
+    "warscrollId": "e13fcd1d-b044-4ff9-b0e8-7145ec437bf7",
     "optionText": "Any Bonesplitterz"
   },
   {

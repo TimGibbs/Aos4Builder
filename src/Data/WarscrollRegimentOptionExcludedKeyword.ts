@@ -414,7 +414,7 @@ export const warscroll_regiment_option_excluded_keywords : WarscrollKeywordRequi
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
-    "warscrollRegimentOptionId": "f840de70-ffda-4462-bcd4-fb37c51e4926",
+    "warscrollRegimentOptionId": "5d49c1b2-2bc0-4cda-87b2-085251960699",
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
@@ -642,7 +642,7 @@ export const warscroll_regiment_option_excluded_keywords : WarscrollKeywordRequi
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
-    "warscrollRegimentOptionId": "cff65b64-b3e9-487c-9eea-ab9b4d4f686d",
+    "warscrollRegimentOptionId": "1d5aac6e-e7a9-40fe-bd86-22321788cdde",
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
@@ -730,7 +730,7 @@ export const warscroll_regiment_option_excluded_keywords : WarscrollKeywordRequi
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
-    "warscrollRegimentOptionId": "2b017461-d30d-4d89-8b24-976bc569ef21",
+    "warscrollRegimentOptionId": "c633a737-aa87-42d6-a1bd-3303c9c2c6ea",
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
@@ -834,7 +834,7 @@ export const warscroll_regiment_option_excluded_keywords : WarscrollKeywordRequi
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
-    "warscrollRegimentOptionId": "7134cce5-430a-48f1-aa64-610b27da03bc",
+    "warscrollRegimentOptionId": "8052e431-ca8d-432c-8864-ac4dcb3de380",
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
@@ -1214,7 +1214,7 @@ export const warscroll_regiment_option_excluded_keywords : WarscrollKeywordRequi
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
-    "warscrollRegimentOptionId": "8653c976-81a8-4ec2-be31-42eee8eb356e",
+    "warscrollRegimentOptionId": "64b5ea19-e3f5-488e-9f74-b5a8b2b8d7f6",
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
@@ -1242,7 +1242,7 @@ export const warscroll_regiment_option_excluded_keywords : WarscrollKeywordRequi
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
-    "warscrollRegimentOptionId": "0a46b994-9f34-4dab-b74c-b034d4d5f87d",
+    "warscrollRegimentOptionId": "1479d92c-c869-4074-bbdb-92b5834b0517",
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
@@ -1314,7 +1314,7 @@ export const warscroll_regiment_option_excluded_keywords : WarscrollKeywordRequi
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
-    "warscrollRegimentOptionId": "68253a3f-432c-40de-9630-8b89de0bc55c",
+    "warscrollRegimentOptionId": "6facfcb7-c683-4ff4-ac17-31ab5bb86cf5",
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
@@ -1498,7 +1498,7 @@ export const warscroll_regiment_option_excluded_keywords : WarscrollKeywordRequi
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
-    "warscrollRegimentOptionId": "04c136a4-331b-49dc-99e3-a9c8ef0c4c9c",
+    "warscrollRegimentOptionId": "8eb01ff0-e169-425f-af79-e7cf347d7ee7",
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
@@ -1654,7 +1654,7 @@ export const warscroll_regiment_option_excluded_keywords : WarscrollKeywordRequi
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
-    "warscrollRegimentOptionId": "0d3084b8-b781-4738-b0ad-6e0fe49aa2b7",
+    "warscrollRegimentOptionId": "e78b9cbf-6ae6-4c4d-8b12-2e2169be8635",
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
@@ -1758,7 +1758,7 @@ export const warscroll_regiment_option_excluded_keywords : WarscrollKeywordRequi
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
-    "warscrollRegimentOptionId": "fc7776c2-22d5-47df-809f-3d5740201b62",
+    "warscrollRegimentOptionId": "0201b483-fc56-44a6-ab1d-b459efafb137",
     "keywordId": "9fceb482-60e7-4abe-85a0-7c14a0f88249"
   },
   {
