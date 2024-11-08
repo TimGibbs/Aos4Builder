@@ -45,7 +45,7 @@ const RegimentItemBuilder: React.FC<RegimentItemParams> = ({item, setItem}) => {
             unit={o} 
             setUnit={setUnit}
             warscrolls={warscolls} />)}
-        {item.units.length < max && <Button onClick={()=>setItem({...item, units: [...item.units, defaultUnit()] })}>Add</Button>}
+        {item.units.length < max && <Button onClick={()=>setItem({...item, units: [...item.units, defaultUnit()] })}>Add Unit</Button>}
     </>
 
 }
