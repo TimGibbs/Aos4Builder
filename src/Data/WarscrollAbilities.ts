@@ -2,7 +2,7 @@ import Ability from "../Types/DataTypes/Ability";
 
 export const warscroll_abilities : Ability[] = [
   {
-    "id": "046a02c5-7a65-410a-a6ed-69f72a54b0bb",
+    "id": "efe826a5-eec0-4cae-b1cf-cb18167a18a3",
     "name": "Shattered Gloom Globes",
     "phaseDetails": "Once Per Battle, Any Hero Phase",
     "phase": "heroPhase",
@@ -17,7 +17,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0f1dbabb-75a9-4300-be60-3242f623f796"
   },
   {
-    "id": "463f1763-778b-4199-9bb7-f1a69188bc28",
+    "id": "562bdeb7-60f8-4ecc-867a-1dd64e4df714",
     "name": "High Priest of the Zharrgrim",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -32,7 +32,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bdf47317-d52a-42c4-ab30-38c17d7023af"
   },
   {
-    "id": "4ce66f05-96f5-428c-8366-0197a487c45c",
+    "id": "f8e00dd7-fc86-4329-903c-4e1b8023fe7e",
     "name": "Attack From on High",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -47,7 +47,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1917cb70-84be-442a-a927-f32ab805e8fa"
   },
   {
-    "id": "86ed898f-aa34-4083-b850-7b6322ea438e",
+    "id": "4c31140f-49a0-4f22-ae4a-7ad1e8fcc04b",
     "name": "Martial Memories",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -62,7 +62,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bf288234-065a-4474-9c3d-2080d4b42b19"
   },
   {
-    "id": "aa013425-4b68-4318-9a64-6b79d31614bc",
+    "id": "41f79a77-2c89-44ae-8acc-74efad72e9fe",
     "name": "Dispersed Formation",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -77,7 +77,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dce1facb-86d3-42a3-a75f-e1516d346b34"
   },
   {
-    "id": "1ec7eab9-e1a2-453b-916f-db3d165eccd9",
+    "id": "f9cf9a26-1c54-498a-9dda-d8fb8dec551f",
     "name": "Grasping Hands",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -92,7 +92,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4a7bbe73-da4e-40ef-980e-2f64bdb3b8f1"
   },
   {
-    "id": "f6ba3391-7e76-4bbc-a247-8703dff55d36",
+    "id": "f69187c7-be4d-48c1-bf3b-8378462aa263",
     "name": "Outrageous Carnage",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -107,7 +107,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2227924f-b96a-428d-830e-4aed288817fb"
   },
   {
-    "id": "88ea6ba7-eb27-4bc8-94bb-1ed42c0b4c49",
+    "id": "73ec67c7-c179-4247-9dea-8756e04719bf",
     "name": "Wyldwood Revenants",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -122,7 +122,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0d4a201e-be35-4e15-b412-6b766ac210cf"
   },
   {
-    "id": "af85604f-291e-4a61-804a-07d770bedabf",
+    "id": "618dba6a-4e50-4aad-b93f-1d13554b0937",
     "name": "No Respite",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -137,7 +137,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "78f35a5c-3350-49bc-a6e5-5768874e3ce7"
   },
   {
-    "id": "44141e4e-c738-48e8-b589-c3544f5fca40",
+    "id": "6538dcc4-c0f3-4dc3-8535-472162af646c",
     "name": "Arise! Arise!",
     "phaseDetails": "Once Per Turn, Your Movement Phase",
     "phase": "movementPhase",
@@ -152,7 +152,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a61893c0-7c85-4e6d-a781-09fcb03ddc2f"
   },
   {
-    "id": "bd3fa534-7cf7-44fe-99f2-85b4a2e4772c",
+    "id": "253037fd-d7d2-49ff-9476-945281244ccb",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -167,7 +167,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "067a82f4-42c7-49d7-be99-9875a6f9c6b2"
   },
   {
-    "id": "417671bf-78b3-4f14-b785-cc242f79ac90",
+    "id": "75174bb3-4f36-4bc2-9b95-81f19e841663",
     "name": "Unnatural Edge",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -182,7 +182,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6c8e45e6-445d-49f7-a123-c5591eb6262a"
   },
   {
-    "id": "0bb1586e-74bb-4fe2-bb7a-42eca8efc76c",
+    "id": "3fbcbaa3-3aea-4adf-8e04-897da168cbd9",
     "name": "Drunken Revelry",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -197,7 +197,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e0ad48ae-9595-458e-8c3f-5b0c0013a2ff"
   },
   {
-    "id": "c2cce266-701b-4ab6-8631-7d4cc10cc773",
+    "id": "ee7f417a-2aa7-467a-93a3-ba91fcc7d40a",
     "name": "Dormant Energies",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -212,7 +212,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10376888-c232-49e8-ab04-1d5e578bd5a4"
   },
   {
-    "id": "1ec391fb-09b7-4f6a-9f0a-8f90a5dc88cc",
+    "id": "b5e352b3-495d-4f99-bdca-bb1b44fa2e08",
     "name": "Lord of the Hammerhands",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -227,7 +227,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3375d9ce-66c7-4910-ad52-332acd2aed64"
   },
   {
-    "id": "0ea870c6-04d0-410d-bb38-13836d67cda5",
+    "id": "bec2e1b1-c140-4a82-8891-ac797b60a70b",
     "name": "Crushing Coils",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -242,7 +242,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3b65c86b-ba80-44b6-8981-8910af1e4148"
   },
   {
-    "id": "21f20243-e9a2-4ff3-b3f8-39aeea9f79f7",
+    "id": "f04effe0-86cf-4a26-b313-2154eabcebf0",
     "name": "Wall Crawler",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -257,7 +257,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8de47fd2-656f-4f93-b79b-211777230138"
   },
   {
-    "id": "e4e7eb2d-d05b-4a67-9145-e77171dbaca1",
+    "id": "94124801-981d-46ec-9866-9201ab872d9f",
     "name": "The Point of Death",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -272,7 +272,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dfba2d87-ee04-432d-b25e-de225fa39714"
   },
   {
-    "id": "268fd78b-bec0-4d30-8375-d7e68d413777",
+    "id": "fe7e5e2e-9a53-497f-b277-2f0fe4375e4a",
     "name": "Bully of the First Degree",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -287,7 +287,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ee8b9685-8e5c-4207-adf6-f5762ea0fe7f"
   },
   {
-    "id": "e47ef5ed-b154-4081-886d-fa311264c3a5",
+    "id": "93d764b5-1658-4bd1-8aa0-9e6bd4278e34",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -302,7 +302,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a5eacd7e-78fd-4426-9edd-906448ac4337"
   },
   {
-    "id": "58ab3198-4894-4b8b-895a-7446359cdd7b",
+    "id": "35d525e5-cdf6-4dd9-8d6f-3c43f7055016",
     "name": "Thricefold Savagery",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -317,7 +317,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f3bfc458-75e6-4741-a483-e219f17275ea"
   },
   {
-    "id": "3731d9df-fcb1-4f7c-b66d-21a44b1e13c3",
+    "id": "8b326cfd-a6ab-46e9-a3a7-d22bd7d1ae0e",
     "name": "Cling to the Shadows",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -332,7 +332,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f407607a-c76e-494b-b96b-e6ec75b75a67"
   },
   {
-    "id": "8c676319-f2c5-431b-9df9-50280d730ffd",
+    "id": "59f60d92-4061-4167-ba1c-0dd720902101",
     "name": "Iron Heart of Khaine",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -347,7 +347,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62e41155-fb20-4e92-b0f8-5cf2adf45bc9"
   },
   {
-    "id": "bee004a4-659d-4ea1-8da5-e025c49912fe",
+    "id": "c3973752-ac6e-4636-a7c7-d6d72c9b7598",
     "name": "Myrmidon Rage",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -362,7 +362,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "88ab4833-847f-4958-adad-38361aa4f23c"
   },
   {
-    "id": "775d16dd-247f-47d8-b76c-0b3ffcb3a9c6",
+    "id": "6d7b9433-b6f5-41cb-8e6c-104362430468",
     "name": "The Eye of Sheerian",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -377,7 +377,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9"
   },
   {
-    "id": "dda26d71-058b-4876-9ae3-8da8192302bd",
+    "id": "35b66c76-039b-4fc6-9ecf-0f14b38d8c36",
     "name": "Crush to Death",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -392,7 +392,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "86bbdce1-0803-4499-b434-dae4f795d7db"
   },
   {
-    "id": "35ac1e7b-c1e6-4b77-9331-35593865c349",
+    "id": "f5103b93-a06b-4d4b-bd83-7efe2e18029f",
     "name": "Lay The Beast Low",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -407,7 +407,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ab1943cd-5d74-45a8-99c4-78fa9c6a793d"
   },
   {
-    "id": "02bd2cce-dd26-4d62-a19e-679b6fb82ac0",
+    "id": "595231e9-fd0b-4ad4-b96d-f3b95eda4923",
     "name": "Castellan of Azyr",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -422,7 +422,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f4d8a357-e025-4166-b08b-a39f850d07a7"
   },
   {
-    "id": "f3f16878-9dcc-4213-b525-65c9955ef3d0",
+    "id": "6dd24666-9eb0-422c-b46d-49e3a169947c",
     "name": "Disrupter of the Arcane",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -437,7 +437,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "358a2c45-0895-48ca-aa7c-eaad45d0c45d"
   },
   {
-    "id": "4f83758d-00aa-40ec-a53d-482e503c33b7",
+    "id": "b86386e8-4a0d-4916-b649-fc53ec2067e8",
     "name": "Babbling Stream of Secrets",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -452,7 +452,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "563a27a0-94a0-4de3-a4d5-a13a26982261"
   },
   {
-    "id": "4eb42b7c-b9d8-4287-a357-f12fc619bcdc",
+    "id": "2de17cf4-42b2-41d7-9918-0fd394bd1592",
     "name": "Arch-Manipulator",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -467,7 +467,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b475bfca-7ecb-4ef5-87d1-c322366877ae"
   },
   {
-    "id": "a106c8f8-314f-4328-b64e-df5f569b59aa",
+    "id": "5a344199-647f-460f-87d1-aebf1c08cad5",
     "name": "Slavering For Sensation",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -482,7 +482,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d9bb8b0d-2b27-4a10-a6ec-f3207c466b4f"
   },
   {
-    "id": "505965e6-d740-4e93-9c62-40b2209940a0",
+    "id": "8a8fbc17-c832-4c49-b921-ac2fcb9d4ce6",
     "name": "Champion of Kurnoth",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -497,7 +497,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fffec540-94d6-4a09-a160-8b22683e40c5"
   },
   {
-    "id": "c6dd2ad8-cf4e-4a0e-97c4-bf8ad23d7051",
+    "id": "8165af4a-fac7-4992-bbb1-b8623ee50f91",
     "name": "Frenzied Hunters",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -512,7 +512,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e38ffae7-acc8-49da-a6e2-143100668b6d"
   },
   {
-    "id": "17fce5c7-da85-4f9f-9021-6577c822e7b8",
+    "id": "27947608-ee9c-42c9-a4a8-ddcbc4193af1",
     "name": "Vanguard Chamber",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -527,7 +527,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1cac6fd6-0bd0-4146-a158-702d9a9bd054"
   },
   {
-    "id": "ccae47a6-e141-4c04-89d8-7bda94670a35",
+    "id": "e50e4fec-b23a-4b28-8e1c-7f700ac0f27b",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -542,7 +542,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ae694004-b117-4916-8865-08b979fb9e26"
   },
   {
-    "id": "6a2c7b3b-0e65-4ef7-af41-1256b50d9fc2",
+    "id": "a80a129b-1226-4565-9ba0-369bfae486c6",
     "name": "Voice of Slaanesh",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -557,7 +557,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0ff40368-54ff-4e2c-aff4-3c8dca56a2e0"
   },
   {
-    "id": "df8cd074-e69c-4594-aec3-68cf6175992e",
+    "id": "2243deef-4db6-4763-a89e-036bbbaa372c",
     "name": "Light-footed Killers",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -572,7 +572,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9b0f3d50-308c-4833-91a8-57a3cb378265"
   },
   {
-    "id": "1195c9db-550f-4d09-9dd6-a245aedcd016",
+    "id": "2c11c69a-37f5-4217-a234-dad004a37260",
     "name": "Realmscribe",
     "phaseDetails": "Once Per Turn (Army), Reaction: You declared a Summon Spell ability for this unit",
     "phase": "heroPhase",
@@ -587,7 +587,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6d1e74f-d6d8-4946-9ce0-3f6d275afea6"
   },
   {
-    "id": "87f28f6b-0036-4235-ab54-8d5168b7db70",
+    "id": "e4a40e72-01b7-47c0-a147-addffeff675d",
     "name": "Slashing Fins",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -602,7 +602,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4ec46390-b344-4a3c-bb98-1382c45ee6f1"
   },
   {
-    "id": "afb0ca7f-a055-46f9-a380-fe0b2b24ab1f",
+    "id": "6671e31c-b065-4ec2-949f-4c1719cfc79b",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -617,7 +617,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b479ffad-76ef-4c16-9b8c-68493996cc43"
   },
   {
-    "id": "848a0b3e-4ce6-490a-b307-cf79287a3e95",
+    "id": "4f1252a5-4571-4395-a49f-3454fc34bc5a",
     "name": "Wade and Smash",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -632,7 +632,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b92c2f90-f6a1-4b0d-995b-2735def73d85"
   },
   {
-    "id": "b4ffc624-d044-463b-974c-3bc3b8f355bc",
+    "id": "86d13302-b1c3-4519-a375-10f7881ff2a5",
     "name": "Crushing Stomps",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -647,7 +647,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a39fd76-9257-4f20-957e-c4747e7d18b9"
   },
   {
-    "id": "0fc06108-8b69-4655-9339-11b3d286945e",
+    "id": "2ff98266-19d0-471b-9029-e08c700c9900",
     "name": "Grasping Tongue",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -662,7 +662,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "78c905b1-e20a-4cc4-a028-d7728b2252b1"
   },
   {
-    "id": "3c52b94f-cb07-40a4-b0f3-b128de29569d",
+    "id": "b4001d9f-47f0-45c3-b74a-5c7dbf62a9a1",
     "name": "Throat of Ghur",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -677,7 +677,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "444f4e9b-ed43-4fe0-aa24-7e25f78abec0"
   },
   {
-    "id": "a7a5435b-9006-4656-8366-94041d867e07",
+    "id": "b6e4710e-f8b4-430b-ace2-0bb6d6a8e274",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -692,7 +692,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "667c734c-c58e-47cc-a278-a21d9ab2ccf5"
   },
   {
-    "id": "4899f3a2-3ca3-4eb7-a784-4f030700ff83",
+    "id": "938a90d1-27a7-4186-b4b0-7255f7708237",
     "name": "Hand of Dust",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -704,10 +704,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a visible enemy Hero or Monster in combat with this unit to be the target.",
     "effect": "Hide a dice in one of your hands or under one of two appropriate containers. Your opponent must pick one of your hands or containers. If they pick the one hiding the dice, this ability has no effect. If they pick the empty one, the target is automatically destroyed.",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31"
+    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14"
   },
   {
-    "id": "ac73b452-b54f-4dbd-9cae-6b6e07a3493f",
+    "id": "8c46d3b2-4875-4e65-b240-e3de4007b512",
     "name": "Weapons of Banishment",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -722,7 +722,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fca3d71c-df5f-4216-bb78-cd24315caf8a"
   },
   {
-    "id": "a9848b37-c00e-49fe-851a-28dc461de750",
+    "id": "9210204b-eec9-4e16-8b7b-747e5e57e03e",
     "name": "Rolling Doom",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -737,7 +737,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "df17a053-435e-48c5-9905-88ebe2557e8b"
   },
   {
-    "id": "439ec0d1-3cac-4052-b909-d9e76bc35ee1",
+    "id": "ce0e910c-e856-4fbd-822b-43f652dbdb68",
     "name": "Scrolls of Sorcery",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -752,7 +752,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "65a148a4-61f3-4c35-99b9-9fde5e1fe5a5"
   },
   {
-    "id": "392000c1-5975-49ad-a414-b2a8a799405e",
+    "id": "0114c046-fff7-440b-bb51-ec9492732cc0",
     "name": "Windcharger Arrows",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -767,7 +767,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "409cb9be-7b8c-4afc-838c-80796f6fce4a"
   },
   {
-    "id": "8daf59b9-cbd1-45c8-ab39-b00d84724c37",
+    "id": "9e4f0d15-35b2-4585-bbc0-960c15916e6f",
     "name": "Corrupting Influence",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -782,7 +782,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6af999c1-35a6-4f3f-9131-fa909616ce83"
   },
   {
-    "id": "7cca9c09-2317-4e59-bd67-6a235be78b4c",
+    "id": "ccfa6eab-b295-4423-98ee-fda186b1db50",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -797,7 +797,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6d0c557-1723-43bd-bede-b5a89a078710"
   },
   {
-    "id": "d45894da-0dbb-4f22-8242-1016c6dfff82",
+    "id": "e1bedd83-1b13-4ccb-b3f5-df41d06de824",
     "name": "Death on Tattered Wings",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -812,7 +812,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5297937a-5422-4814-9e64-5d3d021ac99b"
   },
   {
-    "id": "a61df6ee-ef9c-4bfa-a8fa-19561789637a",
+    "id": "1ba1303e-83de-435f-b7f5-9a739e94bb99",
     "name": "Lashing Tail",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -827,7 +827,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e5641197-1fc4-46a6-814b-6de950219cd5"
   },
   {
-    "id": "64ba5d4c-d928-40b7-aaaf-05744496f26c",
+    "id": "34058c6c-cbdf-4d38-8c1c-cb5a9d814f5b",
     "name": "Bloodthirsty Predators",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -842,7 +842,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "008ca1b6-c4e2-4a58-b1ec-84ed4f32a759"
   },
   {
-    "id": "2e30f9bb-bfe3-4918-9374-f9526598df32",
+    "id": "2d323ae6-9f07-48f3-919f-79ea5eac03b3",
     "name": "Hunters of Majestic Beasts",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -857,7 +857,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5dcc40b7-af26-4fa6-96ee-66270af4f3ef"
   },
   {
-    "id": "86a4f45c-b96e-4fdf-8468-e799b8df636a",
+    "id": "471a24a7-cf36-4bd5-895b-b27c7d32a3d4",
     "name": "Justice From Azyr",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -872,7 +872,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "454bba4c-e343-4cd2-83f6-bd8e3d18f36a"
   },
   {
-    "id": "9218fb21-8570-41ab-8a51-72e21c40c77e",
+    "id": "1c9ed2b0-c203-4457-a037-6102c1fb2d49",
     "name": "Bolt of Change",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -887,7 +887,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a2767011-abb9-4484-9995-554289b7de58"
   },
   {
-    "id": "64594613-296b-4408-89ef-db36bdce408b",
+    "id": "cb78ffe4-29eb-4daf-95f8-1fee9db735e4",
     "name": "Deintalos the Exile",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -902,7 +902,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b66a39a0-4d2c-4687-816e-babf11f7da63"
   },
   {
-    "id": "355db008-e5b4-4ddd-a66b-4eda73e08fa9",
+    "id": "8255f8ca-ee47-4529-9ec5-c024f9d2d11b",
     "name": "Duty Unto Death",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -917,7 +917,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e2ca438e-bdb7-4aa9-8929-134aee79376f"
   },
   {
-    "id": "42d8f0a7-4208-42dd-aa44-b6de797edb59",
+    "id": "444749ab-b727-4126-9b24-b0f24deb59bc",
     "name": "Wraithstorm",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -932,7 +932,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5737be22-e5b2-4fba-aae4-1ccda39f009f"
   },
   {
-    "id": "7e9d107b-0817-4d8b-bae1-e46869400ffd",
+    "id": "3eb83801-8dc7-4762-907d-8db77cfdb220",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -947,7 +947,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "452f26fe-9c6e-4c8c-ae0a-43322cf62ef1"
   },
   {
-    "id": "b01b00b3-2688-4505-869c-ed81eb745487",
+    "id": "69c9add1-cb8f-4e36-9dfc-0a739411539f",
     "name": "Feedin' Time",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -962,7 +962,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a9f48085-61e9-4427-9470-19b9d2005190"
   },
   {
-    "id": "d438b5bd-0f27-431b-9d65-ee15df7f90ef",
+    "id": "ab21ecc4-0b44-40ad-b5a6-079c67adecd4",
     "name": "Release the Fanatics!",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -977,7 +977,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9c2d427a-7742-4d12-9d7f-c7f5ee60e1fe"
   },
   {
-    "id": "5a5ac54b-2f9a-494c-a36f-e58617894975",
+    "id": "e4d8170f-78b2-481e-92e6-2d9ca7b7ce0a",
     "name": "Infernal Sorcery",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -992,7 +992,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61"
   },
   {
-    "id": "8895f6a6-ec14-408a-9dd0-c007e00d39c5",
+    "id": "07b17666-b95d-45fe-aeec-1e1ee0c944cd",
     "name": "Prey of the Blood God",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -1007,7 +1007,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "256dbc2a-c9de-4373-82a9-673821e7f105"
   },
   {
-    "id": "861acc4b-fadf-4ea5-9a9a-129500b90c06",
+    "id": "03dffc7e-c8e0-42a9-8323-4984cff571aa",
     "name": "Murder of Crows",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -1022,7 +1022,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d3270c99-ec06-40a8-b997-9dd2c7233140"
   },
   {
-    "id": "b790dab5-f16f-499e-b056-661798582a46",
+    "id": "c8efb952-96be-4f36-8e65-226db922a727",
     "name": "All Part of Da Plan",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -1037,7 +1037,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b12ae934-956b-4dd0-949d-1e863694a14e"
   },
   {
-    "id": "dff2495d-3206-419d-a50f-32a690d569f9",
+    "id": "dbaa062c-43a3-4781-aa95-b7334362b63d",
     "name": "Aura of Protection",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1052,7 +1052,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e51f236c-2669-4303-b34c-735f35e2946f"
   },
   {
-    "id": "c0b35879-f993-414f-b5e7-13bb59566d81",
+    "id": "0415babd-9f1f-4e26-99d9-3672d51ebcad",
     "name": "Spirit-scouring Flames",
     "phaseDetails": "Once Per Turn (Army), Any Shooting Phase",
     "phase": "shootingPhase",
@@ -1067,7 +1067,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a989a965-579b-4d60-812f-ecb1fda79f5c"
   },
   {
-    "id": "05422c70-9e9a-47f5-b5a1-bb42f76e37e9",
+    "id": "a0d5cad0-c977-4c67-b9be-5f395dd45e2b",
     "name": "Knell of Doom",
     "phaseDetails": "Once Per Battle (Army), Enemy Hero Phase",
     "phase": "heroPhase",
@@ -1082,7 +1082,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e497ecff-fc44-4435-ae1a-84e023d0fc9d"
   },
   {
-    "id": "caa76d40-8523-470e-817b-21d4bf34878f",
+    "id": "ce594177-d72c-4ed2-83d6-a19fbc54ba39",
     "name": "Implacable Advance",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -1097,7 +1097,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7f3ef8d7-e3bd-4984-b285-f5268b0c7b83"
   },
   {
-    "id": "68a03f6a-79d6-4c2a-a6d8-392597352778",
+    "id": "3a62fb11-a763-4ede-be42-dde365a2344e",
     "name": "Stuff 'Em In Me Bag",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -1112,7 +1112,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "76da38fc-17be-4c60-a502-881a7ad2e9fe"
   },
   {
-    "id": "6507794f-8ebe-4fb2-90a5-498620317223",
+    "id": "a5b58c78-8abb-4159-9fb4-25d75a652e06",
     "name": "Stonemage Stance",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -1127,7 +1127,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "84f34926-6f89-4d47-98b5-a77d10006778"
   },
   {
-    "id": "0b6bc0d0-fa61-4f28-a362-9a64ce3121b1",
+    "id": "d108da53-557d-4088-9962-6c1d2e774920",
     "name": "Searing Desert Winds",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -1142,7 +1142,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "162f3096-e6d0-4759-985e-9a5b44d6d9dd"
   },
   {
-    "id": "4a08f06d-9f19-42dd-9e30-bbd75cc9c484",
+    "id": "88bcceae-a3d0-4987-81f5-93fce6a74c94",
     "name": "Spectral Hunters",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -1157,7 +1157,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "63e04580-196f-4cca-847a-beaba023f976"
   },
   {
-    "id": "1a3888b1-6100-4d15-9ae1-71a2612dc0a8",
+    "id": "22946809-4e5c-4b3c-a739-df0dd89a3388",
     "name": "Go For Da Eyes",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -1172,7 +1172,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5946a887-261e-4028-9602-006df64908e7"
   },
   {
-    "id": "25a17333-987d-4094-858c-5026dec1c40e",
+    "id": "d7636c98-b593-4200-8d26-5d595d1109e6",
     "name": "Bloodwrack Stare",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -1187,7 +1187,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d09668d1-c67f-4d50-9870-bca8f7d16bd6"
   },
   {
-    "id": "98ffa58f-839e-44d7-aa9f-bcac8feed167",
+    "id": "97d7bda5-af3f-459d-8c87-76f3f237d2e3",
     "name": "You Messin'?",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -1202,7 +1202,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "43e9de70-e68d-4549-ae80-4242ecc8bf7d"
   },
   {
-    "id": "c78b25ab-324e-437a-aedd-b8148e167257",
+    "id": "4b1a5404-ca1d-4a6c-bd25-3a8ae6d647e7",
     "name": "Oath of Murder",
     "phaseDetails": "Once Per Battle, End of Any Turn",
     "phase": "endOfTurn",
@@ -1217,7 +1217,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "95a1be8b-a98a-4bae-9758-ea90f03119c9"
   },
   {
-    "id": "352831d2-e0fe-4a1d-9e44-70afd298327f",
+    "id": "674a4041-3027-495e-9199-f2d1620f4724",
     "name": "Alarielle's Song",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1232,7 +1232,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0d4a201e-be35-4e15-b412-6b766ac210cf"
   },
   {
-    "id": "3c18351c-b4da-40fd-9be7-0ab50a4f5969",
+    "id": "ed9942ef-2f06-4cd8-8acd-8899f48e58cc",
     "name": "Bomb Racks",
     "phaseDetails": "Once Per Battle, Your Movement Phase",
     "phase": "movementPhase",
@@ -1247,7 +1247,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10ebcd01-0bc8-48d4-b173-68f2dc2b25e4"
   },
   {
-    "id": "4ec7104d-f52e-4a2a-a67e-0b67e38e70fd",
+    "id": "3edfd4db-be3e-4bcf-9f03-2e53f72d76cc",
     "name": "Blood For The Blood God!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -1262,7 +1262,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "78c7de99-816b-4a6f-876b-430d9f2903cb"
   },
   {
-    "id": "ddc0d1bc-1149-423c-a8e2-89d49202a0af",
+    "id": "bec97bb1-3726-4139-92cc-b22bb5d0d316",
     "name": "Gruesome Bombardment",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -1277,7 +1277,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6b38ecf9-d706-4b16-9e93-6d20f80edb9b"
   },
   {
-    "id": "28b97bf5-6024-4940-8841-2e8422cf9c85",
+    "id": "5e424649-eea0-43a7-a2b0-e7f5e3153118",
     "name": "Avatar of Destruction",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1289,10 +1289,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it (ward rolls cannot be made for those damage points).",
     "abilityAndCommandIcon": "defensive",
-    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324"
+    "warscrollId": "4e49066f-602e-446b-9107-1adec25aa3ac"
   },
   {
-    "id": "e8350137-d952-43a2-8583-33c57b44ade1",
+    "id": "02f43d38-244d-4cf0-a230-9187a7365573",
     "name": "Circling in the Skies Above",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -1307,7 +1307,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f369ef8c-5690-4153-ae23-9024b9e26158"
   },
   {
-    "id": "02ee99c6-e4e8-4040-8e45-97dcdb72d14f",
+    "id": "8b0a6f28-a626-4dcb-af52-f2f360363831",
     "name": "Shieldwall",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1322,7 +1322,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f2a57a58-f553-4645-94cf-fe5664df205d"
   },
   {
-    "id": "dfa35f9d-3a28-4cc2-b20f-d691192e72e6",
+    "id": "05f0aabb-0d33-45f0-bf2d-e54f30d03e5f",
     "name": "Fleet of Hoof",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -1337,7 +1337,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "25e8b7b8-7f52-4729-bd97-d9def08279fc"
   },
   {
-    "id": "5668ce8d-15b7-485f-8f5d-edb0250ef164",
+    "id": "a9e758df-f00e-4432-93b6-f91b90f8561e",
     "name": "'Aye Aye, Captain!'",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -1352,7 +1352,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "128b3331-a6b6-4c1e-9f1f-ee522dad3d0b"
   },
   {
-    "id": "63c8cee8-e739-4bf8-bab2-b57e9d0ff897",
+    "id": "ad62b1db-b50e-4c5b-8161-f685cb18c44f",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -1364,10 +1364,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "While this unit has 10 or more damage points, the Attacks characteristic of The Dread Mace is 4 and this unit has a Control characteristic of 10.",
     "abilityAndCommandIcon": "battleDamaged",
-    "warscrollId": "28647412-df3c-4aaf-9519-3f7966ef367d"
+    "warscrollId": "0992ef28-02f3-4b03-a740-f818e1b3ff00"
   },
   {
-    "id": "03115fe8-c785-4f39-8b9e-794ceefa9efe",
+    "id": "d1eb73b8-21c3-4bd3-9e54-6f70937d8751",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -1382,7 +1382,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "343a59ae-b14c-426e-b5aa-465507409382"
   },
   {
-    "id": "9bcb2580-3b29-4edc-ba71-2910e14386ef",
+    "id": "f63c643f-cedb-47e5-930e-9c45e7e32e6f",
     "name": "Vanguard Chamber",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -1397,7 +1397,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9d0f516d-7f58-45f1-9736-86b0afa9e0ec"
   },
   {
-    "id": "d0a9cc73-35a9-4108-8bdb-188d9e2714e6",
+    "id": "d3123630-cdff-4408-b249-521c368dad5f",
     "name": "Enshrouding Fumes",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1412,7 +1412,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f06eb6b9-bc29-4b13-8a69-50dac1881ac6"
   },
   {
-    "id": "a187256b-1850-48ef-a286-36f2f13258ff",
+    "id": "b8eefcea-b901-49f6-9a3f-38ab70e7cada",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -1427,7 +1427,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6af999c1-35a6-4f3f-9131-fa909616ce83"
   },
   {
-    "id": "8ef355b1-0097-46f6-8aec-c2f6191832db",
+    "id": "f8444cac-a2f7-4078-94ee-eb1a4a84054e",
     "name": "Magic-touched",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -1442,7 +1442,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9027df1f-9754-421e-b4da-dfe86e8b28e0"
   },
   {
-    "id": "daab3094-a044-4560-a9c7-a890da7bce0d",
+    "id": "6507f4b4-06a9-4dab-8b07-3f32915ed67b",
     "name": "First of the Pack",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -1457,7 +1457,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "256dbc2a-c9de-4373-82a9-673821e7f105"
   },
   {
-    "id": "b8681a0e-4a13-45ce-b5e5-e95e738f7b3c",
+    "id": "da14daea-ef65-487e-94b6-176dc98e2041",
     "name": "Vantage Point",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -1472,7 +1472,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "525f6c9a-f82d-48e0-8894-3ca86ecc6f32"
   },
   {
-    "id": "1ff0bdf3-351f-435f-94dc-8e1232aaf888",
+    "id": "cc12e4ff-8ba0-4de6-a459-794a7b1bbab3",
     "name": "Behemoth Brawler",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1487,7 +1487,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1"
   },
   {
-    "id": "7a20775f-4ef4-4d18-bf49-db45b183cd69",
+    "id": "878152ac-7129-400f-8f5a-a8a93048b4ee",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -1502,7 +1502,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f34f8ea4-13e1-4512-8b5f-0b931ec2667f"
   },
   {
-    "id": "35c58dd2-50c7-4641-89b9-45e8e2d628c7",
+    "id": "7f537b37-105e-4fcf-a8cc-e877622b1e2b",
     "name": "Bone Harvest",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -1517,7 +1517,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "efa4220c-9761-40ef-9813-77ed86e244aa"
   },
   {
-    "id": "e8006a06-dea5-4953-b358-6367e679eda9",
+    "id": "91019ff5-7091-415a-b8ef-f9a53e8a2215",
     "name": "Lord of the Blightkings",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -1532,7 +1532,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a787f0f4-9a69-4761-bb32-f7c6c63b52e6"
   },
   {
-    "id": "1a6188ba-5e43-4ab7-9dda-a6a31f58d145",
+    "id": "e86ce255-b5f7-4185-aad9-c4fc64d971d9",
     "name": "Waves of Mutation",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -1547,7 +1547,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13fa2a54-37f5-4b31-88ea-c7b51c8b9b40"
   },
   {
-    "id": "a4ed62aa-f8d7-4fbb-a5af-a78a3e1f8c27",
+    "id": "6c6a09fb-bbb8-438c-8801-da29892fb177",
     "name": "First Among Akhelians",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -1562,7 +1562,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ffbee7c5-051d-4adb-90e3-e2e6a645bb70"
   },
   {
-    "id": "1dc73435-93b5-4d6d-8023-728abec95ee5",
+    "id": "d2263ab0-33c9-428c-b815-808f9d80e9eb",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -1577,7 +1577,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d980cc25-e4c1-4276-9088-fabbc3f722e1"
   },
   {
-    "id": "89921447-5ce8-4515-8137-ed4a9d382108",
+    "id": "de07938a-b7ab-4719-8f5c-a1e38730a7aa",
     "name": "Steady Aim",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -1592,7 +1592,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bb84f624-f063-43a5-8906-41d409fa9a9b"
   },
   {
-    "id": "14a21b11-6027-40ce-b6b7-cb29b284c908",
+    "id": "a1122259-45e3-4c87-b24a-f22d1e803cf8",
     "name": "Vulcha Dive",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -1607,7 +1607,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0d4b9c17-db0c-410b-9f51-92c4a8b58a10"
   },
   {
-    "id": "3903da4e-de4c-435c-95af-e1cab5756b16",
+    "id": "736512c9-a660-4b3f-ba1a-fda5d00bdc3b",
     "name": "Royal Bodyguard",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1622,7 +1622,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cfaf9dad-5682-4fc2-83bf-28efa1c71f1b"
   },
   {
-    "id": "b73c049c-f2b3-49ed-b54c-f95604f03dfc",
+    "id": "a712d00e-d713-4eda-8e33-90df34e41d4c",
     "name": "Zephyrspites",
     "phaseDetails": "Once Per Turn, Any Shooting Phase",
     "phase": "shootingPhase",
@@ -1637,7 +1637,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e9a93214-b15c-448f-b749-5e95bb71613a"
   },
   {
-    "id": "4c9984b0-5fa1-41db-8f74-288f3e27846e",
+    "id": "84df01cd-e1af-48be-bb3d-22ad5eb20b3c",
     "name": "Come Then, Amuse Us",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -1652,7 +1652,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "60dcc9cd-0b08-4579-a849-4d16684e6970"
   },
   {
-    "id": "d26e8f2a-00f2-45ee-bf2a-f38dd019ffa2",
+    "id": "cbe82a46-8b57-4feb-bbff-abaf3fffef4a",
     "name": "Oath of Bloodshed",
     "phaseDetails": "Once Per Battle, End of Any Turn",
     "phase": "endOfTurn",
@@ -1667,7 +1667,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "eb668dd3-2a2f-447c-9dc3-eef1a9f26e49"
   },
   {
-    "id": "d2e1f521-a12c-4a2a-91e9-822977bc9697",
+    "id": "ac636b15-1149-4fbb-b7b4-2d67c454c72e",
     "name": "Gaping Maw",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -1682,7 +1682,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64303de5-ba4e-4a76-a12b-95a0b7fac376"
   },
   {
-    "id": "819410f8-7bb5-4048-a7d4-cb7ac424faed",
+    "id": "fd70c3d7-b726-4360-ad0c-07de89085bc4",
     "name": "Regeneration",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -1697,7 +1697,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bc37599d-0fe8-4c53-a1cb-f11ab18f22f8"
   },
   {
-    "id": "e1d07cc1-9860-4340-911b-682dbd8e7825",
+    "id": "4379ea69-5ddd-45f1-ad56-9dc198853e93",
     "name": "Rise From The Depths",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -1712,7 +1712,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "da308fad-d975-48bc-b53f-6a895c5d1f92"
   },
   {
-    "id": "f0d88df1-538d-4349-bb93-f0685da5dbc1",
+    "id": "aee526eb-4747-4336-98de-99a4aa833f23",
     "name": "Secret Tunnels",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -1727,7 +1727,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bea93bc3-f923-4def-986a-e1100495798a"
   },
   {
-    "id": "93583818-0609-4d3d-99d5-afcd91cdc5a9",
+    "id": "0aec884b-22d6-4432-898a-530c96cb695f",
     "name": "'Bring Every Gun to Bear'",
     "phaseDetails": "Once Per Battle (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -1742,7 +1742,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f52dbbc4-b942-46cb-a4ac-53018e73c35e"
   },
   {
-    "id": "5b9d01f0-57c6-4102-8eda-2906230ad60a",
+    "id": "e01d4cf5-2c9a-49cd-9eb6-a563f1e88d65",
     "name": "Spending the Forge",
     "phaseDetails": "Once Per Battle (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -1757,7 +1757,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "33def0da-f8c0-4ad5-aaa3-7acd3ac56670"
   },
   {
-    "id": "6f2f528f-bea3-471e-9d5b-615ff068ade8",
+    "id": "7b1fe578-2f78-4340-8c37-3498c9e474ab",
     "name": "Still Their Breath!",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -1772,7 +1772,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "56a7bac6-dad9-44c3-baa4-56eeb9a0f803"
   },
   {
-    "id": "7399fc2b-320d-40de-9f92-7dfe8e71d05b",
+    "id": "ef216a15-1a2d-4698-939c-94fad0690a73",
     "name": "Commanding Presence",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -1787,7 +1787,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62014771-97f7-4e4b-a201-fced2fb9fde9"
   },
   {
-    "id": "af36a455-dee0-4d6f-9906-cfd02d318f7e",
+    "id": "70ca6294-48ed-43b6-a955-ce215be5c74c",
     "name": "Riders of Ruin",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -1802,7 +1802,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10b5f932-af4d-44b4-af57-25b72a5e61d4"
   },
   {
-    "id": "a9c9b33e-534e-4742-8eda-1594b5ec071c",
+    "id": "f557f992-659b-4590-9916-ecd2b61e72c9",
     "name": "Shock Gauntlets",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -1817,7 +1817,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b5a1374e-2519-4d17-9de8-292839796fd5"
   },
   {
-    "id": "9e24c010-3138-48c2-ac8c-cca117b8b638",
+    "id": "52e2edba-c11f-451a-9694-5b7a7dd4ecc2",
     "name": "Transmogrifying Beacon",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -1832,7 +1832,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b51b1157-e036-4698-a060-1bde181f3442"
   },
   {
-    "id": "21c7f419-6e3a-455a-9ed8-9828a533a5f6",
+    "id": "ca3ce8be-52cd-4467-a0cf-2ab005bc5ac0",
     "name": "Murderous Bloodlust",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -1847,7 +1847,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e3e712d1-f1d0-4ac4-861b-5da0d5137965"
   },
   {
-    "id": "5b0c2cc0-f6b8-4945-be2c-d6380b06680a",
+    "id": "230a5e52-9758-4852-8012-1d4a484d35d2",
     "name": "Bitterness of the Soul",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -1862,7 +1862,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "114aadba-44e0-49c7-9807-43df84c037c4"
   },
   {
-    "id": "6784cfb8-b1e9-4f8d-9ea3-91dbabe2f61d",
+    "id": "99399986-0d61-4c5f-b076-7a6f496c6056",
     "name": "A Pact Maintained",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1877,7 +1877,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b3268025-074a-40d0-95ae-11f1c68703f2"
   },
   {
-    "id": "5e0386c0-0ede-4270-8d45-64cd99b3706a",
+    "id": "7db8c13a-8eaf-4289-a74c-13ef649352f4",
     "name": "Slaughterous Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -1892,7 +1892,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0f50d5ad-ca84-4f93-9af6-6c396c98bf21"
   },
   {
-    "id": "ab870bf8-e4c6-45ff-a59f-32437634ced1",
+    "id": "81e29094-b711-48d2-802e-7ed9d4536b30",
     "name": "Sons of Behemat",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1907,7 +1907,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597"
   },
   {
-    "id": "04202a3f-ee8a-4332-a7fc-261b5713735f",
+    "id": "7ecc46ec-bdf2-41a8-893a-15cb37939644",
     "name": "Ego-driven Excess",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1922,7 +1922,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "95fdf55e-90ca-4217-befc-392dfb4580a9"
   },
   {
-    "id": "705f34dc-3b14-40a6-aa3f-69731bcf7b17",
+    "id": "70d50935-c0be-4f6f-a071-84ddc97286fb",
     "name": "Ensnared",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -1937,7 +1937,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "008ca1b6-c4e2-4a58-b1ec-84ed4f32a759"
   },
   {
-    "id": "5220b218-f66a-43de-b48c-8b1bc32b2b8a",
+    "id": "d65ff03f-bb35-4744-91d7-6a92cb65964d",
     "name": "Will of the Horned Rat",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -1952,7 +1952,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c7eb4898-9e61-4652-a539-53b69c92fc21"
   },
   {
-    "id": "2ce7514d-c44b-470b-b17b-aefd36faef5c",
+    "id": "08caebc9-1db6-489c-8ff0-03485fc5968b",
     "name": "Roar of Domination",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -1967,7 +1967,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640"
   },
   {
-    "id": "82fad7ad-71b3-4369-982a-e8bf89648ff1",
+    "id": "4e269d5f-65b2-4baa-b26b-a28f3c8ca071",
     "name": "Stalwart Defenders",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -1982,7 +1982,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c2bddef8-84df-4702-9161-62a6d06118e4"
   },
   {
-    "id": "0b7b51c6-fd7a-4473-834e-c236d26ade95",
+    "id": "cb2433ca-60b8-4333-8f9b-e199f9e59ed1",
     "name": "Attention Seekers",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -1997,7 +1997,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4a6747dd-0048-462f-8e05-361790ccba38"
   },
   {
-    "id": "52d2db72-a4e0-4a3e-88fe-88bf8651b775",
+    "id": "5dccde64-0237-4c8a-8bd3-edc760241733",
     "name": "Joyous Battle Fury",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -2012,7 +2012,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64e22b93-0add-409c-977c-effe16b4bce0"
   },
   {
-    "id": "eaf21f75-eeb2-401e-8ef6-3e092eb7fc23",
+    "id": "c82cea3a-3e68-475b-adde-d0bc6e9a2431",
     "name": "Gestalt Sorcery",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -2027,7 +2027,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6da027fd-3865-4ffa-b5a2-22f68a13a26d"
   },
   {
-    "id": "d9d5cf73-112d-47b0-a57f-b42c3a6cd0de",
+    "id": "5fceb79f-6a7c-41fa-8aa2-074189fb3ca6",
     "name": "Ghurish Ferocity",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -2042,7 +2042,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a2cbdeda-ca57-4393-a356-603b88781937"
   },
   {
-    "id": "59c16f2a-b504-429c-b754-6203fa1d9796",
+    "id": "8c54d591-8a36-405e-a071-3448c941d51a",
     "name": "Magic of the Realms",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -2057,7 +2057,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "96437952-817b-43d0-a549-f05b3919678c"
   },
   {
-    "id": "6e7607af-9b1d-4aa1-9172-bcf8e6e28375",
+    "id": "f07714bb-2d5a-4ac2-917e-86755df811e1",
     "name": "Expert Trackers",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -2072,7 +2072,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6edb189a-9d83-42ad-a0b5-8658a93e00a5"
   },
   {
-    "id": "03d63109-081e-4046-ab7c-f18886da261e",
+    "id": "1774b1e2-6b5e-4a63-b95b-c5cc7ea93593",
     "name": "Storm of Shemtek",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -2087,7 +2087,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "93fbfe69-b538-4e5a-b70e-d623c85c2bed"
   },
   {
-    "id": "46664eed-55e7-4401-8d98-3009a7420476",
+    "id": "e206c8a4-3156-434a-8049-7017f5b3a90c",
     "name": "Spear of the Kavaloi",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -2102,7 +2102,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "56a7bac6-dad9-44c3-baa4-56eeb9a0f803"
   },
   {
-    "id": "3dcc8ddd-ac91-444b-9e93-38855e1943df",
+    "id": "9049b35e-5026-4987-937d-4f996121a4d3",
     "name": "The Dark Master",
     "phaseDetails": "Once Per Battle, Enemy Hero Phase",
     "phase": "heroPhase",
@@ -2117,7 +2117,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f63f5685-9404-4c21-b5e2-6b616c8d2882"
   },
   {
-    "id": "d90d7eb6-3ff2-4200-8b7b-a6cc56c00db1",
+    "id": "118ecc02-66d6-4bef-8c14-7279348b68f8",
     "name": "Consecrate the Land",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -2132,7 +2132,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "421aba80-8d60-4d79-a167-be2a20b07ffd"
   },
   {
-    "id": "6d27c037-96c3-4225-8856-5319c6d59b66",
+    "id": "4f5d4964-5ce0-4396-a59a-cf193f09f69c",
     "name": "Quicksilver Speed",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -2147,7 +2147,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0f1866f1-33b8-40b7-9cae-a60cb31067b1"
   },
   {
-    "id": "8f56b334-7d38-4382-afe2-d72d4f65f51f",
+    "id": "3a7766b3-aeed-46cd-b0db-f7d4bdcaa04d",
     "name": "Tail Swipe",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -2162,7 +2162,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "65ac46b2-3b07-495f-8d43-e0a02f176553"
   },
   {
-    "id": "f39e7a1b-c8a0-4289-a3d2-fc2e36e51aca",
+    "id": "b53e3529-853e-4de4-8cdb-749d642bd24d",
     "name": "Berserkers",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -2177,7 +2177,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "de41d910-4324-4275-811f-fbe461963634"
   },
   {
-    "id": "915b7732-484e-4506-89bb-d5d48a163196",
+    "id": "77eaa106-7440-402c-8202-7b67fe7648d4",
     "name": "Unleashed Savagery",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -2192,7 +2192,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "eff8700d-594e-44ad-9b22-ea96284d49ce"
   },
   {
-    "id": "e292197a-b573-4899-a644-63d33c6a106c",
+    "id": "2057fbb2-f8fb-465a-88ec-cc930e29cb41",
     "name": "Travel The Waterways",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -2207,7 +2207,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5a727a3e-93c7-4b00-987a-128972b0a76c"
   },
   {
-    "id": "e2047901-791c-4c3b-8ec8-ee568c753574",
+    "id": "a451e05a-9b7a-4f28-b21d-86791cf0dff8",
     "name": "Ruler of All They Survey",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2222,7 +2222,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "03f7a4f0-cf00-4cf3-a267-62923a00c845"
   },
   {
-    "id": "8eefe7ae-1d55-4a1a-b0f6-136e796f889d",
+    "id": "f5527d99-6373-4086-9153-6470b2734d9c",
     "name": "Unleash The Beast",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -2237,7 +2237,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6c426b44-18f6-4a70-8214-7d13cf836435"
   },
   {
-    "id": "05c37e55-42c9-439f-8862-e8fabb0c57c8",
+    "id": "26ab88b8-2fdb-48f9-9405-642a9b74060d",
     "name": "Attendant Relic Envoy",
     "phaseDetails": "Start of Battle Round",
     "phase": "startOfTurn",
@@ -2252,7 +2252,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7150fa63-86cd-4776-b753-7268a71d4fd8"
   },
   {
-    "id": "71afd72e-9edc-40eb-a51b-28061befe865",
+    "id": "45c9a7b0-959a-49aa-9fc3-c54526160074",
     "name": "Steel and Sorcery",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -2267,7 +2267,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3e533a4c-2ac8-431e-84c2-a01ac57fdb62"
   },
   {
-    "id": "b19e58db-6f40-47eb-81e3-a54abfa91527",
+    "id": "c40ed06f-f53d-40cc-9cd0-666d25efcb50",
     "name": "Strangle Hex",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2282,7 +2282,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "86bbdce1-0803-4499-b434-dae4f795d7db"
   },
   {
-    "id": "0b95b56f-dba9-4cba-bf7a-1ba05f58d1f6",
+    "id": "a6856215-8e52-4eec-bdea-d351bd785ce6",
     "name": "Enthralling Splendour",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -2297,7 +2297,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0ff40368-54ff-4e2c-aff4-3c8dca56a2e0"
   },
   {
-    "id": "a389d770-7c15-4f7e-95ab-17907783a7e1",
+    "id": "c8a1a8bd-8ea1-4cf9-bc4c-7b285aa76ed5",
     "name": "Battlebroth",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2312,7 +2312,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1d470cd8-4470-499c-8c83-5341d0a560c3"
   },
   {
-    "id": "ba829315-ecc8-4429-abd7-44ca3262cdb4",
+    "id": "a05c98e3-8d19-42a5-9a31-d07028e14120",
     "name": "Lightning Pulse",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2327,7 +2327,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7797889c-6dd2-4f9c-86ac-29f3c6487a81"
   },
   {
-    "id": "a996efa5-7ca6-4a5b-90d6-23596ef79490",
+    "id": "ecaafc09-ccb9-47d1-bc73-bf44ed9c722e",
     "name": "Thunderstruck",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -2342,7 +2342,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "57f5b725-7940-46c3-9254-30f702bc7c25"
   },
   {
-    "id": "131fe1bd-5ca7-4a92-a8ef-d1e16a580c48",
+    "id": "68e45e12-f0be-4989-a9bd-c632878e3e50",
     "name": "Stone Skeleton",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -2357,7 +2357,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cc3fba3b-a65c-44f6-bf59-f8588065983c"
   },
   {
-    "id": "e629aba3-e2f4-4e9d-b0b3-de7986f5b091",
+    "id": "a21ceb2a-1ab8-43c6-b48a-01e9a1ff5a86",
     "name": "Prime Necrophoros",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -2372,7 +2372,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "33307074-e207-4cda-8c0c-ffb6060b0815"
   },
   {
-    "id": "60f07186-2c3f-4892-b65f-6e58a8946000",
+    "id": "07eb266b-58d6-4f1e-861d-7b78be557cb8",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -2387,7 +2387,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "af26720d-51aa-43a6-8e9c-4fadfd5f17e7"
   },
   {
-    "id": "d5267d9b-2fae-4ee8-b0a3-bd20fc883fac",
+    "id": "aba59016-8680-4ce7-abe9-1978ebe4fd77",
     "name": "Starstone Bolas",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -2402,7 +2402,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f3442df9-1235-4234-9f07-2dd3dbb52faa"
   },
   {
-    "id": "81f1fcb6-1051-48e6-b017-7607d496cef8",
+    "id": "c0c935fb-e9bf-4819-a73b-1b1c1cab95f3",
     "name": "Rousing Orator",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -2417,7 +2417,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7150fa63-86cd-4776-b753-7268a71d4fd8"
   },
   {
-    "id": "fb54ed78-f517-4367-bcf1-14f45befb1df",
+    "id": "f969739e-f465-4248-a243-f73f0d2412f8",
     "name": "Crazed Flock",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -2432,7 +2432,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "571ab394-6ed2-407d-ad90-31349ca0b379"
   },
   {
-    "id": "469432b3-a679-4f1f-b876-79f3aec02a4d",
+    "id": "0f8e498c-844d-4307-84fd-78baa867143e",
     "name": "Rhinox Charge",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -2447,7 +2447,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "55b045f3-4ed2-4a63-a783-41b9f4a27096"
   },
   {
-    "id": "85bfa12a-ed27-425b-b190-a6e1f5b54b79",
+    "id": "9715b9a0-1c00-4420-97f3-831b2c08bf8c",
     "name": "Aethersight",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -2462,7 +2462,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a04e937a-26ee-434e-84e6-58cd6eb064b7"
   },
   {
-    "id": "ad00a5ca-b20c-4dce-b330-df8f2b604af7",
+    "id": "adb1f040-b4d4-42e8-8786-6ef59a189eff",
     "name": "Tuskgor Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -2477,7 +2477,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "92b4a845-ce25-43d9-9be5-3cd0cefec0a8"
   },
   {
-    "id": "bca887fe-189f-4ac1-8087-ec69aab4f1db",
+    "id": "4c9bbe45-44a4-48e8-ab32-d1400ed55acd",
     "name": "The Slayer of Kings",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -2492,7 +2492,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9"
   },
   {
-    "id": "66806ea2-1a0a-4565-999c-d5029592f497",
+    "id": "23809b70-a766-4034-9856-4520eff534f3",
     "name": "Impaling Strikes",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -2507,7 +2507,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d6546dde-cc29-45b7-9bb2-3d6d966ddc62"
   },
   {
-    "id": "460dacd7-f6ad-428a-b1c5-45df466f7b21",
+    "id": "d6d066b6-3750-4ab7-859b-32960c6a789c",
     "name": "Deadly Gaze",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2522,7 +2522,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "226657de-ad5f-4a3a-99a0-5be8a49e3a84"
   },
   {
-    "id": "8b2c8e09-c0d1-4ddf-b603-3bde58b5eebe",
+    "id": "83fc48be-cd00-4144-a98f-ee1c332b89e5",
     "name": "Get Bashin'!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -2537,7 +2537,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f8e23183-2046-40e9-8c27-c44629a13f33"
   },
   {
-    "id": "191d5906-9321-4186-99d5-2a581f972292",
+    "id": "178000f4-6e67-470d-af80-07d734824387",
     "name": "Royal Bodyguard",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -2552,7 +2552,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b4f92c0a-a4b3-4853-9b4b-310967e433ca"
   },
   {
-    "id": "b39e7816-c17e-4e11-a264-8923ca3a8857",
+    "id": "76c2f518-1136-402b-8f62-5732b9ea3fd6",
     "name": "Son of Behemat",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -2567,7 +2567,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15"
   },
   {
-    "id": "aee56520-ce8f-470a-b704-ecce3ca64e0c",
+    "id": "4d4b23d3-b95f-4714-8f88-495de9097735",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -2582,7 +2582,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4fa36952-df48-45ce-b207-8ed3fc2ae412"
   },
   {
-    "id": "95125eac-72c2-47f1-86ce-6b9a2c8521a3",
+    "id": "cb682268-3ba5-40a9-a748-a06b293dd9fa",
     "name": "Gaze Not Into Its Depth",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -2597,7 +2597,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "49344b9d-0c3e-4639-b998-dcce6c5c8f0c"
   },
   {
-    "id": "5683a77a-0436-42b7-8db8-e5456490347f",
+    "id": "b5be24d5-218d-4082-ae63-93d9a4963892",
     "name": "Glorious Martyrs",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -2612,7 +2612,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d802b2c9-8228-4554-912f-f7b4cea555e2"
   },
   {
-    "id": "2f9115f3-1a4c-4056-b452-75172278b984",
+    "id": "33cf156f-2f04-4c57-883a-8ace945a3dcc",
     "name": "Veins of Black Lightning",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -2627,7 +2627,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "60bbfe85-47c6-4d15-b420-cbe3bae13385"
   },
   {
-    "id": "a574d121-f883-4cfb-a641-7de670c42683",
+    "id": "5619dd68-528c-4f4a-a422-c1d3c07d73e3",
     "name": "Thunderhead Crown",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2642,7 +2642,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ab0519a7-7a91-4973-92d0-1e447f3178e9"
   },
   {
-    "id": "394fba74-62fb-47b3-b78a-7cb138d916b7",
+    "id": "d264cb54-5067-438c-b6f3-0c95a448daef",
     "name": "Hidden Murderer",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -2657,7 +2657,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2016cc88-226c-4e6f-ade7-2f889439cfb5"
   },
   {
-    "id": "df300bf8-3e51-4675-9ed2-83a35d4fe927",
+    "id": "0659ea1b-88cc-46ce-b07b-a051bea93135",
     "name": "Crushing Grip",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -2672,7 +2672,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ae694004-b117-4916-8865-08b979fb9e26"
   },
   {
-    "id": "da07ed77-0b63-4483-805c-ff58950f3efc",
+    "id": "e5041780-e117-4d72-974f-96f14da99746",
     "name": "Dromm, Wounder of Worlds",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -2687,7 +2687,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1cf61a9b-1f49-4704-a3b2-53c47ef6f123"
   },
   {
-    "id": "511508c7-7f22-4771-b46f-8232128410e9",
+    "id": "b5ab037e-c0e8-4013-b246-ebc05840013d",
     "name": "Ruination Chamber",
     "phaseDetails": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
     "phase": "defensive",
@@ -2702,7 +2702,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f757e21-fd7c-448c-9c98-acd3a5af0cdf"
   },
   {
-    "id": "3071d71c-a259-4a21-8c18-ea3c374399ee",
+    "id": "f8bb6ddf-0948-4442-a320-f542b4b9199c",
     "name": "More-more Warp Energy!",
     "phaseDetails": "Reaction: You declared a Shoot ability for this unit and it has not used a Move ability this turn",
     "phase": "shootingPhase",
@@ -2717,7 +2717,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1cae26e7-58d7-47b2-bf8b-635b21fba49c"
   },
   {
-    "id": "9a601d38-8b85-4fb8-90d3-f2dbdefad6ad",
+    "id": "3ce7838e-efcc-4592-af2a-9a6ac842f630",
     "name": "Keep Counting, I'm Watching You",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -2732,7 +2732,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "15087bcf-f664-41b3-aa18-7d5658edabdf"
   },
   {
-    "id": "5970da1b-32eb-4d00-9ad6-3df50f12bd04",
+    "id": "27b0c271-d04a-46c2-a78c-9cee60c97d42",
     "name": "Longshanks",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -2747,7 +2747,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15"
   },
   {
-    "id": "0775ac69-00be-43f6-8572-9898a51762fa",
+    "id": "faa9894b-6d36-491c-9c77-97c5983fd082",
     "name": "Dance of Death",
     "phaseDetails": "Enemy Combat Phase",
     "phase": "combatPhase",
@@ -2762,7 +2762,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3786b9e0-0a60-456c-8953-7d07597cfa44"
   },
   {
-    "id": "5594bf4e-8ffc-4566-8ea1-14ced3830f20",
+    "id": "46a31caa-4662-4743-9d65-6aecdf950d9a",
     "name": "Glorious Death",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -2777,7 +2777,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8abf7633-9c6e-4781-9352-4721b5151a56"
   },
   {
-    "id": "35cd953f-e17b-4675-acac-92b230b501e2",
+    "id": "1947fcc0-75d0-4c41-8319-1e49496ee7c3",
     "name": "Paragons of Battle",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -2792,7 +2792,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3291d604-81b1-450c-bebe-2f66166b69b6"
   },
   {
-    "id": "91877e3b-32f0-480f-9159-068bdb157a0e",
+    "id": "a6c06890-02f2-42dc-a934-bf812c1a0564",
     "name": "Transporting Vortex",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2807,7 +2807,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "653942be-b06f-48a8-9d5a-9b44e6215fc3"
   },
   {
-    "id": "ac30eee1-298b-459c-a572-e39ae0c524d2",
+    "id": "02875733-afa5-42ca-91b9-9e197cb31ff5",
     "name": "Don't Shoot The Messenger",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -2822,7 +2822,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0483c074-045a-430d-8adf-7801c493889c"
   },
   {
-    "id": "720781ca-be2c-46d0-8638-01734b4cf4ce",
+    "id": "735325bc-64c7-4656-8ba1-b4b5e7fb3a75",
     "name": "Divert Realmgate",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2837,7 +2837,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca"
   },
   {
-    "id": "3c9cb41c-bb29-483a-bee3-0178449e5708",
+    "id": "1542e3dd-5f88-4338-a183-a3db92077b27",
     "name": "Three-headed Titan",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -2852,7 +2852,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9"
   },
   {
-    "id": "0314cccd-2991-4b1e-a42b-5b06c16c867c",
+    "id": "22468444-2925-418a-ac4b-c3ad6da9ba3c",
     "name": "Witchbrew",
     "phaseDetails": "Once Per Turn (Army), Any Hero Phase",
     "phase": "heroPhase",
@@ -2867,7 +2867,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e0e960da-f809-4ab5-9a81-fec7f35dddbd"
   },
   {
-    "id": "5ca5d81b-9c87-4bb1-9a22-fc30bc1b4e82",
+    "id": "af812a6e-f743-435f-b563-0ff10faa9399",
     "name": "His Will Be Done",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -2882,7 +2882,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a784b1ab-6224-4ceb-a83b-9d2f21b45891"
   },
   {
-    "id": "8af7908c-b002-4fbe-a9ed-c213c7be5344",
+    "id": "26d317a7-a6bc-4b06-9805-c07f9b0a5a6d",
     "name": "Consecrate the Land",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -2897,7 +2897,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8320687e-f2eb-4ba7-bf9a-690a36ef33df"
   },
   {
-    "id": "ad0a21a1-b4cc-488c-951e-fcdf842f4300",
+    "id": "cc06f710-3c89-4aaf-9ee1-5e92f7f1ea61",
     "name": "Medium Bomb Racks",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -2912,7 +2912,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "89562fe2-8685-43de-9830-ed9d5c364f84"
   },
   {
-    "id": "01e38efb-b619-4a52-a926-61a93a0a8ce2",
+    "id": "93ccb6c6-ea49-4734-8e1b-a69214dbd225",
     "name": "Orgy of Slaughter",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -2927,7 +2927,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bfe0f8e6-1beb-43c8-984e-6ac643880b97"
   },
   {
-    "id": "55412057-f335-4c6d-bcb3-012a7a11edab",
+    "id": "18275944-7fab-4925-b0ef-acbd72661fbb",
     "name": "Thrumming with Life",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -2942,7 +2942,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c84873e0-178d-4be2-898e-71a4996000f7"
   },
   {
-    "id": "18b81879-e4e1-43dc-af85-9e7eb7d5d56c",
+    "id": "52b840b6-dbf6-4057-aace-620d1ca9f71d",
     "name": "Crystal Touch",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -2957,7 +2957,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a4c132cc-243b-433c-bcce-87bae02930e6"
   },
   {
-    "id": "cd400d45-989d-4ab7-8876-628bd560d768",
+    "id": "36357bf0-c36d-4cbf-aec7-4cf39ae24b9b",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -2972,7 +2972,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6d2d5756-2783-4522-a16b-fe2c123f230c"
   },
   {
-    "id": "193ce39a-0a4d-4a7f-b3b4-0dd868924908",
+    "id": "fb85d425-034e-435c-b962-1ed10c51fc2f",
     "name": "Soulscent",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -2987,7 +2987,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d9bb8b0d-2b27-4a10-a6ec-f3207c466b4f"
   },
   {
-    "id": "30758dcb-d516-4cac-9f45-0f1697098b87",
+    "id": "e7502a5c-0a9f-4322-822a-dc0e71d04a20",
     "name": "Bladed Impact",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -3002,7 +3002,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e0e960da-f809-4ab5-9a81-fec7f35dddbd"
   },
   {
-    "id": "36928550-e6da-487d-9ca7-f53c1937f8f5",
+    "id": "0ca2c97c-0e4f-447f-82fb-8de037c588fe",
     "name": "Pick 'Em Off",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -3017,7 +3017,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e6537bfb-9f17-488f-abfd-e29e5a00b15d"
   },
   {
-    "id": "eb4b1024-c8c1-4d9d-99e6-99147f7e754d",
+    "id": "8ad6519d-4d39-4e06-a50e-4f12246f5207",
     "name": "Fury of the Forest",
     "phaseDetails": "Once Per Turn (Army), Enemy Combat Phase",
     "phase": "combatPhase",
@@ -3032,7 +3032,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "da214432-c7bf-4940-8a7a-5e8d4b1a3a6f"
   },
   {
-    "id": "d4c021a2-22d1-40bd-921c-80d624ea7ae4",
+    "id": "94c3d0ea-8938-48d4-8f82-bdb1ed5e52b5",
     "name": "Volcanic Blood",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3047,7 +3047,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9dc54ba7-9824-44e6-929f-17177742c982"
   },
   {
-    "id": "1125bc89-4fbf-4269-8227-27e91c36c2b5",
+    "id": "da89a9f0-ad75-4d51-a445-ccb236a620ff",
     "name": "Flamescarred",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -3062,7 +3062,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c32871c6-a289-480b-a953-0b5b7e3f01f8"
   },
   {
-    "id": "bd3d645a-8dbd-453e-a1e4-a2fcdc23bf17",
+    "id": "e0d2c90e-6b06-4607-829c-4d677de590c1",
     "name": "Harrowing Shriek",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -3077,7 +3077,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e3e712d1-f1d0-4ac4-861b-5da0d5137965"
   },
   {
-    "id": "21b4daf7-addb-479f-9f1d-15c0d217f766",
+    "id": "c7f1fa08-8ed7-4875-923e-50d01c02bf5f",
     "name": "Aura of Mutation",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -3092,7 +3092,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "58386ec0-5406-45ec-8844-7604b2a6c808"
   },
   {
-    "id": "1877b4d3-b4a6-44c9-b08e-b0487db7beb5",
+    "id": "536d448d-6848-409a-9b30-bd09e0eb1730",
     "name": "Grim Justice",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3107,7 +3107,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5737be22-e5b2-4fba-aae4-1ccda39f009f"
   },
   {
-    "id": "8542bd3d-1996-4cb3-985b-2853a40ea0f4",
+    "id": "2e4cae9c-eeb2-498c-bbbf-ccf712c4d786",
     "name": "Scrying Pool",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -3122,7 +3122,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "365b4b21-103c-44d0-924b-772be110fc59"
   },
   {
-    "id": "6b1034c9-7775-4c08-a8ec-25558d0b385b",
+    "id": "72dcf8a0-df39-4e0f-bbf0-027b64b1df14",
     "name": "Mastery of Magic",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -3137,7 +3137,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a0ad383-a414-4c9e-b485-a5a03d84d5ce"
   },
   {
-    "id": "464c2bfd-bd80-4391-8506-b8ab65b3af18",
+    "id": "000183e8-33c2-4683-973c-6ff57440bf86",
     "name": "Spreaders of Filth and Disease",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3152,7 +3152,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "243b1e6e-beff-4e43-86b1-658bc341b3e6"
   },
   {
-    "id": "c688b6d6-d90a-47c8-ad10-ad2ee86df2ab",
+    "id": "19a80235-7a3d-45b3-8717-2484a34cad6a",
     "name": "The Mortarch of Blood",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -3167,7 +3167,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "26afa746-060b-4cd6-a4c4-c1f2ee7a7b0e"
   },
   {
-    "id": "38ee9e91-ac86-4ba3-8a32-763e1c8ecb6f",
+    "id": "94de5145-1186-4081-8950-4459f68145f6",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -3182,7 +3182,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9864e44c-eff4-4d80-87b8-b73a06080d03"
   },
   {
-    "id": "b71363fb-b1df-4273-8a14-89c557f60cf3",
+    "id": "25b01489-c50b-4ca9-983f-dd55cb57d3db",
     "name": "Refined Creation",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -3197,7 +3197,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ba136dca-e3b8-4bea-a92e-929dae11a011"
   },
   {
-    "id": "0173cc5a-30b7-4658-b720-ed76fe98e6d9",
+    "id": "2210046c-a7e4-4ead-9aea-d1d9afa0ce0e",
     "name": "Draconic Terror",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -3212,7 +3212,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9ad808c3-c7b7-4bc4-96a5-e9d35c29b07a"
   },
   {
-    "id": "7aa6abaf-eb42-4529-8af3-5e70e085640b",
+    "id": "fa43d752-414a-44f7-a684-43100d380aa4",
     "name": "Frozen In Fear",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -3227,7 +3227,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a25b4787-23ce-4374-b4c8-373737297b0b"
   },
   {
-    "id": "aa197150-0960-4795-8872-e5583e67d5ac",
+    "id": "f8da2945-972b-4757-a03b-b1d35141459e",
     "name": "Relentless Attackers",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3242,7 +3242,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e5a093e1-0b62-4b98-8c88-efc63528f263"
   },
   {
-    "id": "e2d5e594-4fa2-498b-8818-7d1b1e8efdcd",
+    "id": "07ed2a4a-cd67-42ba-ba05-5e5a46dd08dd",
     "name": "Disciplined Advance",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -3257,7 +3257,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b5e5ac37-000a-435e-9a90-3d945e56c1f5"
   },
   {
-    "id": "879dd751-a1aa-41c3-8141-073ca7af4a4f",
+    "id": "f4833753-5066-4a5f-b65b-af1d4ab3ea44",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -3272,7 +3272,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fb2a5ce7-fbb1-4406-b827-c8eb21a1fe3f"
   },
   {
-    "id": "025f9088-76b8-4dfe-81e6-426743b5712b",
+    "id": "ecd98017-38bd-4fbf-bdc2-5b7e9abe090b",
     "name": "Aggravate Wounds",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -3287,7 +3287,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d9792d3c-58eb-4993-9561-07b92858050a"
   },
   {
-    "id": "e1bd2376-6ac3-4e8a-a112-e4811cc00403",
+    "id": "38fa5033-2f04-42b4-84e8-3c8443c59a0f",
     "name": "The Mounted Skulls of the Fallen",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3302,7 +3302,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64d997dd-3041-410a-b72f-d29642608b63"
   },
   {
-    "id": "d95a6cfd-9a9b-4da8-b05a-b0d109eebb5a",
+    "id": "dccb4a2c-5715-4dcf-aced-bec498e1ff14",
     "name": "Scorn of Sorcery",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -3317,7 +3317,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "09054ec3-eb6e-44a6-bc8c-04cd251c207d"
   },
   {
-    "id": "df1d96ea-57a9-41e6-bb9b-b838051226e7",
+    "id": "91797eac-5272-4676-ac35-6eaaf847fcec",
     "name": "Glimpse of Delusion",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -3332,7 +3332,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "716956a7-c8f2-41b5-a623-d43c552c805d"
   },
   {
-    "id": "b66b29c9-75a8-429a-9da3-298a6c6eae4f",
+    "id": "b618709c-e7a2-43e8-86f1-d704e028c894",
     "name": "Stone-cursed Resolve",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -3347,7 +3347,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5dea2612-ccd5-48e4-9548-758a30a41f92"
   },
   {
-    "id": "6c339eea-d2fb-4eee-aefb-407cddc08405",
+    "id": "3c826a1a-60ac-4fb4-95de-600eed958cff",
     "name": "Swift Death",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -3362,7 +3362,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6fd8762e-e1cf-4911-8c06-c173e500ad14"
   },
   {
-    "id": "9abbc30f-3f9f-4d9c-9d80-fed83f23f066",
+    "id": "2102dbc5-a94c-4263-8b0e-f9bf7bdeef40",
     "name": "Delightful Brews, Splendid Restoratives",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -3377,7 +3377,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4bd0b121-84a2-48ad-9ef7-35fbf5426135"
   },
   {
-    "id": "39a990d3-6295-4b6b-be5c-0051e2d01b90",
+    "id": "76d214bf-d70f-4600-9573-1944807d8a74",
     "name": "Warrior Mages",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -3392,7 +3392,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0b2be07c-e976-4837-8d7d-80a1736192e0"
   },
   {
-    "id": "3b07d84d-5364-48f3-bbc5-c7e5d6f89fda",
+    "id": "a9f0daf3-1229-46a6-a4dc-79c372823cec",
     "name": "Great Cauldron",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -3407,7 +3407,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2627a553-31ff-4745-ae7c-444857413cfb"
   },
   {
-    "id": "276d54b2-63f7-4ef6-9d4c-57daf6a6d5d8",
+    "id": "75b7c653-8a11-45b6-85d0-24fae764610b",
     "name": "Brutal Power",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -3422,7 +3422,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "38f8b0aa-f5fe-4107-9acd-ca6b743e46b7"
   },
   {
-    "id": "7ea40226-cd49-4f22-a22f-f54f44e42528",
+    "id": "d17e177e-087f-4fca-8564-230833cb3a52",
     "name": "Trial of Skulls",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -3437,7 +3437,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "24e23e5a-8fab-4e5b-bde5-c35f9ff6c5da"
   },
   {
-    "id": "0a44e970-d950-493e-b54a-5b0d911d36b7",
+    "id": "2d7b9414-2ef8-4600-a36a-04f4cd6faa5c",
     "name": "Hand of Dust",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -3449,10 +3449,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a visible enemy Hero or Monster in combat with this unit to be the target.",
     "effect": "Hide a dice in one of your hands or under one of two appropriate containers. Your opponent must pick one of your hands or containers. If they pick the one hiding the dice, this ability has no effect. If they pick the empty one, the target is automatically destroyed.",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c"
+    "warscrollId": "9b60ec8d-81b2-4818-bbb1-01b888070ad4"
   },
   {
-    "id": "ecbee2a2-bc6e-4513-8a3d-fa0bb76e7f78",
+    "id": "546ecffa-ce19-4543-82e6-17e5c26d5aab",
     "name": "Restless Dead",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -3467,7 +3467,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a9c1ca65-d0cb-4a77-9de6-f39c7922dd5d"
   },
   {
-    "id": "d68b6f04-5420-46e5-9f9e-569cc57735e5",
+    "id": "6a464070-f555-4d7d-b657-98655a6ef45e",
     "name": "Taros",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -3482,7 +3482,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "65b5456e-0817-420f-a1a4-3ea992107765"
   },
   {
-    "id": "be088293-380c-4a8e-8491-68a768dec9a4",
+    "id": "c942fbbe-8e0d-4806-bcc9-7c5e236c3ffc",
     "name": "Lightning Strikes",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3497,7 +3497,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f3b68149-0e4d-4e25-ab44-025324fdc9bb"
   },
   {
-    "id": "fb5be619-b488-457d-840c-b803f4e4a1eb",
+    "id": "25f2e16d-a313-4c79-a7a0-5692be971171",
     "name": "Aethershock",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -3512,7 +3512,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7738e31e-6c9b-4ff7-ae1f-a7ea78908e56"
   },
   {
-    "id": "d8787ddb-86d5-4f7c-9c45-484d470a839f",
+    "id": "4da265b5-608e-48af-96b0-3ec731241c8d",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -3527,7 +3527,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13bc2019-0e12-4a57-8aaf-e6fc5b85a2c0"
   },
   {
-    "id": "14ec7bb0-c7f2-4ef9-8c42-90703908b5cf",
+    "id": "c2ffc622-90de-4fe7-92d9-9b9a411f4929",
     "name": "Aura of Celennar",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -3542,7 +3542,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97bf492f-d53c-4b8a-8211-f0904c24694f"
   },
   {
-    "id": "65e24282-9534-44b6-b354-61a9bcde2926",
+    "id": "324ed09f-e8a4-4cce-9cd8-5d7cdd59816c",
     "name": "Lithe and Swift",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3557,7 +3557,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8c4096a0-9e21-4337-af54-3242e804e7be"
   },
   {
-    "id": "390868ae-36ca-4139-832f-cfb7bff689b8",
+    "id": "4d248688-be6e-4b4e-9331-d3a19765584d",
     "name": "Cast Down the Idol",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3572,7 +3572,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5dea2612-ccd5-48e4-9548-758a30a41f92"
   },
   {
-    "id": "4b382e3d-1dba-4dc3-b3f4-34cb1037920e",
+    "id": "9e4b9067-29ad-4903-831c-73572e86ef6a",
     "name": "Revivifying Energies",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -3587,7 +3587,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2cc95014-c662-4f47-9271-c3fb6085789a"
   },
   {
-    "id": "0d6c4aa5-9e4b-4f71-8925-cf982efd9303",
+    "id": "4070be22-1786-4f37-80a7-e38ba270e2e6",
     "name": "Mollog's Mob",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -3602,7 +3602,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "01fe8cf1-4f44-47e6-89e9-8b1b976b174d"
   },
   {
-    "id": "df80907e-faad-49f9-9fa3-d43f28562cfd",
+    "id": "eacc558a-9c1e-4e93-96a9-f8dfe7d6a58d",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -3617,7 +3617,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bb3a92b0-8814-4d7e-93e5-5092f18f8075"
   },
   {
-    "id": "93ad657d-6549-438c-b556-971babcea850",
+    "id": "4fbaed2d-df6a-4be4-a54e-76e3a0500d20",
     "name": "Throw 'Em In",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -3632,7 +3632,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1d470cd8-4470-499c-8c83-5341d0a560c3"
   },
   {
-    "id": "59117516-009d-4855-82ee-cf3437069d31",
+    "id": "c591e7cb-dc57-49fc-a0c4-01181718f2df",
     "name": "Cleaving Blow",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3647,7 +3647,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "de6d90a0-dec6-4b9c-93d5-5bf9f5c14167"
   },
   {
-    "id": "6b4b5591-4772-46f2-a137-b16f901cdf18",
+    "id": "b7aa4c8f-57f1-4fd1-ac2e-8693eebd257f",
     "name": "Windrider",
     "phaseDetails": "Your Combat Phase",
     "phase": "combatPhase",
@@ -3662,7 +3662,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "454bba4c-e343-4cd2-83f6-bd8e3d18f36a"
   },
   {
-    "id": "cecb710e-9dde-448e-ab80-f46e6aae8ee6",
+    "id": "ae7e6995-775e-40ee-b820-79dde009d7e9",
     "name": "Everwinter's Assault",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -3677,7 +3677,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f34f8ea4-13e1-4512-8b5f-0b931ec2667f"
   },
   {
-    "id": "f729172d-d27b-4cfe-acdd-b3c4d2eef345",
+    "id": "720aaca8-06ac-42ac-a43d-cd40fceac5dc",
     "name": "Furious Indictment",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -3692,7 +3692,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3d2b9a39-53de-4d84-8d67-46089cb63317"
   },
   {
-    "id": "6b042808-b88a-462a-8e51-7f04b2958cbc",
+    "id": "9fd651e3-4b12-424c-a848-4d07b90c5ae9",
     "name": "Warpstone Snipers",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -3707,7 +3707,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7807dbea-1af6-461c-a2d5-8dbbc5ab6135"
   },
   {
-    "id": "c55e4b1a-58b7-4eef-a88b-a1307ba821ec",
+    "id": "49af8bde-eefe-49e3-8ed5-12d182d67f4f",
     "name": "Goin' Somewhere?",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -3722,7 +3722,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "380bbdd6-641d-4f18-9808-5b695ae10599"
   },
   {
-    "id": "3c4ca4f8-ed2d-4cfc-8e6c-5bf391f584a0",
+    "id": "637b65cb-c59b-4e32-8d2d-d680ceda9ce3",
     "name": "Petrifying Gaze",
     "phaseDetails": "Once Per Turn (Army,) Your Shooting Phase",
     "phase": "shootingPhase",
@@ -3737,7 +3737,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "12fbb0b6-2d71-429d-b6f1-412ea23e07f7"
   },
   {
-    "id": "1985ab31-b077-4339-9f6c-0ae99eb6d56d",
+    "id": "4ca7ca70-bfe8-4425-a7c5-9a33f7c9935d",
     "name": "'Bring Me Their Skull!'",
     "phaseDetails": "Once Per Turn (Army), Your Combat Phase",
     "phase": "combatPhase",
@@ -3752,7 +3752,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6b14c775-8126-4f4a-8c99-9dee2dd97618"
   },
   {
-    "id": "0389f5ed-5b32-4bfb-95cb-6174c2fa4312",
+    "id": "1db87f55-17d2-4ef8-b353-fbf0bb67ba23",
     "name": "Crippling Famishment",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -3767,7 +3767,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bfafb352-105c-4a8b-905a-aa31be989663"
   },
   {
-    "id": "7e0c705e-3a20-45de-8aa1-65bae7fd1aed",
+    "id": "1b531b5f-4be3-4497-ba8b-489c3ebbe51a",
     "name": "'You First, I Insist...'",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -3782,7 +3782,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f73839c-5f51-4859-91ac-2844711cd34f"
   },
   {
-    "id": "865729b6-f516-44cb-8404-1fe0595c61c0",
+    "id": "24559bea-2785-4220-9d27-1fdb65d66cd6",
     "name": "Crescent Shield",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -3797,7 +3797,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fffec540-94d6-4a09-a160-8b22683e40c5"
   },
   {
-    "id": "e737d482-7e04-4587-a79a-e489805efd90",
+    "id": "59f002c1-1371-48c5-abe9-422243ee616f",
     "name": "His Will Be Done",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -3812,7 +3812,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65"
   },
   {
-    "id": "c37ec4fa-2d3d-440f-9f02-278f6f16086d",
+    "id": "1f799265-ff1d-4fa2-9c9f-595025520ead",
     "name": "Verdurous Harmony",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -3827,7 +3827,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2a80e4a8-efc7-47b8-a4f2-1977b8cdfc6f"
   },
   {
-    "id": "7452a106-1974-4d75-9ac0-d4b555d3c39c",
+    "id": "9a9103c3-147c-404a-bade-579daecfe8dd",
     "name": "Shadowfast",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -3842,7 +3842,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f407607a-c76e-494b-b96b-e6ec75b75a67"
   },
   {
-    "id": "7f9c567d-e1fd-47d6-9d30-dd154fd434f7",
+    "id": "3a7ad6ea-745b-464e-bd01-4faab431dbe6",
     "name": "Force of a Falling Star",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -3857,7 +3857,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "54fec5b5-5cbf-45d4-bd8c-096bbcd18689"
   },
   {
-    "id": "c5ee0d79-a9f1-43bf-b911-eb89017d78cc",
+    "id": "8ae5a82e-365b-4866-99ab-31fd5e4a1c59",
     "name": "Steward of the Realm",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -3872,7 +3872,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "03f7a4f0-cf00-4cf3-a267-62923a00c845"
   },
   {
-    "id": "6ab51a66-efe8-4348-9c18-640c89af0478",
+    "id": "50832c05-385a-42b5-8dde-c6c9b53fe653",
     "name": "Shield Bash",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -3887,7 +3887,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "38ad659b-632b-4e76-8cb7-5123d333c9df"
   },
   {
-    "id": "ddb1813e-d30b-4e0a-ac01-4d70fa8d50ff",
+    "id": "dd48e44a-1a06-4ce1-a1b4-5814ae29b5bd",
     "name": "Lurid Light",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -3902,7 +3902,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fa15d6ec-bdaf-4b45-a6b8-35f4b299484c"
   },
   {
-    "id": "0261510a-9ecf-4522-b644-329374fefbd3",
+    "id": "52d7a7e8-d249-44d9-b447-ba6a763dddcf",
     "name": "Reservoir of Power",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -3917,7 +3917,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f2e6ff8c-b03b-4aa9-9c06-3f4cd99c4693"
   },
   {
-    "id": "3deb70b0-f190-47c4-a18e-6ba35ec313c0",
+    "id": "1b3e381e-b7e3-4574-8dea-ecd286a3c3d8",
     "name": "Empowered Through Excruciation",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -3932,7 +3932,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6370126c-8010-4623-bff2-e78b8378a0f6"
   },
   {
-    "id": "25aca22a-c99c-46ba-9f50-2364dcf00713",
+    "id": "b614c9c5-a9ce-4f44-b7fc-53de49c84138",
     "name": "Unleash Swarm of Spites",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -3947,7 +3947,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0d4a201e-be35-4e15-b412-6b766ac210cf"
   },
   {
-    "id": "16dc67c1-a15b-422d-867a-9364f4c15d0e",
+    "id": "f82dfd48-98d7-43a4-8d49-d1af7edeb310",
     "name": "Locus of Undeath",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3962,7 +3962,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "78a4d295-2a9d-42e8-9315-84aac9b931de"
   },
   {
-    "id": "ec9481b1-0922-4e2c-84a4-af73efc4ed88",
+    "id": "f50559dd-1935-4635-b053-acec1dcc3774",
     "name": "Mindless Ferocity",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -3977,7 +3977,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "872bee76-9e3e-41f4-a80f-71542bf24f39"
   },
   {
-    "id": "2c616375-ad32-4210-a0d9-205a9cba26e0",
+    "id": "dfdf47e5-26a2-49bf-b729-c8c15cd8fcb1",
     "name": "The Admiral's Flagship",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -3992,7 +3992,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f52dbbc4-b942-46cb-a4ac-53018e73c35e"
   },
   {
-    "id": "468706de-b3bd-46d5-ba5c-99d859c6f857",
+    "id": "0a889d90-a25d-4a84-b6ed-7f43755e794c",
     "name": "Blazing Impact",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -4007,7 +4007,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aea7407f-e52b-4935-b80b-cb1d9da26325"
   },
   {
-    "id": "1e66490c-d015-40ad-99c6-791d060926d4",
+    "id": "d0a17a55-d9ae-471b-9f00-a800f41310c7",
     "name": "Soulgorgers",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -4022,7 +4022,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "99eb06dd-3f16-4d8c-9ec2-15a067193f97"
   },
   {
-    "id": "e8f6c462-55f5-475b-93af-bbc22cdba524",
+    "id": "56fd8081-56de-4abc-bf11-bfb5c388aeae",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -4037,7 +4037,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f6dd5ed-926a-4506-9538-f56ac40a56ab"
   },
   {
-    "id": "6ed95445-df99-4138-bd16-931b62402894",
+    "id": "ce1b9ee0-339e-4f94-aedf-0bfb5d295b7a",
     "name": "Altar of the Great Corruptor",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -4052,7 +4052,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6af999c1-35a6-4f3f-9131-fa909616ce83"
   },
   {
-    "id": "a05dc514-e1d9-4acc-aa6d-310f0fcd9420",
+    "id": "b8b822ad-a8b1-4f7a-a81e-82e47037520e",
     "name": "Hidden Weapon Team",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -4067,7 +4067,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ec610bcd-83c0-4d7c-bac5-33d51c821048"
   },
   {
-    "id": "15f46f18-95dc-466e-9a9c-207066cc6c62",
+    "id": "be2a2814-0b58-4005-b620-776c755d3402",
     "name": "Scare Taktikz",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -4082,7 +4082,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "46edf6de-6331-4995-b19f-30f2cfac5706"
   },
   {
-    "id": "aadcb714-5156-41c9-bb12-07f568d7aee0",
+    "id": "0858f700-679f-404e-a8a0-a6b226481514",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4097,7 +4097,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f89d588-f806-47c5-a7e3-77ee5558ce05"
   },
   {
-    "id": "49977278-0431-4514-82f1-64d9733ae4fe",
+    "id": "2ecd19f9-be6c-4a29-9fd5-b04d594de2db",
     "name": "Coven Guard",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -4112,7 +4112,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3ccc8d1e-ea2e-4c52-b769-74880e4d5415"
   },
   {
-    "id": "119a16ce-d057-4347-a1af-3b3e88468500",
+    "id": "4ac2d475-badd-4ff7-aa61-c9ee90a9efb3",
     "name": "Healing Light",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -4127,7 +4127,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ff7cea22-f789-4aa8-942c-1aa140281776"
   },
   {
-    "id": "2aa6d4c2-0f58-4dc0-9dfb-30b4893640c9",
+    "id": "c9215eeb-b0c1-4e10-b1b8-2513e787d85e",
     "name": "Starving Nightmare",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -4142,7 +4142,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "42d0aa6d-2f14-4abe-9bac-bd3619d4394f"
   },
   {
-    "id": "3c7c41f0-1cb1-417c-9288-383efcf9f9b3",
+    "id": "57281bda-67ee-46eb-b9ad-1d20bd2e1d88",
     "name": "Mark Targets",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -4157,7 +4157,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dcfdebd9-ca18-4910-bf17-caf0a6bb9b88"
   },
   {
-    "id": "678bb36c-00c1-4025-b39d-caf354e0da6b",
+    "id": "b400c96b-0cec-4ef4-8539-b726032e578e",
     "name": "Bladed Bucklers",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -4172,7 +4172,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2f2fb0fa-0182-43ee-8056-da1622c14ce7"
   },
   {
-    "id": "bafb5855-14e5-4ff1-956d-3cedb9f17e4d",
+    "id": "9f779c90-34de-4dc0-b32d-9fc6f915003a",
     "name": "Iron Resilience",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -4187,7 +4187,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f5199166-4357-4209-a865-b615881e8a14"
   },
   {
-    "id": "96191d4a-139c-4542-978c-ebd194c7fb6f",
+    "id": "71ed4234-2dbb-4e7e-a3e8-2fe780d4de75",
     "name": "Speed of the Spider God",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -4202,7 +4202,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4c0077d2-8bc2-4dea-a34f-616575f525dc"
   },
   {
-    "id": "b6e39243-adf0-42fc-8208-df12d673a6ee",
+    "id": "7c2b3e3e-29d5-4c6f-81e7-d0e20e4636bd",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4217,7 +4217,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "377b8679-40ea-4076-9477-ce0705fee1c3"
   },
   {
-    "id": "72e5134c-b0b4-4764-9300-54a2d3ef0b29",
+    "id": "33a91848-a74a-4f02-a9e8-cc39749d7d8f",
     "name": "The Gaze of Khorne",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4232,7 +4232,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "52d19fe0-0738-4aa1-9172-45b6c500f659"
   },
   {
-    "id": "f377bdf3-c3e8-4712-b5cc-dd6e3d22493c",
+    "id": "f3617fc2-5f5b-403d-bbd1-b815bc3b76b6",
     "name": "Aspect of the Everqueen",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -4247,7 +4247,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "296d9351-5219-4eb9-b7ff-60be26f6b647"
   },
   {
-    "id": "5eae6e50-01a1-466e-9aed-725d5915a875",
+    "id": "067146f1-c2e9-4a8e-b4d8-8ca565009cd4",
     "name": "Skewered",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -4262,7 +4262,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "da95acc3-349d-4b1e-8a8d-99a2540b4f70"
   },
   {
-    "id": "d6399d23-a474-4a3f-95b5-de97048014e1",
+    "id": "18e40406-d564-4e43-a973-b020b088f496",
     "name": "More Pressure!",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -4277,7 +4277,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "95a49feb-fc10-4d7f-b0e8-b239cebf66f3"
   },
   {
-    "id": "9f4bb825-5432-4b98-ba78-30146553a3f1",
+    "id": "2ade11d7-fe90-48b2-ae64-0da7f3fac1a9",
     "name": "Ward-smashing Choppa",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -4292,7 +4292,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "adecff8e-767e-4c87-9284-cf79fed6f87f"
   },
   {
-    "id": "56a5ca46-75f3-4397-9385-6610de250575",
+    "id": "785ad3e5-3500-460d-bea4-9716fe51f62a",
     "name": "Tallyman of Nurgle",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -4307,7 +4307,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c8acbc04-aacd-46dc-b856-4de5a9a5d0c7"
   },
   {
-    "id": "51dccc42-c483-4778-b256-eea3ea393bf0",
+    "id": "c92b1b39-6943-451e-b138-fae30ab19158",
     "name": "Book of Profane Secrets",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -4319,10 +4319,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a friendly unit in a Silver Tower to be the target.",
     "effect": "Set up the target on the battlefield wholly within 12\" of this unit and more than 9\" from all enemy units.",
     "abilityAndCommandIcon": "movement",
-    "warscrollId": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca"
+    "warscrollId": "2faf277c-6868-42bf-a055-e06c106d6322"
   },
   {
-    "id": "e2245bed-054d-4540-8163-63ee295577ec",
+    "id": "09690a18-bedc-402b-bef9-cade2a51fb6a",
     "name": "Hunter's Instincts",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4337,7 +4337,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bf24a6e9-4de1-4f51-b9ce-cf116ca32430"
   },
   {
-    "id": "07114f7e-baee-4e34-bf08-289e23d2e9a0",
+    "id": "480761ad-acb7-4391-8b48-34e2d2a54bf9",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4352,7 +4352,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "525f6c9a-f82d-48e0-8894-3ca86ecc6f32"
   },
   {
-    "id": "1ef6c21d-7f91-4eff-b04a-68a153cde60a",
+    "id": "58e96f56-eda2-4c02-abfb-d18a6e884953",
     "name": "Strength From Victory",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -4367,7 +4367,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f06dc003-e88b-4d0c-8824-333cb2ea0ab0"
   },
   {
-    "id": "46d69b56-ea02-45a1-8515-bbcf7bc9662a",
+    "id": "fd5848a7-2ed5-4b34-baee-d478db92c8a0",
     "name": "Ordered Cohorts",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -4382,7 +4382,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "56cd7ff3-3069-46e4-aff9-24e2f85f2046"
   },
   {
-    "id": "968e8b3b-f0e4-44f0-a95f-2730b084d852",
+    "id": "0c09acc7-c4e3-4266-90b4-4ac70d76b2fe",
     "name": "Metamorphosis",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -4397,7 +4397,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "067a82f4-42c7-49d7-be99-9875a6f9c6b2"
   },
   {
-    "id": "b66dc04e-4201-4577-93c9-fdea3e032779",
+    "id": "a9635856-25fe-4770-8c88-bd4ac3962adf",
     "name": "Flensing Tongues",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -4412,7 +4412,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "15021f5e-4c78-4bac-8f4b-1aaab3715c6b"
   },
   {
-    "id": "41580dda-bb74-426b-ae62-3bef37245e5c",
+    "id": "57770cd8-5078-47bf-a0e1-5f5804689950",
     "name": "Hidden Hunters",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -4427,7 +4427,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6584ea3b-897e-4c4c-b69a-1e553867b119"
   },
   {
-    "id": "4ac6f4c0-72b8-411a-8c88-480569200b17",
+    "id": "fc47cfd2-d500-4119-bce5-0e8533e6ecc7",
     "name": "Emergence",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -4442,7 +4442,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8192ab82-10fc-4f68-bf5b-919d074aade6"
   },
   {
-    "id": "aad5e78d-2af8-4aad-89ea-1a8809ed2797",
+    "id": "7c0eebb9-a6d0-4565-8c29-febb15f74852",
     "name": "Fury of the Shadow Queen",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -4457,7 +4457,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62e41155-fb20-4e92-b0f8-5cf2adf45bc9"
   },
   {
-    "id": "3ab4900a-d04c-4ce3-899f-807fe01eca02",
+    "id": "fdfbac71-2333-4c6a-b5d3-3d7b31ac4c83",
     "name": "Tranquillity of the Abyss",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -4472,7 +4472,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10376888-c232-49e8-ab04-1d5e578bd5a4"
   },
   {
-    "id": "bae7ec19-a3f0-4f31-894a-bbe1771d4f5f",
+    "id": "51804bb9-68ea-4eb3-8b96-b7b0d7a05bf6",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4487,7 +4487,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "26afa746-060b-4cd6-a4c4-c1f2ee7a7b0e"
   },
   {
-    "id": "f4a51362-6ae6-4f39-b829-2efe1ee3ef77",
+    "id": "9a8faaa0-dac3-4115-a228-fa6453ebfbfe",
     "name": "Beast-breaker",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -4502,7 +4502,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ef34403b-bf7c-45f9-9dad-9d66d358c93c"
   },
   {
-    "id": "1d677cf0-bb11-46b6-9a49-a7c302cbfb8b",
+    "id": "a5624282-c3b5-4ca9-8f76-dfa59b6be7ca",
     "name": "The Hive Nourishes",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -4517,7 +4517,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cb7a2499-a25d-45fa-acb3-6395b7b35357"
   },
   {
-    "id": "bbe4e0f2-bc49-46ea-be1f-5a9790558ad9",
+    "id": "10b32125-ef16-40be-8f21-12ee7ab09ab9",
     "name": "Threshing Doom",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -4532,7 +4532,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d9bb8b0d-2b27-4a10-a6ec-f3207c466b4f"
   },
   {
-    "id": "06a501d3-f59c-462b-9837-31f1448f41ce",
+    "id": "60047d0e-be2c-49e8-a068-8c79a43996dc",
     "name": "Protection of the Dark Gods",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -4547,7 +4547,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fd9faa8c-c4ab-4c39-b96a-561eef254baf"
   },
   {
-    "id": "7d428293-f533-4c9c-a3cd-b4e085ea7453",
+    "id": "f5a3258e-d50f-493c-aac0-947a803bf88e",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4562,7 +4562,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9"
   },
   {
-    "id": "16e49200-bd21-491f-b666-3d8a0a422f92",
+    "id": "a62e319e-6a14-409b-8a16-b17e25685873",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4577,7 +4577,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6f470634-a997-4b31-a927-efc2d4687581"
   },
   {
-    "id": "99b527c0-cddc-4caa-a566-64274f12cc6b",
+    "id": "6548d52a-fd1e-48ed-a9c0-c35586f4a412",
     "name": "Royal Retinue",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -4592,7 +4592,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62014771-97f7-4e4b-a201-fced2fb9fde9"
   },
   {
-    "id": "aa3c3820-d293-4a1e-82d0-8aaffce02828",
+    "id": "f981b719-6cdb-4a1f-b4f8-3f51f6dbdfdf",
     "name": "Tear Limb From Limb",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -4607,7 +4607,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "329062c0-116c-4044-9b57-4b0c771c3cd1"
   },
   {
-    "id": "2add6ac8-b9a4-4e2d-9889-b05144e7ee89",
+    "id": "9a752c89-be87-445a-ab90-e715ce14a2ae",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -4622,7 +4622,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4ae6e449-bd26-4241-a004-235defae879f"
   },
   {
-    "id": "354bbd0b-3c64-41c2-8de5-eead0d45ed9c",
+    "id": "ce761af9-9e4a-42d1-b866-04668a2c9ebf",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4634,10 +4634,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "While this unit has 10 or more damage points, subtract 3 from its power level.",
     "abilityAndCommandIcon": "battleDamaged",
-    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c"
+    "warscrollId": "9b60ec8d-81b2-4818-bbb1-01b888070ad4"
   },
   {
-    "id": "b800e5e5-bf2d-4292-920f-6d6551873494",
+    "id": "ec9b4810-222a-4cd6-b785-25b423379aae",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4652,7 +4652,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7f3ef8d7-e3bd-4984-b285-f5268b0c7b83"
   },
   {
-    "id": "e10d3a88-4a03-411c-bbfa-4b426f2e5c94",
+    "id": "1a29e341-0d29-467f-9fa3-2628b6e41dcf",
     "name": "Herald of Trampling Death",
     "phaseDetails": "Once Per Battle (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -4667,7 +4667,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0f50d5ad-ca84-4f93-9af6-6c396c98bf21"
   },
   {
-    "id": "08e3289c-d52c-4c08-9860-b29913802b41",
+    "id": "2a17473b-8641-412b-86eb-fa06aaa35ae5",
     "name": "Overgrowth of Flesh",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -4682,7 +4682,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97a97882-730b-44b9-9eb9-8bd3cb91e9c3"
   },
   {
-    "id": "b9afde75-974e-4649-88e6-977340f3cf6e",
+    "id": "2d100c39-cf61-45cc-adc7-0c101adfaa82",
     "name": "Piston-driven Carnage",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -4697,7 +4697,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7f3ef8d7-e3bd-4984-b285-f5268b0c7b83"
   },
   {
-    "id": "c5e27f72-4694-4d82-8c06-6d5685b2a6e6",
+    "id": "ca6dc830-8f90-40f3-9acc-34ca64f279e8",
     "name": "'For Sigmar, Charge!'",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -4712,7 +4712,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ae2b2dad-bf1e-4da6-a661-a0334571da46"
   },
   {
-    "id": "83d04ac2-b484-4537-afdb-5a226ccd8d24",
+    "id": "c511b01a-2188-4ecb-8cfa-23361a1891e6",
     "name": "Vectors of Foulest Contagion",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -4727,7 +4727,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "be9910bd-304c-4831-ab7c-26e9f4b811f4"
   },
   {
-    "id": "d8c3e056-b194-454e-8be8-8e3aa865eec6",
+    "id": "1ad99303-f6a3-450b-bb9d-520a973ef25b",
     "name": "Weapons of Banishment",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -4742,7 +4742,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7211239d-c563-4091-a4c1-0607e821f41e"
   },
   {
-    "id": "033328dd-a1d2-445f-adc5-bbbc7c6887ec",
+    "id": "ebf1387c-2d94-4cbb-9cdf-9816d0d5e3e6",
     "name": "In Their Element",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -4757,7 +4757,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0ce5f7bf-a936-4ac2-b7a0-9bf378133e87"
   },
   {
-    "id": "882255a1-561a-48fb-9507-8330d4a81901",
+    "id": "8a7e7a93-95da-4fa8-bed6-c6e090ba6244",
     "name": "Peal of Doom",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -4772,7 +4772,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4fa36952-df48-45ce-b207-8ed3fc2ae412"
   },
   {
-    "id": "07435fa9-f986-447b-9aa2-3d897c732f65",
+    "id": "e0fcd3d7-f0be-4d3c-a402-623d055a857d",
     "name": "Ylthari",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -4787,7 +4787,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "114aadba-44e0-49c7-9807-43df84c037c4"
   },
   {
-    "id": "b440fa66-f1a2-4460-a40c-68e3a838ca2b",
+    "id": "332988df-bc95-49a8-9931-6b4c510a30d2",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4799,10 +4799,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "While this unit has 10 or more damage points, subtract 3 from its power level.",
     "abilityAndCommandIcon": "battleDamaged",
-    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31"
+    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14"
   },
   {
-    "id": "1f71b1e8-2a5b-4438-be65-3f784109fe68",
+    "id": "b604e7a5-3232-406c-bd77-a2debd14bd63",
     "name": "Timberrrrr!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -4817,7 +4817,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "af21e57b-8de2-4052-8f0f-d07187ea211d"
   },
   {
-    "id": "f989d14c-c540-4937-b5f5-f2de39d03a58",
+    "id": "7ba67825-d982-4eb6-8124-23bb6a6c3d8b",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4832,7 +4832,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c8d331fc-9977-4d84-8bdf-9741c7f107a9"
   },
   {
-    "id": "602db538-1cf2-40ee-8bb1-9e9c4aa5e55b",
+    "id": "5f030270-b938-4fcb-a366-76dde7e87a25",
     "name": "Greater Regeneration",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -4847,7 +4847,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "43973acb-7890-4efa-8f1f-2650bd30fca5"
   },
   {
-    "id": "365e1771-1305-4c2d-8dd6-3455d6026890",
+    "id": "e6ea06b1-4351-4bfa-992a-2e57b71935a0",
     "name": "Trails of Astral Light",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -4862,7 +4862,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "37d3d910-c951-4a83-bcd0-d762e1cf1937"
   },
   {
-    "id": "792f8201-3a00-4f22-8091-f2ba566a52ac",
+    "id": "f922ef2d-7db2-469a-b18b-2d6c6b7b32a5",
     "name": "Shadow Leap",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -4877,7 +4877,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "16700af1-e558-4014-ab20-52ae55f6cddb"
   },
   {
-    "id": "7d0e3e43-67d5-4272-b3cb-252e58736ba1",
+    "id": "725f444b-2429-465c-a9cc-9686c6aaa6e9",
     "name": "Foul Elixirs",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -4892,7 +4892,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d85bdf07-7e14-4c34-9402-d54ecae33df8"
   },
   {
-    "id": "353958d5-4d44-45f2-8e1a-ff84fdef6d5c",
+    "id": "caae56ea-27d7-467e-8899-f1e9f50ce30a",
     "name": "Cavernous Jaws",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -4907,7 +4907,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "297589a1-63a3-4949-b84d-0b02291997a7"
   },
   {
-    "id": "f5a9e3e6-e407-4f6a-a5d8-c745348d9481",
+    "id": "7de35f71-bdb7-406c-9a22-03208de03f9d",
     "name": "Honour to Grimnir!",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -4922,7 +4922,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13a599c3-3ff4-4c8f-8453-19545adea145"
   },
   {
-    "id": "47e7a502-307e-468e-9550-893ba619cf5a",
+    "id": "18489d22-2419-4484-b76f-28da668196c5",
     "name": "The Deathly Charge",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -4937,7 +4937,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "371dfdc6-ede1-47db-b10d-4c8449267e32"
   },
   {
-    "id": "276d265b-499f-4a64-a494-321eb88c84aa",
+    "id": "5f418d8e-e53d-4949-a3b5-9fb540bf9417",
     "name": "The Banner of the Reforged",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -4952,7 +4952,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6f112458-32fb-412b-b860-23e1f9ec4c7b"
   },
   {
-    "id": "315f1bcc-6bb9-448f-9237-577e838366cb",
+    "id": "956e247f-8cc5-49d0-82df-60bbbe3dca64",
     "name": "Scuttle Away!",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -4967,7 +4967,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "706f21eb-ae97-4aa3-b6c8-4b1dd4100fd6"
   },
   {
-    "id": "966b97b5-961a-4d63-bde3-ceb5a556f57e",
+    "id": "7a18f863-793c-440e-b304-6f485aecc496",
     "name": "Captain of the Aelsling",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -4982,7 +4982,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "06f9ed08-9daa-452e-9cd9-51913dd43953"
   },
   {
-    "id": "0bd3d5c2-c44e-4f3f-87e3-812515f67421",
+    "id": "979206d6-ed3f-48c7-80f6-aa11723e1b13",
     "name": "Verdian Crown",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -4997,7 +4997,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "296d9351-5219-4eb9-b7ff-60be26f6b647"
   },
   {
-    "id": "78698241-f1fa-4440-89ad-21a1fb157b7d",
+    "id": "65c81cbe-7050-402b-8358-9f5b74ede09b",
     "name": "Gorge on Excess",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -5012,7 +5012,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bfafb352-105c-4a8b-905a-aa31be989663"
   },
   {
-    "id": "47e0aace-42bf-4420-aa3c-020f0fdad8c1",
+    "id": "a107c85b-5df4-40d3-9a80-c6fbcdef2c36",
     "name": "Carrion Call",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -5027,7 +5027,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9381b491-02f0-4abe-9310-e280fa415a65"
   },
   {
-    "id": "af64185d-bcf8-4c0e-9912-921a71c1e188",
+    "id": "c1f57a43-ea31-40c6-a042-d214a0cc5f96",
     "name": "Impaling Charge",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -5042,7 +5042,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4f17c264-fc47-4a04-a985-6ff2c27d3231"
   },
   {
-    "id": "26015dc6-82b7-45d1-b100-55cc7808cc82",
+    "id": "d12b6517-964e-4def-bacb-7c5c97b513ab",
     "name": "Windleap",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -5057,7 +5057,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "653942be-b06f-48a8-9d5a-9b44e6215fc3"
   },
   {
-    "id": "a68406d0-59e0-461d-a47b-5fa60a21d7e1",
+    "id": "e5975d9d-f1e1-4d9c-b171-2a06445ad026",
     "name": "Fecula Flyblown",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -5072,7 +5072,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ce6bd705-1bd8-488a-8a7e-d040053183a1"
   },
   {
-    "id": "0ca069a5-bc9e-4b14-b759-c2cb000761d0",
+    "id": "5d03c31f-951d-4517-9372-e9931399c345",
     "name": "First of the Gorechosen",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -5087,7 +5087,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "672bfc39-92b0-467e-89f2-7a9c8df61980"
   },
   {
-    "id": "8db92935-c152-407e-8fc6-94c66d271b83",
+    "id": "b998a0b2-7074-464a-beec-f7dc4cb650e5",
     "name": "The Verminous Court",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -5102,7 +5102,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6b63e041-cbe2-450c-b305-c3a70a0f2702"
   },
   {
-    "id": "d77cf34a-3717-44e3-9f72-19d53af92977",
+    "id": "b17f8661-3b82-4b90-b2df-e69ff15d1a81",
     "name": "Soulburned",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -5117,7 +5117,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a989a965-579b-4d60-812f-ecb1fda79f5c"
   },
   {
-    "id": "bfa99418-04b0-418d-91ec-aa7da7e03b46",
+    "id": "1e63c997-b6de-4f93-a059-5ac36136a80b",
     "name": "Grimwrath Oaths",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -5132,7 +5132,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3f2fb8fe-f21f-445b-8a6a-b449077b9761"
   },
   {
-    "id": "eb83053e-3157-42d8-9e96-8a793aa266fe",
+    "id": "ab92d59b-53fe-4f00-a9d3-8556ea7c5540",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -5147,7 +5147,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b926133b-e421-4f8b-8046-6297db1e1568"
   },
   {
-    "id": "161bb5aa-5eee-4930-99de-13cbc0d0ed9c",
+    "id": "61889733-d8b0-48d9-b283-953a37a6753e",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -5162,7 +5162,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9ad808c3-c7b7-4bc4-96a5-e9d35c29b07a"
   },
   {
-    "id": "3226209d-8411-4668-bc42-dc8df5977f04",
+    "id": "911b901d-2b7d-40de-9f6b-67e67f4914e7",
     "name": "Quadrarch Aspects",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -5177,7 +5177,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "60843f61-b921-4eca-80c2-21d822fc7837"
   },
   {
-    "id": "ad6dfd5f-5515-409c-baf1-03ba5cec2093",
+    "id": "5f769e5f-34df-4f27-bc14-5b652d471740",
     "name": "Wall Crawler",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -5192,7 +5192,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ed358108-74fe-48db-96b6-219e66f4bb47"
   },
   {
-    "id": "fa645ffd-06ca-4201-a470-e54279c7d11d",
+    "id": "92b6c324-ecde-444f-81cf-97414ac0a0d9",
     "name": "Creepers",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -5207,7 +5207,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d962076c-7139-4eae-ad69-22235ef6cbbd"
   },
   {
-    "id": "3ab919eb-e94b-432f-a96e-1b654b144eb0",
+    "id": "b5908050-e868-40a6-aa7b-3c3fcbdeee00",
     "name": "Ker-Splat!",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -5222,7 +5222,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e7ec47e9-b8bb-4234-9c11-70bb9fe7bf6d"
   },
   {
-    "id": "4d305bda-96c7-436f-935a-1c9f31a18818",
+    "id": "68440c85-58ff-449f-a21a-2119a028c7c2",
     "name": "Lumpen Wall of Flesh",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -5237,7 +5237,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2b52e4ad-7d82-42cc-94b8-b39130c192ee"
   },
   {
-    "id": "2b8fc443-3470-4906-87cd-bc86721b769f",
+    "id": "b29881a0-068d-43c8-a805-0e465687d383",
     "name": "Boneripper Rampage",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -5252,7 +5252,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1d0d4abc-e4ba-4604-b8b8-f5512ffb59f7"
   },
   {
-    "id": "b9e7a517-f7d6-4a7a-bf6d-2b7129937937",
+    "id": "fa50158e-6646-4b4e-a889-9a4b63f25e68",
     "name": "Judge, Jury and Executioner",
     "phaseDetails": "Once Per Turn (Army), End of Your Turn",
     "phase": "endOfTurn",
@@ -5267,7 +5267,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "66b027f8-9368-4140-b237-5cfcc6479218"
   },
   {
-    "id": "52682b6a-0f92-4600-af92-c45f570b2c44",
+    "id": "ce6b63ce-f1c3-4a6b-8447-aba781a4a85a",
     "name": "Aetheric Deflection",
     "phaseDetails": "Once Per Turn (Army), Enemy Hero Phase",
     "phase": "heroPhase",
@@ -5282,7 +5282,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "37d3d910-c951-4a83-bcd0-d762e1cf1937"
   },
   {
-    "id": "1644703e-91d5-46eb-a480-d4e3ebe8c2af",
+    "id": "a44ee36c-c032-4256-bea9-fda01361c546",
     "name": "'Oo's Under The Heel Now?",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -5297,7 +5297,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4e2acca9-5000-4a8c-8a41-8d3247b25c85"
   },
   {
-    "id": "d316374a-9566-4a9d-9f96-053bfb7962a9",
+    "id": "3e709727-34bb-402c-b6ba-a63580cdc565",
     "name": "Discharge Armour",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -5312,7 +5312,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "78fdf391-9f01-4d97-8826-9613793626a0"
   },
   {
-    "id": "1242d9c3-7338-4b93-8b2b-903262820d46",
+    "id": "449d0ead-3988-4cbb-aec4-4f8f1f417474",
     "name": "Storm of Iron-tipped Bolts",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -5327,7 +5327,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6c03fd2-c4ca-4102-9137-0736d8caada2"
   },
   {
-    "id": "fd37bc6e-b2eb-4fc4-afb4-75d2c4b766a9",
+    "id": "8dca30e7-fbaa-4412-bc00-10b56db6cd65",
     "name": "Witchbrew",
     "phaseDetails": "Once Per Turn (Army), Any Hero Phase",
     "phase": "heroPhase",
@@ -5342,7 +5342,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6ccec673-4957-43fe-8e1a-0d3164ea1962"
   },
   {
-    "id": "eb7b2482-aeca-4f40-a390-c07574dcaa05",
+    "id": "a01c1ae6-bbaf-4e82-b97b-bdd0f590749c",
     "name": "Royal Approval",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -5357,7 +5357,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "61ebc9ec-0d0f-429a-8194-1cf9a9fd609a"
   },
   {
-    "id": "2a4330ee-56e8-4392-876f-4f8d309aa14d",
+    "id": "20084c71-8250-476b-88bd-21c13d063802",
     "name": "Festering Feast",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -5372,7 +5372,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "98d4709c-ff66-41b2-b1e6-7846ec597792"
   },
   {
-    "id": "dc4b6000-ab7e-42ef-80e3-b02b0d1e6cbe",
+    "id": "83c57b65-1c06-433a-bd10-4aea6a683448",
     "name": "Whipped To Fury",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -5387,7 +5387,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "70698232-f357-4b43-9374-6676fdfc5ee2"
   },
   {
-    "id": "9fa9c71a-b42f-43e2-8d3a-c5d418e248a6",
+    "id": "59762643-008e-4443-a516-6b4126b6506d",
     "name": "Star Falcon",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -5402,7 +5402,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9d0f516d-7f58-45f1-9736-86b0afa9e0ec"
   },
   {
-    "id": "441c5130-a78b-4907-975b-25f4b3050214",
+    "id": "7de57426-19f7-44d3-9475-f996e67a0878",
     "name": "Ghostly Howl",
     "phaseDetails": "Once Per Turn (Army), Any Shooting Phase",
     "phase": "shootingPhase",
@@ -5417,7 +5417,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b3012745-ec21-4f35-9e85-77278f1628c4"
   },
   {
-    "id": "1ba4603d-660c-4993-8941-228b490bb38f",
+    "id": "fc8c3876-f85b-4df0-96f2-0880b5f061b5",
     "name": "Sneaky Infiltrators",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -5432,7 +5432,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "586014df-d60c-436b-ab0c-74dbf6fafcbf"
   },
   {
-    "id": "33a87e5c-60a9-4a74-9fc9-7c4ae6a5c794",
+    "id": "ab789582-e855-43bd-b24a-667e775e74ec",
     "name": "Borne On Wings Of Blood",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -5447,7 +5447,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "52d19fe0-0738-4aa1-9172-45b6c500f659"
   },
   {
-    "id": "33606750-ddf7-44dc-a6ed-43447c8f21db",
+    "id": "73864236-5eeb-4b00-b519-ee784f80b4fa",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -5462,7 +5462,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d6546dde-cc29-45b7-9bb2-3d6d966ddc62"
   },
   {
-    "id": "a9eef3d5-dc69-4d20-b223-9a4913bbe016",
+    "id": "1e70e140-3ac6-4021-a78d-7c4f3d999a21",
     "name": "Scry the Stars",
     "phaseDetails": "Once Per Battle (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -5477,7 +5477,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "17389c4e-de36-4a00-8c9e-cd7ae21882bb"
   },
   {
-    "id": "ad7aea90-9a28-42df-aece-312ea24168e1",
+    "id": "3fc87a79-7f0c-4998-ae3b-cb0d0f22f6c8",
     "name": "Regeneration",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -5492,7 +5492,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "329062c0-116c-4044-9b57-4b0c771c3cd1"
   },
   {
-    "id": "7eb319f7-7cb4-4f17-afac-f706e4ed9a34",
+    "id": "f9674ecc-dafe-4573-aa6b-bc650cd8873e",
     "name": "Mask of Shadowed Mirrors",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -5507,7 +5507,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "16700af1-e558-4014-ab20-52ae55f6cddb"
   },
   {
-    "id": "d842ca92-ffde-4fe9-83fd-4f265fb1c6be",
+    "id": "c0168fdf-2544-413b-8b36-0c68b9421e19",
     "name": "Rampaging Destruction",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -5519,10 +5519,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit charged this phase, pick 1 of the following effects:\n\n• Roll a dice for each enemy unit within 1\" of this unit. On a 2+, inflict an amount of mortal damage on that unit equal to the roll.\n• Pick an enemy Monster in combat with this unit and roll 2D6. On a 7, this ability has no effect. Otherwise, inflict an amount of mortal damage on that unit equal to the results on the dice used for the 2D6 roll multiplied together. For example, a 2D6 roll of 2 and 6 would inflict 12 mortal damage (2 × 6).",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f"
+    "warscrollId": "8108d657-35b7-46b6-87fc-96855286fa65"
   },
   {
-    "id": "9a8df588-1d22-4698-8ce7-d4e8c1287ee7",
+    "id": "316fa959-e084-45cc-a29f-3d4239512521",
     "name": "Rampaging Destruction",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -5534,10 +5534,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit charged this phase, pick 1 of the following effects:\n\n• Roll a dice for each enemy unit within 1\" of this unit. On a 2+, inflict an amount of mortal damage on that unit equal to the roll.\n• Pick an enemy Monster in combat with this unit and roll 2D6. On a 7, this ability has no effect. Otherwise, inflict an amount of mortal damage on that unit equal to the results on the dice used for the 2D6 roll multiplied together. For example, a 2D6 roll of 2 and 6 would inflict 12 mortal damage (2 × 6).",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "28647412-df3c-4aaf-9519-3f7966ef367d"
+    "warscrollId": "0992ef28-02f3-4b03-a740-f818e1b3ff00"
   },
   {
-    "id": "7e1dfcd9-1f59-4282-b2cf-fb237d81b348",
+    "id": "cf19c371-3d40-44f5-877b-e31ba7f6a993",
     "name": "Judgement From Afar",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -5552,7 +5552,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "66425c68-c6d6-495c-8f7f-722bc2223cf4"
   },
   {
-    "id": "641b2bd2-d856-4bc4-b86b-538c3bcc5826",
+    "id": "7063e55b-3a3b-4c6b-9fc0-f0894272ddee",
     "name": "Rampaging Charge",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -5567,7 +5567,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "69cee10c-84d4-4ff3-a1d7-a2aa2663fce4"
   },
   {
-    "id": "3447fd24-4f76-4cc8-a2d5-1ea8bc88e7e1",
+    "id": "11956d0f-c2c1-4a56-8804-9e25c17c9647",
     "name": "Forgefire",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -5582,7 +5582,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1738a9f5-8ff2-48cc-82fa-3d674972d3c9"
   },
   {
-    "id": "0d9817bc-f2de-4fe3-8650-dd5a26ce6c1f",
+    "id": "270a5b18-c606-4448-8d22-8cbdf2ca2e11",
     "name": "Crushing Charge",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -5597,7 +5597,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "24fd34a9-2736-4ad6-8c76-f6871cbf15fd"
   },
   {
-    "id": "9825ff3f-9646-4dff-9b15-6f09a706b19d",
+    "id": "89e201ba-1c85-42eb-a34d-3e8c81461c33",
     "name": "Lone Agent",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -5612,7 +5612,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "70ddeab3-bf0b-49ce-a75a-777dc99c9ed6"
   },
   {
-    "id": "dab6371b-5702-4439-8455-e5113ed6fd4f",
+    "id": "6fbd8d82-4c36-456c-9535-b0d520a34168",
     "name": "The Vengeful Allegiance",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -5627,7 +5627,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "369dcbc7-a47f-4ffa-924d-22ce375b2402"
   },
   {
-    "id": "ec464333-c868-47e6-9860-f743704580dc",
+    "id": "bd1299a7-619c-455c-95fd-fb50c34e4f9b",
     "name": "Gaping Maw",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -5642,7 +5642,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6d2d5756-2783-4522-a16b-fe2c123f230c"
   },
   {
-    "id": "0f618e4d-0cc9-41f1-a990-17dfc6a7f874",
+    "id": "465aaf19-17e2-4c79-a77d-d12a8dced96a",
     "name": "Capricious Wyrdflame",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -5657,7 +5657,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "33c674fb-440d-4713-b34c-f4a7202dc237"
   },
   {
-    "id": "c15300ce-3a9f-4ce6-b0f0-846477019f95",
+    "id": "13836069-70a4-4ab7-a3cd-3fb5b55d8e95",
     "name": "Avatar of Destruction",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -5669,10 +5669,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it (ward rolls cannot be made for those damage points).",
     "abilityAndCommandIcon": "defensive",
-    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f"
+    "warscrollId": "8108d657-35b7-46b6-87fc-96855286fa65"
   },
   {
-    "id": "b4f962c1-db79-4cc8-aeb1-7aa194f6ef3f",
+    "id": "52cb2e71-4e7c-401d-bf36-42ff9cc54c06",
     "name": "Envoys of the Everqueen",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -5687,7 +5687,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bb2cb753-7fa1-4393-b552-c9df80dcb2b4"
   },
   {
-    "id": "56d74a43-40d1-4a71-92ea-796085638fc6",
+    "id": "de644719-b25e-412d-968b-4123bf5bf3bd",
     "name": "She Can Handle It!",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -5702,7 +5702,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "06f9ed08-9daa-452e-9cd9-51913dd43953"
   },
   {
-    "id": "3c1f4eb1-4578-40c1-b1f6-1ad24843ffb0",
+    "id": "473f7c7f-3707-45a7-9c46-93979d8f13e6",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -5714,10 +5714,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "While this unit has 10 or more damage points, subtract 3 from its power level.",
     "abilityAndCommandIcon": "battleDamaged",
-    "warscrollId": "2f5ce910-2283-48ca-b2a8-9ab50262cb9f"
+    "warscrollId": "096e15ac-06a5-4ef2-a9cf-21c72be02f1d"
   },
   {
-    "id": "8166848e-d7dc-4887-90fa-57406be7cddf",
+    "id": "51c069af-36f5-4a00-b0e6-2cc3f8b6ee46",
     "name": "Harrying Aetherwing",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -5732,7 +5732,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "65b5456e-0817-420f-a1a4-3ea992107765"
   },
   {
-    "id": "1b055777-6339-45b0-9b60-1604932829de",
+    "id": "65167d1a-0fbb-4828-865f-ac486fe89f8b",
     "name": "Deploy Wyldwood",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -5747,7 +5747,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3e330358-f275-4078-aa3f-2a91528dd91d"
   },
   {
-    "id": "08641774-c5e7-43c4-9bf8-71b013c9e5d2",
+    "id": "ed636652-8473-4698-97b3-d2c472315565",
     "name": "Entangling Grasp",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -5762,7 +5762,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b5511bad-9d69-43d0-9fc5-5f09a895e517"
   },
   {
-    "id": "38729c81-f752-435b-af7e-706d8a367d0a",
+    "id": "d6997147-b819-4e28-8cc1-d3218f61a103",
     "name": "Retchling",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -5777,7 +5777,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ce6bd705-1bd8-488a-8a7e-d040053183a1"
   },
   {
-    "id": "c326e532-9da5-4877-a39f-9ab9f08ea992",
+    "id": "41778b0b-6ea4-4496-baf0-37039eeed7db",
     "name": "Astral Compass",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -5792,7 +5792,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "da92c167-084b-4b27-85e0-99feeb219efc"
   },
   {
-    "id": "44b5b2eb-bb49-4894-b86e-942c6689b995",
+    "id": "ebb2d5b3-6788-4987-aa95-0fb5c68fad0c",
     "name": "Brutal Momentum",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -5807,7 +5807,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a7b5f262-5893-41d1-898a-54d41dc94666"
   },
   {
-    "id": "a3781b97-4b64-4acb-a0ce-61bb723b8be9",
+    "id": "f659963e-2ad6-474f-9ad2-b65719178022",
     "name": "All Shall Burn",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -5822,7 +5822,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "782ffdc3-a931-4cf3-a11d-8da8ebc21d63"
   },
   {
-    "id": "2b34545e-ec54-46c2-aaa5-a50b58edc43d",
+    "id": "24ae02f2-1470-4301-8f6e-aa65b66e2d52",
     "name": "Ashigaroth's Hunger",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -5837,7 +5837,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0fb1882c-5a8f-4458-a650-9aa03a0f6c1e"
   },
   {
-    "id": "dcac7afe-692d-4361-b720-a0089cbcaaab",
+    "id": "d5984752-f11f-46d8-bb75-8f5466194623",
     "name": "Bringers of Desolation",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -5852,7 +5852,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cd6894c9-a261-40a3-afff-7143b283e380"
   },
   {
-    "id": "955348f4-7e0e-419b-84e1-eeddf70cd3d3",
+    "id": "7cd2909c-6665-4f34-a1fb-5d4afe469464",
     "name": "Gromril Shieldwall",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -5867,7 +5867,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d45e048c-0ec3-45c4-8084-93477d000913"
   },
   {
-    "id": "b3300c4a-314a-422c-bfba-0c36f353397b",
+    "id": "c247f94d-1426-48ae-b2b5-4e63459dbd15",
     "name": "Manifested Jaws",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -5882,7 +5882,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a96056e-9cbd-4dcc-b9cf-cd01e473de93"
   },
   {
-    "id": "8dc6bccd-9d4d-4e27-b4fd-0870050479c3",
+    "id": "13cd8e8a-67cd-4247-82a6-8a193234e86e",
     "name": "Brawlerguts",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -5897,7 +5897,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7bae36d7-9d2e-4ff5-95f8-43f79dae52dd"
   },
   {
-    "id": "93177260-e8d2-408c-a034-df9141783a6b",
+    "id": "db048a1b-b8c0-48f4-a22a-0f2d2a578ac9",
     "name": "Insatiable Gluttony",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -5912,7 +5912,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0b8a4ec4-c101-4730-b315-0c06e37dee7b"
   },
   {
-    "id": "244959f3-73ae-4483-a2a9-9fb0704276e6",
+    "id": "30f2cba5-7eb5-4dd2-b7fe-82a94d9d5937",
     "name": "Arcane Suggestion",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -5927,7 +5927,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a0ad383-a414-4c9e-b485-a5a03d84d5ce"
   },
   {
-    "id": "76e61ce1-546c-45e7-8028-9e5e41c02300",
+    "id": "2c0617ca-ca50-4e10-9bc5-c0e228e3f3d0",
     "name": "Maim and Tear",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -5942,7 +5942,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "421e23bb-3549-41a8-9c89-5a00a13aa35c"
   },
   {
-    "id": "8f5253bb-72a2-47ec-8b6e-640cf64a81e0",
+    "id": "cc645438-479a-4779-8557-e57909a03176",
     "name": "Swift Attackers",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -5957,7 +5957,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cac154e2-94a9-4bc0-be00-c46c716e9068"
   },
   {
-    "id": "ab4a9f3d-fea1-4de8-859a-cac6c3634fad",
+    "id": "bf777030-b062-4098-b3b6-cab535ef6923",
     "name": "Galv-shields",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -5972,7 +5972,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a1468ce6-4b2b-47f6-a506-1907d3cc9080"
   },
   {
-    "id": "1d3fdc51-a85f-473c-87a4-33f47c3f4405",
+    "id": "7454d776-c297-4428-a9a7-3fbe12944dd5",
     "name": "Repair Construct",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -5987,7 +5987,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "efa4220c-9761-40ef-9813-77ed86e244aa"
   },
   {
-    "id": "7fabac08-31c0-452e-893f-2c86b08139c2",
+    "id": "5063358c-1bb2-4496-a003-38b217bc5bd7",
     "name": "Berserk Fury",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -6002,7 +6002,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6bd69e2-118e-4bad-931e-96a6b691ecb9"
   },
   {
-    "id": "88bc0869-efdd-4337-9c93-7bf5a665afba",
+    "id": "fe1316af-c821-4e41-ba4a-1cfe1515a129",
     "name": "Strike From The Shadows",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -6017,7 +6017,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a562aa0f-80e4-4332-80ba-5eaeb2be90d5"
   },
   {
-    "id": "79378b6a-78f1-42e6-96ed-b832bd1db99d",
+    "id": "2e852adb-5637-4d7c-8989-2ce25fdc3ff7",
     "name": "Gestalt Sorcery",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -6032,7 +6032,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6f1f444e-3a5e-4b36-acd5-bb7f22c18a24"
   },
   {
-    "id": "9a778b57-5170-4b20-9e99-6ffe9645c359",
+    "id": "ba8ee5c0-a65e-4de5-85c6-e229eb905724",
     "name": "Malfunctioning Leystone",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -6047,7 +6047,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ae694004-b117-4916-8865-08b979fb9e26"
   },
   {
-    "id": "ce6324cb-b5c4-4352-9e15-25af7b3ac039",
+    "id": "7fc6617e-98b3-4e05-a136-b283a9932bcd",
     "name": "Minions of the Silver Tower",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -6059,10 +6059,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a friendly unit that has not been deployed to be the target.",
     "effect": "The target is set up in reserve in a Silver Tower. It has now been deployed.",
     "abilityAndCommandIcon": "special",
-    "warscrollId": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca"
+    "warscrollId": "2faf277c-6868-42bf-a055-e06c106d6322"
   },
   {
-    "id": "73c10226-25c1-4591-a527-a6de58cb8e0e",
+    "id": "7d459fc8-eaea-4dbe-b107-f3405bfc70e6",
     "name": "Mountain of Loathsome Flesh",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -6077,7 +6077,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6f470634-a997-4b31-a927-efc2d4687581"
   },
   {
-    "id": "21c1535b-5dd9-4b79-87e8-aa72cb0711a0",
+    "id": "ce37118b-a573-4b4b-b285-e1543ac68d47",
     "name": "Evocation of Death",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -6092,7 +6092,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5bb61e8d-de01-4f2e-ad10-6661943810de"
   },
   {
-    "id": "d53c3cea-3365-417c-a882-300337e787b0",
+    "id": "bd498d57-6cd9-4f82-a4d5-336f6971e8a7",
     "name": "Searing Beam of Light",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -6107,7 +6107,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e43f0fb8-ba17-45b4-9944-7ceb118b5338"
   },
   {
-    "id": "ff22b267-94ea-4008-b21b-3f3e9be14b0e",
+    "id": "2cd49c13-e525-4935-aea8-ffedc8017880",
     "name": "Myari Lightcaller",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -6122,7 +6122,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bf33999a-2b7a-40bc-a2de-4eac8985666b"
   },
   {
-    "id": "ed3a1854-03c7-4ef8-9f30-dfae9d895402",
+    "id": "e2a82c14-7204-4642-9a11-ba0d1622fa5f",
     "name": "Song of Spite",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -6137,7 +6137,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2f62a967-f20f-440a-a961-883d98999633"
   },
   {
-    "id": "abe2c06b-d3d6-4c01-8dcd-184f5601371c",
+    "id": "643b1fe1-6057-4fd3-9d3f-b4153ca467bb",
     "name": "Cruel Commander",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -6152,7 +6152,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "142291b8-fffc-4a76-804c-550aca11a3a7"
   },
   {
-    "id": "60eedbb9-7266-46c8-98d6-fd34a5b0e612",
+    "id": "316ebd3f-edf7-405b-83c6-0607c9d35d80",
     "name": "On the Winds Aetheric",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -6167,7 +6167,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ff7cea22-f789-4aa8-942c-1aa140281776"
   },
   {
-    "id": "2420fc42-9695-40fc-81f0-313403e465d7",
+    "id": "b8f1f81a-2926-45fe-9bb9-1b63ccd566cc",
     "name": "Sludgeraker Venom",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -6182,7 +6182,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6b13f90a-9ee7-4d0a-89bf-a2e104f9cc09"
   },
   {
-    "id": "e37af3d1-e0d6-4399-a9d8-e6282fd6c773",
+    "id": "280b384c-2fbc-4340-ab54-cc200f2855ee",
     "name": "Abyssal Howl",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -6197,7 +6197,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c2a38571-21ba-4f48-ae10-a51a638c4b24"
   },
   {
-    "id": "8d8c462b-01da-416d-af4e-9d4f18baf6d2",
+    "id": "7f67271a-a2fa-49d2-8c8a-45b834917666",
     "name": "Staring Death In The Face",
     "phaseDetails": "Once Per Turn, Any Combat Phase",
     "phase": "combatPhase",
@@ -6212,7 +6212,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b300ec1d-6211-4909-9d61-f08ef840177f"
   },
   {
-    "id": "4df88123-bc37-4cfb-8820-7fcf4ea53f7e",
+    "id": "3f21000e-3d83-428f-be42-a411c90ea55c",
     "name": "Locus of Slaanesh",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -6227,7 +6227,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dd1f9d92-c70b-4cec-b48b-17b6f6cacee0"
   },
   {
-    "id": "eb7002be-2006-4354-b22e-9ebb7156f947",
+    "id": "87ab852f-6fc6-4183-beba-8c402646c8b7",
     "name": "Titanic Duel",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -6242,7 +6242,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fff78886-e1e9-463e-b7a8-3d36d3774ce8"
   },
   {
-    "id": "1fcbb578-d145-41f3-8667-8da0e154af17",
+    "id": "825ff6a7-8149-4555-8cbb-84f5efe20294",
     "name": "Attack From on High",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -6257,7 +6257,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b9674d2f-550b-45c5-96ea-2d1c877c4591"
   },
   {
-    "id": "aef6effc-d27e-4846-9bbf-513fd4594236",
+    "id": "a14fed44-c864-4e93-a77c-8360df6bef8b",
     "name": "Vulcharc",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -6272,7 +6272,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6f1f444e-3a5e-4b36-acd5-bb7f22c18a24"
   },
   {
-    "id": "c1fef084-ec1d-4e9d-a5e5-20425e4652a0",
+    "id": "02149757-6189-4bd9-8cfc-8c7b8b0596e9",
     "name": "Klaq-Trok",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -6287,7 +6287,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d842b070-c546-4eed-a38b-9d21db934884"
   },
   {
-    "id": "c2bdb60f-8ef0-40e5-85c6-6ef958787a20",
+    "id": "2e84a88c-770b-4792-8bfa-eb5d1f7badc4",
     "name": "Tunnels Through Reality",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -6302,7 +6302,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1bd35367-92db-4fdc-8438-14065af828fb"
   },
   {
-    "id": "32d46517-9fd0-43af-bea1-9d2399d70414",
+    "id": "bb629c54-88ae-4c53-832d-ba0a0218f6af",
     "name": "Dispersed Formation",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -6317,7 +6317,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "05c274fa-ecc8-4b59-8723-f5c8060db0b4"
   },
   {
-    "id": "cd3066ee-2e02-4615-90d6-43662af52baa",
+    "id": "0f27ad69-a7a4-4888-9882-5d0b600defcc",
     "name": "Fortitude of the Earth",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -6332,7 +6332,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7cd12860-c762-4f81-899b-6bb83890963a"
   },
   {
-    "id": "eb95d71d-bb44-4e32-85dd-5ac55810e282",
+    "id": "0d66e86f-2a08-4195-b413-236e1f90fbca",
     "name": "Stonehorn Avalanche",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -6347,7 +6347,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "70f255de-79f6-4bc8-b61c-37e795a369bc"
   },
   {
-    "id": "1d0cfacd-4c58-4d5e-bd3e-de6028be2518",
+    "id": "49622adf-76bd-417d-9f36-380f8b672472",
     "name": "Firing from the Belly",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -6362,7 +6362,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c57b4292-03cb-45fa-9069-d93f15b2700e"
   },
   {
-    "id": "4435d345-9d68-4670-94d3-e1b4ca1e99bd",
+    "id": "d80ce751-e14e-44fa-81b1-f153f2c2380c",
     "name": "Bounding Haste",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -6377,7 +6377,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "beb74a68-a40f-4ee6-aa70-c2babcedc4b5"
   },
   {
-    "id": "c936d841-a5bf-4efe-8213-d06cf8a87545",
+    "id": "63a3ea28-14e1-40f1-a57c-c58598e5d0d6",
     "name": "Blot Toad",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -6392,7 +6392,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3fddfaf5-c48d-4cbb-b782-7849c0a91cdb"
   },
   {
-    "id": "c589bd9b-c0e9-47c1-b2df-2aa7f8233aab",
+    "id": "f101fb61-7224-4586-b65d-0ad261cc8959",
     "name": "Dark Mist",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -6407,7 +6407,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "26afa746-060b-4cd6-a4c4-c1f2ee7a7b0e"
   },
   {
-    "id": "bac2ccb8-f64e-4efe-a16a-476f22cd7651",
+    "id": "cedbd7b2-03cb-40d1-95c3-1409bb710f48",
     "name": "Warp Lightning Bolts",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -6422,7 +6422,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7025730d-4adf-42d4-a55d-0d8b21572150"
   },
   {
-    "id": "a5638007-5949-48db-a3bc-d1800ac0f346",
+    "id": "12165766-eb37-4041-ad01-8a397a28c563",
     "name": "Tiny Braggarts",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -6437,7 +6437,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0330b0d2-d152-447a-8124-8aaea2d442e6"
   },
   {
-    "id": "539ab0eb-9e6b-45c7-b41b-36726a39be9c",
+    "id": "f9934240-8f11-4d56-8091-7c0874f6b9c1",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -6452,7 +6452,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "297589a1-63a3-4949-b84d-0b02291997a7"
   },
   {
-    "id": "0cc39ca4-f269-4e3d-893f-260b7fb56a43",
+    "id": "79fe949a-1dae-4661-8e03-c9e6ff9bb072",
     "name": "Brutal Blows",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -6467,7 +6467,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d08c3cf2-d82b-40de-ab29-0a8d0c559290"
   },
   {
-    "id": "83884c6f-1422-4c57-a2cd-a02758157208",
+    "id": "cfac52dc-f628-4909-8ab0-020649fe7f04",
     "name": "Oathbound",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -6482,7 +6482,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "70f26528-3c01-42f1-a964-a03c3eced76f"
   },
   {
-    "id": "e5327551-0e22-4abd-b32a-eb94419e8336",
+    "id": "53a90adc-a3a4-458d-b0e8-9a5a93a30b3c",
     "name": "Runic Empowerment",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -6497,7 +6497,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e5641197-1fc4-46a6-814b-6de950219cd5"
   },
   {
-    "id": "21579ff1-18fe-4ba4-a9dc-a10f2e4b1d03",
+    "id": "05e80ce7-f98d-4f8e-a291-87e08548df9c",
     "name": "Siphon Souls",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -6512,7 +6512,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f70abc4b-bbf9-4713-96f3-cfb159b547ba"
   },
   {
-    "id": "336f452c-1016-4a9a-81e5-beb52b7a21f0",
+    "id": "f3b746fe-b598-4884-972a-85f2801d269e",
     "name": "Relentless Attackers",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -6527,7 +6527,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "779d66ea-e414-407f-a67f-84254fde9c03"
   },
   {
-    "id": "a3b1cbb2-da0c-4776-bf31-dabc4c08aa35",
+    "id": "e1e4446b-3a53-4c9b-b117-5148e5c599be",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -6542,7 +6542,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15"
   },
   {
-    "id": "c2fda2b5-be2b-4859-aec3-735b6ade75a3",
+    "id": "b11192ca-bc1c-4577-8b86-1a2309e695cf",
     "name": "Coordinated Strike",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -6557,7 +6557,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7388b0e4-6180-4c14-9908-811b62f86317"
   },
   {
-    "id": "e2ca33e8-3c39-4920-a472-9f44df884e28",
+    "id": "37466925-d725-46e5-b809-58cac28d4649",
     "name": "Retribution or Salvation",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -6572,7 +6572,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d53701c2-027c-440f-b53c-469a4d6b0f1f"
   },
   {
-    "id": "e664351b-ac10-4721-9b55-905879d178f0",
+    "id": "e824e426-401f-413a-b5c5-9cd671616bd4",
     "name": "Supreme Lord of the Undead",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -6584,10 +6584,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a friendly non-Hero non-Unique Death unit that has been destroyed to be the target.",
     "effect": "Set up a replacement unit identical to the target wholly within 12\" of this unit and more than 9\" from all enemy units.",
     "abilityAndCommandIcon": "rallying",
-    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31"
+    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14"
   },
   {
-    "id": "be928635-f7de-46ce-a54c-cbbe39a3aba2",
+    "id": "1beb1c2d-aaa3-4e7b-b74c-ceaf728ab85c",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -6599,10 +6599,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "While this unit has 10 or more damage points, the Attacks characteristic of The Dread Mace is 4 and this unit has a Control characteristic of 10.",
     "abilityAndCommandIcon": "battleDamaged",
-    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324"
+    "warscrollId": "4e49066f-602e-446b-9107-1adec25aa3ac"
   },
   {
-    "id": "1c8e1acc-040e-44e1-8da4-be559117f3c8",
+    "id": "75e34343-cc9b-4841-a6f0-109a2211f53b",
     "name": "Mist Lurkers",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -6617,7 +6617,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e43966c7-990d-45e7-a8c8-ffca27db6926"
   },
   {
-    "id": "fec49c10-f249-4768-a715-1c620e37cc81",
+    "id": "b727f03d-0eed-4265-8af9-4a5412c7157e",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -6632,7 +6632,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8d8fda17-8204-4639-8a64-a91bfe458769"
   },
   {
-    "id": "591bbf69-85fc-408d-b7ec-0c34a857839e",
+    "id": "09223a62-ce83-4ff9-98bd-0d4c3def8dee",
     "name": "Shot and Shell",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -6647,7 +6647,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e37d5d1d-1d3d-4043-a6e4-9507bec53cb0"
   },
   {
-    "id": "ae6e7cf4-09b9-406e-98e7-1c9d3c38c9d8",
+    "id": "267baafc-54a1-4eb4-be81-b0ed056ed3e6",
     "name": "Will of the Horned Rat",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -6659,10 +6659,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a friendly unit wholly within 13\" of this unit to be the target, then roll a dice.",
     "effect": "On a 3+, add the roll to the target’s control score until the start of your next turn.",
     "abilityAndCommandIcon": "control",
-    "warscrollId": "c7eb4898-9e61-4652-a539-53b69c92fc21"
+    "warscrollId": "786a967d-0559-4bfb-8953-6644543d59dd"
   },
   {
-    "id": "96d09867-82ba-417f-8694-960d94c247ae",
+    "id": "42b5c502-3cac-4bbc-8cea-2bdc17cbc3b7",
     "name": "Grinderfist Tunnellers",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -6677,7 +6677,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b5a1374e-2519-4d17-9de8-292839796fd5"
   },
   {
-    "id": "04c8bb32-5b7a-4dc2-af49-d4e3c0957be9",
+    "id": "19114081-2d1e-4768-890e-c0105658d1fa",
     "name": "Snapping Jaws",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -6692,7 +6692,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13a48d2d-4966-4e3e-ac17-e22b6bd1ed4b"
   },
   {
-    "id": "356bb45d-adbb-4227-8fa3-191fdbeb37c3",
+    "id": "a914c790-02e9-44c9-8bcf-4372b7f87e92",
     "name": "Oracular Visions",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -6707,7 +6707,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2dd49d46-87e5-4e9e-9da2-ca1b4af72131"
   },
   {
-    "id": "6c0ec2f3-fb28-46e5-a589-5becac1e2124",
+    "id": "9b812b12-a5df-42db-bc10-408a37bb4ac4",
     "name": "Scything Talons",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -6722,7 +6722,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "98d4709c-ff66-41b2-b1e6-7846ec597792"
   },
   {
-    "id": "1084e013-24ef-4950-b398-bafc1ef35d3e",
+    "id": "d881b2bb-799b-4032-a833-28d403c3a985",
     "name": "Great Mawpot",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -6737,7 +6737,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1d470cd8-4470-499c-8c83-5341d0a560c3"
   },
   {
-    "id": "62c18fd4-5f90-489d-a35a-93cda560ae07",
+    "id": "4340828e-68c3-4673-b2d6-b5d0f65d7fb6",
     "name": "Supreme Lord of the Undead",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -6749,10 +6749,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a friendly non-Hero non-Unique Death unit that has been destroyed to be the target.",
     "effect": "Set up a replacement unit identical to the target wholly within 12\" of this unit and more than 9\" from all enemy units.",
     "abilityAndCommandIcon": "rallying",
-    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545"
+    "warscrollId": "5197fab6-20c0-4ee0-af67-0239b5262dee"
   },
   {
-    "id": "e900f94e-9e5d-4a33-8683-c57adb5c48c9",
+    "id": "20c1e376-3701-45e6-958b-d357c5ef4071",
     "name": "Advisory Role",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -6767,7 +6767,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "43d6f255-55ee-43d5-a15f-e7d386a4b121"
   },
   {
-    "id": "568900bb-f093-43f1-b600-40625c9e272b",
+    "id": "46845a65-84c6-4c74-bf69-e2a7d17a07e9",
     "name": "Loyal Companion",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -6782,7 +6782,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7f1dc62c-1d02-4f1d-a495-7ed49dadf9d2"
   },
   {
-    "id": "8c6f59fe-5e2a-4f73-a782-70cb3ff236f2",
+    "id": "99435c6b-f557-4b1c-a5d2-31743f13c8a1",
     "name": "Awakening the Wood",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -6797,7 +6797,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b479ffad-76ef-4c16-9b8c-68493996cc43"
   },
   {
-    "id": "a246207e-14e9-436a-817d-f9eeba314c9c",
+    "id": "28a45213-9304-401c-a967-b4db400f6420",
     "name": "Runes of Spellbreaking",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -6812,7 +6812,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1738a9f5-8ff2-48cc-82fa-3d674972d3c9"
   },
   {
-    "id": "efcb8331-79c8-49a0-b3d8-d3e4d10c0b5f",
+    "id": "5440b37a-dc41-4020-9f8e-d6082ac7c997",
     "name": "Ruination Chamber",
     "phaseDetails": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
     "phase": "defensive",
@@ -6827,7 +6827,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "418c7a31-53ba-4176-82de-ed99d1f8cc74"
   },
   {
-    "id": "f18dbcab-ae9e-4df0-a311-4a771ded2872",
+    "id": "84a1b0db-8d48-4e25-88bc-e60d965310a4",
     "name": "Cacophony of Sorrow",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -6842,7 +6842,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "887d0b0a-9c0c-4880-ad61-16fee3733876"
   },
   {
-    "id": "e4effbda-bd3a-4c9e-b021-8d9855f84153",
+    "id": "be764f77-ac46-4a3d-961e-3d8528325863",
     "name": "Lord of Fate",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -6857,7 +6857,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e9cd270c-596f-4732-ad4a-6f0257508dbe"
   },
   {
-    "id": "1244c93e-5cb3-4278-ac8a-7b74cadcad2e",
+    "id": "fa302cef-52b3-44d5-8ebc-88bbc93f0c45",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -6872,7 +6872,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597"
   },
   {
-    "id": "1cce1eab-6d11-421d-8284-d764c032d82d",
+    "id": "38466567-cbed-470a-8b60-a759e5e8adcd",
     "name": "Molten Rockbolts",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -6887,7 +6887,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4702e7fc-e509-4e41-a264-c314b2d7721b"
   },
   {
-    "id": "34b0faa4-704c-4898-9289-faf2e5a217d2",
+    "id": "40a966c1-a8c0-4ef7-b970-bf9d40efa2d2",
     "name": "Atmospheric Isolation",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -6902,7 +6902,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "31539d1f-6fdc-49b7-9b0e-a4dba6c289ec"
   },
   {
-    "id": "e50ce46e-73e3-4812-a80e-175c2447f78f",
+    "id": "b64eb866-a266-4d8c-b9db-7739ebcd07bb",
     "name": "Heroe's Bane",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -6917,7 +6917,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4c8bea9e-f9d0-4cf6-a395-a4a5fdef9764"
   },
   {
-    "id": "4a5d91f0-c862-4a33-b2a1-24d9cde80a92",
+    "id": "254c65fc-5356-4229-9166-0f1567be8950",
     "name": "Pot-grot",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -6932,7 +6932,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d85bdf07-7e14-4c34-9402-d54ecae33df8"
   },
   {
-    "id": "31181363-739b-44cf-97be-262f07de18cc",
+    "id": "e6600cb3-47e6-41de-8cf5-72354617c7ab",
     "name": "Vanguard Chamber",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -6947,7 +6947,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "09630233-cf6d-4547-a143-28014361d1ba"
   },
   {
-    "id": "9dbe7b5c-13f2-47d5-ad70-69dbbbfd3d28",
+    "id": "703a6695-efcb-4242-be13-f7d245a23a56",
     "name": "Bloated with Corruption",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -6962,7 +6962,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b05548c3-30a6-4198-814e-fa621a6859b9"
   },
   {
-    "id": "60160922-67c9-4b61-945c-954b0a8c9fe4",
+    "id": "b90f4d5f-159e-4990-b4c6-e3eeb5a47e0e",
     "name": "Subduing Shots",
     "phaseDetails": "Once Per Turn (Army), Any Shooting Phase",
     "phase": "shootingPhase",
@@ -6977,7 +6977,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "71719674-5e37-4667-b3f8-0a1b5eb88f1b"
   },
   {
-    "id": "ccb07d09-924d-4160-8f63-2f1d64fa36bd",
+    "id": "eaf18d3f-cf04-474d-9b4d-ec36beb03535",
     "name": "Carve a Path",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -6992,7 +6992,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2446a8aa-915b-4d17-bd98-0fe84ee9a973"
   },
   {
-    "id": "f60c360c-8974-48b0-a31f-300e2de58827",
+    "id": "1d79d6f4-2751-4056-b8cf-55f56032604c",
     "name": "The Adevore",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -7007,7 +7007,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "26afa746-060b-4cd6-a4c4-c1f2ee7a7b0e"
   },
   {
-    "id": "49d19642-d108-4801-a460-09bdf4183d18",
+    "id": "2da828b1-04db-4420-9aae-59a88ace18c2",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7022,7 +7022,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c4820879-595d-45e5-949b-f8d15cfe7d98"
   },
   {
-    "id": "3b7e8927-8f02-40ac-950b-bacd88b20d6f",
+    "id": "7c45b6d8-3378-4691-a63c-00b01ba2c25e",
     "name": "Supreme Swordmaster",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7037,7 +7037,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "26fd4164-313e-4af7-b085-fabce55c88bc"
   },
   {
-    "id": "1ce6ce1a-5d7d-479e-b3ea-a1942fad00ce",
+    "id": "0075d02d-c15e-425b-be32-24705f2128f5",
     "name": "Soul-eater",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -7052,7 +7052,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "343a59ae-b14c-426e-b5aa-465507409382"
   },
   {
-    "id": "5dea8f1a-9555-4efa-af47-41b5ed4bb0d5",
+    "id": "1f85b7f8-a6db-4da5-86ba-9f80642e65ab",
     "name": "Arcane Imprisonment",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7064,10 +7064,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick an enemy Hero in combat with this unit to be the target, then make a casting roll of 2D6.",
     "effect": "If the unmodified casting roll exceeds the target’s Health characteristic, it is automatically destroyed. For the rest of the battle, that unit cannot be picked to be the target of an ability that allows a replacement unit to be set up.",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff"
+    "warscrollId": "80a7e85a-7a29-4ee7-a418-8a745a4a9149"
   },
   {
-    "id": "d3b5d995-2f69-42b6-b39d-9f5b73ce653e",
+    "id": "31939675-5b52-4852-9a74-0179b5f57318",
     "name": "Skeleton Legion",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -7082,7 +7082,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "957b9673-6c90-484b-8b0e-33e0bf45c1bc"
   },
   {
-    "id": "6da30126-455f-40b0-ad13-12b79dad55f2",
+    "id": "3bbcb9c4-7a86-43e3-aa2e-09496438b328",
     "name": "Realmweb Lurker",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -7097,7 +7097,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f7231b61-b537-4b26-b11f-b91031beafe2"
   },
   {
-    "id": "56d6eea7-cc05-4144-90e1-524c3aca023f",
+    "id": "52da099a-1fcc-444b-af1c-58958194ef20",
     "name": "Living Fissue",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7112,7 +7112,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "84f34926-6f89-4d47-98b5-a77d10006778"
   },
   {
-    "id": "aee35f55-8c34-4614-98d7-e2cb1e118932",
+    "id": "339045cf-cbea-42a3-ab08-2a7f54357d1c",
     "name": "The Thinning Veil",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -7127,7 +7127,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ed88fbef-975b-48c3-b411-1af096c8cf0d"
   },
   {
-    "id": "42737dae-31e2-4e64-8eea-c4bd38f8e736",
+    "id": "8665ffe8-7c12-4889-a38e-7089b1cb7c65",
     "name": "Primal Terror",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -7142,7 +7142,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2f62a967-f20f-440a-a961-883d98999633"
   },
   {
-    "id": "335d30fc-9f19-40fc-b958-856396419eac",
+    "id": "b60aab7f-2cd4-4907-a20f-2dd0d1a48eed",
     "name": "Lord of Nurglings",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7157,7 +7157,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c8d331fc-9977-4d84-8bdf-9741c7f107a9"
   },
   {
-    "id": "f8a94308-ae48-4587-ab99-36475fa6a480",
+    "id": "6210dc21-0474-4118-ae8f-556b4f4d32c7",
     "name": "Shardslash",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7172,7 +7172,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "15855e9b-7224-4f40-b68e-d46c4fce7fb9"
   },
   {
-    "id": "f60268fd-b1ba-4037-9eb5-2d76468b558b",
+    "id": "e1663480-1364-43c0-9f55-2d2f0ea004f0",
     "name": "Slashing Fins",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -7187,7 +7187,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f3ef9b73-9107-4438-bcbd-e356151fda01"
   },
   {
-    "id": "cfe7a2e5-b536-4664-8268-102da91d747d",
+    "id": "73aade5f-34f7-44b9-8128-ac860e4bd56f",
     "name": "Oath of the Raider",
     "phaseDetails": "Once Per Battle, Any Charge Phase",
     "phase": "chargePhase",
@@ -7202,7 +7202,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cac154e2-94a9-4bc0-be00-c46c716e9068"
   },
   {
-    "id": "471ae98b-6430-40c1-80dd-98b2707d11a6",
+    "id": "4a9a6872-6386-43f0-8b53-f1ad1a43c9a6",
     "name": "Glory-seekers",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7217,7 +7217,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "da884625-8323-4741-8d4b-e9202ecf868d"
   },
   {
-    "id": "79cb4c60-3027-4924-8f65-49737dd6df01",
+    "id": "2efa0fae-6da2-4f45-82db-ccb1288b5bd5",
     "name": "Portents of Battle",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -7232,7 +7232,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "93fbfe69-b538-4e5a-b70e-d623c85c2bed"
   },
   {
-    "id": "914db3af-c5a5-45a6-b331-4dd1bdafe882",
+    "id": "064d97d3-857c-41c2-8fe6-8a7c1356b4cb",
     "name": "Doomfire",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7247,7 +7247,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "87b983cc-0365-4eff-bfa9-952273af41ad"
   },
   {
-    "id": "c285c473-adf6-4777-a66c-e817c9e77bc7",
+    "id": "46a9bde1-f532-47e5-b0d9-de044bb91e6a",
     "name": "Drench With Hate",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7262,7 +7262,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6e6d7560-c4b3-46f1-8a02-37152b8584f3"
   },
   {
-    "id": "e36bbdc5-94e6-4cef-b610-1cf80d11ddfe",
+    "id": "d12fc7ab-5f22-46f5-9250-cd9db05777b6",
     "name": "Unstoppable Momentum",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7277,7 +7277,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1988e7d3-7d1a-426e-95d6-4f8e530ccabd"
   },
   {
-    "id": "82a9bfbf-4f01-49db-a1c9-a6d264cd849d",
+    "id": "1d6571c1-c978-4133-983c-bd264659ebbc",
     "name": "Effigy of Da Bad Moon",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7292,7 +7292,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67656820-2853-46af-ae96-283c02971718"
   },
   {
-    "id": "a22276e6-b057-4399-ba1a-df7c9c833b4c",
+    "id": "983fcbf8-5681-4b17-b955-a5ca3490ca03",
     "name": "Tsunami of Terror",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7307,7 +7307,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10376888-c232-49e8-ab04-1d5e578bd5a4"
   },
   {
-    "id": "ca87ca96-d376-4cfd-a430-7d53d9f30953",
+    "id": "fcd54c24-c300-4ded-9622-4debd2ad0090",
     "name": "Deadly Symbiosis",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -7322,7 +7322,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "369dcbc7-a47f-4ffa-924d-22ce375b2402"
   },
   {
-    "id": "1023740a-2f96-4326-8eb6-0b884e9895a9",
+    "id": "4ab6406d-2b89-45b5-b741-fc26e6e06e5f",
     "name": "Blessings of The Forest",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -7337,7 +7337,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "58ccfbb3-9cc1-4f05-99d9-9f3017799af5"
   },
   {
-    "id": "4440297e-4f8b-4e08-aea9-9926e3756663",
+    "id": "b76d3002-b475-4eec-933a-945f89511bdc",
     "name": "Shattering Charge",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -7352,7 +7352,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2227924f-b96a-428d-830e-4aed288817fb"
   },
   {
-    "id": "4d0d892a-e31e-4f51-9784-f7e7a000ffbe",
+    "id": "79111175-8c90-4d5e-b98c-d32910ec9cef",
     "name": "Ruination Chamber",
     "phaseDetails": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
     "phase": "defensive",
@@ -7367,7 +7367,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dc52859a-3319-4220-a61b-f51784a40f8c"
   },
   {
-    "id": "5184b5ea-a49c-4128-b05b-9690ed3d11f4",
+    "id": "d7cfc501-fc39-40d3-bc80-2ddc03ad458a",
     "name": "Pulverising Strike",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -7382,7 +7382,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f"
   },
   {
-    "id": "f70dee00-eb64-4ccb-a76d-f7f5b8d9fa84",
+    "id": "e911af22-1366-469f-9184-bc423b20972c",
     "name": "Vanguard Chamber",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7397,7 +7397,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b4da5c03-cbca-47f4-8bdb-a0268fa6e95d"
   },
   {
-    "id": "9b7bb814-ece1-43e3-bda9-37d50b5cf2b8",
+    "id": "8a8f4614-24ec-4854-b891-d9950655979c",
     "name": "I'm Da Boss",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7412,7 +7412,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f72384fe-8723-40d7-af21-8de58b65f424"
   },
   {
-    "id": "e60d651c-6b2a-4a84-90e4-abbbd36fc69a",
+    "id": "a521bdd1-fee2-4911-9243-b2b689117e78",
     "name": "Beacon of Sorcery",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -7427,7 +7427,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a0ad383-a414-4c9e-b485-a5a03d84d5ce"
   },
   {
-    "id": "a58d16cd-e393-4f97-ac72-f47886ddee01",
+    "id": "d2e1dadd-7880-41cf-b5ac-9b95c211fd4e",
     "name": "Enshrouding Fumes",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -7442,7 +7442,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4dc192ff-bd48-4c1c-9bb9-725489f61328"
   },
   {
-    "id": "bf1bfc5b-add7-4a72-96a8-cde251b3ccf6",
+    "id": "2f699bec-81fc-47a1-bda1-a56702bcb9d2",
     "name": "Devastating Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -7457,7 +7457,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9f61068a-bfbc-4de1-a23d-4f1b63074616"
   },
   {
-    "id": "684681c9-696c-4e89-bc45-10f6fa6833f1",
+    "id": "8c59e28f-c4a3-4e20-ac93-f512e99d05a1",
     "name": "Keeper of the Corpse-gardens",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -7472,7 +7472,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a61893c0-7c85-4e6d-a781-09fcb03ddc2f"
   },
   {
-    "id": "5271aa91-4022-46dd-a51b-e47225e0da4b",
+    "id": "d2fb825b-ad96-412c-a7e7-b5469b8cd273",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7487,7 +7487,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fd9faa8c-c4ab-4c39-b96a-561eef254baf"
   },
   {
-    "id": "c4900b93-df27-4fea-a875-4740a10a4986",
+    "id": "43e21889-9e46-4853-a838-e90f2a96bdf5",
     "name": "Living Battering Ram",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -7502,7 +7502,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "067a82f4-42c7-49d7-be99-9875a6f9c6b2"
   },
   {
-    "id": "d5056117-318a-4814-b271-17bd3c94c556",
+    "id": "a4f4bb1a-1a59-4306-980f-d64a90a50a28",
     "name": "Ordained Quest",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -7517,7 +7517,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65"
   },
   {
-    "id": "2f16f8b3-a2ac-4082-9bf8-9aa3f325cd9b",
+    "id": "1b232b8e-c24a-4529-b27b-baf7b16347ea",
     "name": "Bladed Impact",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -7532,7 +7532,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bad52d81-5205-4eef-8961-6ea85609eae4"
   },
   {
-    "id": "5f96d809-887e-4a15-b031-c0807c79afde",
+    "id": "8c985f77-417d-49b4-a089-30fab11a230e",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7547,7 +7547,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e5641197-1fc4-46a6-814b-6de950219cd5"
   },
   {
-    "id": "4e1d5cb6-0fa3-4f9d-985b-ec27c793bf15",
+    "id": "6e722f66-91e3-4600-ae3a-31bc7f4cced1",
     "name": "Aura of Madness",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -7562,7 +7562,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a8b65060-7d0a-4f0d-8af3-858d72f37a5f"
   },
   {
-    "id": "b61cf78d-7338-4ce1-b67e-23e1af1a83cd",
+    "id": "6a453950-5c03-4725-a9eb-a2580c034f03",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7577,7 +7577,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d9792d3c-58eb-4993-9561-07b92858050a"
   },
   {
-    "id": "769430d0-d400-4ae3-9488-ad0ea5415400",
+    "id": "25774a89-e7d9-4598-abd6-62847bcb95d5",
     "name": "Running Death",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7592,7 +7592,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d5e0bf47-def3-42ef-934d-d77fc30b851f"
   },
   {
-    "id": "1bc6418a-088d-4f55-8b72-5c1ac95262bd",
+    "id": "14a4870a-7a97-48aa-b893-5975dff251cd",
     "name": "Shot and Shell",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -7607,7 +7607,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9adbd871-01e5-43ab-b3f2-bb71709a7809"
   },
   {
-    "id": "bcc1812d-5bab-46b0-bfdf-5990df382d7b",
+    "id": "e33b3d6f-25f7-478e-ab29-73e148f30619",
     "name": "Masters of the Blazing Skies",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -7622,7 +7622,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9027df1f-9754-421e-b4da-dfe86e8b28e0"
   },
   {
-    "id": "b85948b5-d5ad-49ba-8924-b6656046ffa7",
+    "id": "ffb68daa-040d-46da-ad29-3ba33f2f465d",
     "name": "Eager Death-dealers",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7637,7 +7637,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b036400a-06f3-42aa-a986-df95a2876668"
   },
   {
-    "id": "77d6ab20-150f-4814-94e5-1b6ad81e6430",
+    "id": "47d7cd97-69d6-4af0-ac27-e75dae1bc1d9",
     "name": "Dazzling Light",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7652,7 +7652,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bf33999a-2b7a-40bc-a2de-4eac8985666b"
   },
   {
-    "id": "137b9cc6-009c-4d57-9d62-44992dcf2d59",
+    "id": "836c56eb-ae04-4a8f-bdf8-72bd97f73ed7",
     "name": "Disruptive Song",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -7667,7 +7667,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0c05a591-385d-4fff-aba7-8f6e20e1bff8"
   },
   {
-    "id": "18014939-c527-451e-8f7d-06429d209ee8",
+    "id": "37ff55e3-6e3f-4619-b914-18319696384a",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -7682,7 +7682,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bd091fd0-94d3-4164-897c-4e53aca8b852"
   },
   {
-    "id": "a65f7418-d539-448c-b0a6-8e284abe8a8f",
+    "id": "1727fc4e-8b07-4741-8df0-3ddfd4ff7bad",
     "name": "Disciples In Torment",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7697,7 +7697,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3db5edd1-8a80-42a1-997f-5b578943b462"
   },
   {
-    "id": "8ec6b689-8b22-4696-9f07-44ce79afb882",
+    "id": "aaa1668a-c85f-406a-9bc9-b423456cdc63",
     "name": "Fangz of Da Bad Moon",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7712,7 +7712,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9e6757ac-14ba-4aed-bc30-03ca9874ff5d"
   },
   {
-    "id": "b21fb2e5-aee8-4aa7-a8ee-96a58832bc6c",
+    "id": "0a49818f-d4c6-448b-9247-d96499c92eb9",
     "name": "Cinderblast Bomb",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -7727,7 +7727,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "66218028-d2f4-4bc5-ac20-c8a754a47dc9"
   },
   {
-    "id": "57db53b8-079b-401e-a995-d063b3990637",
+    "id": "0b2d25a7-2f84-48de-af3e-f4804a13f1b9",
     "name": "Toad Rage",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7742,7 +7742,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "95b6f2b8-6cc3-43fb-9454-c6ec13d382c3"
   },
   {
-    "id": "7d6f0aa4-1af9-4a71-9ca0-06736bd52b97",
+    "id": "25e27512-b297-4035-bb84-e230340a9a59",
     "name": "No Respite",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7757,7 +7757,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "db035ac5-f574-4b76-b879-8849ce7b2e43"
   },
   {
-    "id": "c40c8789-d74e-4dd4-9fe8-0c2529199f9d",
+    "id": "7cc3b38b-06ee-429c-a795-a7c4a9988b11",
     "name": "Dutiful Gryph-hound",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7772,7 +7772,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7f1dc62c-1d02-4f1d-a495-7ed49dadf9d2"
   },
   {
-    "id": "58f6bad8-4068-4fac-828d-19ba62230641",
+    "id": "b0e9da57-d73b-4917-a475-1e198d84d959",
     "name": "Noble Blood",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7787,7 +7787,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3e3dfc26-0405-4b44-8800-8eb80d21311b"
   },
   {
-    "id": "c5e56bc3-f6c4-4cc6-8710-bbb2f530441d",
+    "id": "397a8d56-c572-4edc-8f5e-94bb4cbbe2a4",
     "name": "Crushing Counter-blow",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7802,7 +7802,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dd5e3f42-1a6c-46e6-9336-ffaac336a4d8"
   },
   {
-    "id": "2d8396ec-6217-437d-a443-c3a0da827db2",
+    "id": "56fab3ab-ea1a-44c7-aa5c-a9ea793a1a2f",
     "name": "Master of the Pack",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7817,7 +7817,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f4454a2e-9e10-4e8b-8465-58b0f22f5aed"
   },
   {
-    "id": "a5250dc6-6d0e-48af-8050-f390aa42ddfa",
+    "id": "72fdca1c-bee5-4a73-8e83-9e7e2dc7d6be",
     "name": "Soul-shaking Roar",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -7832,7 +7832,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "181de257-0e9d-4559-9767-fe6229d6af82"
   },
   {
-    "id": "cd140149-93e1-401b-b971-a6f76f64de92",
+    "id": "45daa213-c657-4b60-beac-853c80d94f4e",
     "name": "Etheral Blessings",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7847,7 +7847,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e1a36a57-1344-437c-b1f2-85b5daa18876"
   },
   {
-    "id": "65e54f14-115d-4492-a5ca-50e8d1f7eee7",
+    "id": "c42dce73-9a55-4cf0-9fde-d972ef03ec4e",
     "name": "Timber!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7862,7 +7862,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "76da38fc-17be-4c60-a502-881a7ad2e9fe"
   },
   {
-    "id": "226f2cad-44ee-44fb-90f1-53b810362593",
+    "id": "3bfeaf47-50ff-4444-98b4-71383eca9e14",
     "name": "Transport Capacity",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7877,7 +7877,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "667c734c-c58e-47cc-a278-a21d9ab2ccf5"
   },
   {
-    "id": "86e8f715-105e-4265-a6b8-259a88c6b434",
+    "id": "ed407a6d-8528-4c6a-b768-e5a56e4ebf1d",
     "name": "Predator's Cunning",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -7892,7 +7892,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e678f2db-4db3-4685-bed8-75a0b8e4ac41"
   },
   {
-    "id": "fd9115f5-b0db-46f7-9569-91435fabac0d",
+    "id": "f133f3e3-306a-4f4c-b55a-885f05ba3eed",
     "name": "Multiple Parts",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7907,7 +7907,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2e9fd3a5-a73b-452f-8cc7-e75cc05fa1ce"
   },
   {
-    "id": "023c5cba-f1ca-4600-912e-0376b152d89b",
+    "id": "782e24fb-06b4-446f-90f8-1e621177c38c",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -7922,7 +7922,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5297937a-5422-4814-9e64-5d3d021ac99b"
   },
   {
-    "id": "f4548c0d-2aa8-4c16-afef-1d75b48c7c3b",
+    "id": "accf7968-6a2d-4b83-87d1-5c402e53ce20",
     "name": "Magic-touched",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7937,7 +7937,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "adad59dd-957e-4c76-b565-3c5ef52c1c8d"
   },
   {
-    "id": "05a5f68d-efde-4ba8-9ad3-7ca516efccda",
+    "id": "f2ed1770-a02d-40d6-b8fb-96189543380b",
     "name": "Nasty Traps And Tricks",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -7952,7 +7952,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7ae61803-e3de-4dc8-bb68-adde570a4f71"
   },
   {
-    "id": "7915562a-def2-4422-af3e-5a695b7c2acc",
+    "id": "9136c4cb-9604-4588-a553-bd5a46d8643b",
     "name": "On The Hunt",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -7967,7 +7967,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6941faa9-42db-42c0-af38-707f7a9a031b"
   },
   {
-    "id": "33397fea-2eb1-4166-8290-ddbb2a2e7ba6",
+    "id": "88e6d889-5fbb-4f90-b5cc-d6ca25bd28dd",
     "name": "The Favoured Warlord",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -7982,7 +7982,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9"
   },
   {
-    "id": "936941ed-0f80-4fd3-bb02-024fc5b1635b",
+    "id": "1201d385-b74f-415f-adca-04278725455e",
     "name": "Wind of Death",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -7997,7 +7997,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0fb1882c-5a8f-4458-a650-9aa03a0f6c1e"
   },
   {
-    "id": "886c6c6e-4a1a-4986-bea0-f2fd9bc9e470",
+    "id": "b31c73ab-df7c-41a8-973d-c7d6b99998e2",
     "name": "Deadly Cargo",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -8012,7 +8012,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1917cb70-84be-442a-a927-f32ab805e8fa"
   },
   {
-    "id": "86691792-a30a-40ba-8a42-c778e959c771",
+    "id": "059b8279-12b9-4280-922d-5428098e3579",
     "name": "Sense Unholy Sorcery",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -8027,7 +8027,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97350fd3-c8cd-4000-9455-c15e4ca456ba"
   },
   {
-    "id": "f0475f9f-689e-48c0-bff1-25926e549d5b",
+    "id": "51260316-dacc-4015-bac1-9ca1da0927f1",
     "name": "Sniffer Spite",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -8042,7 +8042,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5587c735-4b81-49e6-97f2-0b841b44bd1b"
   },
   {
-    "id": "4e90cf07-12e2-4dd0-aa07-8f2695c72255",
+    "id": "67bba849-4d91-48cb-b31c-98163c7867c6",
     "name": "Breath of the Mire-drakes",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -8057,7 +8057,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "71979d22-0b29-4967-8a6f-42242f18a617"
   },
   {
-    "id": "605012be-4ed0-43f3-9610-2050d9d850a8",
+    "id": "1e8713ad-cac6-4c82-ac30-02d9b16854cf",
     "name": "Fortify Position",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -8072,7 +8072,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dcfdebd9-ca18-4910-bf17-caf0a6bb9b88"
   },
   {
-    "id": "8a9b29bc-a352-472c-a7e7-7f744a0f077d",
+    "id": "654aed15-08d9-4c52-8cf6-7ef17f04d122",
     "name": "Vortemis the All-seeing",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -8087,7 +8087,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ecd80964-42d4-49ae-b7ff-e2fab6d7ef8d"
   },
   {
-    "id": "ee32e478-cf43-475a-adf4-bc84ca759ec8",
+    "id": "40d58253-b7b5-4647-9e00-e0ab582b1742",
     "name": "Bladed Bucklers",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -8102,7 +8102,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6fdff28-250f-47d2-b77a-5b389f2d71c8"
   },
   {
-    "id": "bda89f3c-9e25-4c05-8e15-8e8fcaccca75",
+    "id": "e04d1307-5540-4c44-989e-06cdde3cda55",
     "name": "Dance of Diversion",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -8117,7 +8117,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2f2fb0fa-0182-43ee-8056-da1622c14ce7"
   },
   {
-    "id": "67158d9b-5612-4808-8f4f-b60a7f1de7ec",
+    "id": "4e1b58d6-de89-4d13-ba0f-7b53ac0b27bf",
     "name": "Blissbarb Shafts",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -8132,7 +8132,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "074b6728-9ed2-4a73-a1f5-4a6e034f9525"
   },
   {
-    "id": "fef24832-94d0-4d56-8df9-e41ff7dd952f",
+    "id": "c95d5317-4d07-4093-be88-3d833dbfd880",
     "name": "Behemoth's Bane",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -8147,7 +8147,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e03369f2-b7c7-42b9-89fe-409f5648cb11"
   },
   {
-    "id": "0fead955-be92-4df6-8971-6050fe7d594a",
+    "id": "ed0febfe-387f-4a44-a0c7-ec905b951230",
     "name": "Grudgebuster Bombs",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -8162,7 +8162,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f600ed80-5291-4bb9-9987-f9903ab93855"
   },
   {
-    "id": "0d3fbce0-28f5-4c48-886c-3673c98124c8",
+    "id": "e2ae0f4c-d747-4131-9046-660031e19851",
     "name": "Jolly Gutpipes",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -8177,7 +8177,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fed0d322-6399-4d87-90ae-ed0e630934c8"
   },
   {
-    "id": "3c3c4d7a-9b05-41d1-8e34-cf8ec622e954",
+    "id": "a6955b8c-e041-4b84-afc8-3021a9c9d331",
     "name": "Cornered Rat",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -8192,7 +8192,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "449c59a1-7f31-48ce-b7a1-1b697a9584ba"
   },
   {
-    "id": "76869f6d-458f-46da-821b-66130eac3552",
+    "id": "8df07949-15e0-41e1-83a4-1081adee433f",
     "name": "The Carrion King",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -8207,7 +8207,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "716956a7-c8f2-41b5-a623-d43c552c805d"
   },
   {
-    "id": "e377a3b6-9f52-4e0a-a1b0-f00508d5c4b4",
+    "id": "c0cd1e73-4958-403e-b599-d92807be383e",
     "name": "Royal Hunting Party",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -8222,7 +8222,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e0ba5b1d-f814-4e3e-add3-204dd386b818"
   },
   {
-    "id": "ff2864a5-d01b-481a-808f-7cb30bf720a5",
+    "id": "32f43d1e-7ba1-4b65-9b22-ff5c4e0b5c42",
     "name": "Faithful Gryph-hounds",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -8237,7 +8237,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bc045bea-7039-475d-9826-17752abff3bf"
   },
   {
-    "id": "cff638f4-b90e-47e1-a7b3-6b20e396f6e3",
+    "id": "cf88409a-a4d3-45bf-a0c3-22f660483c53",
     "name": "Scumboil Pox",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -8252,7 +8252,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4bd0b121-84a2-48ad-9ef7-35fbf5426135"
   },
   {
-    "id": "d97d3a58-357b-49cd-8192-cd652bdca454",
+    "id": "abde0915-2119-48c4-83b7-16f9ca219777",
     "name": "Regeneration",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -8267,7 +8267,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b92c2f90-f6a1-4b0d-995b-2735def73d85"
   },
   {
-    "id": "7f7fabcb-a755-4a65-af36-99e92af63f9e",
+    "id": "9bbe2753-7e02-457e-ada6-5f94b4c4c8d7",
     "name": "Sever One Head, Another Takes Its Place",
     "phaseDetails": "Once Per Turn, End of Any Turn",
     "phase": "endOfTurn",
@@ -8282,7 +8282,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0d3c2fc6-6edd-4693-902d-b85fadfe9edb"
   },
   {
-    "id": "a1e36e8a-8314-4dea-aa79-46124c2b9be8",
+    "id": "cbb1b6ae-6cd1-49bb-8c2c-a6afc04bdbea",
     "name": "Crashing Upon The Foe",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -8297,7 +8297,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6e6d7560-c4b3-46f1-8a02-37152b8584f3"
   },
   {
-    "id": "225b6f71-d3e0-4502-8c99-2731b123ecaa",
+    "id": "4386d9e0-55e3-46fc-a5fa-a89f2e39bb1a",
     "name": "Lurid Flames",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -8312,7 +8312,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0dc93eac-320d-4fe2-ba54-2872a1faf1ba"
   },
   {
-    "id": "89db204f-6b74-409f-af7c-2e3719ee6f88",
+    "id": "5039d788-2c71-4920-9b1b-3a02c8b733b0",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -8327,7 +8327,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "456b0bae-ac56-495c-9f67-7338abf00072"
   },
   {
-    "id": "88791aa9-507a-4f8a-9cea-7521769ddc3a",
+    "id": "4fe89153-ffa8-4d6d-b2b2-7024e6918cd9",
     "name": "The Reliquary",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -8342,7 +8342,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "01d3a4a3-bb90-4a36-b5bf-29fe92347572"
   },
   {
-    "id": "e0a29c7d-905e-48fd-bc75-79b23f4fd823",
+    "id": "2c5fd745-397d-4797-a515-9258e102016a",
     "name": "Rhythm of the Chase",
     "phaseDetails": "Once per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -8357,7 +8357,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6793b9a5-00ef-4777-9c95-eb7ae615d5d2"
   },
   {
-    "id": "08453118-5c69-4107-9503-4c833d8e4654",
+    "id": "8e8a1420-896a-4386-8d22-556929cd6f45",
     "name": "Heralds of Righteousness",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -8372,7 +8372,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f757e21-fd7c-448c-9c98-acd3a5af0cdf"
   },
   {
-    "id": "87da0af4-4dff-4e2e-9058-fc4e841c5a3f",
+    "id": "e1f487c3-76a6-4ede-a350-8f920c5f0e05",
     "name": "Swift and Nimble",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -8387,7 +8387,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3d73e2c8-eb97-4640-8c35-26a4d2d1cbcb"
   },
   {
-    "id": "84f6d156-0ca5-478e-90d8-7f2c16e23273",
+    "id": "acbe4119-3730-4511-863c-aae4d0a4dc1d",
     "name": "Unstoppable Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -8402,7 +8402,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4eb07dac-62fd-4a34-be09-05aebf6a1f5c"
   },
   {
-    "id": "824221dd-be24-4e7b-bb51-1b3851d9c6ba",
+    "id": "5847c4ff-3f80-4092-934b-2f8640b0e61d",
     "name": "Apex Predator",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -8417,7 +8417,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ffd2791d-c10b-4c65-b3de-2907d46ae474"
   },
   {
-    "id": "099fe494-4f47-4fb4-a0a4-3dd77ebc7216",
+    "id": "640ac8da-f198-4508-8579-b4c47e217a5f",
     "name": "Nature Aetheric",
     "phaseDetails": "Once Per Battle, Start of Any Turn",
     "phase": "heroPhase",
@@ -8432,7 +8432,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6793b9a5-00ef-4777-9c95-eb7ae615d5d2"
   },
   {
-    "id": "12bd541f-75c5-4e19-98c0-129dd66dd073",
+    "id": "86aa9500-e75b-4211-848b-eecd89fcdadd",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -8447,7 +8447,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "24fd34a9-2736-4ad6-8c76-f6871cbf15fd"
   },
   {
-    "id": "b83e1883-9bd6-48b0-93a8-e1d07701e210",
+    "id": "822b81e8-1064-494e-89f1-16d815ec5999",
     "name": "Star-fated Arrow",
     "phaseDetails": "Once Per Battle (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -8462,7 +8462,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8a2050a7-9f6a-47dc-83e3-26ee56acc574"
   },
   {
-    "id": "2df47dba-cab7-4f3f-b133-8871d516eb9b",
+    "id": "390fc0c8-3f37-45db-b1ce-2719aa9bfa6a",
     "name": "Vision of Damnation",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -8477,7 +8477,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0a66e184-d23c-4fe6-836c-d9a8dad75ae7"
   },
   {
-    "id": "6841ba2f-7e9c-4bf5-b633-29d33e10353a",
+    "id": "ee7b6d60-8cfa-4625-84c5-fa893a577980",
     "name": "Shield of Azyr",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -8492,7 +8492,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "91debed1-ef22-422f-8aad-13cb4eff1b5e"
   },
   {
-    "id": "624e70cd-a5a8-49e6-b48c-1d7fc27e8f7b",
+    "id": "1135b759-ec94-4e0d-882c-52c5daaa7dae",
     "name": "Dark Sorcery",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -8507,7 +8507,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2a9d9821-b5d0-4c5a-92f8-9b95915776e3"
   },
   {
-    "id": "af9d6559-efee-4888-8029-43bd6b16e3b2",
+    "id": "92011379-d3c5-48cb-abe3-0eebcbe6066f",
     "name": "Blot Toad",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -8522,7 +8522,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "30432f9c-db7c-49ca-be1b-83f7a676e78b"
   },
   {
-    "id": "d2ac1972-fe4c-4a5e-b0ca-89000f2fde3d",
+    "id": "c445b260-b989-446e-8a39-76bbc1503ccf",
     "name": "Predator's Pounce",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -8537,7 +8537,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "efb9407f-3e52-404d-bc00-0d6fd0949814"
   },
   {
-    "id": "1a169be8-04dc-493d-a0bb-9718f237f3bb",
+    "id": "456670c2-d67c-4577-9aea-70d6eaeebae4",
     "name": "Primal Hex",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -8552,7 +8552,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3fdc4640-4a39-404a-a3d0-ea5a357c0378"
   },
   {
-    "id": "d26a2984-8ac7-476e-b2ca-52b75c8db28e",
+    "id": "deeab0ac-3f9d-4e52-b96d-db73a4a7027a",
     "name": "Warp Lightning Blast",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -8567,7 +8567,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b7f9ba55-b2a4-43c9-84a4-af02bfacadd8"
   },
   {
-    "id": "5c4ff979-cb87-465c-8403-2f074e7c95b0",
+    "id": "db04831e-7719-453b-9979-7d036ceb435a",
     "name": "First of the Vyrkos",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -8582,7 +8582,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cea7cd00-b2e6-48ea-9bfd-cb353cb78ab0"
   },
   {
-    "id": "ea363024-c4f8-490e-bb43-6cdff6519f14",
+    "id": "dde94179-4221-40fc-87d6-5a20ec0be9c1",
     "name": "Fiendish Reflexes",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -8597,7 +8597,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "95fdf55e-90ca-4217-befc-392dfb4580a9"
   },
   {
-    "id": "5ee866fa-6f6f-4727-a9a8-46ca7774faba",
+    "id": "52f877d9-8167-4e53-a003-d182f273c124",
     "name": "Paragon of Slaughter",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -8612,7 +8612,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "780daaa4-923d-4851-8bad-2b343ac3cc6d"
   },
   {
-    "id": "e28f3d18-d29a-4625-8675-3ed6b59c5836",
+    "id": "61d8988a-560e-4984-b9b6-edf661a2a90e",
     "name": "Hunters Unleashed",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -8627,7 +8627,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e678f2db-4db3-4685-bed8-75a0b8e4ac41"
   },
   {
-    "id": "b239d0d2-c9c5-4a38-8fbf-bd909ba3bbfb",
+    "id": "5fb624c0-d854-420b-abbd-86c657bd31ab",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -8642,7 +8642,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "063fbf2f-5d84-4a60-815d-052984d192fe"
   },
   {
-    "id": "e13d63cd-03aa-4f05-abb3-e2a4869a92e8",
+    "id": "025b286b-fce5-4fce-9c48-23f136219abd",
     "name": "Bringers of Desolation",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -8657,7 +8657,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "65f7fa9e-453e-4b99-8f63-be6497c9ee1e"
   },
   {
-    "id": "04986f88-fe9f-47ad-b456-b4fcb6013be9",
+    "id": "f8f58216-55d2-40e2-9885-2804d955ce27",
     "name": "Lash and Tangle",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -8672,7 +8672,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b5511bad-9d69-43d0-9fc5-5f09a895e517"
   },
   {
-    "id": "03474da7-4506-4355-9da0-bdae6eb974ef",
+    "id": "9aacc8b8-5e9c-466b-b863-266ccd906afb",
     "name": "Unleash The Critters!",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -8687,7 +8687,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "01fe8cf1-4f44-47e6-89e9-8b1b976b174d"
   },
   {
-    "id": "874f5beb-d655-417b-9922-b957f7ad84df",
+    "id": "d9cf67ce-8df5-4cae-813f-94e1bf584958",
     "name": "Terror",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -8702,7 +8702,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8d8fda17-8204-4639-8a64-a91bfe458769"
   },
   {
-    "id": "a1f08c7e-9b9f-42a3-a30c-b50ae8e511a6",
+    "id": "25ad3d53-224f-4024-a71c-081427a2cd04",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -8717,7 +8717,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2a9d9821-b5d0-4c5a-92f8-9b95915776e3"
   },
   {
-    "id": "6d6ea360-425b-469a-8253-f05549eb9fd3",
+    "id": "6c022db7-40c5-4385-bfa2-1e04e4170305",
     "name": "Merciless Consequences",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -8732,7 +8732,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fb3d8d3c-cd9c-4d7e-99f3-9110ea9554bf"
   },
   {
-    "id": "38046210-a602-4ea8-b2d3-ffab7f443a01",
+    "id": "08f8838e-2825-43cc-a0d6-11e0bf836a17",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -8747,7 +8747,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2227924f-b96a-428d-830e-4aed288817fb"
   },
   {
-    "id": "4feb02a3-2477-441f-9b59-64a17fba8308",
+    "id": "5fdd089b-7fc6-4762-849f-99af9859bcb2",
     "name": "Capricious Wyrdflame",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -8762,7 +8762,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b51b1157-e036-4698-a060-1bde181f3442"
   },
   {
-    "id": "ea6bae11-96fa-4e93-ac1d-3064f4147517",
+    "id": "dc8ee7b9-8076-4c71-85e4-7400eb376eaa",
     "name": "Beast Handler",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -8777,7 +8777,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c08f30b8-2541-4e9d-9c35-5950ecdeac6c"
   },
   {
-    "id": "1bf6a801-c550-4922-b8f8-f0833cce1d64",
+    "id": "e03e8a91-091a-48fa-8b58-dd23441c5977",
     "name": "Berserk Fury",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -8792,7 +8792,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4130ee13-ea72-4683-ad47-aeea7063bf14"
   },
   {
-    "id": "186c6888-b45c-4645-8a4f-1d6e1164981f",
+    "id": "1c8c7f56-3ea1-4812-b5a8-47483dd7f935",
     "name": "Strength From Victory",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -8807,7 +8807,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "345c8662-5a2f-406d-8606-5fcc91c98ad0"
   },
   {
-    "id": "0edb0aea-372c-4788-86db-2f03cad8e3f9",
+    "id": "dc6b97fe-09bf-4935-8c9a-95c204f50e9c",
     "name": "Blot Toad",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -8822,7 +8822,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "95b6f2b8-6cc3-43fb-9454-c6ec13d382c3"
   },
   {
-    "id": "f5c5c4cb-9e0a-4e0e-9934-f125f1814eb1",
+    "id": "f58fb28b-8c00-4c5c-828e-381ef81fc441",
     "name": "Empowered By Atrocity",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -8837,7 +8837,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fa1bec68-c0ff-451a-ac79-c6f4a8b71bda"
   },
   {
-    "id": "d39eaf28-e400-4c83-9362-65d674100eeb",
+    "id": "0988cf1f-3a27-450a-b41c-ebf622cc9088",
     "name": "Mork Sez No!",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -8852,7 +8852,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "86bbdce1-0803-4499-b434-dae4f795d7db"
   },
   {
-    "id": "fa1da1dd-e622-4b51-b7fc-627b1080fe27",
+    "id": "9b6623a2-cd12-48d6-9518-52c7925e4ab1",
     "name": "Ambush from Beyond",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -8867,7 +8867,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f7231b61-b537-4b26-b11f-b91031beafe2"
   },
   {
-    "id": "143937b3-d29a-42b4-9967-d3b5c59c4f8c",
+    "id": "7cee7978-1101-4617-bf4c-5ef5a60be6b8",
     "name": "Soul-guide",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -8882,7 +8882,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3c31903c-0c41-4c09-9e3b-96eb3f6da894"
   },
   {
-    "id": "bdd42e0b-19df-4ec7-b6b6-262ff2bfe7cb",
+    "id": "6cacc7ca-f9ae-429b-8420-4df4cfdccf64",
     "name": "Reaped Like Corn",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -8897,7 +8897,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b6052155-200a-419e-af03-58e88d9b7f53"
   },
   {
-    "id": "866af21c-cab5-4f00-949b-adb8190899d6",
+    "id": "6ebbef09-b448-4ec7-8ab3-2d0f514087ce",
     "name": "Festering Bulwark",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -8912,7 +8912,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "63d77f79-ecd6-481a-a9a5-81a9a52fb8c2"
   },
   {
-    "id": "82f7a0e9-26eb-435c-94f6-c44a587626d5",
+    "id": "ba63c19b-1650-48ac-b13f-995674cd4f1f",
     "name": "Saint of Slaughter",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -8927,7 +8927,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13a48d2d-4966-4e3e-ac17-e22b6bd1ed4b"
   },
   {
-    "id": "28d04a4e-ae6a-4723-8d8f-817317664334",
+    "id": "d234eec1-f72c-42a3-b2ad-e7f89839a73e",
     "name": "Chilling Horde",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -8942,7 +8942,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c9dc88ca-a22b-40ba-9bb0-ed1c45f558bf"
   },
   {
-    "id": "2aaa99a5-bde1-4988-87de-e221e831f18b",
+    "id": "d81462a7-787a-4294-9572-bf9a38a8a5c7",
     "name": "Keep Up!",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -8957,7 +8957,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2c7751ad-35c1-4b76-8732-4dc407232b54"
   },
   {
-    "id": "667e96db-9567-4a92-8a49-518ac8b6f218",
+    "id": "f2bb12b5-e098-4e29-9bd0-d7bdcd95da7c",
     "name": "Read the Winds",
     "phaseDetails": "Once per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -8972,7 +8972,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a04e937a-26ee-434e-84e6-58cd6eb064b7"
   },
   {
-    "id": "7c4f62bd-3650-479e-a630-540f4f119d9e",
+    "id": "adca492f-9610-4fff-8c5f-eda4ed3cad47",
     "name": "Aetheric Manipulation",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -8987,7 +8987,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "746eafe5-6576-4e34-a91e-0c0f0e939425"
   },
   {
-    "id": "36094d4a-4461-40ff-8f6a-527b703693d4",
+    "id": "ad56b0a5-c106-411d-a6eb-55ef0110e755",
     "name": "Icon of the Blood God",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -9002,7 +9002,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "20ad78cc-6d32-4097-a080-1f8b6196e2fd"
   },
   {
-    "id": "e29a0805-9619-48a5-b85b-326dc4cc00fc",
+    "id": "8e587856-994a-4147-9471-98c964185255",
     "name": "Brutal Blows",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -9017,7 +9017,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "230191f8-a564-43fc-9dcf-2366e8a85edf"
   },
   {
-    "id": "699ee113-6f4a-4813-a4c7-e0bf8b9b518b",
+    "id": "02ba3357-0458-4601-82d1-156cfc615688",
     "name": "Ripe Pastures",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -9032,7 +9032,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3103f832-e304-4423-9294-4327339e2b83"
   },
   {
-    "id": "f424b413-9583-4541-a121-8876d99f710b",
+    "id": "c3e242a4-7ba1-4fca-86df-aff28f1d875d",
     "name": "Fires of Retribution",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -9047,7 +9047,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f766968f-7e13-4fec-b708-abd5ee15633f"
   },
   {
-    "id": "86f1fa02-4c52-4ae5-a089-d0091f56eefa",
+    "id": "62b1416d-7c1e-445a-bbce-b7c374b02598",
     "name": "Hrothgorn's Mantrappers",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -9062,7 +9062,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "05675b36-4aa5-4a48-a24f-bb660bd4c0ad"
   },
   {
-    "id": "8e49301e-82e7-4f7c-8da6-a924729db222",
+    "id": "864ce33c-7b79-4254-ba20-7282af2aaff6",
     "name": "The Grand Gourmand",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -9077,7 +9077,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bfafb352-105c-4a8b-905a-aa31be989663"
   },
   {
-    "id": "e457de33-f0a7-4950-99a3-21b1b784e4c6",
+    "id": "c8ca54a0-88b1-4961-bc4a-f39cf0186eba",
     "name": "Circling in the Skies Above",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -9092,7 +9092,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c4ab87fb-95a7-4651-b054-63ba321ec637"
   },
   {
-    "id": "32b5c96c-9622-4d76-aa0a-d91b5cf0240a",
+    "id": "a15ff651-0cd9-4f12-a43e-d802bff77f1b",
     "name": "Pull of the Nadir",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -9107,7 +9107,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8efce43a-fe09-481c-ad9e-ce413149ac3b"
   },
   {
-    "id": "583c80cb-ee68-48d3-a632-4517e22f35d4",
+    "id": "06e39394-759c-4717-9354-923926a805a4",
     "name": "Hunting Beast",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -9122,7 +9122,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "05675b36-4aa5-4a48-a24f-bb660bd4c0ad"
   },
   {
-    "id": "c146e978-d6b3-4623-823f-9aa3856f3961",
+    "id": "9388f41d-0cd0-4cb6-a93f-b62ce8b11c77",
     "name": "Nightmare Lantern",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -9137,7 +9137,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "557e4645-e2cf-4bf0-88f1-444c9aea6d1c"
   },
   {
-    "id": "4dc76cb6-e8c1-4c91-8187-3f790b45c17c",
+    "id": "e950c186-1004-4104-a313-f2fe956ea861",
     "name": "Thaumaturge Rage",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -9152,7 +9152,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3ce65ad5-a414-400f-80ae-f36bb082506d"
   },
   {
-    "id": "a49489f9-3c8e-482c-94f8-7b1480cd5f16",
+    "id": "25a8a52e-ca05-422a-b413-b469045c9256",
     "name": "Light A Pyre",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -9167,7 +9167,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e5e96742-8db6-4993-9c7d-01b5a4019083"
   },
   {
-    "id": "1769ed3d-78cf-4742-aec0-af0011d3e4dc",
+    "id": "71fbaa9c-fe0b-4f6d-987c-1e7fd0d6755f",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -9182,7 +9182,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0c05a591-385d-4fff-aba7-8f6e20e1bff8"
   },
   {
-    "id": "d134ffa7-ffa4-40f0-a426-a046298875d5",
+    "id": "a1bd4dd4-e347-4770-b5b4-0288af711611",
     "name": "Jagged Harpoon",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -9197,7 +9197,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6c426b44-18f6-4a70-8214-7d13cf836435"
   },
   {
-    "id": "da968925-474c-433f-b68e-ab53bb43c026",
+    "id": "51c4a30e-1f26-4fc5-9122-77c68f910fac",
     "name": "Hidden Weapon Team",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -9212,7 +9212,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8eda4612-9521-4c00-8119-2ab89ab0557b"
   },
   {
-    "id": "1daaa440-e1fb-4718-8645-1a21de9c73e5",
+    "id": "542b95d0-c7e9-444d-a60f-2a4a7f861a48",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -9227,7 +9227,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bda6f3ae-c08e-4a85-b12e-81fe4d1b5a05"
   },
   {
-    "id": "caf258c1-dfa0-4fe9-b0ed-2447c55576e5",
+    "id": "15263cc7-adea-4b51-b9f4-f2ab2e4839be",
     "name": "Supernatural Speed",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -9242,7 +9242,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "42d0aa6d-2f14-4abe-9bac-bd3619d4394f"
   },
   {
-    "id": "15383974-902a-4abc-8cd9-cf94d2c56156",
+    "id": "27149a64-aa32-4da0-a01d-38427e41dc90",
     "name": "Gor Stampede",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -9257,7 +9257,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7cc36e6f-d9cd-4672-a62f-20508fe27b38"
   },
   {
-    "id": "94ae63f0-b56a-4ace-8d5f-17a828ac0137",
+    "id": "14fa90cb-e50a-49ac-9363-d30b69ae60fc",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -9272,7 +9272,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0fb1882c-5a8f-4458-a650-9aa03a0f6c1e"
   },
   {
-    "id": "1a65a518-73b9-4dcd-a8fa-835c2ec8de7a",
+    "id": "9ca14106-0cdc-4773-bc66-52ab2619f8f4",
     "name": "Darkness of the Soul",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -9287,7 +9287,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f1cbcad0-6878-4d90-aaba-2aa223cc512c"
   },
   {
-    "id": "86130c60-ebc2-4422-9bed-560510452613",
+    "id": "b3338b52-bfa1-4f9c-b6b6-5307ac89fb06",
     "name": "Hidden Agents",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -9302,7 +9302,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "529b128b-dc22-49e3-a427-04dc2f009c09"
   },
   {
-    "id": "78fce05f-8670-49c1-ad64-4690b58b906c",
+    "id": "c0497683-73d6-40e2-925f-9ba3a4160bc8",
     "name": "The Time-Swallowers Maw",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -9317,7 +9317,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7a2ae466-08d8-4a14-ac8d-395802f9ff57"
   },
   {
-    "id": "43b1d957-8f2e-4b5d-b0cb-3442c5a9cd0c",
+    "id": "d70139d6-c171-4b4d-8a87-2a325399805b",
     "name": "Bard of the Lodge",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -9332,7 +9332,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5b4a2efc-d509-4e95-8102-9409bbf34f1a"
   },
   {
-    "id": "a72c4955-ea0f-4e0d-8f05-04296ec29ec6",
+    "id": "74e99494-f7ec-4adb-b46c-34393654dc8c",
     "name": "Cloud of Flies",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -9347,7 +9347,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fc5334f7-a90f-4b2b-acaf-754eab2db41f"
   },
   {
-    "id": "4de02146-c178-4706-bcb1-9d3dadaf23a7",
+    "id": "9ba75467-4ee9-4356-b24b-0a9b85e25c97",
     "name": "Writhing Vines",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -9362,7 +9362,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "296d9351-5219-4eb9-b7ff-60be26f6b647"
   },
   {
-    "id": "5e02a40d-26ae-4f19-aeb6-3c88e7e693d0",
+    "id": "5580aee4-d24e-4a9e-b2eb-3fe5cd0c6135",
     "name": "The Endless Vermintide",
     "phaseDetails": "Once Per Turn (Army), End of Your Turn",
     "phase": "endOfTurn",
@@ -9377,7 +9377,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1bd35367-92db-4fdc-8438-14065af828fb"
   },
   {
-    "id": "c8515b8a-a2cb-41c8-846b-ceafdacab735",
+    "id": "4bec3579-7388-4890-a555-6b5385fa53fd",
     "name": "Shock Gauntlets",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -9392,7 +9392,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c52e44ce-3274-4b52-92f3-340452744268"
   },
   {
-    "id": "72c465d9-aacc-4ba7-bfc7-5d7a7e53ae25",
+    "id": "0ebc91d5-6dfa-4549-9210-e0f7ec4045d0",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -9407,7 +9407,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2156799d-b01e-450c-bc5e-082c56fee866"
   },
   {
-    "id": "976c7716-5d1a-4434-a89f-e3fae50c31b9",
+    "id": "d2f0ef70-67e7-427d-86a1-9f4e67f87eba",
     "name": "Stalwart Defenders",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -9422,7 +9422,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "56934c98-f378-4d53-9d60-910e622667ee"
   },
   {
-    "id": "cf5ae046-764b-4c57-b95c-91d80c2efa77",
+    "id": "9c36b251-4d58-490a-b2d7-db18e97e56cc",
     "name": "Relic Censer",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -9437,7 +9437,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3edfd2f4-f965-4ab3-b5b0-09f52590b1d1"
   },
   {
-    "id": "8659aa30-e20c-45b5-85fc-043a4374a613",
+    "id": "e7156657-892b-48e3-993e-e945602b5fc8",
     "name": "Primal Rage",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -9452,7 +9452,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1dc0f010-8785-4da1-be61-2b5ac6e0146b"
   },
   {
-    "id": "a728f3a1-b260-443b-8494-1b79fc68fb22",
+    "id": "1d5531c1-3b9c-4e6a-8e1d-a3d2b4deab48",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -9467,7 +9467,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "58386ec0-5406-45ec-8844-7604b2a6c808"
   },
   {
-    "id": "e1bf2179-fd29-4c5b-ac88-6a416ac3ce4e",
+    "id": "029cbe6f-1bd3-4e6c-87cf-312729ab9a5b",
     "name": "Envoys of the Everqueen",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -9482,7 +9482,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aefaabaa-52aa-49d4-8208-c9da6cbee590"
   },
   {
-    "id": "910c69f2-0e6f-4a8a-8751-0d0995a17237",
+    "id": "507259f4-8381-4c42-a9a2-0bcafc994113",
     "name": "Call to Battle",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -9497,7 +9497,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fa89fccd-b102-45d9-85d4-3ac7a7c1b52d"
   },
   {
-    "id": "9389e406-226b-4286-a4f3-9dfdef25fb69",
+    "id": "04a2a1c2-fb3e-4f52-a1fc-8aec867f7b7b",
     "name": "Wall Crawler",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -9512,7 +9512,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "456b0bae-ac56-495c-9f67-7338abf00072"
   },
   {
-    "id": "0ebebdf3-81ef-4d85-9d1e-8f9c5b0ba582",
+    "id": "2ce817bf-382b-4cc5-98ce-dc5776859d5e",
     "name": "Master of the Ethersea",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -9527,7 +9527,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dfa65062-365c-489c-83c1-72e18ecea9ff"
   },
   {
-    "id": "f4b61fb6-6b0f-40f9-94ba-732c164dba1a",
+    "id": "8fe6ecb7-21b9-4f75-baa0-e2818fa94645",
     "name": "Regeneration",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -9542,7 +9542,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "01fe8cf1-4f44-47e6-89e9-8b1b976b174d"
   },
   {
-    "id": "d5b53893-15cc-4017-987a-b314d880a76a",
+    "id": "1374ee22-d03c-447b-8787-1009b4cbf7df",
     "name": "Altar of Khaine",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -9557,7 +9557,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e0e960da-f809-4ab5-9a81-fec7f35dddbd"
   },
   {
-    "id": "39836d85-c1a3-42b6-affa-193dd8bbff5c",
+    "id": "ec9348ea-de7f-402e-a668-07d927b12f3e",
     "name": "Slaughter At Any Cost",
     "phaseDetails": "Enemy Shooting Phase",
     "phase": "shootingPhase",
@@ -9572,7 +9572,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e003fab4-9730-4640-8902-8f02d26084b3"
   },
   {
-    "id": "d0390d4a-3109-4c46-aa63-bc3a4e31c01f",
+    "id": "2af11e3f-9d9d-4c4d-8450-9d9f9f98c27e",
     "name": "Brimstone Horror",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -9587,7 +9587,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ecd80964-42d4-49ae-b7ff-e2fab6d7ef8d"
   },
   {
-    "id": "75fc0b7a-a368-4eb1-93b0-da654934166c",
+    "id": "0aead21c-ce92-4841-b6be-72f186e24d1d",
     "name": "Vengeance of Khorne",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -9602,7 +9602,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2156799d-b01e-450c-bc5e-082c56fee866"
   },
   {
-    "id": "952dcde3-a396-43a6-8c83-0dfa6b3466d8",
+    "id": "afdd5c45-a87d-4ac1-9375-9e80a0331b99",
     "name": "Screeching Raiders",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -9617,7 +9617,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dc73f092-0fca-4845-9c67-15c268be5a57"
   },
   {
-    "id": "d81511c3-b301-4f68-aa7a-5573995783ab",
+    "id": "516cd038-2df7-4a96-8218-d68db4516279",
     "name": "Slaughterous Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -9632,7 +9632,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0a152da1-861b-47e6-81d1-6675af471734"
   },
   {
-    "id": "530c0c5a-547b-4644-a7ad-96ec1f43a535",
+    "id": "b97f852b-6b49-40d7-92e0-5a3870f1f144",
     "name": "Living Cyclone",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -9647,7 +9647,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5dcc40b7-af26-4fa6-96ee-66270af4f3ef"
   },
   {
-    "id": "e8b39696-659b-42b1-be88-8a458ac9a369",
+    "id": "e6304399-8acd-41b7-9ea3-67685d664db3",
     "name": "Pater Filius",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -9662,7 +9662,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e4965a2f-b219-49dd-a48d-b24b385f5ff3"
   },
   {
-    "id": "aae41c34-56fb-46db-8ca0-cf9da8c9d385",
+    "id": "81e63d9b-2b6c-450d-978b-d78506c69ad8",
     "name": "Creeping Summons",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -9677,7 +9677,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b27de225-a148-47b0-8522-b63f1bc00ba8"
   },
   {
-    "id": "853f70cd-5dcb-4dfd-84bb-1853ff352aa0",
+    "id": "8bfb8d50-f3d7-4c60-b63d-6faa5ab00379",
     "name": "Supreme Lord of the Undead",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -9689,10 +9689,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a friendly non-Hero non-Unique Death unit that has been destroyed to be the target.",
     "effect": "Set up a replacement unit identical to the target wholly within 12\" of this unit and more than 9\" from all enemy units.",
     "abilityAndCommandIcon": "rallying",
-    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c"
+    "warscrollId": "9b60ec8d-81b2-4818-bbb1-01b888070ad4"
   },
   {
-    "id": "732420e1-0718-44a3-9a94-27491600a890",
+    "id": "2c7807d1-fd00-47f9-93bf-a20234eb468a",
     "name": "Mutilating Blades",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -9707,7 +9707,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "99eb06dd-3f16-4d8c-9ec2-15a067193f97"
   },
   {
-    "id": "3b6d8f77-a82c-4b41-af4d-79fe1ce3115d",
+    "id": "47e0a0a5-c49f-41a5-b54f-f78743ef1378",
     "name": "Nimbus of Power",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -9722,7 +9722,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5bb61e8d-de01-4f2e-ad10-6661943810de"
   },
   {
-    "id": "441db5b3-bc6c-49c8-b0e3-a42a31cd1608",
+    "id": "5e3802a4-fe13-4108-a446-e91d20f54128",
     "name": "Tectonic Splintering",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -9737,7 +9737,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b475bfca-7ecb-4ef5-87d1-c322366877ae"
   },
   {
-    "id": "31e94cfd-e956-414e-8b35-22a640ca0152",
+    "id": "4a4229a4-11c2-4f11-a3b4-cd480dbebce5",
     "name": "Bloodwrack Stare",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -9752,7 +9752,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "86126e78-7fcd-4792-ad28-1fba83b02227"
   },
   {
-    "id": "44b16af7-2bdc-481e-84b9-948f8156fbc2",
+    "id": "9cdd9c29-181b-4bff-80bf-cef1ec188074",
     "name": "Regalia Fulmentarus",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -9767,7 +9767,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "181de257-0e9d-4559-9767-fe6229d6af82"
   },
   {
-    "id": "2acec391-ea99-4eec-8212-6320dfc9eab3",
+    "id": "249ecfc4-2775-42d7-be13-06b2e97b0267",
     "name": "Cometstrike Sceptre",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -9782,7 +9782,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c664609a-8757-4141-99dc-f731794570c6"
   },
   {
-    "id": "51a4114e-fda0-434f-9b37-d4ab7306748c",
+    "id": "a43ba943-e604-4478-9d26-6210690e1fcc",
     "name": "Minions of the Silver Tower",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -9797,7 +9797,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff"
   },
   {
-    "id": "1d9faa3e-0ac9-46ad-a481-ea3d8b73b67e",
+    "id": "f513414b-7c81-4c2c-9714-4f9cfcd70fb0",
     "name": "Passage Through The Underworlds",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -9812,7 +9812,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2c438bf8-ebf8-4588-8273-9dee0a76cae7"
   },
   {
-    "id": "d0918d53-6adb-435f-b26a-95a1c89833e8",
+    "id": "75d1ad2b-a49d-4faf-9412-a93aae6beba9",
     "name": "Lightning Strikes",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -9827,7 +9827,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "99f0ac97-92d4-4437-b49b-0df17865c799"
   },
   {
-    "id": "f9adda64-b699-47b2-b52a-e387cdd16caf",
+    "id": "12109975-28f9-46a2-9048-002eba7c1da6",
     "name": "Soaring Terror",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -9842,7 +9842,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "525f6c9a-f82d-48e0-8894-3ca86ecc6f32"
   },
   {
-    "id": "b1add7d3-7882-4cc6-8bae-622f02862444",
+    "id": "eeb7ac22-c10e-4d1d-9357-e4906335f641",
     "name": "Deadly Cohesion",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -9857,7 +9857,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "171dbc5c-41c8-4e6f-92fd-818393725455"
   },
   {
-    "id": "2d7f081d-3c4b-4952-bfd1-accd57a0d17d",
+    "id": "f58f6a08-fb38-42e5-9827-cdbeb3cef4ee",
     "name": "Stoneheart Shockwave",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -9872,7 +9872,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9b94218c-7969-46b9-9547-f90f6724793d"
   },
   {
-    "id": "024023cb-a74c-473b-8960-9e96d5edcbab",
+    "id": "7c3c7af1-c8ff-493d-93e9-963a1c7da228",
     "name": "Curse of Years",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -9887,7 +9887,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9864e44c-eff4-4d80-87b8-b73a06080d03"
   },
   {
-    "id": "aaa14e5f-bd82-4f3f-9436-7d5f893ae744",
+    "id": "c21e8062-55af-457c-9434-e4d1239e5f49",
     "name": "Thrashing Desperation",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -9902,7 +9902,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a8c9868e-99e6-47cc-b7f1-c6bedf7b43c4"
   },
   {
-    "id": "dc219121-5d7d-4b32-9889-81bb6473ba80",
+    "id": "ee4492e8-4944-4ebd-9bf6-ea1406b8cbb2",
     "name": "Decisive Commander",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -9917,7 +9917,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d8b6a82e-887a-4cae-9fbb-8e994a47f731"
   },
   {
-    "id": "9718f814-3631-41f9-a817-85227475ae06",
+    "id": "703edabb-29e9-47ec-ab91-06c2881a7d1e",
     "name": "Absorb Despair",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -9932,7 +9932,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f1cbcad0-6878-4d90-aaba-2aa223cc512c"
   },
   {
-    "id": "e771197c-1641-49a8-8a72-57a5437b4ab7",
+    "id": "5bb470d4-3f56-4050-af09-9ec0b0ac8898",
     "name": "Corrupt The Realms",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -9947,7 +9947,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61"
   },
   {
-    "id": "aca41381-30d1-498b-8dd4-3be80f447836",
+    "id": "311f8eb6-7bca-4000-8fa2-ba9135c4cc84",
     "name": "Blinding Bolts",
     "phaseDetails": "Once Per Battle, Your Shooting Phase",
     "phase": "shootingPhase",
@@ -9962,7 +9962,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7ad56398-8335-49ba-8576-8ffa0d95b190"
   },
   {
-    "id": "562c11d2-6d1d-4acd-bcbb-820c22941a63",
+    "id": "4753117d-6f80-4b10-a945-f7d03aaf772f",
     "name": "Icon of Grimnir",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -9977,7 +9977,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "033d2d1e-7806-4661-88ae-71172ba394b5"
   },
   {
-    "id": "f233b289-e000-4efc-a6c7-27de2daa9a41",
+    "id": "bd141b59-7bec-4e63-89af-9ec167215e11",
     "name": "Overgrown Wilderness",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -9992,7 +9992,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3e330358-f275-4078-aa3f-2a91528dd91d"
   },
   {
-    "id": "30394b43-b38b-4dca-b7d1-683c06ec7470",
+    "id": "cf16c045-f18c-48c0-9b3b-50f497bb5359",
     "name": "Celestial Reinforcements",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -10007,7 +10007,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82eb8a43-c4b0-4716-bb64-83b2bea22957"
   },
   {
-    "id": "7a13ca69-dad2-4dfc-afb3-b94089c14249",
+    "id": "de31d118-f09f-4baf-8ed4-58dea24110ea",
     "name": "Linebreakers",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -10022,7 +10022,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "27f8cbaf-2f46-404a-b6e0-3748aacb3dc3"
   },
   {
-    "id": "955d3e5e-adef-4e86-9d83-a56fa8a9b7ca",
+    "id": "331a4e4a-8c97-4d8e-8494-fd07bf7968da",
     "name": "Burst From The Shadows",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -10037,7 +10037,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bd31cfe5-03c6-4b64-9a66-da2554b54f01"
   },
   {
-    "id": "88405664-a210-421f-a10c-43d650c3b95f",
+    "id": "9eb73266-b441-458a-8468-82f7c591363e",
     "name": "Brace for Impact",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -10052,7 +10052,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aea7407f-e52b-4935-b80b-cb1d9da26325"
   },
   {
-    "id": "a917bf1d-5fd6-4553-b641-2c6224613e71",
+    "id": "f03cd446-6996-4b9c-9066-8ce8c1f5bcec",
     "name": "Twilight's Allure",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -10067,7 +10067,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "26afa746-060b-4cd6-a4c4-c1f2ee7a7b0e"
   },
   {
-    "id": "c2d200f2-58d8-417d-b609-f98ba684c0e9",
+    "id": "51967d6a-2a4a-4366-a6b7-9c521eaf7d23",
     "name": "Independent Operative",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -10082,7 +10082,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "70ddeab3-bf0b-49ce-a75a-777dc99c9ed6"
   },
   {
-    "id": "1d170809-7836-4a03-b942-aac3ad8ca99c",
+    "id": "a8f14e2b-ddc6-453a-90b3-3de9a96aafe3",
     "name": "Wall Crawler",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -10097,7 +10097,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f7231b61-b537-4b26-b11f-b91031beafe2"
   },
   {
-    "id": "05eba82c-64ec-4605-a955-959f1931a31f",
+    "id": "e5e5de88-a8f8-43d3-9ac3-13ec0d7d9872",
     "name": "Hold This Position",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -10112,7 +10112,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d0758013-4491-441b-896d-0c9b84d46669"
   },
   {
-    "id": "e945c49e-d9e6-4797-90a9-ae913341fa7b",
+    "id": "f01accd3-4509-4c90-8ddf-f503736b9ebe",
     "name": "Soul Energy of the First Host",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -10127,7 +10127,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7797889c-6dd2-4f9c-86ac-29f3c6487a81"
   },
   {
-    "id": "e964b0af-2d9f-4057-b7cf-8ec3f9804a8b",
+    "id": "24aecb6b-5b32-4aac-89e8-2567a2dfb135",
     "name": "Explosive Payload",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -10142,7 +10142,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "31e24a20-3fb6-47b5-a141-cb4918f05c15"
   },
   {
-    "id": "943bea52-473f-47ff-9c44-aaaa237b573e",
+    "id": "0893708f-4773-4354-8c2d-ab8c48739b4d",
     "name": "Terror",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -10157,7 +10157,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "421e23bb-3549-41a8-9c89-5a00a13aa35c"
   },
   {
-    "id": "77214575-0a7c-4d4f-b245-45cd23732e21",
+    "id": "90dc2edf-96bc-4cfc-8d97-03d347a20b27",
     "name": "Creed of the Askurga Renkai",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -10172,7 +10172,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b3013117-b36e-4677-b070-cef740deee7d"
   },
   {
-    "id": "57499961-adaf-44e5-9edd-2b7b19cb0fd7",
+    "id": "02495553-a9ab-464d-8641-d1c03ca88192",
     "name": "Multiple Parts",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -10187,7 +10187,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ae1cd990-b481-443f-962d-06f989761e93"
   },
   {
-    "id": "e18f5bc4-981f-4a80-9300-d37be59eb472",
+    "id": "d155d5a1-1a3c-4cec-9dbe-e1147add236e",
     "name": "No Rest for the Wicked",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -10202,7 +10202,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "211a0af9-d36b-4572-b263-ca41e907e044"
   },
   {
-    "id": "856b9e60-c54f-4585-9ac4-4b6330893262",
+    "id": "57c0f564-3b59-42f2-b28f-36dabe614b4c",
     "name": "Staff of Masks",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -10217,7 +10217,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "74e0dd27-116e-4901-98c2-997cf1337485"
   },
   {
-    "id": "8ae1b229-7bf9-4a86-9f66-1dc3e3a57704",
+    "id": "baf92805-5847-407a-a313-ba9177ca47a3",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -10232,7 +10232,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1d0d4abc-e4ba-4604-b8b8-f5512ffb59f7"
   },
   {
-    "id": "a8d017e6-83a7-4de3-aa63-29a8b86e3b3c",
+    "id": "bb6280b0-680c-4dc0-84e9-f80e5686ee33",
     "name": "Zarshia Bittersoul",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -10247,7 +10247,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62e0c049-5640-4fc4-9a0e-8e16112ea842"
   },
   {
-    "id": "6db4ac89-f488-41f1-b961-f43b30bd0b05",
+    "id": "744e4151-2948-4e62-bf2a-e68085efc03c",
     "name": "Speed Of An Avalanche",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -10262,7 +10262,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "56d8ba61-0245-4d9b-8cac-10c8a0713225"
   },
   {
-    "id": "5b559548-a151-47be-bf1b-bc49b342df5a",
+    "id": "d1e05b62-1ad6-4976-b228-2efabf08eba9",
     "name": "Equal Prodigies",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -10277,7 +10277,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "782db5cc-416a-4ffc-b0fa-a91e0aaffeec"
   },
   {
-    "id": "f9353079-6f3f-4bae-8ca0-575a8c2a609a",
+    "id": "7cdf19fe-1c39-4331-b5ea-2830afc91a26",
     "name": "Get Stuck In, Ladz!",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -10292,7 +10292,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f06dc003-e88b-4d0c-8824-333cb2ea0ab0"
   },
   {
-    "id": "1afed66e-cdc2-4821-967e-4ad01e79eeb1",
+    "id": "13005a92-adf7-495b-8f0d-6ca7914fe589",
     "name": "Off With Their Head!",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -10307,7 +10307,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d34e9289-ce9e-4dce-8a80-1afd9cfe5ea3"
   },
   {
-    "id": "a72d3bc8-3215-4cdc-b47c-8164258ffdd6",
+    "id": "61e4e5bd-8b48-4636-bfb1-22367c452a83",
     "name": "Blood Sacrifice",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -10322,7 +10322,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "09054ec3-eb6e-44a6-bc8c-04cd251c207d"
   },
   {
-    "id": "5355bfa9-f39f-438b-847b-86e131e2ace9",
+    "id": "319349c1-9ba4-4de0-83a6-028df22bfdcd",
     "name": "Blood of Molten Varanite",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -10337,7 +10337,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640"
   },
   {
-    "id": "05567a28-ec4a-4832-bec6-dd108c48f9d2",
+    "id": "bd80b8a8-be34-46c2-9090-fe08985b2dba",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -10352,7 +10352,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d1988651-7d73-4683-a57f-7310b15a99fc"
   },
   {
-    "id": "7b5166f9-3773-4ff9-8372-eb9529ea88c8",
+    "id": "24101b04-0a96-4517-b8e3-e0bcea539445",
     "name": "Champion of Sigmar",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -10367,7 +10367,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4c364ba1-a07b-447e-8a3b-0cd67752f329"
   },
   {
-    "id": "93de712f-55af-406b-9b14-a362d22bb6ca",
+    "id": "144df838-f34e-4186-b3f4-b39a08c6dde5",
     "name": "Runic Crucible",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -10382,7 +10382,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a358413-f7de-49bc-9de4-5ae5a76e2010"
   },
   {
-    "id": "d03442c2-9a4f-43f1-85ea-187b58d2a623",
+    "id": "5cde817b-a764-4a14-83fa-e143b5b34234",
     "name": "Soulbound Protectors",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -10397,7 +10397,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "34588cde-0f80-4f67-92e4-14e3486f30c9"
   },
   {
-    "id": "72026a5b-ba66-48f2-a4ad-48796fe1a2d2",
+    "id": "8bba3336-0bb6-4f3c-a56d-2c021766c381",
     "name": "The Staff of Power",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -10409,10 +10409,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "Add 2 to casting rolls for this unit while it has not miscast any spells this turn. If this unit miscasts a spell, ignore the restriction that would stop this unit from casting any more spells this turn.",
     "abilityAndCommandIcon": "special",
-    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c"
+    "warscrollId": "9b60ec8d-81b2-4818-bbb1-01b888070ad4"
   },
   {
-    "id": "3cc8421e-29a6-4ff2-9b05-33a1c66c2f01",
+    "id": "a46c32a0-6658-42d8-8c8a-371b9f557692",
     "name": "Invocation of Nagash",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -10424,10 +10424,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "This unit can cast this spell more than once per phase. Pick a visible unit wholly within 18\" of this unit that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
     "effect": "If the target is an enemy unit, inflict D3 mortal damage on it. If the target is a friendly Death unit, pick 1 of the following effects:\n\n• Return a number of slain models to the target unit with a combined Health characteristic of up to 3.\n• The target has Ward (5+) until the start of your next turn.",
     "abilityAndCommandIcon": "special",
-    "warscrollId": "2f5ce910-2283-48ca-b2a8-9ab50262cb9f"
+    "warscrollId": "096e15ac-06a5-4ef2-a9cf-21c72be02f1d"
   },
   {
-    "id": "e08f9543-8244-40ed-a9f5-09b7aef4a983",
+    "id": "1865e933-8a1f-41ef-bcaa-4f316b48ac3b",
     "name": "Duty Unto Death",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -10442,7 +10442,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ffb09506-cd45-46ff-8a5c-d4228603efb2"
   },
   {
-    "id": "497fd9d3-966e-4b57-8f92-e6465bc68615",
+    "id": "96b65a4b-5cb4-46dd-9d0b-932996da5581",
     "name": "Breath of the Mire-drakes",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -10457,7 +10457,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "736c0ddb-882f-4736-8290-a0c1d57a4530"
   },
   {
-    "id": "3ed9d15e-0959-48cc-a266-0831baf81600",
+    "id": "a15be259-1037-4cb0-8351-a51973b7cae6",
     "name": "Unrivalled Velocity",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -10472,7 +10472,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6056b681-023b-4402-8564-b1fbc4dd8169"
   },
   {
-    "id": "01c1601b-895c-4e10-901f-b00c2ebdf33f",
+    "id": "ec8d76cc-de26-4ec1-a8d1-46e6aab961b4",
     "name": "Endrinmaster",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -10487,7 +10487,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f3d7efad-563f-4932-93b0-e240fd9fe162"
   },
   {
-    "id": "b96420ec-99ca-49f3-930d-222b4ab78b31",
+    "id": "0d3ec5f9-d958-4b2e-9699-39cf06d8c0d2",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -10502,7 +10502,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "12fbb0b6-2d71-429d-b6f1-412ea23e07f7"
   },
   {
-    "id": "e2d4187c-deb9-468a-bd27-c3f31f71b2c4",
+    "id": "468c0f2d-c894-4f8c-99a1-d888a1ffaf92",
     "name": "Celestial Equilibrium",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -10517,7 +10517,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82eb8a43-c4b0-4716-bb64-83b2bea22957"
   },
   {
-    "id": "9fb76951-774c-4f50-ac6f-7f2abb2ca029",
+    "id": "3c848491-dcae-431b-a67e-7b87a9b38b37",
     "name": "Glory-Seekers",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -10532,7 +10532,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7042507b-7516-42c4-8564-318915075639"
   },
   {
-    "id": "f46f664e-66e3-4cff-b31b-7f29ec518d0b",
+    "id": "1f9d583a-dd30-4e1b-b254-f10657f2be9b",
     "name": "Guardian and Mentor",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -10547,7 +10547,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fca3d71c-df5f-4216-bb78-cd24315caf8a"
   },
   {
-    "id": "86ba24d8-b12d-4cff-b9df-ff1d2130a5c3",
+    "id": "a6ce3062-e651-4fc7-9039-f90c7ee54501",
     "name": "Lord of Trampling Bones",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -10562,7 +10562,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aa9247a1-8f1c-4bce-be23-7dcccf041e3e"
   },
   {
-    "id": "b19c2550-d045-442c-9676-bd5712510a2d",
+    "id": "d58fc6de-51db-417d-b89d-110f77241811",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -10577,7 +10577,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "297589a1-63a3-4949-b84d-0b02291997a7"
   },
   {
-    "id": "d1f04004-af60-40bc-a974-3f50fd1fbc17",
+    "id": "970c09bb-559b-4f99-8380-433314d688d3",
     "name": "Whirling Doom",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -10592,7 +10592,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cac575fe-ed53-4bee-aa29-0bd993cb1130"
   },
   {
-    "id": "c18899a0-7a2a-4c31-a623-0aedcc3d69a3",
+    "id": "8d271976-93ea-45dc-8303-e28a6aa5d1d8",
     "name": "Nerve-shredding Screeches",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -10607,7 +10607,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "06b8add1-286d-4c12-90ac-2e9ae69a3b1d"
   },
   {
-    "id": "82fec3a1-dd2b-47b6-828d-874c95315d10",
+    "id": "352ffe70-93cf-4605-ac1f-a91e6bfe6855",
     "name": "Code of Honour",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -10622,7 +10622,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2ff2597e-76de-4d7d-a32c-5b69dded74c0"
   },
   {
-    "id": "2c7b7580-98d9-4d49-b3d8-0076dbe7703f",
+    "id": "7f79e8bc-a597-4112-8dc0-ccbf5cd56ef7",
     "name": "Biovoltaic Blast",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -10637,7 +10637,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2e16282c-3943-4e9f-b6fc-22a4a576899a"
   },
   {
-    "id": "9ac707ad-7a70-4343-9dfd-14d7c7bf1931",
+    "id": "72f69137-64e1-4d2a-a2e9-9a2e246bda64",
     "name": "Spearhead of the Charge",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -10652,7 +10652,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a4c15ce5-1bfe-4f3d-86e8-bd0427d5e5c1"
   },
   {
-    "id": "d1d8946e-71e5-4dd0-ad3e-38212354d652",
+    "id": "9fda9b3d-55d1-47ef-9e47-52dd848bb17f",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -10667,7 +10667,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "57f5b725-7940-46c3-9254-30f702bc7c25"
   },
   {
-    "id": "3f7a1b73-69c0-48b4-8660-818f2237c81f",
+    "id": "37601af1-7f06-4c8e-8a7a-515f17c3c7bb",
     "name": "Redolence of Violence",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -10682,7 +10682,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64e22b93-0add-409c-977c-effe16b4bce0"
   },
   {
-    "id": "7cdeefa8-6e4d-4086-b9e5-f4c59c3c3422",
+    "id": "f539b950-8189-478d-b35f-bf52ad1fa1f9",
     "name": "Monster Grapple",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -10697,7 +10697,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "345c8662-5a2f-406d-8606-5fcc91c98ad0"
   },
   {
-    "id": "1e6bbd82-0b19-46c5-9875-633a0ef8544a",
+    "id": "1edb2087-c0d5-449a-aa69-164d9f784f12",
     "name": "Force of a Falling Star",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -10712,7 +10712,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fe19a03b-2880-4cf3-b8fa-9abe8e11c31b"
   },
   {
-    "id": "e1b464d1-cb6f-4f63-a53d-edd72bf6f054",
+    "id": "f1d7e5a1-3eb3-4e30-932d-3ed68e0c29b4",
     "name": "Locus of Nurgle",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -10727,7 +10727,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b05548c3-30a6-4198-814e-fa621a6859b9"
   },
   {
-    "id": "f1a038e1-335a-4035-be3b-ccbd2478b01f",
+    "id": "19b7863b-c9f5-4054-83b9-769eb67d0baa",
     "name": "Alpha Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -10742,7 +10742,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f50fa1d6-6239-4563-90d8-e1a8e1a35c78"
   },
   {
-    "id": "4d7fa586-ddf8-4575-b647-c02c6341fd7d",
+    "id": "33ed1025-cffd-46c0-955f-9de5cf82c16c",
     "name": "Glory-seeker",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -10757,7 +10757,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8440b84e-6936-4bd8-8496-793d14c557c2"
   },
   {
-    "id": "9d2a029f-fd4b-4e84-9e27-b5ac35d561f2",
+    "id": "38fca6cb-ebc2-4c1c-ae62-790d95a3d53a",
     "name": "Bestial Leap",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -10772,7 +10772,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a375bca-6ee6-4f28-98b9-459d5790faaa"
   },
   {
-    "id": "fa007265-0c32-4efb-9bb7-e77022f402e1",
+    "id": "7f6f49b9-3c77-4374-a95c-070f8e2414bd",
     "name": "Pack Hunters",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -10787,7 +10787,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0eb63567-64ee-4639-9c67-0709b0e32e73"
   },
   {
-    "id": "4b455adc-9a91-4866-a593-7bc9cfcd1361",
+    "id": "17fab92e-33d6-4d66-a371-e94edc7f466b",
     "name": "Impaling Talons",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -10802,7 +10802,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e49cc262-90d5-4977-bbe5-852041b42e6b"
   },
   {
-    "id": "4130a834-806d-4206-8da8-ab1cd79f7f37",
+    "id": "953a6b69-8b44-4a31-8070-eeaa31bfd260",
     "name": "Runic Power",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -10817,7 +10817,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "70f26528-3c01-42f1-a964-a03c3eced76f"
   },
   {
-    "id": "83eed953-b889-41cf-a853-9adb7cdef7e3",
+    "id": "c457f926-71b1-4e8f-85bf-97a1bac28ae0",
     "name": "Lord of the Bloodbound",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -10832,7 +10832,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6b14c775-8126-4f4a-8c99-9dee2dd97618"
   },
   {
-    "id": "a02512c4-114c-4bc2-90ae-7c2c8b303271",
+    "id": "e0ce6296-f419-41f6-a66c-9c24aa4130df",
     "name": "Keeper of Mortality",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -10847,7 +10847,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6d5e4f0b-79c0-4d07-bca5-0419cffbb3a5"
   },
   {
-    "id": "a551316a-31ee-4224-a5cf-57b5aafb40f9",
+    "id": "de557b55-bfcc-4a3d-809f-2d2a059cc08a",
     "name": "More-more Doom!",
     "phaseDetails": "Reaction: You declared a Shoot ability for this unit, it was not set up this turn and it has not used a Move ability this turn",
     "phase": "shootingPhase",
@@ -10862,7 +10862,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "31e24a20-3fb6-47b5-a141-cb4918f05c15"
   },
   {
-    "id": "9a6c50ec-0c78-4c11-ab29-b4183ba70d8f",
+    "id": "f54849d6-d30d-43ad-85c8-94e87dc64270",
     "name": "Cavalry Overseer",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -10877,7 +10877,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2da4cc03-e17d-4cfd-bf1e-03dfdc8173ac"
   },
   {
-    "id": "b1213ba4-941b-4309-a8ff-eeccae5e77ec",
+    "id": "9ac9e3e9-d528-402c-b451-ee856fc779f1",
     "name": "Plant the Icon",
     "phaseDetails": "Once Per Battle, Any Hero Phase",
     "phase": "heroPhase",
@@ -10892,7 +10892,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "033d2d1e-7806-4661-88ae-71172ba394b5"
   },
   {
-    "id": "b3675a12-7199-4449-835b-04e8324e9b35",
+    "id": "2cf08ecf-3294-42d6-998f-2397e7de3446",
     "name": "Dead for Innumerable Ages",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -10907,7 +10907,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "72638bb4-d077-45f8-9cb4-98f15de22244"
   },
   {
-    "id": "441f5806-ccd3-4c8b-ac79-f98e67f48567",
+    "id": "b0c524d8-5e06-4871-b151-e8fa63fdf485",
     "name": "Hunt With Conviction",
     "phaseDetails": "Start of First Battle Round",
     "phase": "startOfTurn",
@@ -10922,7 +10922,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6d66e8bd-8013-45a9-8057-f843559e9a0a"
   },
   {
-    "id": "82c27e1f-1641-4f88-9904-1805ff396b17",
+    "id": "dff828b3-d979-436e-b274-7a08ad2b8a8b",
     "name": "Nightmare's Miasma",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -10937,7 +10937,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e49cc262-90d5-4977-bbe5-852041b42e6b"
   },
   {
-    "id": "36fc307d-57be-48ea-adc6-d97acd3c948d",
+    "id": "f748ec80-bfc2-492a-8085-35a78c45c401",
     "name": "Cleansing Fires",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -10952,7 +10952,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97350fd3-c8cd-4000-9455-c15e4ca456ba"
   },
   {
-    "id": "bc5d7888-cbbf-4a55-a9a5-3713146ab285",
+    "id": "2765f3f0-bff1-44e6-a6a7-4a44c496ac9d",
     "name": "Hatred of Heroes",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -10967,7 +10967,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "47a58477-2b3d-4f7e-b3a4-9c349809af61"
   },
   {
-    "id": "06549609-50ac-4af0-8aa5-1594022c5f54",
+    "id": "498622da-bf69-489f-8467-5fd5b5d30a0f",
     "name": "Power of Kragnos",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -10982,7 +10982,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "71979d22-0b29-4967-8a6f-42242f18a617"
   },
   {
-    "id": "321fe756-4486-496e-bdb3-949ffccf719d",
+    "id": "d1023e49-0277-46b4-95d9-6b6a133045b1",
     "name": "Vanguard Chamber",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -10997,7 +10997,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "454bba4c-e343-4cd2-83f6-bd8e3d18f36a"
   },
   {
-    "id": "b2a8fb18-6ab1-4295-b076-80061383dc0d",
+    "id": "c7217491-bc74-4baa-b504-b7b718f6cc45",
     "name": "Favour of Chaos",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -11012,7 +11012,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fd9faa8c-c4ab-4c39-b96a-561eef254baf"
   },
   {
-    "id": "4af72ab9-9912-4fa2-aa87-d56c6ddec6e8",
+    "id": "25a3dd51-d9b5-40bb-94e4-c88a1805bbf5",
     "name": "Gobbled Up",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -11027,7 +11027,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "380bbdd6-641d-4f18-9808-5b695ae10599"
   },
   {
-    "id": "b80f7d88-bd91-4ca7-848a-7c1bf8e4c0e1",
+    "id": "0bc75d43-0e26-45fa-afb2-bab2ec7d0274",
     "name": "Emerge from the Shadows",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -11042,7 +11042,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "529b128b-dc22-49e3-a427-04dc2f009c09"
   },
   {
-    "id": "dae13927-4e54-405b-afcd-13c85e401172",
+    "id": "804fadb8-acfa-4eb0-b381-702aac9783eb",
     "name": "Bloodthirsty Predators",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -11057,7 +11057,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1c43c50e-2cd8-4112-a03a-6a8ac18ef4e2"
   },
   {
-    "id": "78269891-e263-4475-8652-35668646352a",
+    "id": "98fe0adf-99d2-467d-8a6f-2fc08fa9cacc",
     "name": "Feed on Flesh",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -11072,7 +11072,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62d333fb-10ed-471a-b60c-7a7175e0af07"
   },
   {
-    "id": "7ccf169a-717f-4026-8ae1-f8dbbf6b0b14",
+    "id": "8a518f2d-9b40-4d3f-a164-3468cc76374d",
     "name": "Wild Enthusiasm",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -11087,7 +11087,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "17730d6d-4d2f-46ea-bbb8-5f1215dadf63"
   },
   {
-    "id": "802d93bd-4c4a-408a-bc0a-b36b5ca9c40c",
+    "id": "a09b37df-c35a-4a41-9bf6-a919056e3770",
     "name": "Turned to Crystal",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -11102,7 +11102,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ea9cf1f5-027e-47ad-8991-dd7e35470f65"
   },
   {
-    "id": "7336d73c-f583-43e4-807f-71958c2ecc07",
+    "id": "85813f37-d6e1-4ce9-ad91-67a3e8337716",
     "name": "Man-skewer Crossbows",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -11117,7 +11117,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e6537bfb-9f17-488f-abfd-e29e5a00b15d"
   },
   {
-    "id": "0ba0e981-b540-403e-ac48-148099aeb53d",
+    "id": "888942af-e4f4-4268-a46f-2fb4dd452057",
     "name": "Gather the Aether",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -11132,7 +11132,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7738e31e-6c9b-4ff7-ae1f-a7ea78908e56"
   },
   {
-    "id": "281cf30b-0037-402d-b175-0cb91447b334",
+    "id": "a0c8ba88-1ec3-421d-8e99-2552e80bed40",
     "name": "Mutant Regeneration",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -11147,7 +11147,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "58386ec0-5406-45ec-8844-7604b2a6c808"
   },
   {
-    "id": "edc5e22f-a86f-4584-a303-62c3b8ffbf40",
+    "id": "6c382600-f258-4534-9d8d-0524e983b0ac",
     "name": "Selfless Protectors",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -11162,7 +11162,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "300a69b1-fa3d-4b2e-8a7a-c2c653e9a452"
   },
   {
-    "id": "e53a5359-5aff-470e-9b25-c377df1bce00",
+    "id": "a726db3a-d1d5-461c-a95d-c7468a46ef58",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -11177,7 +11177,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a2cbdeda-ca57-4393-a356-603b88781937"
   },
   {
-    "id": "fb57a20d-f5aa-4e1a-9afc-e583bbb691f7",
+    "id": "ee087242-2ef5-471d-b004-f7661e32d23d",
     "name": "Head of the Stampede",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -11192,7 +11192,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bb3a92b0-8814-4d7e-93e5-5092f18f8075"
   },
   {
-    "id": "3c1e820d-4de5-4dc7-97fb-a854aa8d139f",
+    "id": "3cd73ef4-fa3c-43ff-95cb-e19b4f5476f6",
     "name": "Heavy-scaled Skin",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -11207,7 +11207,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8b809172-65f2-4d7b-aa42-8de279f73475"
   },
   {
-    "id": "93f4a380-38a5-4622-924e-e5dd4564a386",
+    "id": "b3e77e5d-e897-494e-8fc7-dbe63487df9f",
     "name": "Waypiper's Dance",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -11222,7 +11222,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67395d3b-72f2-4034-8cd9-54d87f8ebc96"
   },
   {
-    "id": "4f0d6a87-5419-45d9-8ed5-772e92f24eec",
+    "id": "34e47ab4-3d1f-4719-9bbd-2634483ee68b",
     "name": "Wall of Blades",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -11237,7 +11237,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e233f4fa-729c-4877-9147-22d4188869ed"
   },
   {
-    "id": "4220bce8-13a2-4a11-a12a-bef92a4bd34c",
+    "id": "8a7d9793-b0f3-4ce9-b0e7-366f7d4e1fb1",
     "name": "Serpent Staff",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -11252,7 +11252,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "12ce4b08-591a-4808-8963-28efa99c51f9"
   },
   {
-    "id": "a1b8f8c5-272c-440d-b383-7a6f36848ca9",
+    "id": "b39c911a-a737-46b9-9283-2e3e7d0e50cd",
     "name": "Rain of Scrap",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -11267,7 +11267,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "059cc862-923a-432f-90e3-f1b4cf7c7e5b"
   },
   {
-    "id": "10d93c3f-d320-4916-9f99-fe28d8056bac",
+    "id": "bd82db8b-35c9-4220-a28a-6835d01e0eb5",
     "name": "Swift As The Wind",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -11282,7 +11282,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "75eca768-c25a-40df-9805-0ad818f5982b"
   },
   {
-    "id": "6aa5f063-4ba8-4639-9ad0-ffb2520d4aae",
+    "id": "99e22408-6e3a-42bd-8ee5-2793ab9a5453",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -11297,7 +11297,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97bf492f-d53c-4b8a-8211-f0904c24694f"
   },
   {
-    "id": "b22bef94-793f-496c-959d-90c900ad73a0",
+    "id": "a8708245-599c-455c-8a14-0e615d4cdcfb",
     "name": "The Looncourt's Quest",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -11312,7 +11312,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "48bbd51d-5f22-4b5e-85e1-60985c2eb214"
   },
   {
-    "id": "ed589da7-8b92-4bfe-b0f0-eca591d70886",
+    "id": "a77aebf0-fd23-494a-9cd8-570f0ce301f6",
     "name": "Dracoline Fury",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -11327,7 +11327,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6ff0cea8-1cc4-44a6-a81e-4f750499e783"
   },
   {
-    "id": "6b891479-6af2-48d5-a650-c11992e2ba4c",
+    "id": "4cceeece-a580-46c5-b3c4-565a67325493",
     "name": "Harbingers of Dark Omens",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -11342,7 +11342,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2e9fd3a5-a73b-452f-8cc7-e75cc05fa1ce"
   },
   {
-    "id": "b0ab3374-9af0-4657-812e-502ea97b35b3",
+    "id": "ae2e7f3f-c7fa-4b9f-af43-eb5c1170d2f2",
     "name": "Keep 'Em In Line",
     "phaseDetails": "Reaction: You declared the ‘All-out Attack’ command for a friendly Kruleboyz Infantry unit",
     "phase": "combatPhase",
@@ -11357,7 +11357,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "06cac41e-66d9-4688-88f6-7330f6b4cdb9"
   },
   {
-    "id": "f7b6fa17-8837-4734-b852-6b824fee2dce",
+    "id": "58240b8c-eee7-433d-b38b-ee278776b285",
     "name": "Hidden Volley",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -11372,7 +11372,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9333ddec-c856-45e9-9c0a-24a1b89bf219"
   },
   {
-    "id": "64ee7a71-dfdb-4764-8a7e-ab65854c61d3",
+    "id": "02b251fe-a529-49b2-a9f5-58d8a9a9f69d",
     "name": "Sublime Harmonies",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -11387,7 +11387,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "48818195-19b6-4f67-bec3-00e6adfb63ed"
   },
   {
-    "id": "bbf4f05b-573e-4e6f-94c2-a18130573acf",
+    "id": "eff73702-df24-40f5-a538-053eae463b5f",
     "name": "Neh Neh Na-Neh Neh! Can't Catch Me!",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -11402,7 +11402,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bea93bc3-f923-4def-986a-e1100495798a"
   },
   {
-    "id": "0a1578f7-d0b2-4486-9f42-baa8f5cdecd3",
+    "id": "14e8744a-7dd3-4fe1-8237-3a3c7d447f21",
     "name": "Beast-binding Webbing",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -11417,7 +11417,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ed358108-74fe-48db-96b6-219e66f4bb47"
   },
   {
-    "id": "5b2d0223-51e9-4bd1-99e5-0c125cc5cf7c",
+    "id": "96202620-03b9-45fb-a23c-4accedbd3992",
     "name": "Chilling Horde",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -11432,7 +11432,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "795d5136-e084-419b-84b2-9cf6b1e566ee"
   },
   {
-    "id": "b0be6352-0c51-4121-8626-5bebc0a43313",
+    "id": "de1a8f09-cd72-416b-b373-a4867579e409",
     "name": "Bounding Leaps",
     "phaseDetails": "Enemy Combat Phase",
     "phase": "combatPhase",
@@ -11447,7 +11447,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c075f535-5bf1-4356-adce-557d3ee63948"
   },
   {
-    "id": "ec4f50c7-664c-4398-b21a-aa1578a229ac",
+    "id": "38f4b870-c847-4266-b5a9-cd040109c83c",
     "name": "Quest to Slay the Monster",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -11462,7 +11462,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82b1fbe8-8864-4e65-9cd0-91512d3254f7"
   },
   {
-    "id": "35edfb23-c9e6-4fad-8f6a-72050f773a1f",
+    "id": "d70afff4-b932-4d78-898b-bf74608de68e",
     "name": "The Briar Queen",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -11477,7 +11477,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b3012745-ec21-4f35-9e85-77278f1628c4"
   },
   {
-    "id": "96c949d5-e7bf-4d1e-a0fc-210c998c9394",
+    "id": "1122d544-0eac-468b-accc-2cdcd682bb30",
     "name": "Infusion Arcanum",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -11492,7 +11492,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "358a2c45-0895-48ca-aa7c-eaad45d0c45d"
   },
   {
-    "id": "5a538f1f-f193-4d9e-b5a2-57a3449ecd5c",
+    "id": "5cd8ad25-8ddd-4a36-8d98-ebc637067be9",
     "name": "Draw Power",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -11507,7 +11507,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61"
   },
   {
-    "id": "e5b45e59-d539-4f1b-8d7a-07bf045b2c2f",
+    "id": "722f8258-5f39-4e91-ba7d-83576948f59f",
     "name": "The Glorious Reborn",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -11522,7 +11522,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "15855e9b-7224-4f40-b68e-d46c4fce7fb9"
   },
   {
-    "id": "b57921c8-d3bf-4a95-8aec-470c901e49a1",
+    "id": "2ede265d-6f1f-48ac-96b4-fe935a213ef2",
     "name": "Book of Profane Secrets",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -11537,7 +11537,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff"
   },
   {
-    "id": "b6c33c1d-45c5-45a2-b81e-83cb5bda1d7d",
+    "id": "9ebebc49-19e1-4e24-981e-3105d66055fa",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -11552,7 +11552,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6941faa9-42db-42c0-af38-707f7a9a031b"
   },
   {
-    "id": "4293dddd-540a-47d9-aca5-a647b1c524e3",
+    "id": "a0a5847b-ce8a-4024-8f38-20eac6c73c43",
     "name": "Ruinous Favour",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -11567,7 +11567,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64d997dd-3041-410a-b72f-d29642608b63"
   },
   {
-    "id": "ed7083ce-7a39-46af-b810-18228fa30abd",
+    "id": "064ef00a-8f52-4f46-86b4-09f0e2808dc4",
     "name": "Chameleon Ambush",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -11582,7 +11582,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f3442df9-1235-4234-9f07-2dd3dbb52faa"
   },
   {
-    "id": "c614f53b-354a-44ff-b4bf-c044d40b83c5",
+    "id": "4a8a5df4-2722-4589-8094-58fe520710c0",
     "name": "Unrivalled Velocity",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -11597,7 +11597,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "99da4f81-bdb2-4f58-9fe9-f095c74c151f"
   },
   {
-    "id": "3fb52ca4-a245-4fbe-9ae7-aace14224663",
+    "id": "c74d96ee-4d7c-4fde-a54e-7ee6a815f423",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -11612,7 +11612,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4a6747dd-0048-462f-8e05-361790ccba38"
   },
   {
-    "id": "cc9089d7-7562-48df-ac3d-ab36234a1c33",
+    "id": "2cb8940b-b792-4fb0-9d20-e1038513b56f",
     "name": "Deluge of Nurgle",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -11627,7 +11627,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6f470634-a997-4b31-a927-efc2d4687581"
   },
   {
-    "id": "ab9cb911-8b46-4c08-8c2c-8c981a8af95a",
+    "id": "508e4a87-22d3-4f95-8757-b636a9ce884a",
     "name": "Dispersed Formation",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -11642,7 +11642,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f757e21-fd7c-448c-9c98-acd3a5af0cdf"
   },
   {
-    "id": "44c0f0e4-5891-4e97-9bc8-d12698f8baa1",
+    "id": "cdb26956-0820-4103-91d7-ddefdcb561e6",
     "name": "Unstoppable Momentum",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -11657,7 +11657,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2446a8aa-915b-4d17-bd98-0fe84ee9a973"
   },
   {
-    "id": "bcdb2f53-2c75-4728-8524-9942cea1dc64",
+    "id": "686470c6-c8df-4f89-891b-d50819ffa95e",
     "name": "Minions of the Silver Tower",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -11672,7 +11672,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca"
   },
   {
-    "id": "61f24649-d99e-4d5a-acbd-e117b655e9ff",
+    "id": "7755bc56-7f98-47d8-bc1e-b5a2e041e9f7",
     "name": "Atavistic Tempest",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -11687,7 +11687,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "181de257-0e9d-4559-9767-fe6229d6af82"
   },
   {
-    "id": "34d530ef-9c9e-41f3-b81d-8c7a06c89a6a",
+    "id": "22557451-9963-47c8-9ccc-4d63d9714af2",
     "name": "The Endless Dance",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -11702,7 +11702,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "74e0dd27-116e-4901-98c2-997cf1337485"
   },
   {
-    "id": "a93ac887-8f59-47de-8883-83e4e1993394",
+    "id": "3ee7a212-3e04-4dbb-8128-ecef2bc9a4b2",
     "name": "Drothmasters",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -11717,7 +11717,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5fd6cc77-d4d0-4cf2-87c9-eff32f2cd116"
   },
   {
-    "id": "aab06fea-289a-4728-a6bf-0180d7bccc4d",
+    "id": "cc2c1a88-d8a1-406c-a36b-e86113dcfe82",
     "name": "Slithering Serpents",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -11732,7 +11732,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "27d4d186-994a-4e97-93af-3b782cc0cce7"
   },
   {
-    "id": "ca4ffddd-1685-4358-89d5-d8dcf8cce00c",
+    "id": "023eeea7-636a-4787-9f22-d3c67a4c7f44",
     "name": "Riders of Ruin",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -11747,7 +11747,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "76a1ce6d-1173-4f77-9853-40e95b7f0e9d"
   },
   {
-    "id": "942e5716-1012-405e-9970-c36319789832",
+    "id": "99422eda-34f3-421a-8f7e-2a5830c55f78",
     "name": "Fjul's Retinue",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -11762,7 +11762,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6bd69e2-118e-4bad-931e-96a6b691ecb9"
   },
   {
-    "id": "b1b696c5-c871-4975-96cf-d206b3d5a1f8",
+    "id": "e2e52d4a-e113-41ca-8d2e-17d0fb5cefe9",
     "name": "Scythed Runners",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -11777,7 +11777,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fd2ab5ec-995a-4efb-a27d-887b97f2a505"
   },
   {
-    "id": "a1d67f94-a457-4e0a-8ae5-85c3b5c0ff14",
+    "id": "073010b2-1899-42c0-a166-128118aca610",
     "name": "Lurelight",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -11792,7 +11792,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2b8e09b8-9635-49aa-a4f6-41566e05eefe"
   },
   {
-    "id": "be008ae3-c8f8-4cce-880b-3a6cff8bcf14",
+    "id": "44ac2bed-f5be-4e5f-aeae-b45fc93ffc2e",
     "name": "Kixi-Taka the Diviner",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -11807,7 +11807,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d842b070-c546-4eed-a38b-9d21db934884"
   },
   {
-    "id": "a768e271-7e25-4a5a-b5ef-d08fc6f0e00f",
+    "id": "eeb90b6b-1b6c-43ed-aac2-04dba000119d",
     "name": "Hidden Weapon Team",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -11822,7 +11822,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "acb3ec86-cfa8-4f40-9bb3-5c6f9a221f7c"
   },
   {
-    "id": "fc83d916-c33d-4def-8325-36e34264dd63",
+    "id": "26b7618f-09e1-4d62-8ad0-6b08e6c27983",
     "name": "Glory Shots",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -11837,7 +11837,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2fb041ae-8e9f-4dc7-accb-11570ea77912"
   },
   {
-    "id": "026a0b6c-6c8b-4033-acf5-4ed10324ce82",
+    "id": "934149f7-35e6-4454-af94-e57b44dcd58e",
     "name": "Decimating Blow",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -11852,7 +11852,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fba01e8a-093c-4500-8658-a8c44372e379"
   },
   {
-    "id": "82089e21-021e-4787-bd25-45d698bc7e2f",
+    "id": "e07e5f1a-233c-4eba-af13-49b2f5762238",
     "name": "Commanding View",
     "phaseDetails": "Reaction: You declared the ‘Redeploy’ command for a friendly Gutrippaz unit wholly within 12\" of this unit",
     "phase": "movementPhase",
@@ -11867,7 +11867,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0d4b9c17-db0c-410b-9f51-92c4a8b58a10"
   },
   {
-    "id": "0313e86e-eb92-4e7f-854a-345417c5d223",
+    "id": "d9e5dc3c-73f5-47c0-8d84-93b21ebdbd86",
     "name": "Banner of the Reforged",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -11882,7 +11882,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "98109b00-2673-454f-b9fc-fdb8d427928b"
   },
   {
-    "id": "e454f71b-56ae-4097-9988-a4c967d7d249",
+    "id": "baf38032-00a6-4cdb-a1f2-5c47d358195e",
     "name": "Master of Cavalry",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -11897,7 +11897,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4eb07dac-62fd-4a34-be09-05aebf6a1f5c"
   },
   {
-    "id": "c3787d5b-9e5d-4534-bfcf-520bede2257e",
+    "id": "7d8bd467-11f7-4f1c-bcd4-075272b1dee3",
     "name": "Deathly Furrows",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -11912,7 +11912,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "040baa47-6dd3-474b-bb04-338b9f501a61"
   },
   {
-    "id": "b9faa9f7-27cd-4703-bf14-d9f04de08958",
+    "id": "e7874bc4-639d-4936-bdc6-242a73e9a212",
     "name": "Summon Daemons of Tzeentch",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -11927,7 +11927,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e9e685ea-35f5-45b7-96b9-ac0a16813888"
   },
   {
-    "id": "e3789343-c804-4c26-bdd2-a2a72aeb2806",
+    "id": "1189992b-146c-4e7e-8dbe-a59ab41c13f1",
     "name": "Scare Taktikz",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -11942,7 +11942,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "20083735-a6d0-4b97-8eea-07152bbbd0dd"
   },
   {
-    "id": "70efb897-24f7-489d-b8db-eda28e8ff7cc",
+    "id": "6965f5d9-2d01-4f65-86b4-22d42baa82df",
     "name": "On Da March",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -11957,7 +11957,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "af60c584-1ec4-4ea2-a275-dae5b869aeeb"
   },
   {
-    "id": "1cbe9a61-bada-4e66-a36b-0d51ab3b0c4b",
+    "id": "81693dda-896f-4e9e-bbc9-8090e481528c",
     "name": "Skarbrand's Rage",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -11972,7 +11972,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9bf5e29a-c0f9-42cc-aeae-0c46a192b883"
   },
   {
-    "id": "63663d0e-ab0e-42e2-acac-30a4bccac5b2",
+    "id": "d38417be-0204-4342-8f2e-8ec6a1b5e123",
     "name": "Cyreni of the Abyss",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -11987,7 +11987,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a482bb1b-598a-465d-b50d-16c957d5b6ca"
   },
   {
-    "id": "aa269189-e999-48f8-9439-34e6595a9976",
+    "id": "11c4a298-40b5-4d6a-8d0e-bbc37732b321",
     "name": "The Beast Will Out",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -12002,7 +12002,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "84b51f15-0a6f-45a3-8f72-7628f947e4f8"
   },
   {
-    "id": "70fdd734-bca5-4d58-aafc-834ae72f6202",
+    "id": "cb001fec-107a-4a39-8c33-1f870cf60475",
     "name": "Supreme Lord of Tides",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -12017,7 +12017,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ffbee7c5-051d-4adb-90e3-e2e6a645bb70"
   },
   {
-    "id": "0d90a222-1d17-4f56-9c6b-6d159252426e",
+    "id": "ddddd38a-f968-4e82-bb90-58081d286e94",
     "name": "Fleet and Fell",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -12032,7 +12032,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c5270cce-0ac5-410a-9012-611e7c0b13b3"
   },
   {
-    "id": "bad95cb2-5d3e-4215-b724-9fd3a5b4ea7f",
+    "id": "a0760f01-7a5c-40d1-b1d5-9bd47228262d",
     "name": "Nexus of Death Energy",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -12047,7 +12047,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "01d3a4a3-bb90-4a36-b5bf-29fe92347572"
   },
   {
-    "id": "d4e91d5a-d78c-45a5-9707-d5ed53dd65e6",
+    "id": "acef3f21-37b2-42dd-91d2-12a3dd0784d4",
     "name": "Blackpowder's Buccaneers",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -12062,7 +12062,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0330b0d2-d152-447a-8124-8aaea2d442e6"
   },
   {
-    "id": "58c0ca09-c66a-4b3d-a5a8-aa43ed29c463",
+    "id": "01a7d562-be9c-4cbe-935a-eb94185ea596",
     "name": "Bolt From the Blue",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -12077,7 +12077,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e4965a2f-b219-49dd-a48d-b24b385f5ff3"
   },
   {
-    "id": "b884bea4-8a81-4028-845e-7f239a0fe48f",
+    "id": "9cb2e90e-d113-4b94-8309-1b574ffcdeb1",
     "name": "Storm Wave",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -12092,7 +12092,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "054f9673-d6b3-426b-8309-09b3cb07d1ce"
   },
   {
-    "id": "a78f7692-bda6-4bf2-9477-a70eb0641b57",
+    "id": "3ad955eb-57e4-4757-af3b-290cb9a945af",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -12107,7 +12107,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e42fc709-73c9-432f-8527-384620708bce"
   },
   {
-    "id": "04153090-bb7c-4076-b577-e76c0937e7f1",
+    "id": "5510fbc8-9abc-407f-bc50-81bb3d8d9f14",
     "name": "Dancing Blades",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -12122,7 +12122,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "437fb410-e9e9-4d5e-8f34-3e833bb1b5ed"
   },
   {
-    "id": "e0e1f9ff-d4a1-4229-aebd-cd019098f200",
+    "id": "8365328b-8795-4c3f-86fe-c7aba90522c3",
     "name": "Let's Get Bouncin'!",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -12137,7 +12137,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "626b3f87-1e3f-4e81-8fd4-45f4120cdbd0"
   },
   {
-    "id": "254a5d78-7db1-4514-a1c4-6114afcc0697",
+    "id": "baee7f9f-23ff-4a27-bbc3-1032a5b60fda",
     "name": "Elite Bodyguard",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -12152,7 +12152,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a56f8292-86a9-400e-a526-7b1f9115d827"
   },
   {
-    "id": "ad2d4821-b569-412f-bb86-e81d40ab0c78",
+    "id": "cb227756-ee76-44f0-9a77-3b89c5819f4e",
     "name": "Death From Above",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -12167,7 +12167,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c4ab87fb-95a7-4651-b054-63ba321ec637"
   },
   {
-    "id": "7379bac8-d69e-4241-9262-6363a69eeb0d",
+    "id": "19a146b3-7deb-49c9-a5e9-1ca41e87ef9d",
     "name": "Biovoltaic Barrier",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -12182,7 +12182,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a1468ce6-4b2b-47f6-a506-1907d3cc9080"
   },
   {
-    "id": "3a01d4db-939f-405d-8d9c-33ace04784ab",
+    "id": "9c8946dd-ef83-4e9a-bda8-72fbc732ade5",
     "name": "Groundshaker",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -12197,7 +12197,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "80040c7a-3bbf-4a00-9e04-d7a2926086c7"
   },
   {
-    "id": "8e0d0631-84c6-43e4-acc6-4ec1d091e1de",
+    "id": "d2abd07e-d10c-47e3-b34d-a87900810ba1",
     "name": "Blood for the Blood God!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -12212,7 +12212,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "181fa314-5759-4e16-b1c2-feee048adbe8"
   },
   {
-    "id": "3e483dd7-a785-4c1a-88e7-118f2a19dd33",
+    "id": "d913d54f-de93-4547-9c7c-c1d9b2c3c39f",
     "name": "Skewering Bolts",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -12227,7 +12227,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c80de68e-d97c-46a1-b86d-39252733a410"
   },
   {
-    "id": "8d6f8820-55ed-4aa5-acb7-45e299a6e241",
+    "id": "3098c35a-a8b4-45a2-9eeb-4207ee0b4c2b",
     "name": "Brutush Rampage",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -12242,7 +12242,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "23d60979-1890-40db-a8ca-b83380f64b84"
   },
   {
-    "id": "e1b05587-f9ce-4b8d-86a5-067d44dc02cc",
+    "id": "3640da97-8c74-4fe0-8426-06a82c796d84",
     "name": "Hidden and Dangerous",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -12257,7 +12257,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6edb189a-9d83-42ad-a0b5-8658a93e00a5"
   },
   {
-    "id": "584de054-bae7-4619-8b0b-702c8966ed94",
+    "id": "5b2cdf79-dc1c-4fcb-92fd-f85e9a5c10ac",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -12272,7 +12272,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "80040c7a-3bbf-4a00-9e04-d7a2926086c7"
   },
   {
-    "id": "a80a3edc-b4fd-4f20-88c9-8e2d216ddf6b",
+    "id": "4cd07ac3-3166-4c83-aab1-a297a1f33e2f",
     "name": "Vanhel's Danse Macabre",
     "phaseDetails": "Once Per Turn (Army), Your Combat Phase",
     "phase": "combatPhase",
@@ -12287,7 +12287,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4ada29c6-895a-415a-91cb-0e79398893ed"
   },
   {
-    "id": "2079f196-43c8-44dc-9dcb-76de36df4085",
+    "id": "f14d6546-a2ca-49e9-80c9-10dda4affc89",
     "name": "Locus of the Murder God",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -12302,7 +12302,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d47c2cb7-c8eb-4d93-a741-c6db1fdfb3a7"
   },
   {
-    "id": "c559183d-b439-442f-9f63-81baabb9091b",
+    "id": "07296802-769c-4bc3-9a84-bf539529d4e2",
     "name": "Consume Endless Spell",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -12317,7 +12317,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "343a59ae-b14c-426e-b5aa-465507409382"
   },
   {
-    "id": "434e9cba-56cd-4baf-8957-81d337e58932",
+    "id": "39853382-f034-4b1d-acf0-a4d84df9f9dd",
     "name": "Lethal Payload",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -12332,7 +12332,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3cafe0f4-3398-414f-a3ca-8188a15aa6e3"
   },
   {
-    "id": "a6c7263b-5b09-4b94-8c2f-8866eeb28974",
+    "id": "3a8ebee2-902b-4f58-be40-b862b574b50c",
     "name": "Bone Harvest",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -12347,7 +12347,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "332d8ee9-eac7-4f52-b537-e72065813700"
   },
   {
-    "id": "fd7e0501-5cf4-4ae0-b5a3-70ff17ab97ee",
+    "id": "a7cdff94-0cac-48b3-9781-448159156f5a",
     "name": "Voidstorm Scroll",
     "phaseDetails": "Once Per Battle, Reaction: Opponent declared a Spell ability for a Wizard within 30\" of this unit",
     "phase": "heroPhase",
@@ -12362,7 +12362,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "785d282c-60f0-43ea-860c-c6558e13fdb0"
   },
   {
-    "id": "241b4cc3-0e4a-4e95-b680-c2fb7b711318",
+    "id": "4e433e23-8028-41d7-b691-8f4f0b5ec112",
     "name": "Starlight Mantle",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -12377,7 +12377,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "37d3d910-c951-4a83-bcd0-d762e1cf1937"
   },
   {
-    "id": "68e0831a-9795-4c5c-bedc-7294e381a060",
+    "id": "c8d6aa20-6f96-4889-bca8-161acbc7252d",
     "name": "Vengeful Waves",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -12392,7 +12392,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10376888-c232-49e8-ab04-1d5e578bd5a4"
   },
   {
-    "id": "19b07516-f824-4d7d-a09b-fc31c2a5fe19",
+    "id": "339044b6-6f20-42a3-a44d-fa802615737f",
     "name": "Oathsworn",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -12407,7 +12407,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a2f2bf90-7fb4-4f96-aa7c-d713834cac44"
   },
   {
-    "id": "cdeef817-7211-44e7-bb06-4af00ed6f412",
+    "id": "b9868951-6a44-49f9-85a9-9e7dbf37d49c",
     "name": "The Scent of Blood",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -12422,7 +12422,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0eb63567-64ee-4639-9c67-0709b0e32e73"
   },
   {
-    "id": "6c892d6a-a72c-4825-8f4e-e8114fd5a7cf",
+    "id": "92439376-fc7e-4e1e-ba35-9534e07272d9",
     "name": "Herding Squigs",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -12437,7 +12437,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fb2a5ce7-fbb1-4406-b827-c8eb21a1fe3f"
   },
   {
-    "id": "94127431-f79d-4f96-9510-438021c091a9",
+    "id": "b9aea41f-a09d-4917-a530-e05892bf6003",
     "name": "Deathrider Wedge",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -12452,7 +12452,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c1073e38-b548-49a4-91f1-9764fc1dccfd"
   },
   {
-    "id": "88245ca2-2445-4cd2-89fc-f35b6ed9d125",
+    "id": "31dd402f-9305-40f1-b37f-4e827a9855a8",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -12467,7 +12467,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6b13f90a-9ee7-4d0a-89bf-a2e104f9cc09"
   },
   {
-    "id": "edae3b3c-caf6-4905-9250-99117df64131",
+    "id": "efcaa832-4f64-4b51-a5a1-a5122bb1e4eb",
     "name": "Heralds of Righteousness",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -12482,7 +12482,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "775ad338-9ddd-46d9-92bf-e810303e2020"
   },
   {
-    "id": "24e4f034-f7d6-4d91-b663-ef68780bf29b",
+    "id": "fba8dd12-b28b-4783-b77d-a0c0a4e55ae7",
     "name": "Stalwart Defenders",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -12497,7 +12497,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "49668d5f-3d42-42e6-b3dc-72a45e82f68e"
   },
   {
-    "id": "4cae1572-11c1-4d9e-af4e-ff24b7107f9f",
+    "id": "04cc53d6-d237-42c1-bf59-3e54f8445e4e",
     "name": "That's Ours, Ya Gitz!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -12512,7 +12512,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b12ae934-956b-4dd0-949d-1e863694a14e"
   },
   {
-    "id": "04a2d26d-34e9-499c-8666-84674d187898",
+    "id": "94738177-83e2-405f-b19f-0bad681faf3d",
     "name": "Tempered By Fury",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -12527,7 +12527,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b0a79daf-673b-4b8f-b764-0d152860fcc4"
   },
   {
-    "id": "964aaccf-aa6f-4cae-8b82-cc088d512579",
+    "id": "22332c4a-351b-4ea0-9ad0-898056951f26",
     "name": "Titanic Boulderclub",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -12542,7 +12542,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15"
   },
   {
-    "id": "21f70850-83fe-40ef-b47a-10753d82b068",
+    "id": "0593bc14-73a8-4847-961f-770c53e95131",
     "name": "Breaka-harness",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -12557,7 +12557,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "329062c0-116c-4044-9b57-4b0c771c3cd1"
   },
   {
-    "id": "ef0da5da-513d-4ae7-ac5c-4e8ee4143a23",
+    "id": "6e1a06cc-50dd-483c-b555-f83a909b1369",
     "name": "Sudden Translocation",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -12572,7 +12572,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "782db5cc-416a-4ffc-b0fa-a91e0aaffeec"
   },
   {
-    "id": "565ef6b7-1bed-40b5-a93a-8db427a0e994",
+    "id": "38496521-4d89-43c8-8989-3d6a824feaab",
     "name": "Voice of Nagash",
     "phaseDetails": "Once Per Battle, Any Hero Phase",
     "phase": "heroPhase",
@@ -12587,7 +12587,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "479d6b81-3989-424d-813a-bc764a864d77"
   },
   {
-    "id": "d4871110-6f02-407c-8865-d989f4e5b1b1",
+    "id": "80a7600a-fe91-4c84-83b1-0d78b510c4af",
     "name": "Discord and Confusion",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -12602,7 +12602,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9676d3f9-a44b-4126-8ded-e5087281bbb2"
   },
   {
-    "id": "6a39b034-521e-4830-ba00-e2ee91bcb9b1",
+    "id": "4c444866-8182-4d59-a613-4dc2bd9793c2",
     "name": "Giant Boing!",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -12617,7 +12617,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "51f2ce79-fa04-47ac-89f2-34cd916a57d5"
   },
   {
-    "id": "dc3c8c6b-25fd-46a8-be1a-8abf19b220fe",
+    "id": "23e7ef59-103e-457d-b0e6-67ed1f849f70",
     "name": "Discorporate",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -12632,7 +12632,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a27cc05d-c05d-4f7c-a262-9ab8ed95b236"
   },
   {
-    "id": "dada9a44-1722-4b61-966c-936a443d7059",
+    "id": "3093672a-f985-4fe3-a785-60b227f92830",
     "name": "Fill the Pot",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -12647,7 +12647,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2627a553-31ff-4745-ae7c-444857413cfb"
   },
   {
-    "id": "ac81b076-e5f5-453b-8a98-0bdcfd5b8332",
+    "id": "302ee8cb-eb2f-4a07-9fdc-dce620f4bf22",
     "name": "Ordained Quest",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -12662,7 +12662,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a784b1ab-6224-4ceb-a83b-9d2f21b45891"
   },
   {
-    "id": "253e657a-6b0a-467e-ab88-a974ceed327e",
+    "id": "c6f9c3b1-be63-4fe2-9696-9351c9caa384",
     "name": "Desecrating Blood Runes",
     "phaseDetails": "Once Per Battle (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -12677,7 +12677,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7a947752-e172-4a30-8ba8-2d6d753ee59a"
   },
   {
-    "id": "a7329152-7d7a-4301-bb8e-708cd1747485",
+    "id": "eeb67126-fe8d-4ebb-803a-1facb1a0e5b8",
     "name": "Plague Wind",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -12692,7 +12692,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b05548c3-30a6-4198-814e-fa621a6859b9"
   },
   {
-    "id": "79765a3a-64be-49d8-8732-1ff757fe6bd8",
+    "id": "0fe0564b-29d6-4200-906c-90cd5ce2c2a4",
     "name": "Heavy Bomb Racks",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -12707,7 +12707,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "667c734c-c58e-47cc-a278-a21d9ab2ccf5"
   },
   {
-    "id": "18545fb4-2c3e-41a3-924b-0326e7322a21",
+    "id": "6b0a8449-d959-4f56-8095-ca638c594e8f",
     "name": "Wall Crawler",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -12722,7 +12722,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "706f21eb-ae97-4aa3-b6c8-4b1dd4100fd6"
   },
   {
-    "id": "95a60b4f-1f16-4091-a6c7-4fc524a43a79",
+    "id": "b31d7fe7-f20b-4935-aa04-4d6edd9fd6c9",
     "name": "Power of Da Great Green God",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -12737,7 +12737,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "adecff8e-767e-4c87-9284-cf79fed6f87f"
   },
   {
-    "id": "3ea56bb6-2dd9-428c-a6ce-2d7f8ac47997",
+    "id": "5a77e2a4-4ed3-4953-82be-0e0237aaddf5",
     "name": "Sentenced to Eternal Torment",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -12752,7 +12752,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "66b027f8-9368-4140-b237-5cfcc6479218"
   },
   {
-    "id": "93cba6aa-8621-42ed-9a1b-633fb843ee9c",
+    "id": "f43d1603-2829-48c3-a590-5859f747009d",
     "name": "Purest Aetherquartz",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -12767,7 +12767,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7104c2c8-b3f4-44ad-a06e-7817ece9134a"
   },
   {
-    "id": "99c45acb-3e72-4a2d-a384-d7f4cc619650",
+    "id": "fcd2ec3a-bd0a-4d32-a2df-857f61811611",
     "name": "Daemon Flies",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -12782,7 +12782,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "452f26fe-9c6e-4c8c-ae0a-43322cf62ef1"
   },
   {
-    "id": "2fc10408-97f3-48a3-8730-6e676a52fd5f",
+    "id": "933d4be4-4400-4d06-a61b-13d6213503ae",
     "name": "Easy Meat",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -12797,7 +12797,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7c4f6105-7f1e-4d7c-b4c8-cbca714c0904"
   },
   {
-    "id": "a5c5da36-1ec7-489f-96cf-367d00f2bb9e",
+    "id": "911d377e-12b5-4989-9bab-a778bfa029ed",
     "name": "First Rule of Grungsson",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -12812,7 +12812,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1a6f67bf-e9b4-44ce-b975-7c63c704ae5f"
   },
   {
-    "id": "9077143a-679e-439c-8958-f271ab562ab6",
+    "id": "e41dca80-7dac-4ab4-b0eb-cc86af02b5ce",
     "name": "Blackpowder Squire",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -12827,7 +12827,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f8e8a55d-6702-4075-ba5f-23d8842cf8a4"
   },
   {
-    "id": "2eaa400e-a514-48ab-9d64-8dea42af4ea9",
+    "id": "61934257-88c9-40dd-ac01-05019294e829",
     "name": "Gaping Maw",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -12842,7 +12842,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d980cc25-e4c1-4276-9088-fabbc3f722e1"
   },
   {
-    "id": "0213225e-6472-4d0b-a074-dc07d21684d9",
+    "id": "7e9631ca-d9de-4d12-adf3-1893d8dbaac0",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -12857,7 +12857,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f7231b61-b537-4b26-b11f-b91031beafe2"
   },
   {
-    "id": "6c9d6d56-9be3-43af-a84a-22966c219433",
+    "id": "cac35f93-d5a9-468d-89a8-0cfcf69da4e6",
     "name": "Stone Skeleton",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -12872,7 +12872,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b31ffa62-7cc1-4ef2-87b7-b583667ab7c3"
   },
   {
-    "id": "a95f9ea0-25f2-4105-8a65-aac88ee7d939",
+    "id": "82feeb8c-9809-4c07-81f2-1129d3398783",
     "name": "Ravagers of the Mortal Realms",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -12887,7 +12887,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62e0c049-5640-4fc4-9a0e-8e16112ea842"
   },
   {
-    "id": "403baf28-a4d0-4952-8775-4f8c98c92026",
+    "id": "1bb76e4b-88af-411a-99c7-69b1c631b85a",
     "name": "Hail of Bolts",
     "phaseDetails": "Once Per Turn (Army), Any Shooting Phase",
     "phase": "shootingPhase",
@@ -12902,7 +12902,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4021ef68-f0ec-40b7-b007-83bfec0410ec"
   },
   {
-    "id": "7fd2d612-12a3-406d-9d90-95eccd0c47fa",
+    "id": "29702523-7d87-42da-85ac-532490fb0a6f",
     "name": "Royal Approval",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -12917,7 +12917,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "645e1985-fbc5-4763-9060-6c9f4c9cf9a9"
   },
   {
-    "id": "361e84b2-06ff-4e0f-8614-090c5e44b75f",
+    "id": "1201cb87-3936-45c1-aa60-21f376cd7894",
     "name": "The Staff of Power",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -12929,10 +12929,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "Add 2 to casting rolls for this unit while it has not miscast any spells this turn. If this unit miscasts a spell, ignore the restriction that would stop this unit from casting any more spells this turn.",
     "abilityAndCommandIcon": "special",
-    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31"
+    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14"
   },
   {
-    "id": "2ebe2e8b-773a-4b99-a625-7088c8bd61c7",
+    "id": "7e7fc350-1f52-4c4d-bb16-26a591b2295f",
     "name": "Battle Damage",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -12947,7 +12947,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0d4b9c17-db0c-410b-9f51-92c4a8b58a10"
   },
   {
-    "id": "aa8c6ba2-52c1-4e4a-9fc4-0090ebc01b30",
+    "id": "fc20db91-71e8-4492-8365-d6677e9bbf08",
     "name": "Paralysing Venom",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -12962,7 +12962,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "063fbf2f-5d84-4a60-815d-052984d192fe"
   },
   {
-    "id": "5dba6445-adb5-436f-8c89-8a3c4ac42df8",
+    "id": "ed6c29b4-f60b-4483-967c-a1e44288d3e7",
     "name": "Cultivating the Garden of Nurgle",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -12977,7 +12977,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c08f30b8-2541-4e9d-9c35-5950ecdeac6c"
   },
   {
-    "id": "6e5c2151-0bb3-489a-9253-a564af5baed1",
+    "id": "f2f9b071-1e2c-41d1-88d4-4fa7e07dd03a",
     "name": "Daemonic Locus",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -12992,7 +12992,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0dc93eac-320d-4fe2-ba54-2872a1faf1ba"
   },
   {
-    "id": "4c595890-eedb-4e3c-b98c-80fbcfb6ca0b",
+    "id": "fedf7b24-ad33-4558-99b3-badd2fa6ac6f",
     "name": "Down to the Ironguts",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -13007,7 +13007,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c7274c9a-da6e-4943-a110-1eaff4922055"
   },
   {
-    "id": "9e7a69e8-8d27-415f-9010-9c2d1a5c8b93",
+    "id": "7c96c1c0-6cd6-41ff-a0ed-49a6460aef98",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -13022,7 +13022,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a0ad383-a414-4c9e-b485-a5a03d84d5ce"
   },
   {
-    "id": "8f60c8b6-34bd-4875-97fd-23eb21d3ff82",
+    "id": "c3c1670c-5bcb-4dbc-ae34-b72432337ab8",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -13037,7 +13037,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c5270cce-0ac5-410a-9012-611e7c0b13b3"
   },
   {
-    "id": "db98d140-0c51-4aee-8e80-127ed9c24481",
+    "id": "2d60b994-02d6-4394-8013-633b9c0c3407",
     "name": "Star-venom",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -13052,7 +13052,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6584ea3b-897e-4c4c-b69a-1e553867b119"
   },
   {
-    "id": "4e9e4b4a-2d43-48c9-8b42-543ce730beaa",
+    "id": "3813c24b-c630-4983-bb04-1b2e6323d5d7",
     "name": "Spirit of the Wind",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -13067,7 +13067,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "162f3096-e6d0-4759-985e-9a5b44d6d9dd"
   },
   {
-    "id": "aeac5114-58d2-48bf-8161-886f11189522",
+    "id": "1290dfce-9ede-45bf-a85a-f95ddc16028d",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -13082,7 +13082,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6793b9a5-00ef-4777-9c95-eb7ae615d5d2"
   },
   {
-    "id": "6ae2bd71-6d21-4968-8233-1237e8b791a6",
+    "id": "8a5abce4-2e11-4cb7-98fa-8b01fe503f5b",
     "name": "Pack Alpha",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -13097,7 +13097,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "054f9673-d6b3-426b-8309-09b3cb07d1ce"
   },
   {
-    "id": "a2d1532b-e23b-4037-b011-a04d6dff4e8b",
+    "id": "38a19168-875f-4e9e-aba7-25e646726fef",
     "name": "Armour Crunch",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -13112,7 +13112,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5297937a-5422-4814-9e64-5d3d021ac99b"
   },
   {
-    "id": "80f3ef18-3843-4bb6-82af-fb786c563c21",
+    "id": "7f812ade-3670-4415-8653-115dccb51f5f",
     "name": "Venomous Tail Strike",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -13127,7 +13127,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4cc747bb-89ad-42ca-99d0-5307752d6a97"
   },
   {
-    "id": "7ad1f559-5d5b-4fc8-ac9b-56457908929d",
+    "id": "23021b33-1bdd-4d76-a11a-0d114a33cea7",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -13139,10 +13139,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "While this unit has 10 or more damage points, subtract 3 from its power level.",
     "abilityAndCommandIcon": "battleDamaged",
-    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545"
+    "warscrollId": "5197fab6-20c0-4ee0-af67-0239b5262dee"
   },
   {
-    "id": "fc0cdb51-2d7d-4b0e-9ca2-d6899681bb04",
+    "id": "6963a3eb-64c0-4137-92c6-b8878a7e93f3",
     "name": "Delusion of Justice Served",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -13157,7 +13157,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c57d3715-5532-4503-ba37-3856c842c25c"
   },
   {
-    "id": "944967ae-7db5-4d32-bc03-4a4f5794311d",
+    "id": "21429d19-efe7-4fa5-829b-fe7a2514b73a",
     "name": "Strike on the Move",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -13172,7 +13172,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fff29314-bccd-4da2-95e9-5595400f1027"
   },
   {
-    "id": "fa47b24d-1602-4e8e-ac3d-a09e0a5b7df0",
+    "id": "d803fb34-9639-4d55-80d7-a37d65daa70f",
     "name": "Unleashed Rage",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -13187,7 +13187,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a58a8b9b-947b-49e3-86f1-c87924685cf0"
   },
   {
-    "id": "bde5653d-60fe-488e-a7d1-16a7f0103341",
+    "id": "78f5ed08-76ed-4edb-bcb7-b081a88ef708",
     "name": "Monstrous Hunger",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -13202,7 +13202,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9ad808c3-c7b7-4bc4-96a5-e9d35c29b07a"
   },
   {
-    "id": "19d90568-ad29-4d1d-9ad9-c1e816928f7b",
+    "id": "36e32441-6b2b-47ce-92eb-7a33bc0b2517",
     "name": "Ancient Warlord",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -13217,7 +13217,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67ffbd49-51a4-45a1-9e53-0e5f0e5b0e90"
   },
   {
-    "id": "40e1d5c7-180a-463d-b114-ce01bb1e74cd",
+    "id": "fa9478c4-d0bd-45e5-b715-ce237adfcb2d",
     "name": "Supreme Lord of the Bonereaper Legions",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -13232,7 +13232,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "33307074-e207-4cda-8c0c-ffb6060b0815"
   },
   {
-    "id": "0b690aaf-119b-45be-8ac2-7509eb67cbcd",
+    "id": "ca8e6577-9795-4eae-8c0c-c07a170f95d4",
     "name": "Skink Coordination",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -13247,7 +13247,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a39fd76-9257-4f20-957e-c4747e7d18b9"
   },
   {
-    "id": "c005361a-e9d0-44bb-9ea6-df685a7b044a",
+    "id": "cdca1ec1-2d8e-458e-9821-2fddec6b75fa",
     "name": "Guardians",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -13262,7 +13262,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "da674447-2450-4717-85ea-300c53d92f40"
   },
   {
-    "id": "72d14074-6184-4018-9a86-1899e2d7e0fd",
+    "id": "6b192779-bd25-47f2-8c29-77cba8d9168c",
     "name": "Masterflame Rune",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -13277,7 +13277,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "eb084c0d-23f3-41ad-8016-6a921da1d49f"
   },
   {
-    "id": "93014029-9950-4e25-85ac-b06c349c8d0d",
+    "id": "f7ac801c-4e20-4cf7-8c37-c4c6c9e40f2f",
     "name": "Guardians of the Deep",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -13292,7 +13292,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "da308fad-d975-48bc-b53f-6a895c5d1f92"
   },
   {
-    "id": "b4850ff2-189a-4954-9cbd-cc77e052292d",
+    "id": "dac2aab0-d108-4ec1-abe1-eea9d6d87a1e",
     "name": "Noble Blood",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -13307,7 +13307,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "645e1985-fbc5-4763-9060-6c9f4c9cf9a9"
   },
   {
-    "id": "ecfee86f-37a9-4634-803b-f1cd3128c088",
+    "id": "3990234d-6b45-4b0d-ab37-2d0d85cf432f",
     "name": "Powder Gnoblars",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -13322,7 +13322,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c57b4292-03cb-45fa-9069-d93f15b2700e"
   },
   {
-    "id": "988f5cc9-6727-4d2c-b69e-b2ac3ba7d241",
+    "id": "720b44b5-b055-440b-b65d-ae548d4c62e4",
     "name": "Great Endrinworks",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -13337,7 +13337,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "667c734c-c58e-47cc-a278-a21d9ab2ccf5"
   },
   {
-    "id": "3365dc74-2740-4b94-9b1b-af8a76217d74",
+    "id": "0c7d5f47-9dd1-4eee-a74a-e4dfd917f21c",
     "name": "Blood Boil",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -13352,7 +13352,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9869ec58-8081-4f8c-b966-e5abd13f3e3d"
   },
   {
-    "id": "6068f375-6af4-4cd9-bde3-cbf949f4805b",
+    "id": "524fb17b-096c-47a8-9f59-e120cbc8c640",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -13367,7 +13367,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "33307074-e207-4cda-8c0c-ffb6060b0815"
   },
   {
-    "id": "f6f4f74c-933f-4979-a02f-350fd3e04801",
+    "id": "6f5b3b82-5fc7-41db-b86b-12e2afa640df",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -13382,7 +13382,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "de6d90a0-dec6-4b9c-93d5-5bf9f5c14167"
   },
   {
-    "id": "f3814fda-a10b-419d-a2ca-fb09dd6e589d",
+    "id": "91cb9435-3141-499e-8661-11663fa08210",
     "name": "Wall Crawler",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -13397,7 +13397,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "377b8679-40ea-4076-9477-ce0705fee1c3"
   },
   {
-    "id": "06fd4171-5054-4488-8c32-33bce8a52f29",
+    "id": "8ae1b645-6ab7-48db-969b-e57f44e7636a",
     "name": "Archmage",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -13412,7 +13412,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97bf492f-d53c-4b8a-8211-f0904c24694f"
   },
   {
-    "id": "0f5ede0d-edff-4f5d-a02b-94a045b3968d",
+    "id": "9ef7eb61-8048-452d-8501-1f16bbf65734",
     "name": "Oath of Supremacy",
     "phaseDetails": "Once Per Battle, Any Charge Phase",
     "phase": "chargePhase",
@@ -13427,7 +13427,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c28adf0a-d5dd-4dd1-ae3e-80f8a7a28e12"
   },
   {
-    "id": "68e49e08-44c7-4db0-8ef9-152a51ddf7f6",
+    "id": "c0273ffb-b826-4fcf-88ca-a49dce90ebc8",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -13439,10 +13439,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "While this unit has 10 or more damage points, the Attacks characteristic of The Dread Mace is 4 and this unit has a Control characteristic of 10.",
     "abilityAndCommandIcon": "battleDamaged",
-    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f"
+    "warscrollId": "8108d657-35b7-46b6-87fc-96855286fa65"
   },
   {
-    "id": "37469bce-11b5-4f80-a599-6ae6199a8953",
+    "id": "772b1dc7-40b3-418d-afcf-8012d63b35a9",
     "name": "Wily to the Last",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -13457,7 +13457,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7cbce98d-135b-4c88-844c-c24a0f0adaef"
   },
   {
-    "id": "03911e7a-1fe7-42d9-a192-c80a7d1a81ab",
+    "id": "42003e40-ccba-4fea-ac0a-113b37bcb4b4",
     "name": "Sweeping Blows",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -13472,7 +13472,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "217d3e88-bcec-4844-a27a-0353541beaf9"
   },
   {
-    "id": "161ae930-e829-4f95-a74e-751ab6ce5f97",
+    "id": "f1e520b8-7180-4ad5-b61d-4780ae1e76d6",
     "name": "Gore-grunta Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -13487,7 +13487,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0d577066-0b05-4a7f-8440-60042ca2a4ff"
   },
   {
-    "id": "794c0ffa-2e11-4745-9bb8-6839d8dddb06",
+    "id": "970f49f7-302a-42bd-86c7-3c898ecb12d4",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -13502,7 +13502,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "06b8add1-286d-4c12-90ac-2e9ae69a3b1d"
   },
   {
-    "id": "1fcbc873-60a7-4bfb-b84e-b7b5ea9de35d",
+    "id": "b559f85e-a19c-4b79-b9a6-9adb5fb68c3a",
     "name": "Escort Courtier",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -13517,7 +13517,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bd5a853a-c9e0-4d87-aebc-e00698434c22"
   },
   {
-    "id": "6ce47b71-73e8-4017-9498-a2d463c26c17",
+    "id": "92620b53-f1f7-49bd-b779-1b6af59cf86c",
     "name": "Stuff 'Em In Me Bag",
     "phaseDetails": "Once Per Turn, Any Combat Phase",
     "phase": "combatPhase",
@@ -13532,7 +13532,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2c7751ad-35c1-4b76-8732-4dc407232b54"
   },
   {
-    "id": "ead6d1a6-431f-49ce-a922-52d213cb4f41",
+    "id": "7af98900-2b85-4dc3-9f82-e56f34bef572",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -13547,7 +13547,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "967c2da8-77c3-490a-9285-6906ad79aefc"
   },
   {
-    "id": "0b65e59b-43e5-4eca-9a9d-95e856ceff79",
+    "id": "a89c41c5-80a3-46d6-9f70-96bbe796c934",
     "name": "Roar of Kragnos",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -13562,7 +13562,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "897cba49-7ea1-44c0-8c65-020250914f94"
   },
   {
-    "id": "8327b44e-7eba-4a68-8065-16b4724eaa38",
+    "id": "cf94aede-2e83-4bd4-93b7-3ec32a777df4",
     "name": "Soul Reaper",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -13577,7 +13577,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cef94411-3b35-46a2-b778-fdd987dc0fbd"
   },
   {
-    "id": "e808fb56-9a90-4416-b9d7-c19f04ab4c81",
+    "id": "9bdf847b-38af-4168-a109-8434e6b8c2e7",
     "name": "Sigil of Yngra",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -13592,7 +13592,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6df47bd1-a06e-44fc-adba-e50431253147"
   },
   {
-    "id": "d698255f-4a21-4d18-85da-2f565e167870",
+    "id": "b2091dcb-9f89-465f-9127-e0968d3e5810",
     "name": "Exquisite Agony",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -13607,7 +13607,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b3b285df-6610-4902-9bbe-857d25631c28"
   },
   {
-    "id": "633b3ebe-ab7c-4d50-8537-04345aa1dbfd",
+    "id": "bd05c3ee-f697-4eae-a155-b3974c3ef9b1",
     "name": "Wall Crawler",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -13622,7 +13622,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8eca49fa-cfe8-4ccf-a258-2095157599e8"
   },
   {
-    "id": "6caa9ea0-1114-4272-96e5-20fc3618ec77",
+    "id": "e3928ae6-d3ab-4de7-9fb4-df10fb6b329c",
     "name": "Mutilating Blades",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -13637,7 +13637,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c0f7c959-6b8a-411a-a1e6-bfd4a85419cb"
   },
   {
-    "id": "32631d2f-ae4c-4730-8f30-4b2708a770ac",
+    "id": "be1d0f41-bde1-4d1e-95c0-901a9e7fa9dc",
     "name": "Flamewood Stakes",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -13652,7 +13652,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6d66e8bd-8013-45a9-8057-f843559e9a0a"
   },
   {
-    "id": "10a91a48-3a7b-423c-b07b-f187aa1a27ff",
+    "id": "278f1261-b4e7-4a20-8752-77cc740f6ea4",
     "name": "Akhelian Fighting Stance",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -13667,7 +13667,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2df18dec-6cba-4aa0-b7e8-7e76c4ccbe13"
   },
   {
-    "id": "fdb3d5f1-0025-4a1b-a5f5-9333816f396e",
+    "id": "29cee5e9-9242-491f-adbb-e695b5608ae4",
     "name": "Nadirite Assault",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -13682,7 +13682,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c9370856-db71-4467-a557-7bc2fe6005e1"
   },
   {
-    "id": "9a4f8d32-e64d-4564-93fa-c9662a66e017",
+    "id": "5bc3bdd6-3a79-40bb-9aa5-b270db25d66b",
     "name": "Greater Regeneration",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -13697,7 +13697,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ae694004-b117-4916-8865-08b979fb9e26"
   },
   {
-    "id": "51ff8978-55c7-4ac6-baf7-8fd50f8551cf",
+    "id": "e25d2864-e35d-4054-b329-52fff796caa0",
     "name": "Unleash the Stab-grot!",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "startOfTurn",
@@ -13712,7 +13712,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "06cac41e-66d9-4688-88f6-7330f6b4cdb9"
   },
   {
-    "id": "f1bae955-3410-48dc-ae45-41bd1f854e53",
+    "id": "88c6a434-4db5-455e-8de2-98bff4bb4f85",
     "name": "Alpha Cavalry",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -13727,7 +13727,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2b52e4ad-7d82-42cc-94b8-b39130c192ee"
   },
   {
-    "id": "eef3e344-ee15-4445-bdb9-994ff0e2c5d5",
+    "id": "1c1468ae-ae15-4163-bac2-a6126e28a5e9",
     "name": "Gruesome Surgery",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -13742,7 +13742,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "efa4220c-9761-40ef-9813-77ed86e244aa"
   },
   {
-    "id": "c07ed89b-711d-48d7-b6c8-a1f39c8cc351",
+    "id": "35fa25ee-0da5-4ab4-8dcf-8ee9128e70ab",
     "name": "Overwhelming Fire",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -13757,7 +13757,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6df85232-6dce-4946-a69b-fe1611cf844a"
   },
   {
-    "id": "bc8e7773-30cc-4f6e-9226-cea246b1be3c",
+    "id": "7fa04017-54af-41a3-8398-b2ea5c34895c",
     "name": "World Banner",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -13772,7 +13772,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "079ad6e5-ef62-42d9-a0d9-6fb9a5678573"
   },
   {
-    "id": "2c75e877-c1cf-4e18-a07e-a32a60c80f01",
+    "id": "727287bb-aef0-4fc2-9cde-8ee7e8e6e3d3",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -13787,7 +13787,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "345c8662-5a2f-406d-8606-5fcc91c98ad0"
   },
   {
-    "id": "8d35ae49-20d1-44fd-8593-f03baa8d7ce4",
+    "id": "db2a36b5-72ee-4e20-a5a0-c25170c2778f",
     "name": "Sanguine Blur",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -13802,7 +13802,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6f975b1f-0228-4be3-a275-c850a5c6b84c"
   },
   {
-    "id": "fb0ef443-63b9-418d-bdf5-be4af32838ff",
+    "id": "5afbedea-a50b-49ae-a3e6-4c18102f4cd9",
     "name": "Tzeentch's Firestorm",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -13817,7 +13817,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e9e685ea-35f5-45b7-96b9-ac0a16813888"
   },
   {
-    "id": "141b78fb-9479-424b-b362-022f4de1c307",
+    "id": "659d0495-64b9-451b-9f1d-8712b7650693",
     "name": "Flailing Tentacles",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -13832,7 +13832,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "24ba4886-2f94-44a6-8304-fbe6f9e59d9a"
   },
   {
-    "id": "7606055b-7465-4dde-b2ba-2c62b2953bdc",
+    "id": "32540c19-7b17-4b8b-af33-c3cd3210f4cf",
     "name": "Cacophonic Choir",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -13847,7 +13847,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dd1f9d92-c70b-4cec-b48b-17b6f6cacee0"
   },
   {
-    "id": "63ed66df-6d06-4095-afe4-08e22429e838",
+    "id": "df912d55-5749-4800-96d4-243310ca658c",
     "name": "Frenzied Assault",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -13862,7 +13862,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4dc192ff-bd48-4c1c-9bb9-725489f61328"
   },
   {
-    "id": "0646ab8d-890f-42e9-8b51-d07c7e4066f8",
+    "id": "8d5e6482-edf3-4ea0-8b2a-55be65e38757",
     "name": "Frenzied Devotion",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -13877,7 +13877,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e0881f97-cd83-4c38-a4c7-35ea63177beb"
   },
   {
-    "id": "d102494b-9735-416f-b89e-d774d627090a",
+    "id": "5ee56e77-c361-4964-8a95-cfe53bcdfb6c",
     "name": "Commander Of Tyrants",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -13892,7 +13892,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2156799d-b01e-450c-bc5e-082c56fee866"
   },
   {
-    "id": "a1f4049b-da68-4af9-81d4-0b7bd8bd62aa",
+    "id": "ac378277-342a-474d-848a-e223f6c25a2a",
     "name": "Aetheric Destabilisation",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -13907,7 +13907,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "785d282c-60f0-43ea-860c-c6558e13fdb0"
   },
   {
-    "id": "aced2db6-54cd-434e-8e93-910d78959fcb",
+    "id": "11aa0fd4-7032-43e3-bb19-1731b51bac21",
     "name": "Finder of Ways",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -13922,7 +13922,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "575a1b25-436f-4ad7-b449-5f9535ba710c"
   },
   {
-    "id": "fd459113-68c9-41cd-90b2-f83bd5969373",
+    "id": "349c2622-1d6f-4900-9013-5dcb99232253",
     "name": "All-Out Slaughter",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -13937,7 +13937,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ea9cf1f5-027e-47ad-8991-dd7e35470f65"
   },
   {
-    "id": "98566cc4-e00c-412a-b254-0f026d10ca99",
+    "id": "da243182-a32b-4fd3-8c2e-51f206ff3fb0",
     "name": "Magmic Tunnelling",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -13952,7 +13952,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8192ab82-10fc-4f68-bf5b-919d074aade6"
   },
   {
-    "id": "876a42ed-ef1d-4516-a8a5-7a2ff802fa53",
+    "id": "dd43ecce-e45f-4da0-be23-58a16f0ad2b7",
     "name": "Catalogue of Souls",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -13967,7 +13967,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0bc4317c-0717-46b5-bb3f-e7c3978980a0"
   },
   {
-    "id": "63c339b9-d941-4e79-ae2b-98fd2c6da3a4",
+    "id": "9f3bff93-69e1-4c5d-befc-a1b3bb1e0160",
     "name": "Book of Profane Secrets",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -13979,10 +13979,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a friendly unit in a Silver Tower to be the target.",
     "effect": "Set up the target on the battlefield wholly within 12\" of this unit and more than 9\" from all enemy units.",
     "abilityAndCommandIcon": "movement",
-    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff"
+    "warscrollId": "80a7e85a-7a29-4ee7-a418-8a745a4a9149"
   },
   {
-    "id": "d633c970-2088-45c2-8496-83c0db1630d0",
+    "id": "2fab3eb8-6d44-47e1-8f81-cf20bfde9851",
     "name": "Frenzied Fervour",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -13997,7 +13997,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3f57d938-a9be-4061-b74a-7683085041ce"
   },
   {
-    "id": "2ce4a619-22f7-421b-a1ca-d0e7c2f6a1a2",
+    "id": "95d3c4f0-f4cc-48d7-954e-127691363860",
     "name": "Troglodon Regeneration",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -14012,7 +14012,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8d8fda17-8204-4639-8a64-a91bfe458769"
   },
   {
-    "id": "51d98c61-ddd9-4d8c-8340-47c983ef6f35",
+    "id": "08b342c4-b7d3-4128-923d-d3282e3cf46f",
     "name": "Everwinter Goad",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -14027,7 +14027,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b31ffa62-7cc1-4ef2-87b7-b583667ab7c3"
   },
   {
-    "id": "45268e3b-31d5-446b-8668-34a6726311f6",
+    "id": "b7b2a680-c030-4263-8ad3-68e04eaff170",
     "name": "Sow Havoc",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -14042,7 +14042,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "54b93d35-f214-4dfd-a0e1-6fbb836435e4"
   },
   {
-    "id": "2e3113b5-b60e-4b1d-838c-2c92193a319f",
+    "id": "886df13a-db82-4b51-a433-f8e6829d575e",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -14057,7 +14057,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9dc54ba7-9824-44e6-929f-17177742c982"
   },
   {
-    "id": "faa1a979-6b42-4647-b6b8-712aaddeab4c",
+    "id": "dc4ef2fc-b37b-4864-889f-75c37d49f63a",
     "name": "Soulreaper",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14072,7 +14072,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "eeb0632a-3846-456e-b5d7-3776f3dc4592"
   },
   {
-    "id": "fdf7f6da-4b62-42f2-9344-b0b2aab48308",
+    "id": "960037fd-8332-4640-8c03-0c68c6b4b137",
     "name": "Scion of Slaanesh",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14087,7 +14087,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64e22b93-0add-409c-977c-effe16b4bce0"
   },
   {
-    "id": "c8322f55-30be-4b72-800d-0d544d7a90b3",
+    "id": "99c631ea-8f5a-48e3-80e7-b3e515751e7a",
     "name": "Seething Swarm",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -14099,10 +14099,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "You can return D3 slain models to this unit.",
     "abilityAndCommandIcon": "rallying",
-    "warscrollId": "9c16ad20-f95d-49a2-9417-a3ff00bd4c56"
+    "warscrollId": "2155e43a-495c-4a25-b908-ccf904be6b75"
   },
   {
-    "id": "f48d6185-fd87-4107-a51c-e564f076e92c",
+    "id": "31451fcc-5eaa-44ba-b614-43d3ec06c0aa",
     "name": "Blood Call",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -14117,7 +14117,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b4d4c63b-e255-4fb8-aaf8-3b4eca5fcd99"
   },
   {
-    "id": "9fff1235-40b1-4750-b901-8e46d1881a8c",
+    "id": "04aea3d3-1c89-465e-889a-73f50a92cfde",
     "name": "Ruin-blessed Conqueror",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -14132,7 +14132,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c28adf0a-d5dd-4dd1-ae3e-80f8a7a28e12"
   },
   {
-    "id": "8b6d7e85-4af3-4f3b-ba37-cd786a08d55a",
+    "id": "be17d0c9-770f-4179-b93b-3e1b378cc7ff",
     "name": "Trample Underfoot",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -14147,7 +14147,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f8b0907d-733d-4132-a8ca-79e6bd4dd758"
   },
   {
-    "id": "6cc4e753-9ce4-411f-a132-46dcd30ac026",
+    "id": "d76f3bff-11c5-4fea-b43a-7f694e331f88",
     "name": "Roaring Rune-fire",
     "phaseDetails": "Enemy Movement Phase",
     "phase": "movementPhase",
@@ -14162,7 +14162,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "05d40890-4fb9-4f45-9938-aab60abcace1"
   },
   {
-    "id": "83df82c0-881b-443b-993c-5efcd6fe247e",
+    "id": "42bb2080-a069-4d0c-8dc4-e9f942c01e9f",
     "name": "Skritter",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -14177,7 +14177,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f06eb6b9-bc29-4b13-8a69-50dac1881ac6"
   },
   {
-    "id": "990e0220-5d39-446e-8c2e-143951d2468d",
+    "id": "50773764-3c2a-4584-8adc-ec1a6b6af60d",
     "name": "Solar Flare",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -14192,7 +14192,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4d8b1c80-9f01-4ded-802e-a531bef7ef8c"
   },
   {
-    "id": "7edc8cd5-2cd3-4b72-b94f-f8d225be2e08",
+    "id": "60ddf646-f2b8-4636-9f4b-2db9bb099189",
     "name": "Reaped Like Corn",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -14207,7 +14207,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b8214969-9157-433c-9c82-ec07980a6b41"
   },
   {
-    "id": "e406e4be-1b57-427f-8719-da756cc85189",
+    "id": "6f3e0f87-8ca8-4205-985c-7347146dcb38",
     "name": "Empower",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -14222,7 +14222,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0b2be07c-e976-4837-8d7d-80a1736192e0"
   },
   {
-    "id": "9aa49370-4a51-42b9-955f-839b099d6dd9",
+    "id": "02ae38eb-9926-46e7-b547-9e6835ae5ecd",
     "name": "Sniper-master",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -14237,7 +14237,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ef69e06b-bdff-4451-a22b-c6d36049bd41"
   },
   {
-    "id": "bc25af51-28aa-41c5-8bd7-e06d8513d9ed",
+    "id": "f4885582-d047-4839-a7f0-bbc9ea0e2a03",
     "name": "Pestilential Beachhead",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -14252,7 +14252,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "24ba4886-2f94-44a6-8304-fbe6f9e59d9a"
   },
   {
-    "id": "134fad4e-2d20-46e9-91f6-43fdf51416ec",
+    "id": "1ea43ea9-cf22-46e0-b918-655e4976f872",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -14267,7 +14267,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "78c905b1-e20a-4cc4-a028-d7728b2252b1"
   },
   {
-    "id": "35944d9b-e0ec-4247-9dde-f6b92af152b9",
+    "id": "6ac5a4b7-fedb-4d4a-b360-4819db980d42",
     "name": "The Savage Hordes",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -14282,7 +14282,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4bb790ab-db52-4969-b532-398472038ec3"
   },
   {
-    "id": "70b12d4f-6634-4bf3-af7c-9e5897785fdb",
+    "id": "72b0f3d8-bdfc-4e54-ab1d-5a60df639784",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -14297,7 +14297,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ed358108-74fe-48db-96b6-219e66f4bb47"
   },
   {
-    "id": "66b5253b-a0db-44f8-8257-064b3a258074",
+    "id": "00e70971-f977-4028-984a-86f212b659ea",
     "name": "Avatar of Destruction",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14309,10 +14309,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it (ward rolls cannot be made for those damage points).",
     "abilityAndCommandIcon": "defensive",
-    "warscrollId": "28647412-df3c-4aaf-9519-3f7966ef367d"
+    "warscrollId": "0992ef28-02f3-4b03-a740-f818e1b3ff00"
   },
   {
-    "id": "23e85d59-4568-4f95-94b7-088d89a85795",
+    "id": "8c759100-1ea3-43e2-a831-4f9c6c432ef8",
     "name": "Escort Vessel",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14327,7 +14327,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3f93d3cc-04f4-4e19-86b1-b0ebc5bbbcf1"
   },
   {
-    "id": "3f2903c2-cb9b-4998-ad45-03674102c36b",
+    "id": "52643a77-6646-4238-9949-cf0f71c9b3d4",
     "name": "Repair Construct",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -14342,7 +14342,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "332d8ee9-eac7-4f52-b537-e72065813700"
   },
   {
-    "id": "4c3701d4-ebd0-4c02-9224-37ce234e6dab",
+    "id": "d86f04cf-fc1d-4413-9e1b-2ff472cabc16",
     "name": "Whirlwind of Destruction",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -14357,7 +14357,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c6778f58-105b-4fdc-b998-42bdef35e672"
   },
   {
-    "id": "aa945617-652d-4256-99de-6b656f075a17",
+    "id": "df4f7757-af1e-4333-9cfd-cfa785ff2545",
     "name": "Deathly Barrage",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -14372,7 +14372,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "55f54d8c-8f56-418a-944d-9e9435b6b161"
   },
   {
-    "id": "f9d54c60-a1a0-4e3c-be58-a247f37194b5",
+    "id": "2dfc6722-d3c6-4eb3-844e-cea2faa266cb",
     "name": "Gnoblar Minions",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -14387,7 +14387,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "05675b36-4aa5-4a48-a24f-bb660bd4c0ad"
   },
   {
-    "id": "08b1440b-7b3b-4398-8b78-6a3fa346bbd0",
+    "id": "5e3d51a1-0cf1-43fc-94fc-e0436b44430b",
     "name": "Ghostly Howl",
     "phaseDetails": "Once Per Turn (Army), Any Shooting Phase",
     "phase": "shootingPhase",
@@ -14402,7 +14402,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "887d0b0a-9c0c-4880-ad61-16fee3733876"
   },
   {
-    "id": "9d9669ce-1dd4-42f0-936d-f62ba0b34294",
+    "id": "ec5da51a-f433-4d95-9ce3-08407f6601c2",
     "name": "Marking Your Territory",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -14417,7 +14417,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d4867263-475d-4bb1-97d7-4e84625bee25"
   },
   {
-    "id": "a41f2387-3b34-4341-9d55-1e46d552bc10",
+    "id": "0888bc47-d070-40d8-9b3f-b0cc10c4d3d2",
     "name": "Unshakeable Faith of the Mountains",
     "phaseDetails": "Your Combat Phase",
     "phase": "combatPhase",
@@ -14432,7 +14432,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c4820879-595d-45e5-949b-f8d15cfe7d98"
   },
   {
-    "id": "3841bd1a-dc74-42c9-9523-df50c29b363b",
+    "id": "bb896d87-8571-4a84-b01c-c5f5cade6dfb",
     "name": "Witchbrew",
     "phaseDetails": "Once Per Turn (Army), Any Hero Phase",
     "phase": "heroPhase",
@@ -14447,7 +14447,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "07018d06-7195-4a06-b8dd-47013bbafcad"
   },
   {
-    "id": "8f21a07e-1db2-49f2-878d-deb392675fda",
+    "id": "df5f81a2-25d5-42dc-aec0-3fd7945e7a40",
     "name": "Invocation of Nagash",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -14459,10 +14459,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "This unit can cast this spell more than once per phase. Pick a visible unit wholly within 18\" of this unit that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
     "effect": "If the target is an enemy unit, inflict D3 mortal damage on it. If the target is a friendly Death unit, pick 1 of the following effects:\n\n• Return a number of slain models to the target unit with a combined Health characteristic of up to 3.\n• The target has Ward (5+) until the start of your next turn.",
     "abilityAndCommandIcon": "special",
-    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545"
+    "warscrollId": "5197fab6-20c0-4ee0-af67-0239b5262dee"
   },
   {
-    "id": "654b200f-1581-426e-aeea-f5c582a7efff",
+    "id": "a16f780b-799a-4b2c-bbb3-a1acc914fa81",
     "name": "Guardians of the King",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14477,7 +14477,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5d20aa79-0140-404b-a195-40c107990fdd"
   },
   {
-    "id": "ad1d9b30-52bf-44b9-891a-ee29e2e44557",
+    "id": "12104a7c-1aae-480f-b5bc-8c1952b4f0ef",
     "name": "Death From Above",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -14492,7 +14492,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f369ef8c-5690-4153-ae23-9024b9e26158"
   },
   {
-    "id": "9fd49da3-7959-4870-91a8-755958b81382",
+    "id": "d6f768ae-ce46-469e-821d-bf7faaa9df7b",
     "name": "Cracks Call",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -14507,7 +14507,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4fa36952-df48-45ce-b207-8ed3fc2ae412"
   },
   {
-    "id": "7611ad82-459c-4784-add6-e03ef8943dc0",
+    "id": "fa6a948e-52c6-42c5-b8ce-aa3a2724d12c",
     "name": "One Soul, Two Bodies",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14522,7 +14522,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3220f55f-a9a2-4424-a70c-a592a74cfde3"
   },
   {
-    "id": "bad8ebb9-fad2-4881-9c97-0dc5c7b48bc5",
+    "id": "024f906e-44d6-49f9-a23b-640a66c3381d",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -14537,7 +14537,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b5511bad-9d69-43d0-9fc5-5f09a895e517"
   },
   {
-    "id": "d56fc900-e01f-45fe-943d-dfd5bb096a8b",
+    "id": "8503b56c-380a-48a2-a2c1-58ed5acaf326",
     "name": "In For The Kill",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -14552,7 +14552,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2016cc88-226c-4e6f-ade7-2f889439cfb5"
   },
   {
-    "id": "6e3136c2-6c1c-4cd3-ad6c-539495f817dc",
+    "id": "ca69989f-8ceb-4041-9c8a-bd25f3b17ce2",
     "name": "Seething Swarm",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -14567,7 +14567,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c2741f86-3219-427a-b3c1-61e6569ae812"
   },
   {
-    "id": "6413801e-a3f2-4168-9c3b-dfecb7cdaa92",
+    "id": "5ec9a64a-3c11-424a-9613-461bf0203f44",
     "name": "Longshanks",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -14582,7 +14582,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1"
   },
   {
-    "id": "09f1109d-56be-496f-9ea2-9c0dcff82122",
+    "id": "0a24c13b-0103-4695-87d7-43c74ab7fe8b",
     "name": "Oracular Visions",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -14597,7 +14597,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4cc747bb-89ad-42ca-99d0-5307752d6a97"
   },
   {
-    "id": "2944ed58-b235-4999-9569-338163f29522",
+    "id": "8854f7b8-bc21-4fd1-a037-19322f9efe0a",
     "name": "Azyr Unleashed",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -14612,7 +14612,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d0f646c4-3e64-4cde-912d-2aac77f3aa22"
   },
   {
-    "id": "f656794b-20ec-44e5-ae0d-a27cd310cbbf",
+    "id": "73e66092-c452-4475-9fac-2e9a38d0bc3c",
     "name": "Shrieking Swarm",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14627,7 +14627,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e03369f2-b7c7-42b9-89fe-409f5648cb11"
   },
   {
-    "id": "854df76a-6b8f-442a-949a-311f8a604e7a",
+    "id": "c5049612-408d-4dca-b2ef-1a0d18b3a849",
     "name": "Envoys of the Everqueen",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14642,7 +14642,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bb84f624-f063-43a5-8906-41d409fa9a9b"
   },
   {
-    "id": "0deefa97-db03-4093-9616-4a116f7c56a7",
+    "id": "83c597c3-88ff-4f73-9e1d-5bc433bc9702",
     "name": "Outrunners of Chaos",
     "phaseDetails": "Reaction: You declared a Charge ability for this unit",
     "phase": "chargePhase",
@@ -14657,7 +14657,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5d2afcb5-25b2-40b0-b2fa-9666d8f99a6f"
   },
   {
-    "id": "75f87043-1c41-47a2-a600-7eb7697c49e5",
+    "id": "946591ef-fee0-408c-a66d-115f856e78c0",
     "name": "Sneaky Infiltrators",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14672,7 +14672,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6388b6d-e9bf-4ddf-a606-d46ca6b3c8b8"
   },
   {
-    "id": "5ed84e75-ab97-4844-a541-e165a9b66630",
+    "id": "2d5bd06b-981c-4e7e-8373-c99d3f06b62b",
     "name": "Call to the Hunt",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -14687,7 +14687,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "84b51f15-0a6f-45a3-8f72-7628f947e4f8"
   },
   {
-    "id": "97ab54c9-3c35-46ad-ac3c-68f9945ad1f3",
+    "id": "9a8cbca2-b8c5-4e00-ac6e-beb9d2f681a7",
     "name": "Shadowy Killers",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14702,7 +14702,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "56358663-0f7f-42ce-a67e-fd218d479c3f"
   },
   {
-    "id": "5a83d6bd-0846-4014-9991-10ec162c999d",
+    "id": "5dd81457-22da-4e14-8a0c-079c7f2e68e4",
     "name": "Otapatl's Dartpipe",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -14717,7 +14717,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d842b070-c546-4eed-a38b-9d21db934884"
   },
   {
-    "id": "f39d57f0-7ac3-40e6-94de-953387f1accd",
+    "id": "79ca687f-69df-4ecf-99ce-b1b3ada5d1d4",
     "name": "Drawn to War",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14732,7 +14732,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0808c144-52f7-4f87-9184-de603131cb0b"
   },
   {
-    "id": "cc6cbb62-7267-40a7-9994-887ffd257381",
+    "id": "34d0cc2b-084d-433d-94ee-a351a88ded15",
     "name": "The Court of the Lost",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -14747,7 +14747,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d53701c2-027c-440f-b53c-469a4d6b0f1f"
   },
   {
-    "id": "d00686a3-eec2-45fd-9549-ddbb52697ba4",
+    "id": "dac23d5f-fabc-419c-99d7-0ccc595dcfb4",
     "name": "Devastating Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -14762,7 +14762,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9adebd33-7890-40ae-929a-e85f6a82757f"
   },
   {
-    "id": "9246c8df-3501-4915-990c-2080568307a5",
+    "id": "64ac7013-d690-40c0-befe-9a2d7384d736",
     "name": "Bloodthirsty Dominance",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -14777,7 +14777,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c53af49b-ad48-418f-a93f-f439b846a45b"
   },
   {
-    "id": "4eda44a2-4e81-436a-8101-1c0312234e66",
+    "id": "b4d55b70-ffcd-4725-8d14-c03e7353f3d3",
     "name": "Power Leech",
     "phaseDetails": "Once Per Turn, Any Shooting Phase",
     "phase": "shootingPhase",
@@ -14792,7 +14792,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4112a17e-1bde-49a3-a35c-3749f35b5ebb"
   },
   {
-    "id": "e2f10148-3e91-40c2-8343-e0ee3c50e14a",
+    "id": "8857cca5-ad30-4d5e-9c03-1d990ce60021",
     "name": "Watch Out!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -14807,7 +14807,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e7ec47e9-b8bb-4234-9c11-70bb9fe7bf6d"
   },
   {
-    "id": "f41ff6d6-7e06-4199-9514-8052a47334d4",
+    "id": "dd6bd165-d788-4ff3-8339-29ffa14ff760",
     "name": "Ordered Cohorts",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14822,7 +14822,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67a58fea-a7f9-4fb4-a638-ecef69892c49"
   },
   {
-    "id": "fb74c31b-32f3-47df-a955-102fb62e588b",
+    "id": "4548e3b2-bf2f-474d-94c9-f64fd2ab2223",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -14837,7 +14837,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "716956a7-c8f2-41b5-a623-d43c552c805d"
   },
   {
-    "id": "e8186589-9247-4321-b774-dba9626db37c",
+    "id": "d911518a-7e66-41e5-ba7e-c0b2c9261afe",
     "name": "Iron-fisted Commander",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -14852,7 +14852,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f8e23183-2046-40e9-8c27-c44629a13f33"
   },
   {
-    "id": "eef87cec-fab1-40ab-b562-ca6da133b578",
+    "id": "f9b05e96-e4c1-4de1-b78e-8a09cf568ef2",
     "name": "Storm of Shemtek",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -14867,7 +14867,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9d672ed8-a7dd-429b-87b5-45ae589782fd"
   },
   {
-    "id": "4f512b66-53c2-4aff-8ed8-4b76b40b1650",
+    "id": "5b6a3ad6-4393-4036-8e3b-aa8a0744cefd",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -14882,7 +14882,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e9e685ea-35f5-45b7-96b9-ac0a16813888"
   },
   {
-    "id": "b7c0f569-7c24-42b4-b367-8930a0a7bc8b",
+    "id": "22000745-70a5-4f95-a30e-b5c4c6682151",
     "name": "'I'll Get There Myself'",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -14897,7 +14897,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "832a56bd-2b47-4f8f-847e-29c5650c9391"
   },
   {
-    "id": "ece1ccbd-f1f7-4e88-91f2-be426b0da51c",
+    "id": "70d8cd5d-f72e-416d-9363-9a24bdb54df0",
     "name": "Altar of the Horned Rat",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -14912,7 +14912,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4fa36952-df48-45ce-b207-8ed3fc2ae412"
   },
   {
-    "id": "9079b106-e1bc-4acb-837d-5c1b27a9e1ab",
+    "id": "299784d6-90a8-4f7c-8543-183b5c671efc",
     "name": "Death Shriek",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -14927,7 +14927,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d980cc25-e4c1-4276-9088-fabbc3f722e1"
   },
   {
-    "id": "700c1ee0-5ac1-414b-9302-cd0d7c2e59fe",
+    "id": "ee3cf2af-d213-441f-b3ad-87cb98a8afb5",
     "name": "Puckish Misdirection",
     "phaseDetails": "Enemy Hero Phase",
     "phase": "heroPhase",
@@ -14942,7 +14942,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9676d3f9-a44b-4126-8ded-e5087281bbb2"
   },
   {
-    "id": "2b035745-5c8f-4412-bebf-b2a7530da65a",
+    "id": "f4fca90a-4efc-4bb0-8885-fe4939c0cf4e",
     "name": "Rune of Enthlai",
     "phaseDetails": "Once Per Turn, Reaction: You declared the ‘Speed of Hysh’, ‘Overwhelming Heat’ or ‘Ethereal Blessings’ spell for this unit",
     "phase": "heroPhase",
@@ -14957,7 +14957,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e1a36a57-1344-437c-b1f2-85b5daa18876"
   },
   {
-    "id": "610a8019-d5a3-4876-89f9-0c8471f36381",
+    "id": "7e0f8daf-f102-4e83-bf8c-8f98d3a74dcf",
     "name": "Burning Fury",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -14972,7 +14972,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3ce65ad5-a414-400f-80ae-f36bb082506d"
   },
   {
-    "id": "13531f4b-5f5d-4640-a027-2ab1d9cf26b7",
+    "id": "2c043073-bbf6-492a-a5ef-349561ff3bb1",
     "name": "Terror",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -14987,7 +14987,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a4c15ce5-1bfe-4f3d-86e8-bd0427d5e5c1"
   },
   {
-    "id": "0791cb64-2d83-4b28-959f-71ebc4f78a2b",
+    "id": "a6c3993a-9e8c-465e-96db-2c01df70dedc",
     "name": "Keeper of the Pandaemonium",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -15002,7 +15002,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4112a17e-1bde-49a3-a35c-3749f35b5ebb"
   },
   {
-    "id": "1e55e26c-ed0f-46d5-a233-a3e03ddbb6db",
+    "id": "4431e546-a0fc-4692-acec-8f2a7634e5f3",
     "name": "Shield of the Storm",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -15017,7 +15017,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "170a66b6-f8ed-414b-8f3e-55e5a3a09c6c"
   },
   {
-    "id": "b081c0fa-3654-4c5f-ac3e-074ed0b16538",
+    "id": "2f779a9a-7b6d-431d-8a85-8b73f1dbc2ff",
     "name": "Destructive Bulk",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -15032,7 +15032,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ab6c336a-76d3-480f-b7da-68d213041206"
   },
   {
-    "id": "63035829-62e1-4e24-ac78-c09093f6d746",
+    "id": "80b19c61-5232-4ac9-ace7-ef245a1f705e",
     "name": "Protect the Tyrant",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -15047,7 +15047,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c7274c9a-da6e-4943-a110-1eaff4922055"
   },
   {
-    "id": "68ebebd6-fcfc-4d7f-bde3-5e90d69f3f6e",
+    "id": "d5776ba3-25d3-4cf3-9337-81608323605e",
     "name": "Vengeful Forest Spirits",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -15062,7 +15062,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3e330358-f275-4078-aa3f-2a91528dd91d"
   },
   {
-    "id": "27bc5b55-06ff-43db-9ec3-f05736b5f16e",
+    "id": "7a55839f-41ec-4552-b105-d2a4d124e15e",
     "name": "Death's Descent",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -15077,7 +15077,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e8cafbfa-4f45-4d6e-b3c1-7daf23d1d86d"
   },
   {
-    "id": "ee97caf4-a870-4684-a657-b4711530d2fb",
+    "id": "1a9db49c-a1f4-4a10-a786-f662c965c067",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -15092,7 +15092,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "421e23bb-3549-41a8-9c89-5a00a13aa35c"
   },
   {
-    "id": "5c33f16d-50e1-4c39-8ceb-0b20e7a6def0",
+    "id": "f8513189-6259-4a54-8e36-79044014ea92",
     "name": "Berserkers",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -15107,7 +15107,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a58a8b9b-947b-49e3-86f1-c87924685cf0"
   },
   {
-    "id": "fd00f07b-18d0-4db8-b702-df5d26af7b52",
+    "id": "9f353ee3-bf9e-4233-acaa-13edf5f1564c",
     "name": "Blazing Impact",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -15122,7 +15122,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fe19a03b-2880-4cf3-b8fa-9abe8e11c31b"
   },
   {
-    "id": "e64db29a-9b74-4faf-b5a3-0d6c55857f9f",
+    "id": "f6bc912d-c2a8-48a8-a147-9bff1761e63c",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -15137,7 +15137,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b05548c3-30a6-4198-814e-fa621a6859b9"
   },
   {
-    "id": "e811f2ea-ccc7-4631-92fc-437680451b05",
+    "id": "829763a9-b041-4b5e-a618-382b7caa8682",
     "name": "Cloud of Flies",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -15152,7 +15152,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a4f8c36c-52c5-4e89-b7c1-fa2ffbccebbc"
   },
   {
-    "id": "338fc937-1fa5-477b-83e7-661f8b960d3a",
+    "id": "04b25ce4-af1c-462d-8b9b-8737497e7bd9",
     "name": "Guild Bombs",
     "phaseDetails": "Once Per Battle, Your Movement Phase",
     "phase": "movementPhase",
@@ -15167,7 +15167,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "48421d4f-c45f-4679-b259-9d4e57225e07"
   },
   {
-    "id": "05b9de89-b4e0-4825-baad-098e2a8c0448",
+    "id": "6f750e04-8441-4752-9b2d-8010552a872d",
     "name": "Roar of Total Rage",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -15182,7 +15182,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9bf5e29a-c0f9-42cc-aeae-0c46a192b883"
   },
   {
-    "id": "c4c9a861-37ad-4ff5-8489-e1a5a45f895c",
+    "id": "f468cde8-4e96-4df1-9253-6271b81f6e86",
     "name": "Overseers of the Enginecovens",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -15197,7 +15197,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "11525cb0-3205-46c2-986f-c102dde00a11"
   },
   {
-    "id": "45f067b6-065f-416a-9cb4-23f323fd3ee8",
+    "id": "c07879b4-abf4-4c5f-b621-bf5015aac493",
     "name": "Sneaky Little Devils",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -15212,7 +15212,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "14006619-1fe9-40ef-961c-f7c612b152c6"
   },
   {
-    "id": "0029cad6-cd6e-4eaa-badb-6d57ebfc0a73",
+    "id": "f850b179-4efe-4817-9f5c-477ff1a1d3d3",
     "name": "Descent of Spiteriders",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -15227,7 +15227,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c84873e0-178d-4be2-898e-71a4996000f7"
   },
   {
-    "id": "23961e82-9ba2-4ab0-8c0c-57149592fcb0",
+    "id": "ae857aa8-6222-460a-b2d3-0a12f2d155fe",
     "name": "Virulent Concoctions",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -15242,7 +15242,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c7af9039-fecc-4c94-8fe4-4969c70af430"
   },
   {
-    "id": "76eed728-bdc1-4d72-95fb-e55aedc11fe5",
+    "id": "638ce940-d36a-4d10-b1d1-7240e27f3d4f",
     "name": "Warding Lantern",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -15257,7 +15257,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7f1dc62c-1d02-4f1d-a495-7ed49dadf9d2"
   },
   {
-    "id": "fb0cc72d-a6b9-451f-a5d5-dfd2991ab5d8",
+    "id": "47693317-1c61-4918-bdc4-f859cabdfbb4",
     "name": "Unflagging Hunters",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -15272,7 +15272,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bda6f3ae-c08e-4a85-b12e-81fe4d1b5a05"
   },
   {
-    "id": "77b35078-2da6-4095-bf0c-620cc0e004b2",
+    "id": "9c2bfed6-cf49-468b-89f5-10354203b680",
     "name": "Drive The Legions Forward",
     "phaseDetails": "Once Per Battle (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -15287,7 +15287,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "23d60979-1890-40db-a8ca-b83380f64b84"
   },
   {
-    "id": "4d954d2f-cd81-45cc-aea1-5ee41e52bb66",
+    "id": "619645f6-2cac-45b6-80ff-864076aa7a44",
     "name": "Toad Rage",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -15302,7 +15302,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3fddfaf5-c48d-4cbb-b782-7849c0a91cdb"
   },
   {
-    "id": "eecd02d2-1377-4703-aefc-d5eef82c21bd",
+    "id": "7f682033-7aa9-4af5-8bcb-1fefe57d86b6",
     "name": "Looncap Mushrooms",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -15317,7 +15317,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "14eea179-c06d-4e15-b358-84acbe9ea63d"
   },
   {
-    "id": "7a53fb50-6295-4043-ab46-ad8b53f54984",
+    "id": "778e1671-6b91-40d1-95b2-088b9accc215",
     "name": "Capricious Wyrdflame",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -15332,7 +15332,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ffa57842-9faf-4f89-823e-8141a600a069"
   },
   {
-    "id": "481e2245-15a9-4cfe-97c6-ca440531e9f3",
+    "id": "7304812b-515e-450c-9e2b-01618003f9dd",
     "name": "Omens of Decay",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -15347,7 +15347,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e497ecff-fc44-4435-ae1a-84e023d0fc9d"
   },
   {
-    "id": "e3f0334d-8bfd-46fc-9123-2d4e775d826b",
+    "id": "02b71ab4-165a-4111-9c89-4ffa21725b1b",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -15362,7 +15362,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d962076c-7139-4eae-ad69-22235ef6cbbd"
   },
   {
-    "id": "d0926c81-8d2b-452b-a2b2-915a3301bb6c",
+    "id": "038d5db7-e2b7-4a49-b05b-bfc4d4fa2235",
     "name": "Hand of Dust",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -15374,10 +15374,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a visible enemy Hero or Monster in combat with this unit to be the target.",
     "effect": "Hide a dice in one of your hands or under one of two appropriate containers. Your opponent must pick one of your hands or containers. If they pick the one hiding the dice, this ability has no effect. If they pick the empty one, the target is automatically destroyed.",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545"
+    "warscrollId": "5197fab6-20c0-4ee0-af67-0239b5262dee"
   },
   {
-    "id": "136ab7f2-2504-498a-a1af-1e441661e42b",
+    "id": "eb0d7504-842c-4126-b251-578ce03939a2",
     "name": "Louder and Louder",
     "phaseDetails": "Start of Battle Round",
     "phase": "startOfTurn",
@@ -15392,7 +15392,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d1facb98-3add-4cb2-9d03-b667e0128b33"
   },
   {
-    "id": "24a38687-0e09-4103-a6cb-f86827aaf573",
+    "id": "4c4298e0-6232-4ab8-9381-ddf3aa0233b6",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -15407,7 +15407,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "04d4d4a0-2f40-4945-aee7-1692a5d3673b"
   },
   {
-    "id": "1d0778c4-ff92-4d87-8ffd-6769605752d0",
+    "id": "302ecb85-5c08-4fb2-885f-d4d55893197d",
     "name": "Wrest From the Realms",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -15422,7 +15422,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "271da01b-9ae3-4a51-b23e-4e6e39a890bf"
   },
   {
-    "id": "a02e237d-1cb7-47a1-930e-ab90a85a3806",
+    "id": "906ec045-ff67-4d63-a722-d1b134c5a0ef",
     "name": "Hallucinogenic Fungus Brews",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -15437,7 +15437,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9ba17166-fd30-4cce-ba16-42946c38ae66"
   },
   {
-    "id": "2b531a16-84a3-4672-88f5-02970f85f752",
+    "id": "36fe796b-51a5-45d3-9ecb-238b83a9008c",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -15452,7 +15452,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d2ddb86f-f3f5-4e99-bcc0-8b2c49126591"
   },
   {
-    "id": "87800443-198e-4bdf-a8c5-5214724f251e",
+    "id": "7f38f073-0f5a-4e0c-8681-770b93daddee",
     "name": "Altar of the Gulping God",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -15467,7 +15467,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "444f4e9b-ed43-4fe0-aa24-7e25f78abec0"
   },
   {
-    "id": "a0b920a9-10f8-4ec9-918e-3107e7c99b44",
+    "id": "c01387b0-95c7-4727-ace3-e72d111d4edd",
     "name": "Skeleton Legion",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -15482,7 +15482,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "02d63186-09b5-46a8-9672-18c36ab60379"
   },
   {
-    "id": "f9eb63bc-3928-45a6-9f44-9d30d6bfc532",
+    "id": "d537247e-595e-47b5-9f16-737c6639e3fb",
     "name": "Stormbolt Tempest",
     "phaseDetails": "Once Per Battle (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -15497,7 +15497,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a901d3e1-b08d-4448-bbad-99d2b875db40"
   },
   {
-    "id": "215cd5aa-6511-49e1-bbe9-c9dea8245a7c",
+    "id": "a303c4ce-1aeb-4adf-9e81-ece6754d5b3e",
     "name": "Wrack and Ruin",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -15512,7 +15512,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9c1c0877-7e38-45ce-bcb0-dacc2c4d50ad"
   },
   {
-    "id": "9133db19-0eb5-463f-a2d0-c8b2fefad687",
+    "id": "f87072bb-700e-479a-bb9f-0f627961ea63",
     "name": "Under the Shadow of Black Wings",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -15527,7 +15527,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f89d588-f806-47c5-a7e3-77ee5558ce05"
   },
   {
-    "id": "0d7fc0af-8df9-4574-be06-72a61891952d",
+    "id": "f32446f1-ab99-4210-98f7-1af78741cf3d",
     "name": "Ensnaring Webbing",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -15542,7 +15542,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "456b0bae-ac56-495c-9f67-7338abf00072"
   },
   {
-    "id": "012b1b2d-2845-4e76-9778-c7abd793b0b2",
+    "id": "27a3256c-0d85-4928-90c2-7e72fba0dd11",
     "name": "Sevenfold Slaughter",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -15557,7 +15557,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a787f0f4-9a69-4761-bb32-f7c6c63b52e6"
   },
   {
-    "id": "743a8df8-5f67-47f0-b3b6-5f86254a9150",
+    "id": "e9ab88d5-1ae5-4dd5-8fd8-3617ae0c3cea",
     "name": "Command the Fleet",
     "phaseDetails": "Once Per Battle, Your Movement Phase",
     "phase": "movementPhase",
@@ -15572,7 +15572,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1a6f67bf-e9b4-44ce-b975-7c63c704ae5f"
   },
   {
-    "id": "3f1dc319-4c59-43a8-91bb-233c4aa8da94",
+    "id": "656fe8d0-bec7-41bb-82ec-63aaca1de3d0",
     "name": "Swallow Energy",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -15587,7 +15587,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f5a8265e-1440-4b46-8fde-a0d6e5eec21e"
   },
   {
-    "id": "1bab6d39-0f61-41ab-8bd9-1bbe5debe08b",
+    "id": "443de2ff-db38-4e21-a21a-24d1cebd17ce",
     "name": "Blood Frenzy",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -15602,7 +15602,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a4c15ce5-1bfe-4f3d-86e8-bd0427d5e5c1"
   },
   {
-    "id": "3be5c13a-6ef2-4186-a0b4-7cc4cedccaae",
+    "id": "122d5922-ccb8-40c5-bcd7-a0fdc096cd51",
     "name": "The Marshal's Retinue",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -15617,7 +15617,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "083d8e07-03c6-4c81-82f6-0d199b4b63e9"
   },
   {
-    "id": "f46e1c65-3af4-4df0-8cfb-5c7fda962048",
+    "id": "4bb4f91e-4593-4c3a-9909-d18ecf6191b0",
     "name": "Vessel of the Gulping God",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -15632,7 +15632,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1d470cd8-4470-499c-8c83-5341d0a560c3"
   },
   {
-    "id": "6cd0df7b-f10e-4001-a756-bef16dbefb68",
+    "id": "99e4d058-3e54-4b3f-9859-67abd0b19912",
     "name": "Divert Realmgate",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -15644,10 +15644,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Make a casting roll of 2D6.",
     "effect": "Units set up this turn using this unit’s ‘Book of Profane Secrets’ ability can be set up wholly within 18\" of this unit and more than 7\" from all enemy units instead of the distances in the ability.",
     "abilityAndCommandIcon": "movement",
-    "warscrollId": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca"
+    "warscrollId": "2faf277c-6868-42bf-a055-e06c106d6322"
   },
   {
-    "id": "6c45f24e-a397-42e6-9f67-5c1f7cb7f228",
+    "id": "b2e85450-e1a9-45a1-82ff-79d3ecb1f45a",
     "name": "Horrific Opponent",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -15662,7 +15662,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97a97882-730b-44b9-9eb9-8bd3cb91e9c3"
   },
   {
-    "id": "4780a20b-7c49-4da0-863a-1dbc068bf1db",
+    "id": "1fb0718a-4089-4f6e-8387-74d5901516a8",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -15677,7 +15677,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9e729045-a908-4c41-831b-6efc76ccaa97"
   },
   {
-    "id": "3574b155-0edf-4055-8b93-0d76db01fd4e",
+    "id": "fa8cdfe3-f1d8-49c3-9181-eb0b97ebf314",
     "name": "Hurl Scry-orb",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -15692,7 +15692,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b475bfca-7ecb-4ef5-87d1-c322366877ae"
   },
   {
-    "id": "d647f6d7-660b-4d7b-aa89-5f234979012b",
+    "id": "f9393b6a-7ed3-47de-91bf-cbacff626ccd",
     "name": "Frenzied Fervour",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -15707,7 +15707,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "73a95697-03ba-4b3f-9b4c-996fedcc5a8b"
   },
   {
-    "id": "d2e1806c-c28a-49c6-bde4-732efe0a8fbd",
+    "id": "1a76bbbb-2c94-486d-8141-3f2f08ea1a5f",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -15722,7 +15722,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "beb74a68-a40f-4ee6-aa70-c2babcedc4b5"
   },
   {
-    "id": "f576d3db-e620-4e62-905c-a653652fc4cd",
+    "id": "5ebd1ea3-80ee-4361-942e-aea3ec3f3653",
     "name": "Sequitor Aetheric Channelling",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -15737,7 +15737,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a4a79f59-d9ab-4fe7-8932-fb0527f3fc92"
   },
   {
-    "id": "6895071a-af8e-4627-ab70-fd32a5d09148",
+    "id": "ee0071ab-4007-4f93-9ac3-318a9706ce07",
     "name": "More-more Warp Lightning!",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -15752,7 +15752,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "eeb6211f-ba55-40ec-acfb-ed2f4fc26596"
   },
   {
-    "id": "30219122-f42e-460e-b7f9-f0545ac044b9",
+    "id": "1a65750c-6e5f-4f59-93e5-5c536c05069d",
     "name": "Skilled Swashbucklers",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -15767,7 +15767,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0ce94fca-f9ce-4180-8ca3-442985ca3f06"
   },
   {
-    "id": "d1102e07-00bb-478c-8ccc-52ce6fc56fa7",
+    "id": "3e22c207-1862-49f0-b0a8-bfc22d3cb441",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -15779,10 +15779,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "While this unit has 10 or more damage points, the Attacks characteristic of The Dread Mace is 4 and this unit has a Control characteristic of 10.",
     "abilityAndCommandIcon": "battleDamaged",
-    "warscrollId": "e13fcd1d-b044-4ff9-b0e8-7145ec437bf7"
+    "warscrollId": "37e37cf6-600c-41b7-b36a-384fed5df4c8"
   },
   {
-    "id": "e16daf9e-c8a5-495a-a698-657f3ed08f8f",
+    "id": "7131da5d-bc4b-40a9-b74b-bfb4b870d5cb",
     "name": "Deliver Judgement",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -15797,7 +15797,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10b3bf76-14df-4fd1-b147-5f6179e3950c"
   },
   {
-    "id": "45ed2e95-3a55-438c-a6f9-adb80059ed49",
+    "id": "036d66f3-396d-4d93-b941-956658387510",
     "name": "Acid-fuelled Flame",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -15812,7 +15812,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d21e3ab0-e326-4ee0-8350-fb8fa71227de"
   },
   {
-    "id": "06ea2ac6-ea88-4412-8db4-13e979d505a8",
+    "id": "21df622e-bd0a-44fe-a2ca-61d1dd38d4a0",
     "name": "Fortifying Position",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -15827,7 +15827,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f8e8a55d-6702-4075-ba5f-23d8842cf8a4"
   },
   {
-    "id": "6fd3a8b5-178f-4c02-b711-1557d811fc2d",
+    "id": "83b778b4-09e3-4e67-8a82-c39e40bbb3c2",
     "name": "The Loonking's Entreaty",
     "phaseDetails": "Once Per Battle, Reaction: You declared the ‘The Bad Moon’s Orbit’ ability",
     "phase": "startOfTurn",
@@ -15842,7 +15842,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9e6757ac-14ba-4aed-bc30-03ca9874ff5d"
   },
   {
-    "id": "16a03351-8ce9-4580-954b-f32d0a53226a",
+    "id": "bf580e0d-c9fd-492b-9a73-6409d022dac6",
     "name": "Furious Retribution",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -15857,7 +15857,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e3ce51b6-be3c-4ecd-bebc-82447bd2e77e"
   },
   {
-    "id": "1a902ae9-a86c-4eb7-a315-c01228fcdd69",
+    "id": "0a3a7a01-6354-45b4-bb29-3001b42be3d0",
     "name": "Primal Sorcery",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -15872,7 +15872,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62d333fb-10ed-471a-b60c-7a7175e0af07"
   },
   {
-    "id": "33733728-b5b9-4218-889b-f455be27ad7b",
+    "id": "bde7e4b1-0630-4041-99df-870cae44f362",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -15887,7 +15887,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "89562fe2-8685-43de-9830-ed9d5c364f84"
   },
   {
-    "id": "0350b023-1d28-4727-a28d-4b91ce1435cb",
+    "id": "c993f407-6d78-413b-8c6d-45a41e456732",
     "name": "Sun Acolytes",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -15902,7 +15902,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d21e3ab0-e326-4ee0-8350-fb8fa71227de"
   },
   {
-    "id": "0472a822-6960-46c7-9853-4163adda3d2e",
+    "id": "1164cf7b-0cbe-4fc6-84c9-cf5b6e671135",
     "name": "Voice of Thunder",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -15917,7 +15917,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f4d8a357-e025-4166-b08b-a39f850d07a7"
   },
   {
-    "id": "380ee55f-e8b3-4938-9ce4-b0c920b94262",
+    "id": "28e77463-01aa-4136-ae45-7813507ba797",
     "name": "Always Take What You Are Owed",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -15932,7 +15932,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2ab31950-4483-453b-b0a1-ca72a17b1267"
   },
   {
-    "id": "a1e37c8c-89cc-4968-b010-ec03761556aa",
+    "id": "94f2144d-3ce7-4587-a049-91e8dc6df0f7",
     "name": "Arcane Tome",
     "phaseDetails": "Once Per Turn (Army), Reaction: You declared a Spell ability for this unit",
     "phase": "heroPhase",
@@ -15947,7 +15947,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ea83c559-492d-41d9-befb-51ba26e91d58"
   },
   {
-    "id": "defb373e-2efd-4f63-bdfc-cda004f6215b",
+    "id": "b3264ef5-cd15-489b-968b-13029f4787b9",
     "name": "Aquatic Illusions",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -15962,7 +15962,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "135f32ce-8633-4428-959d-18df5b941121"
   },
   {
-    "id": "7d03249a-fe36-4cd6-abf1-6ef824f4bfc9",
+    "id": "25608e4b-3d2d-4701-8b56-c1d89c67fa57",
     "name": "Another Link in the Chain",
     "phaseDetails": "Your Combat Phase",
     "phase": "combatPhase",
@@ -15977,7 +15977,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a19e2101-1dc6-47d0-aa5c-74db8013ecb3"
   },
   {
-    "id": "377b3074-ffe8-49c9-85f6-a7e3215e38ac",
+    "id": "027d1ad1-2c7a-4fc1-8c41-c61903340bc3",
     "name": "Mutilating Blades",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -15992,7 +15992,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "78f1741c-25d7-49a7-acb1-4ae9cdc08833"
   },
   {
-    "id": "55497347-e92b-46f8-903a-0314f683ca23",
+    "id": "62395ed2-4e93-4ef2-983c-894d2706b713",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16007,7 +16007,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f"
   },
   {
-    "id": "943532ac-0abf-45eb-a9b8-c8da7fcf996d",
+    "id": "36c9218e-a3a5-48ef-94b7-b68b1182f24c",
     "name": "All Part of Da Plan",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -16022,7 +16022,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4728b885-8991-44ea-9364-5ae8c45636e3"
   },
   {
-    "id": "610347aa-472f-40ec-abd4-e17a18505268",
+    "id": "0c68cb8e-00a6-4048-88dd-076c0f5043fc",
     "name": "Squig Rage",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16037,7 +16037,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "51f2ce79-fa04-47ac-89f2-34cd916a57d5"
   },
   {
-    "id": "15934528-8666-4c82-b705-d52a7f568045",
+    "id": "43c41a0c-12b3-4e39-8fa0-12612b470498",
     "name": "Squigs Gone Wild",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -16052,7 +16052,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fb2a5ce7-fbb1-4406-b827-c8eb21a1fe3f"
   },
   {
-    "id": "e6fe3252-a203-4149-896a-af38f7f48450",
+    "id": "c53660f7-fec8-4412-a531-ce7d40f96a86",
     "name": "Bounding Strides",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -16067,7 +16067,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b6975e1d-400e-43ff-a462-6a9b1891d07e"
   },
   {
-    "id": "61cddebc-e69e-431e-b460-1f17b080d953",
+    "id": "74ef215e-8b0e-466c-aab1-76f93b040a60",
     "name": "Book of Profane Secrets",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -16082,7 +16082,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca"
   },
   {
-    "id": "88e90d56-8b5a-4554-aef3-d4b2288bd3c7",
+    "id": "18436ef0-012b-4764-86b0-105177106b00",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16097,7 +16097,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "70f255de-79f6-4bc8-b61c-37e795a369bc"
   },
   {
-    "id": "01e5ea96-9ed0-49a2-8d30-d335dea6d32e",
+    "id": "a45e60ec-8dfa-4aac-b5e7-431ab33214f9",
     "name": "Armour of the Night",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -16112,7 +16112,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "84b51f15-0a6f-45a3-8f72-7628f947e4f8"
   },
   {
-    "id": "e8319d28-0adf-4544-ba3c-ef66554915a1",
+    "id": "82ecce09-24de-4fe1-a6a5-ce4668076a49",
     "name": "Redemptor Casket",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -16127,7 +16127,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "917a57ba-2e52-4e4d-8d4e-1adece6c4b7f"
   },
   {
-    "id": "1dd48229-6259-4f24-8146-d5e8bf8d9fd7",
+    "id": "57dd2b7f-5b27-46a9-b3cb-23a3cf30e73a",
     "name": "Hidden Hunters",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -16142,7 +16142,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f3442df9-1235-4234-9f07-2dd3dbb52faa"
   },
   {
-    "id": "e970e609-b452-4e89-a62c-236fa5d70bda",
+    "id": "d4fe63e0-cc5e-4c45-9512-ee383a8760fa",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16157,7 +16157,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640"
   },
   {
-    "id": "a3bb41cb-f0c8-4bce-bfd9-f8f62d726b93",
+    "id": "305b0dd6-30db-456f-9f1f-309419f00871",
     "name": "Warherd Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -16172,7 +16172,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5481e153-6b96-4980-b498-6d3ad7107b1f"
   },
   {
-    "id": "ba36568a-2694-46ee-8145-eddc40addf20",
+    "id": "134e9ab1-b434-46d2-94b8-744c8376b473",
     "name": "Groundshaker",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -16187,7 +16187,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b479ffad-76ef-4c16-9b8c-68493996cc43"
   },
   {
-    "id": "c3706eff-af87-472e-9ba0-fd4b575d25fe",
+    "id": "a5794785-d655-4ee3-a61b-5b12b4e49582",
     "name": "Nightmare's Miasma",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -16202,7 +16202,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "98d4709c-ff66-41b2-b1e6-7846ec597792"
   },
   {
-    "id": "f2b1d724-16af-45a7-adc7-28177ef8d78f",
+    "id": "4e74da08-bac3-4658-af6a-52883bfce465",
     "name": "Riddled With Disease",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -16217,7 +16217,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ba0b760d-2926-44b9-887f-e9add34e3573"
   },
   {
-    "id": "dc023829-4c99-466a-af6b-2fc2f0e7cc41",
+    "id": "69cdbc9a-b2f2-46ac-8495-fa0dc970bf79",
     "name": "Azyr Unleashed",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -16232,7 +16232,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "70cf61fb-f8c4-4d30-bb19-6511b3c21cea"
   },
   {
-    "id": "cc5f9bcf-de75-4d76-824f-d14fb005f71e",
+    "id": "f242b607-8c19-4ecc-890f-ca96f076dd66",
     "name": "Unparalleled Tactician",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16247,7 +16247,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "063fbf2f-5d84-4a60-815d-052984d192fe"
   },
   {
-    "id": "8a0c5e13-9771-45f5-a0fc-83e44ffe7962",
+    "id": "55dd5bdc-5d2c-49e1-9816-83ce7990d333",
     "name": "Rage of Khorne",
     "phaseDetails": "Once Per Battle (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -16262,7 +16262,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "20ad78cc-6d32-4097-a080-1f8b6196e2fd"
   },
   {
-    "id": "0b9fc46c-1626-42cd-8e60-57dc865d458e",
+    "id": "0169a8f7-144e-473f-94b6-55d5b65c69ec",
     "name": "Word of Pain",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -16277,7 +16277,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d0df9f70-f9b6-4a26-8335-372f9099b3a6"
   },
   {
-    "id": "9a17b86c-4c01-45f3-8c9e-04d87f3a88db",
+    "id": "5f09fa0a-98c9-4079-9de1-c2b1cd1bb2bb",
     "name": "Warpstone Shards",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -16292,7 +16292,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3043f2d3-2ebe-48f2-9004-11aa0a3fd9e8"
   },
   {
-    "id": "8d788c4c-6a37-4322-a7d8-a5786a43aca8",
+    "id": "33483c59-43c8-442b-8147-287f188ddf8f",
     "name": "Fuelling the Inferno",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -16307,7 +16307,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6ca9706d-8960-4b35-b58b-e7714865e07c"
   },
   {
-    "id": "0187519f-eb8f-4af3-8dde-3e870d2875a9",
+    "id": "6f485d75-83d1-4c47-b66a-39615441ca68",
     "name": "Boneshaper",
     "phaseDetails": "Once Per Turn, Your Hero Phase",
     "phase": "heroPhase",
@@ -16322,7 +16322,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6c086443-c5e5-4037-842d-dd00011ee749"
   },
   {
-    "id": "f919f19d-57de-4c76-b8d2-00a8a5a9282d",
+    "id": "3f9d175c-e87e-44e0-853d-1495f6be7503",
     "name": "Cyfar Compass",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -16337,7 +16337,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "575a1b25-436f-4ad7-b449-5f9535ba710c"
   },
   {
-    "id": "8b8e34d0-611a-4543-9d26-e1fbd0467599",
+    "id": "03c2e590-8140-4a86-9612-554fbe7c0d1e",
     "name": "Lord of the Brass Stampede",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -16352,7 +16352,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6751ee2c-6878-44c1-b1e8-8857fb471f36"
   },
   {
-    "id": "6e2483ae-03e0-4f04-a8b2-5ee8732152a6",
+    "id": "5103dc90-83a9-4806-a3e7-d22a509a9081",
     "name": "Beast-breaking Strike",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -16367,7 +16367,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1"
   },
   {
-    "id": "1b0d4868-54c0-4fc4-8d59-6723c7c2975d",
+    "id": "c843986e-e940-4c1e-92a2-08219bb7eb70",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16382,7 +16382,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a989a965-579b-4d60-812f-ecb1fda79f5c"
   },
   {
-    "id": "481918f2-c491-4e96-95f0-9e0e3999b98e",
+    "id": "2ab8b612-0cd7-4ac2-b84a-5b07ea091c61",
     "name": "Loathsome Descent",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -16397,7 +16397,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5297937a-5422-4814-9e64-5d3d021ac99b"
   },
   {
-    "id": "f5d21229-c87b-4de8-80e5-514cfb3ea612",
+    "id": "eb4b0d68-a34b-478a-be07-15c9ff2c360c",
     "name": "Auxiliary Skyhook",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -16412,7 +16412,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "06f9ed08-9daa-452e-9cd9-51913dd43953"
   },
   {
-    "id": "b3f9146b-28cb-401f-be73-fe17a3fd6c9a",
+    "id": "afc52882-80a6-4be3-adef-8ccad6b35917",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16427,7 +16427,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "86bbdce1-0803-4499-b434-dae4f795d7db"
   },
   {
-    "id": "f0eb0175-0da6-45ff-84f7-5c771b683b0d",
+    "id": "8b442981-a82c-40c7-a613-84e650e4429a",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16442,7 +16442,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cc3fba3b-a65c-44f6-bf59-f8588065983c"
   },
   {
-    "id": "1458163d-7079-4aeb-9e79-99d84c4d6d1b",
+    "id": "ffe39cad-4f77-4b70-b33e-fbf1bd1066e1",
     "name": "Subvert",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -16457,7 +16457,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "369dcbc7-a47f-4ffa-924d-22ce375b2402"
   },
   {
-    "id": "3251ff4d-92e9-40c3-8c16-84818ac32a50",
+    "id": "d2ed6c12-f653-49db-af92-5d809fe8c3a5",
     "name": "Guided by the Future",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -16472,7 +16472,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "66425c68-c6d6-495c-8f7f-722bc2223cf4"
   },
   {
-    "id": "b4426759-fa0c-4c09-8434-63b0e7bc1ee1",
+    "id": "11695dd2-0634-4e39-8317-fad3562f74d2",
     "name": "Boing! Smash!",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -16487,7 +16487,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cd6d7638-5d70-4200-8de6-d6cea3baac84"
   },
   {
-    "id": "b18631ef-9de8-4caf-b576-51cfbee482f1",
+    "id": "9a1fe4da-dcff-4678-8006-dbb89d1951eb",
     "name": "Sweeping Blows",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -16502,7 +16502,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a658963f-e44e-4635-b80f-9043be8349cc"
   },
   {
-    "id": "20cab19a-dadc-463b-b8a7-21a0d194f15d",
+    "id": "bb6fbdb1-ed9e-4488-addc-292c5e35e31b",
     "name": "The Staff of Power",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -16514,10 +16514,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "Add 2 to casting rolls for this unit while it has not miscast any spells this turn. If this unit miscasts a spell, ignore the restriction that would stop this unit from casting any more spells this turn.",
     "abilityAndCommandIcon": "special",
-    "warscrollId": "2f5ce910-2283-48ca-b2a8-9ab50262cb9f"
+    "warscrollId": "096e15ac-06a5-4ef2-a9cf-21c72be02f1d"
   },
   {
-    "id": "94f84a77-3f62-4da4-99ae-27ea2d2673c8",
+    "id": "d54367cf-3aae-498e-8835-bb46d3c001b6",
     "name": "Unstoppable Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -16532,7 +16532,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c1073e38-b548-49a4-91f1-9764fc1dccfd"
   },
   {
-    "id": "a1578b4f-3c11-460d-9d63-f5403d0868ec",
+    "id": "4b1b9034-b92b-4bd2-b752-3eb739735d99",
     "name": "Last of the Lodge-fire",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -16547,7 +16547,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13a599c3-3ff4-4c8f-8453-19545adea145"
   },
   {
-    "id": "7125cf4a-89cd-431f-bcd6-e6d1341f5a15",
+    "id": "e4b62a06-202a-43ee-9f4a-601d90d0c942",
     "name": "Trample Underfoot",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -16562,7 +16562,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bb2cb753-7fa1-4393-b552-c9df80dcb2b4"
   },
   {
-    "id": "a5764801-2559-488d-b6ce-fbf319f32c16",
+    "id": "5c284921-4c02-4d23-8288-a9befab0291f",
     "name": "Pyroelectric Blast",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -16577,7 +16577,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ab0519a7-7a91-4973-92d0-1e447f3178e9"
   },
   {
-    "id": "6a9b9d81-a3c6-430c-9de0-1a1120ecec69",
+    "id": "2d89dc57-aff0-48fd-b5a4-52d8e6722bc5",
     "name": "Load It Up!",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -16592,7 +16592,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "059cc862-923a-432f-90e3-f1b4cf7c7e5b"
   },
   {
-    "id": "cbe08325-7afc-4d10-8563-1bae1a079873",
+    "id": "665bc711-059b-439e-a2b5-6f26eb6507c6",
     "name": "Crest of Horns",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -16607,7 +16607,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d1988651-7d73-4683-a57f-7310b15a99fc"
   },
   {
-    "id": "c6bd5c43-b9e8-4168-bfb3-db4f3334f197",
+    "id": "20eb431a-34de-4978-83bb-00eb66d88fed",
     "name": "Indiscriminate Slaughter",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -16622,7 +16622,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f89d588-f806-47c5-a7e3-77ee5558ce05"
   },
   {
-    "id": "6ed5bcd8-5de8-4b75-b11c-2fbae8917bb9",
+    "id": "7b2d50a5-2770-4323-9c4d-010990899acc",
     "name": "Lord of Flesh-grafting",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -16637,7 +16637,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "351f40fc-7aba-49a6-8f04-48a165978cce"
   },
   {
-    "id": "02a4fea3-442c-430c-adde-653ece66ff4b",
+    "id": "3c388270-cb99-423e-8a73-95816b645884",
     "name": "Aetheric Augmentation",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -16652,7 +16652,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "31539d1f-6fdc-49b7-9b0e-a4dba6c289ec"
   },
   {
-    "id": "339c4e4d-b559-4128-afbc-379db8465339",
+    "id": "482a3efb-46d7-4887-8319-960dbda4ea4a",
     "name": "Death Incarnate",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -16667,7 +16667,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "267e5d41-8881-469b-b044-0776a938e119"
   },
   {
-    "id": "d2add702-46a0-41fc-9f6c-2bc6ce0de8d6",
+    "id": "78fd5b8b-061f-4f1c-bd79-c1a5fac5df80",
     "name": "Unstoppable Stampede",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -16682,7 +16682,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "be5dd3ac-cc03-414b-a778-48c5df0a92f9"
   },
   {
-    "id": "1227423a-3967-4410-9370-ca75e6bd1ece",
+    "id": "e1d325af-bfae-4b56-a5e9-83718ed48d43",
     "name": "Split Again",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16697,7 +16697,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e1d21279-137d-417c-bfd0-0ca4d7e58e55"
   },
   {
-    "id": "f11187df-2729-470e-8ba2-388ff0c42dda",
+    "id": "a61317e5-46de-4440-b440-1a6292e6dd98",
     "name": "Bone-crushing Strikes",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -16712,7 +16712,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b0a79daf-673b-4b8f-b764-0d152860fcc4"
   },
   {
-    "id": "fa13c63d-1034-4b37-979e-3a74fe522cd9",
+    "id": "8d3fc69c-0fa1-4d0b-accf-2e01fbfd0bc4",
     "name": "Strength From Victory",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -16727,7 +16727,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ab6c336a-76d3-480f-b7da-68d213041206"
   },
   {
-    "id": "faddb20e-98a3-4fad-a2d3-937504a1baaa",
+    "id": "7efbd01b-b8a1-451d-b2cb-fa8295458f72",
     "name": "Savage Hunger",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -16742,7 +16742,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1335f5f5-50f5-46b1-9cb4-a4fc1386a76e"
   },
   {
-    "id": "b6bdede5-aa07-495a-8f60-9221065f3e35",
+    "id": "0d5bb533-1436-45aa-81fa-51a15c6be55a",
     "name": "Supernatural Grace",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -16757,7 +16757,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "967c2da8-77c3-490a-9285-6906ad79aefc"
   },
   {
-    "id": "ae2a8cd0-3d00-4ca5-ab0a-37c8545ccc74",
+    "id": "76f23056-d279-4714-9794-f5a502cead93",
     "name": "Gorbolga the Accurs'd",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -16772,7 +16772,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640"
   },
   {
-    "id": "bab76425-2c7f-449d-a30e-e5554233bc08",
+    "id": "e364bc24-ee07-414c-8f9f-27819b427ca6",
     "name": "Fight For Glory",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -16787,7 +16787,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82b6437b-a091-4565-b0a6-abd57e5b82c5"
   },
   {
-    "id": "1f9afd4e-f8ee-405c-a651-c9a9a31cd132",
+    "id": "8cd60a01-0e59-4491-af66-316f2745685a",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -16802,7 +16802,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62d333fb-10ed-471a-b60c-7a7175e0af07"
   },
   {
-    "id": "211a4601-0c94-44b1-a1df-051f7ba8ff08",
+    "id": "34492205-e261-42f5-8f86-1e646bee9230",
     "name": "A Prod in the Right Direction",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -16817,7 +16817,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fa530ce2-01e0-4f20-a525-1c1dc79d0623"
   },
   {
-    "id": "c62ddb28-db36-449f-ae93-2864c669b7e8",
+    "id": "7610218e-9aca-4f4b-941a-7792a5d6835e",
     "name": "Lunatic Demise",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16832,7 +16832,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "264d35cf-c95f-43f7-97e8-5b53c76f9427"
   },
   {
-    "id": "4005d15c-5cb9-4886-a6f8-51e57bd748e1",
+    "id": "af044eb3-205e-43af-b48b-a0037c35c923",
     "name": "Drawn to Power",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16847,7 +16847,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b926133b-e421-4f8b-8046-6297db1e1568"
   },
   {
-    "id": "c2f8cb97-52ad-4516-a060-beb44e86e6bd",
+    "id": "e7590ba5-5c56-476e-9b23-9289883bd309",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -16862,7 +16862,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1"
   },
   {
-    "id": "d1f320e7-d4ab-4eaa-8004-cd183ed7cb8d",
+    "id": "b52a7469-7980-4d0e-80e8-eb00514dfcb6",
     "name": "Iron-willed Overlord",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -16877,7 +16877,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ffd2791d-c10b-4c65-b3de-2907d46ae474"
   },
   {
-    "id": "ac306cec-ae09-4f14-b245-cfd336d67090",
+    "id": "c3bb33a8-a0b0-4746-ab42-64957ab69d45",
     "name": "Victory Feast",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -16892,7 +16892,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b6975e1d-400e-43ff-a462-6a9b1891d07e"
   },
   {
-    "id": "6fa1d4e2-7928-4842-bc29-2b46f2cb4a5c",
+    "id": "6def98b6-3034-47c2-99fa-44cdb73d46e0",
     "name": "Acrobatic Bloodshed",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -16907,7 +16907,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c7bce662-3cd3-4643-8259-b44a60a9513f"
   },
   {
-    "id": "209038bd-6220-4e41-b23f-3d493cb524aa",
+    "id": "4eb1725d-bf41-42d9-8cfd-ee6303c82c26",
     "name": "Brass Collar of Khorne",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -16922,7 +16922,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a375bca-6ee6-4f28-98b9-459d5790faaa"
   },
   {
-    "id": "71696dfd-d6b2-414a-9a74-28b90a4fca3c",
+    "id": "629296d5-c695-4428-9f11-b55ba35f6be0",
     "name": "Sons of Behemat",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -16937,7 +16937,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d962076c-7139-4eae-ad69-22235ef6cbbd"
   },
   {
-    "id": "bce08dfb-d32d-452c-9825-1512c2da5fc5",
+    "id": "daae08e3-b759-4915-96d9-5ac23040ed51",
     "name": "Bellowing Voice",
     "phaseDetails": "Once Per Battle (Army), Your Charge Phase",
     "phase": "chargePhase",
@@ -16952,7 +16952,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e42fc709-73c9-432f-8527-384620708bce"
   },
   {
-    "id": "7294abde-62da-4d49-b6d1-44f932419afe",
+    "id": "bda89dc1-ee7d-42c2-a408-3e6f6ef9a731",
     "name": "Sweeping Tusks",
     "phaseDetails": "Once per Turn (Army), Any Movement Phase",
     "phase": "movementPhase",
@@ -16967,7 +16967,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e42fc709-73c9-432f-8527-384620708bce"
   },
   {
-    "id": "d49d6d73-385e-4d3f-b46b-46c3305ea12b",
+    "id": "58c8cc89-aae9-441a-873c-29a277dfc263",
     "name": "Mirror Dance",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -16982,7 +16982,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3220f55f-a9a2-4424-a70c-a592a74cfde3"
   },
   {
-    "id": "bbefdd2d-0318-4a4f-a672-0570c390d818",
+    "id": "67828dc7-e2f6-423c-ad26-91265f07a141",
     "name": "Swallow Whole",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -16997,7 +16997,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "27bf346d-56fb-4fd8-964d-08c1bbec8b96"
   },
   {
-    "id": "c482a315-f89d-473e-80f8-a6f9986b9161",
+    "id": "352f602a-422a-4271-a107-0f22286da4e5",
     "name": "Scurrying Retreat",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -17012,7 +17012,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6b63e041-cbe2-450c-b305-c3a70a0f2702"
   },
   {
-    "id": "5ff8d9be-f554-48c5-83c1-38167c68dd4a",
+    "id": "ccf84886-41e8-4d3a-8ad6-988468106e29",
     "name": "Excess of Violence",
     "phaseDetails": "Once Per Battle, Your Combat Phase",
     "phase": "combatPhase",
@@ -17027,7 +17027,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "967c2da8-77c3-490a-9285-6906ad79aefc"
   },
   {
-    "id": "a842c786-75db-442d-8ae6-a482f6c35c7c",
+    "id": "a0ad09dd-0d53-4e6b-9ff8-30207d6eee98",
     "name": "Vanguard Chamber",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -17042,7 +17042,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "03fa787e-4936-4b5e-86bd-99850068bcd9"
   },
   {
-    "id": "e8dd08ce-6dca-4084-9c9f-746ace9039c2",
+    "id": "92b47d05-9151-4acd-b0fa-673b83ab0c3c",
     "name": "Grashrak Fellhoof",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -17057,7 +17057,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1844d752-8715-4670-8e97-1c43ba13c3de"
   },
   {
-    "id": "d30886ad-4228-4c3d-aa53-9c22454fbe02",
+    "id": "a37a2522-ff95-4f21-a9c4-97060eb36838",
     "name": "Command Underlings",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -17072,7 +17072,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2a9d9821-b5d0-4c5a-92f8-9b95915776e3"
   },
   {
-    "id": "8274a147-2b2c-40b3-b33e-eb9e8401d41b",
+    "id": "d1b20637-6db8-49b0-929a-86abd43a8a42",
     "name": "The Living Gale",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -17087,7 +17087,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "162f3096-e6d0-4759-985e-9a5b44d6d9dd"
   },
   {
-    "id": "19679d60-f330-41e3-adf3-2c801b7f3a9a",
+    "id": "505a179d-6e19-4649-8cbd-dd963844f042",
     "name": "Vanguard Chamber",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -17102,7 +17102,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5fa04b06-90c0-4f13-ae36-10c6e15276a4"
   },
   {
-    "id": "ec0a71a8-21ec-4d2c-8cf8-7cd9695463da",
+    "id": "e6832649-2b31-4107-a05e-a0501257df7d",
     "name": "Timberrrrr!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -17117,7 +17117,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6387ddcd-1f89-4ae5-bf37-327546904c8b"
   },
   {
-    "id": "08552d30-89bb-4048-bc7b-abf0a788c96d",
+    "id": "417ec124-c6cc-4018-b213-3b7e4a72b0be",
     "name": "Right Tools For The Job",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -17132,7 +17132,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7cbce98d-135b-4c88-844c-c24a0f0adaef"
   },
   {
-    "id": "49d1ce31-e4bf-4c89-9cff-2454e2f5cbca",
+    "id": "9ce28b41-9158-426b-9f25-90776dad0774",
     "name": "Burrow Below",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -17147,7 +17147,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67d7a81f-160d-4881-94b8-a58d803b48c4"
   },
   {
-    "id": "99f0720e-181a-4e31-8c41-44d1a602e4a2",
+    "id": "3bf46e49-7bd9-4760-8d72-f6b394f56679",
     "name": "Gigantic Nurgling-kin",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -17162,7 +17162,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c8d331fc-9977-4d84-8bdf-9741c7f107a9"
   },
   {
-    "id": "ab8e6702-b361-4105-9577-eba3a18e9522",
+    "id": "53e2b996-be2e-4d47-ad29-9ab924324b62",
     "name": "Fortify Position",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -17177,7 +17177,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9adbd871-01e5-43ab-b3f2-bb71709a7809"
   },
   {
-    "id": "d6247e1a-39bc-4c3a-82b4-a39b243a84ef",
+    "id": "409d2099-e951-469c-a377-fda8d9c2656f",
     "name": "Searing Beam of Light",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -17192,7 +17192,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e51f236c-2669-4303-b34c-735f35e2946f"
   },
   {
-    "id": "6045db9b-726a-4898-9cbe-eecd66c5ac52",
+    "id": "832c26d1-e79c-43eb-b012-31494d74bbdd",
     "name": "Shrieking Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -17207,7 +17207,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "efb9407f-3e52-404d-bc00-0d6fd0949814"
   },
   {
-    "id": "e2419826-251e-4605-a000-65fd4491b3ad",
+    "id": "c4cc95c1-e2d7-4bc8-aa6a-81a044e3d194",
     "name": "Gas Clouds",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -17222,7 +17222,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8eda4612-9521-4c00-8119-2ab89ab0557b"
   },
   {
-    "id": "ea27d4f2-fa3b-4803-9c54-7e8722aad509",
+    "id": "e1998046-4a3d-41be-8050-ad6b124295ab",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -17237,7 +17237,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "181de257-0e9d-4559-9767-fe6229d6af82"
   },
   {
-    "id": "c28010cb-0eca-474a-8797-1a155d84ca6d",
+    "id": "de6828f1-b914-4a41-ad7b-d46e40082946",
     "name": "Reknit Construct",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -17252,7 +17252,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9f7d32fe-eb7a-4552-95d5-baf827102456"
   },
   {
-    "id": "9abb823b-e8d9-4342-83ec-675c4f0c9db0",
+    "id": "2fcd809a-f99c-429c-a2ec-c524043fe6b0",
     "name": "Corpse Candles",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -17267,7 +17267,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5737be22-e5b2-4fba-aae4-1ccda39f009f"
   },
   {
-    "id": "fe238f4f-77e2-4ff6-9c5b-489ef1b4fa9f",
+    "id": "c7b3119d-3477-4cd4-99c5-bfde968e5757",
     "name": "Keep Up!",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -17282,7 +17282,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4e2acca9-5000-4a8c-8a41-8d3247b25c85"
   },
   {
-    "id": "fdfa7034-04de-4e3e-9906-6db4e133d79b",
+    "id": "58a43f99-a80f-47f9-a9e8-cde32cb3267c",
     "name": "Vanguard Chamber",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -17297,7 +17297,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "da92c167-084b-4b27-85e0-99feeb219efc"
   },
   {
-    "id": "9395ab01-f1c7-46ff-a915-b96bba807acd",
+    "id": "fdb9ac44-3b53-4774-bff2-b02599daf1d8",
     "name": "Thrumming With Life",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -17312,7 +17312,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9ef45bfd-ed5b-4c09-b52b-6412da6340d4"
   },
   {
-    "id": "9269d2af-be70-4d60-bdba-cbb5e9c7881a",
+    "id": "346966a0-2de9-4831-b2e7-2e4030298351",
     "name": "Unbreakable Bulwark",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -17327,7 +17327,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c4820879-595d-45e5-949b-f8d15cfe7d98"
   },
   {
-    "id": "ed9bba9e-4230-4ed1-a911-33ab1015f928",
+    "id": "56b43e38-3da1-4e76-b312-52de9d377f39",
     "name": "Magical Mending",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -17342,7 +17342,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "746eafe5-6576-4e34-a91e-0c0f0e939425"
   },
   {
-    "id": "871738f0-8553-4d49-9f00-e0edc88052c2",
+    "id": "60e782eb-aaf5-4240-bc3c-39618e23e1d6",
     "name": "Aviarch Sentry",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -17357,7 +17357,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aaa84040-8ba8-4cc8-a489-909fdb7dd4ce"
   },
   {
-    "id": "6063ac7a-914c-4ecc-b49c-c7342586e859",
+    "id": "c6a0309f-84d2-4a1e-bf4e-952899626469",
     "name": "Altar of Khaine",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -17372,7 +17372,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bad52d81-5205-4eef-8961-6ea85609eae4"
   },
   {
-    "id": "30b29d20-eca5-4839-b892-ca71b1c15db5",
+    "id": "7666d6d6-2bb3-4334-8adf-604272842302",
     "name": "Enfeeble Foe",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -17387,7 +17387,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f63f5685-9404-4c21-b5e2-6b616c8d2882"
   },
   {
-    "id": "65446f48-1aae-469d-9634-832553e691b3",
+    "id": "e2bb9dbe-2a1c-40b0-8832-18ff9fa26972",
     "name": "Withering Death",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -17402,7 +17402,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f27ea6f0-d4e4-45b3-bb12-108f3b6b962d"
   },
   {
-    "id": "56dbda7e-4e78-4d3f-b2fc-352e4a52224b",
+    "id": "53b57632-ba5e-41a9-8ae5-5c1665273084",
     "name": "Rampaging Destruction",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -17414,10 +17414,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit charged this phase, pick 1 of the following effects:\n\n• Roll a dice for each enemy unit within 1\" of this unit. On a 2+, inflict an amount of mortal damage on that unit equal to the roll.\n• Pick an enemy Monster in combat with this unit and roll 2D6. On a 7, this ability has no effect. Otherwise, inflict an amount of mortal damage on that unit equal to the results on the dice used for the 2D6 roll multiplied together. For example, a 2D6 roll of 2 and 6 would inflict 12 mortal damage (2 × 6).",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "3c152a9a-8abb-4de8-bef8-ea1df87b866a"
+    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece"
   },
   {
-    "id": "12839593-f82e-44ec-83d2-6c5408f20895",
+    "id": "51bbdac1-71d4-473d-a81a-6a30e4908d59",
     "name": "Plaguemaster",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -17432,7 +17432,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f6def3d-a822-46f8-b15f-a18cb71a6e29"
   },
   {
-    "id": "a9852cd4-ad1a-440b-b34a-dc1c8e61ce9e",
+    "id": "14550eb5-7f12-49af-aa93-0543393e73ab",
     "name": "Escort Courtier",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -17447,7 +17447,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6d49c3a6-ed75-4f44-9933-12c87d4faec3"
   },
   {
-    "id": "57573be4-ff42-4bc1-ad8c-966193dfbf90",
+    "id": "967560b6-dd02-4248-913c-44ece4ebcc59",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -17462,7 +17462,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67ffbd49-51a4-45a1-9e53-0e5f0e5b0e90"
   },
   {
-    "id": "b9c3ca57-5805-43aa-8bd6-cde7a633b2ef",
+    "id": "c4e71225-28d5-4b21-83b6-ffaba7c66c9c",
     "name": "Harvesters of the Lamentiri",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -17477,7 +17477,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9ef45bfd-ed5b-4c09-b52b-6412da6340d4"
   },
   {
-    "id": "52d3abe1-4f7a-41f0-9d8f-bb25b06f4f0b",
+    "id": "8ff356b0-4d80-415f-92d3-061c89748c23",
     "name": "Masters of Order",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -17492,7 +17492,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82eb8a43-c4b0-4716-bb64-83b2bea22957"
   },
   {
-    "id": "cd0ad11c-b5d7-48a3-9e43-f23bf9f92b9a",
+    "id": "80347f4a-e6b2-4520-b954-540fe4712174",
     "name": "Debilitating Shockwave",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -17507,7 +17507,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3d9e83d7-9363-4541-9c31-259463292ca1"
   },
   {
-    "id": "c116ba3c-13a1-4e9b-a494-0c41d436d680",
+    "id": "14441bb2-84f3-40d4-b82a-7369b95e4ca9",
     "name": "Uncanny Shot",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -17522,7 +17522,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "75eca768-c25a-40df-9805-0ad818f5982b"
   },
   {
-    "id": "f144e43c-1ca5-45c3-9b3a-09c34696405a",
+    "id": "ae935550-af1c-4876-bf8f-82acd6c5630e",
     "name": "Whirling Death",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -17537,7 +17537,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9c2d427a-7742-4d12-9d7f-c7f5ee60e1fe"
   },
   {
-    "id": "a408f6ff-fa7e-4fb2-ac80-86ea0473263e",
+    "id": "1262a402-c928-4e0e-9dc0-a0a0c2245313",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -17552,7 +17552,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ab6c336a-76d3-480f-b7da-68d213041206"
   },
   {
-    "id": "ce22968e-74a8-469e-8dd8-7d6aa72f1e4b",
+    "id": "8c57579c-dcaf-4536-80b4-f34d0aa62a90",
     "name": "Spirit of the Wind",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -17567,7 +17567,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5dcc40b7-af26-4fa6-96ee-66270af4f3ef"
   },
   {
-    "id": "09b0d078-a074-4c78-9af6-a7c8a87eb40c",
+    "id": "31f192d0-0d19-445f-ba55-9a1c1620fdce",
     "name": "Fires of Vengeance",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -17582,7 +17582,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10a7e8fc-d74e-43e0-a3cb-ffde4e208cd9"
   },
   {
-    "id": "8704c7cc-2cf1-4082-976b-c3367758b4d9",
+    "id": "b77f3ae9-59fb-4614-9752-ede7263fc5d9",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -17597,7 +17597,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f6dd5ed-926a-4506-9538-f56ac40a56ab"
   },
   {
-    "id": "bf24e020-2208-42cf-911f-7039f995bd4e",
+    "id": "a9953c1f-e93c-472b-8bee-d4142e979e7a",
     "name": "Celestial Blaze",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -17612,7 +17612,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "70cf61fb-f8c4-4d30-bb19-6511b3c21cea"
   },
   {
-    "id": "4eadbc96-e849-4df7-b2d9-1849e57496c7",
+    "id": "1cdfcb05-407f-494f-b44c-aebc08e1b4f2",
     "name": "Portents of Battle",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -17627,7 +17627,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9d672ed8-a7dd-429b-87b5-45ae589782fd"
   },
   {
-    "id": "06457f57-c0a8-4dd4-aabd-a9f43c0665af",
+    "id": "1a36a8b1-0a54-4077-9379-05978b37390c",
     "name": "Paralysing Strikes",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -17642,7 +17642,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "27d4d186-994a-4e97-93af-3b782cc0cce7"
   },
   {
-    "id": "9a7b9a63-005a-4f50-855e-0cdece992cef",
+    "id": "fe005a4b-9037-4261-820d-9d73c2734ca9",
     "name": "Heartseekers",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -17657,7 +17657,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "270e149f-2fe4-4179-a7fa-90fe838a5be7"
   },
   {
-    "id": "a8c3f964-93c0-4fe4-97f9-e31eca26a2c8",
+    "id": "0f25cec4-7501-4477-a3e6-b53863c41e9e",
     "name": "Threshing Doom",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -17672,7 +17672,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ba2bce56-1746-4a09-893a-871a37c40fa0"
   },
   {
-    "id": "66ae3498-deae-4a4e-a476-3e70d19ba2d4",
+    "id": "156f9f2c-4f11-4efe-afa8-8800b24a95b7",
     "name": "Hexgorgers",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -17687,7 +17687,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ae1cd990-b481-443f-962d-06f989761e93"
   },
   {
-    "id": "7a8face6-9b94-4f32-af5d-714f2c32e3c3",
+    "id": "56446ade-d287-4542-bf9b-abe3a0f0270c",
     "name": "Magma Blast",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -17702,7 +17702,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "772f6e18-1a22-4bd0-92a1-f41f09472ba8"
   },
   {
-    "id": "c18ef9c5-ee97-4ace-8150-28169f859f42",
+    "id": "18d6de16-3583-4b55-aaa7-224f6551084c",
     "name": "Earth-shattering Charge",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -17717,7 +17717,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cc3fba3b-a65c-44f6-bf59-f8588065983c"
   },
   {
-    "id": "43cda502-4e07-4da8-98a9-1a61fd7ea8d3",
+    "id": "6a530844-b0ec-4275-9d40-3578f1177df7",
     "name": "Rousing Oration",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -17732,7 +17732,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "af2b4f2b-5423-412d-8df3-1bfa9c091974"
   },
   {
-    "id": "144fb6e2-43c3-4411-92e6-f2191e0cc755",
+    "id": "0b27da9c-9fc1-46aa-8a4b-ddf595a2baf6",
     "name": "Run Down The Foe",
     "phaseDetails": "Once Per Battle (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -17747,7 +17747,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ae2b2dad-bf1e-4da6-a661-a0334571da46"
   },
   {
-    "id": "cb2ba2aa-5af2-4b27-a8eb-9e116b1a89a7",
+    "id": "920fbcc8-258a-4f31-bc73-ffd5ba3273ef",
     "name": "Aim Fer Its Eyes",
     "phaseDetails": "Once Per Battle Round (Army), Any Shooting Phase",
     "phase": "shootingPhase",
@@ -17762,7 +17762,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d6f11832-d3b9-421f-8a66-58fee19229d2"
   },
   {
-    "id": "6fa1e390-d974-48e1-ac82-8395679336a0",
+    "id": "a6c1158a-0d92-4fe9-99bd-5b09fb4ce69b",
     "name": "Bringer of Plenty",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -17777,7 +17777,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6f470634-a997-4b31-a927-efc2d4687581"
   },
   {
-    "id": "1af52aca-8289-466a-9f63-a4582e60a091",
+    "id": "19146c60-9d8b-451f-aa2e-a5f0bb115cb1",
     "name": "Invocation of Nagash",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -17789,10 +17789,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "This unit can cast this spell more than once per phase. Pick a visible unit wholly within 18\" of this unit that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
     "effect": "If the target is an enemy unit, inflict D3 mortal damage on it. If the target is a friendly Death unit, pick 1 of the following effects:\n\n• Return a number of slain models to the target unit with a combined Health characteristic of up to 3.\n• The target has Ward (5+) until the start of your next turn.",
     "abilityAndCommandIcon": "special",
-    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31"
+    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14"
   },
   {
-    "id": "9d65797d-3f67-480c-99d4-0e27c7ae8f00",
+    "id": "b75e1976-7aaa-4630-9d40-33a46e0aa795",
     "name": "The Red Angel of Slaughter",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -17807,7 +17807,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "52d19fe0-0738-4aa1-9172-45b6c500f659"
   },
   {
-    "id": "5139180d-28a7-43df-b732-013a2288ed87",
+    "id": "7f2d4fc6-f1dc-47e4-85f5-37d7e0ee1c24",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -17822,7 +17822,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5d2afcb5-25b2-40b0-b2fa-9666d8f99a6f"
   },
   {
-    "id": "44bb780b-c274-40c8-85bf-1381a2d50d38",
+    "id": "ee59b2ac-7f79-4288-8a53-35e316f41151",
     "name": "Total Dominance",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -17837,7 +17837,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e03369f2-b7c7-42b9-89fe-409f5648cb11"
   },
   {
-    "id": "f7af26e0-c0d8-4865-89a7-37f758c39fe7",
+    "id": "2252f0f3-ec3f-4024-8f99-73f1ef4983d4",
     "name": "Scryhawks",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -17852,7 +17852,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7ad56398-8335-49ba-8576-8ffa0d95b190"
   },
   {
-    "id": "62c1be2f-ed0a-49e1-bfa9-1e9be80ca5fb",
+    "id": "867dd066-3e83-4802-a004-e11644bd597c",
     "name": "Master of Rot Flies",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -17867,7 +17867,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "be9910bd-304c-4831-ab7c-26e9f4b811f4"
   },
   {
-    "id": "c3f0f3d6-9ff9-48bb-9a78-d791d0635663",
+    "id": "275d7cdf-25dd-4bd9-99bb-d72fa641bcbc",
     "name": "Slaughterous Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -17882,7 +17882,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9256afe9-b44e-4f24-86cd-7c1f7a7b54fa"
   },
   {
-    "id": "b289f9fe-54a2-43db-b913-8944c011014b",
+    "id": "7a0c4a44-45b7-4915-85af-9d3c5ff5f7f5",
     "name": "Crackling with Faith",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -17897,7 +17897,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e4965a2f-b219-49dd-a48d-b24b385f5ff3"
   },
   {
-    "id": "6a7d5289-7a19-465d-8374-6c54ae0b0a53",
+    "id": "d9808086-60b1-4b76-99cb-c5da3bab7646",
     "name": "Indomitable Loreseekers",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -17912,7 +17912,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5b4ce74a-9932-4073-8216-56004d1308cf"
   },
   {
-    "id": "dd9bd8bc-9412-4753-923d-d9bceb5d9bd9",
+    "id": "fe43794b-f9ae-4ac0-86b9-5f257f1dfabf",
     "name": "Voracious Predator",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -17927,7 +17927,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "377b8679-40ea-4076-9477-ce0705fee1c3"
   },
   {
-    "id": "d3c21827-929a-43ae-a48b-46b79acbcaa2",
+    "id": "c54681fa-84e1-4107-8b54-307600084d76",
     "name": "Storm of Searing White Light",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -17942,7 +17942,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97bf492f-d53c-4b8a-8211-f0904c24694f"
   },
   {
-    "id": "dc6cafad-cdaa-4611-b616-ea786cdf52e2",
+    "id": "33a7ee38-98f3-4c12-8687-c80dec153972",
     "name": "Cealith, the High King's Shield",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -17957,7 +17957,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ffbee7c5-051d-4adb-90e3-e2e6a645bb70"
   },
   {
-    "id": "4e88c2a0-3198-4301-b954-19a323b706b9",
+    "id": "e5d0a151-f51d-4935-a4b2-ad74a18f352b",
     "name": "Victory Feast",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -17972,7 +17972,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f8ae2700-ede9-4882-92b2-9142f658c0e1"
   },
   {
-    "id": "3f0409e2-4d06-4936-9955-44dbff32a7fe",
+    "id": "93d358b6-49ee-4915-957c-a8d52c670db3",
     "name": "Avatar of Destruction",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -17984,10 +17984,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it (ward rolls cannot be made for those damage points).",
     "abilityAndCommandIcon": "defensive",
-    "warscrollId": "3c152a9a-8abb-4de8-bef8-ea1df87b866a"
+    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece"
   },
   {
-    "id": "4489a41f-1a2e-4cc9-a8dc-fcffdfe4bebf",
+    "id": "e823ad6e-5f6c-48d3-ab4f-ae071756913f",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -18002,7 +18002,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6429d750-39c7-4052-9291-d128bbdde327"
   },
   {
-    "id": "befb558c-6495-4c4a-8c14-4c076dbf146c",
+    "id": "65599b7a-6b50-47c6-afcd-28103d2c7b4a",
     "name": "Mutating Spores",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -18017,7 +18017,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "003dbd98-4283-48a6-937e-e83b3b1e491f"
   },
   {
-    "id": "d2c3d05d-2d68-44b2-9738-8f9c83bb3ffd",
+    "id": "35f5e904-8026-482e-ac2a-0064b03f363d",
     "name": "Freezing Aura",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -18032,7 +18032,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1609ecd0-fe6b-4aa7-8611-e5b6fc53d92d"
   },
   {
-    "id": "651ab6a0-7f5b-4de9-ac19-fe017bb64504",
+    "id": "094a3981-e77c-40ab-825a-42835229f794",
     "name": "Forest Fighters",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -18047,7 +18047,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c84873e0-178d-4be2-898e-71a4996000f7"
   },
   {
-    "id": "418f4623-a80b-4937-b0dd-35d7155d9a66",
+    "id": "c44967e0-0c42-43ad-b14c-4570b26a8fd1",
     "name": "Acid Ichor",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -18062,7 +18062,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "78c905b1-e20a-4cc4-a028-d7728b2252b1"
   },
   {
-    "id": "0f9a0cbb-d1a5-43f5-91ad-6159892a8bf6",
+    "id": "9c5b908b-33b3-4766-982c-4f9da048a9b3",
     "name": "Longshanks",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -18077,7 +18077,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d962076c-7139-4eae-ad69-22235ef6cbbd"
   },
   {
-    "id": "10788662-3a30-4958-952e-061601600069",
+    "id": "7b4ef969-d0ad-4bc1-8c1c-4f6da0d08932",
     "name": "Unerring Hunters",
     "phaseDetails": "Reaction: You declared a Charge ability for this unit and a Stalked enemy unit is within 12\" of it",
     "phase": "chargePhase",
@@ -18092,7 +18092,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dfba2d87-ee04-432d-b25e-de225fa39714"
   },
   {
-    "id": "33bc628c-0d78-44b5-b7fa-4bb7620cc85f",
+    "id": "30ef59b9-b448-470c-9787-ad9145d6d7ff",
     "name": "The Mortarch of Night",
     "phaseDetails": "Reaction: You declared the ‘Redeploy’ command for a Soulblight Gravelords unit wholly within 12\" of this unit",
     "phase": "movementPhase",
@@ -18107,7 +18107,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0fb1882c-5a8f-4458-a650-9aa03a0f6c1e"
   },
   {
-    "id": "a63edec3-e2ed-4027-8f8a-06921b4abb2a",
+    "id": "73013f9e-c066-4a0a-8af2-2e494a0bb598",
     "name": "More-more Warpstone Bullets!",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -18122,7 +18122,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6df85232-6dce-4946-a69b-fe1611cf844a"
   },
   {
-    "id": "968fa8fb-40e1-435f-9593-87598c6d04b3",
+    "id": "95b2b082-11e3-4e02-be79-9e997dd83d1f",
     "name": "Rhythm of Destruction",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -18137,7 +18137,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7595646d-ae02-43d6-8fa5-92267b5a4338"
   },
   {
-    "id": "a954b1ea-4cbc-46c8-b923-713b7991bbea",
+    "id": "6f33bb66-1978-46b3-bdc2-879ec346cdf1",
     "name": "Shadow Form",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -18152,7 +18152,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f63f5685-9404-4c21-b5e2-6b616c8d2882"
   },
   {
-    "id": "272787ff-b89b-4a7f-919c-3776adc235d9",
+    "id": "316ab6cf-2d4d-4e04-9380-63294c634054",
     "name": "Thunderous Pounce",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -18167,7 +18167,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7797889c-6dd2-4f9c-86ac-29f3c6487a81"
   },
   {
-    "id": "e5e1a8ee-898d-49fa-a497-320c79c7b11b",
+    "id": "0488a280-186b-48a3-a39a-e82aa205a123",
     "name": "Thrice-ripened Death's Heads",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -18182,7 +18182,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "63d77f79-ecd6-481a-a9a5-81a9a52fb8c2"
   },
   {
-    "id": "2a98a279-44f6-45af-b579-0810c06fbe17",
+    "id": "f9b65a96-2b94-4460-90f9-5133ea8690d5",
     "name": "Timed Charges",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -18197,7 +18197,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "697a2212-23cd-4acf-9859-357cdf7ef1d3"
   },
   {
-    "id": "5383a633-427d-4fe7-85e7-c9470d84ab41",
+    "id": "e390181d-5443-4430-b82f-ae1c45814341",
     "name": "Hidden Loons",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -18212,7 +18212,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9c2d427a-7742-4d12-9d7f-c7f5ee60e1fe"
   },
   {
-    "id": "9640caf7-7d05-4301-b0a6-7e0ac13a7c6a",
+    "id": "1d3914a7-f623-4028-9e6c-74cddda6909b",
     "name": "Hurled Body",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -18227,7 +18227,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15"
   },
   {
-    "id": "a3c00e6a-c51c-4d99-922b-6c4fa89b6ce2",
+    "id": "2838d4bb-8322-47b5-8219-eddb292aaa56",
     "name": "Tactical Insight",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -18242,7 +18242,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "365b4b21-103c-44d0-924b-772be110fc59"
   },
   {
-    "id": "68c9226e-bfc7-445e-b45b-ebdb25238cb8",
+    "id": "24125a3b-deb6-42d8-b9cc-e30c65a2e337",
     "name": "Endless Swarm",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -18257,7 +18257,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6aa49a4a-074c-4619-b3ce-0e53c6e77de5"
   },
   {
-    "id": "740fe261-8888-43fd-a747-99058174852a",
+    "id": "ae8a69e0-0dcd-488d-b54b-9c9f52b0e585",
     "name": "Lofted Shots",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -18272,7 +18272,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f609dc8-f3d8-4c31-8722-d3262f3dd077"
   },
   {
-    "id": "728293c7-05a5-4eec-8790-c7f09535be07",
+    "id": "a9e4544a-ff43-4167-9673-46c6decb7db7",
     "name": "Endrinmaster",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -18287,7 +18287,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "128b3331-a6b6-4c1e-9f1f-ee522dad3d0b"
   },
   {
-    "id": "cea0b7aa-cc24-431c-8b29-3d5f0cbcf650",
+    "id": "2d58974a-b8e9-4d2d-8b1a-af37ebe09a7a",
     "name": "Refine Senses",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -18302,7 +18302,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "967c2da8-77c3-490a-9285-6906ad79aefc"
   },
   {
-    "id": "ab9e392b-4438-4d8a-a6a5-ed45f2cf87ce",
+    "id": "0db58277-07ee-4421-b2ed-40e2c14345b1",
     "name": "Frost Spear",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -18317,7 +18317,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cc3fba3b-a65c-44f6-bf59-f8588065983c"
   },
   {
-    "id": "cb5be33f-9d01-4e86-a05a-aacf6944758e",
+    "id": "40f4c78d-0691-43bb-a163-5b359a8a3624",
     "name": "Bait and Trap",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -18332,7 +18332,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f2a8a114-d702-45bf-9c6d-757d096706ba"
   },
   {
-    "id": "1fb3d24b-eb47-4e2a-9bf8-55e7021b6759",
+    "id": "7d2beb61-d9e8-4240-acee-afdba15a266e",
     "name": "Prime Cuts",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -18347,7 +18347,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "53fc8a9c-13ed-46a1-a154-542e98260d76"
   },
   {
-    "id": "4bf7a774-3509-4ede-8e2c-b400e6867014",
+    "id": "07703d67-37d0-412d-8ab6-95fb64c87cee",
     "name": "Airborne Horror",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -18362,7 +18362,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64d997dd-3041-410a-b72f-d29642608b63"
   },
   {
-    "id": "a7f2e460-4992-4dcd-bb95-5f4457930504",
+    "id": "b8e82518-bdff-44fe-8e89-6aa265e06879",
     "name": "Emerge from the Depths",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -18377,7 +18377,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bea93bc3-f923-4def-986a-e1100495798a"
   },
   {
-    "id": "2c4e2cec-62a8-4584-87d7-f3e302a20793",
+    "id": "84375d95-3013-4fe1-85de-b46030ee5f6a",
     "name": "Skirmishers",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -18392,7 +18392,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "775ad338-9ddd-46d9-92bf-e810303e2020"
   },
   {
-    "id": "68452e5b-585e-4515-b116-0152b28ea1f2",
+    "id": "9e11af3f-33b9-4897-b00e-f610362a3e3f",
     "name": "Warrior Mages",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -18407,7 +18407,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6ff0cea8-1cc4-44a6-a81e-4f750499e783"
   },
   {
-    "id": "96962886-507d-4935-9aac-cd7b61f7161e",
+    "id": "9b6f4f9b-e3a1-4483-9a15-307bba9caf6a",
     "name": "Ritual of the Creeping Mist",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -18422,7 +18422,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a2f78690-433f-4eec-aab5-120c7d24c970"
   },
   {
-    "id": "2cfa3d88-55e2-405e-be73-2ed17602e5f9",
+    "id": "7d7d1c1a-9d50-4e62-8580-c4e5a8123991",
     "name": "Swift Death",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -18437,7 +18437,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a137cd0c-2ede-498e-8255-cc8be5453d78"
   },
   {
-    "id": "cb93ee09-3253-4d51-8c28-ba2af084db86",
+    "id": "4a942de7-2d8c-4097-abdd-8e462959e247",
     "name": "Spear of the Kavaloi",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -18452,7 +18452,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4eb07dac-62fd-4a34-be09-05aebf6a1f5c"
   },
   {
-    "id": "f0195bb4-7a14-4400-a506-7bdbafbec5b6",
+    "id": "ce210c93-59c2-4748-a67f-12f287e7aa5b",
     "name": "Bladed Impact",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -18467,7 +18467,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d09668d1-c67f-4d50-9870-bca8f7d16bd6"
   },
   {
-    "id": "afb72cf2-0208-4d4e-b5aa-0eb17cb3fa34",
+    "id": "4db416c4-3ac5-4946-bfd0-fbd0010b9c44",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -18482,7 +18482,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dd1f9d92-c70b-4cec-b48b-17b6f6cacee0"
   },
   {
-    "id": "db692901-f898-4b55-980e-23d49b520f8c",
+    "id": "c18709d5-b042-48fb-9664-cb055f39fc2a",
     "name": "Stone Skeleton",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -18497,7 +18497,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "70f255de-79f6-4bc8-b61c-37e795a369bc"
   },
   {
-    "id": "feb2c8ff-1d4a-4094-bac9-a72a4a4e78bb",
+    "id": "866f1ffd-06a7-4bab-b0a6-4c7fc1196189",
     "name": "Carve a Path To Glory",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -18512,7 +18512,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "eb668dd3-2a2f-447c-9dc3-eef1a9f26e49"
   },
   {
-    "id": "76ac22d3-c45a-4f91-ae84-94c25ed9bed0",
+    "id": "1ca38268-28eb-4262-bb42-179fa64a5480",
     "name": "Kountin' Krew",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -18527,7 +18527,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d9792d3c-58eb-4993-9561-07b92858050a"
   },
   {
-    "id": "4fe0a837-3af9-4b1e-b9b2-400ba002bc43",
+    "id": "8f445c3c-5061-4aa8-be6b-3fd7a47f65d8",
     "name": "Wake of Fire",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -18542,7 +18542,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "251cfbf7-2bb3-48f6-979f-993ce77f24b3"
   },
   {
-    "id": "dfb9e6f5-36fa-4858-a807-cac3ea45f182",
+    "id": "3d73862c-aabb-4a0b-bcf3-9880a8829f24",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -18557,7 +18557,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a39fd76-9257-4f20-957e-c4747e7d18b9"
   },
   {
-    "id": "4af5d5dc-f385-40ee-810a-1df50d9fedd8",
+    "id": "d8e65ab9-c5ab-4d7b-b429-7e9fbe106645",
     "name": "Skulls For The Skull-Throne",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -18572,7 +18572,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4c8bea9e-f9d0-4cf6-a395-a4a5fdef9764"
   },
   {
-    "id": "d2916364-4ed6-441f-846d-b56575e9a4a0",
+    "id": "aee4a071-1ca0-40df-b5ca-273ad3d34e89",
     "name": "Regeneration",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -18587,7 +18587,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "af60c584-1ec4-4ea2-a275-dae5b869aeeb"
   },
   {
-    "id": "ec2c4ea6-be44-4a23-986f-643d88a37926",
+    "id": "a26f7e23-dfd9-4fa9-ade0-916272d58329",
     "name": "Firing from the Belly",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -18602,7 +18602,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d0222286-4e9b-4114-8f24-41151198420a"
   },
   {
-    "id": "983174ad-1b09-45ac-911c-49a68263ad90",
+    "id": "7f5a3ba7-aab1-4924-8666-8909d249b27d",
     "name": "Spirit of the Moon",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -18617,7 +18617,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97bf492f-d53c-4b8a-8211-f0904c24694f"
   },
   {
-    "id": "9c4c99a2-49e1-4c72-9725-84611d152f0e",
+    "id": "df572040-d10d-4488-8f1e-1973bc902c67",
     "name": "Runaway Coach",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -18632,7 +18632,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5bb61e8d-de01-4f2e-ad10-6661943810de"
   },
   {
-    "id": "a4b92af5-7637-4b93-9eda-57860b6e0930",
+    "id": "a7a4bf98-0f53-4a42-bba1-3b232fa91263",
     "name": "A Tough Grot To Swallow",
     "phaseDetails": "Once Per Turn, Reaction: Opponent declared a Rampage ability for an enemy Monster within 6\" of this unit",
     "phase": "defensive",
@@ -18647,7 +18647,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f2a8a114-d702-45bf-9c6d-757d096706ba"
   },
   {
-    "id": "93663e54-dccd-4a39-86ce-59905f823063",
+    "id": "4d63affb-9a60-460d-9fa4-2fc0b635c70f",
     "name": "Executioner's Entourage",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -18662,7 +18662,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d34e9289-ce9e-4dce-8a80-1afd9cfe5ea3"
   },
   {
-    "id": "b5b9ad4a-a432-4f08-a824-75a12f95244b",
+    "id": "f34744bf-50fa-4c46-a59b-ad0c07c0b814",
     "name": "Multiple Parts",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -18677,7 +18677,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7025730d-4adf-42d4-a55d-0d8b21572150"
   },
   {
-    "id": "16201a80-4775-49eb-9e78-ab4f83ad180f",
+    "id": "1a998804-3acc-482e-84dc-80df2af658ec",
     "name": "Impaling Strikes",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -18692,7 +18692,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bd091fd0-94d3-4164-897c-4e53aca8b852"
   },
   {
-    "id": "8cfdfcf9-8936-480d-87d9-ddf4c0430ab9",
+    "id": "6b284334-fd18-4173-8118-5dc558a8dd78",
     "name": "Terrible Madness",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -18707,7 +18707,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1d0d4abc-e4ba-4604-b8b8-f5512ffb59f7"
   },
   {
-    "id": "1ad8f023-6310-4579-a94c-e317b3a24453",
+    "id": "00862e1a-cc01-4ba1-96ae-6ce42b60a6e8",
     "name": "Progeny of Slaanesh",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -18722,7 +18722,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0ff40368-54ff-4e2c-aff4-3c8dca56a2e0"
   },
   {
-    "id": "8e41ca36-e659-49c4-82a0-44dba7678fdd",
+    "id": "e3bb6d00-3083-4edb-9d4d-2272b9d519ea",
     "name": "Hangman's Knot",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -18737,7 +18737,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2b8e09b8-9635-49aa-a4f6-41566e05eefe"
   },
   {
-    "id": "96dcb61f-c458-4e1d-b1b2-fff1645ce9f6",
+    "id": "59d4b42d-dc8b-4b4a-bb55-a51ade15ead0",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -18752,7 +18752,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10ebcd01-0bc8-48d4-b173-68f2dc2b25e4"
   },
   {
-    "id": "be1375fc-cf0f-4276-9cb5-2b521dfb2828",
+    "id": "903a67cf-8790-482b-b4bd-733801167ce8",
     "name": "Dominate Mind",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -18767,7 +18767,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4b4e8617-0258-4afd-b7ad-d312a290be7f"
   },
   {
-    "id": "23f0eec6-0c1d-465d-8da8-c64b56d8bc7f",
+    "id": "8414f4a2-d674-4c93-bac2-648b5ab6254c",
     "name": "Slaughterous Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -18782,7 +18782,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6751ee2c-6878-44c1-b1e8-8857fb471f36"
   },
   {
-    "id": "8eaece9c-acd3-4efd-8cae-2e031937c2f1",
+    "id": "bc0785e9-a092-4e10-a4cd-8d4a1184881e",
     "name": "Lightning Tempest",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -18797,7 +18797,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a989a965-579b-4d60-812f-ecb1fda79f5c"
   },
   {
-    "id": "0f227cde-0d15-4a67-8482-05113b3487ff",
+    "id": "ca663699-0484-4749-b687-c31fee26a4cf",
     "name": "Wave of Power",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -18812,7 +18812,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "01d3a4a3-bb90-4a36-b5bf-29fe92347572"
   },
   {
-    "id": "1b542c37-0b08-480b-be23-b4da9e054f5e",
+    "id": "2811eaed-1e31-4067-9e35-6b3cff730aff",
     "name": "Timed Charges",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -18827,7 +18827,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7750f236-6bda-4534-abf9-f6c14b2fd3c9"
   },
   {
-    "id": "be69a446-b7c3-483f-b9c3-9d91782d3416",
+    "id": "59f79ae8-c025-4069-9873-d4d5ac2cfc29",
     "name": "Longshanks",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -18842,7 +18842,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f"
   },
   {
-    "id": "420a562b-886b-4fc2-be9f-26b9a8b9d2e2",
+    "id": "2563e414-81dd-4f23-9d85-cff8af711526",
     "name": "Vessel of Sigmar",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -18857,7 +18857,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "180bd84e-27ca-4529-8d66-89d8f8edeedd"
   },
   {
-    "id": "3b5436ce-8745-4cfc-91a8-d2b8c74efad6",
+    "id": "cabff9d5-0349-467e-9047-ee16ef26da09",
     "name": "The Hunt is On",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -18872,7 +18872,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "be110262-0a0a-432a-8173-0bf9ac519413"
   },
   {
-    "id": "38ada977-238d-4610-807f-565038393f70",
+    "id": "750194e3-6318-483f-8593-6ef4a91f6258",
     "name": "Mantle of the First Storm",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -18887,7 +18887,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f4d8a357-e025-4166-b08b-a39f850d07a7"
   },
   {
-    "id": "a0c2c6ae-9d5a-4ab2-a46e-b97fe9f37d8a",
+    "id": "88c650fd-b882-4251-8b6d-0fef8001fa3e",
     "name": "Direct the Gyrocopters",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -18902,7 +18902,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6eed1e2d-77c1-4254-a7ad-cb6c786f2346"
   },
   {
-    "id": "2563cd67-5325-4471-a9f3-4e3be2d2cb4d",
+    "id": "f96a88a1-84f8-47f7-a7e4-29ece44209a6",
     "name": "Warp-amulet",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -18917,7 +18917,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1d0d4abc-e4ba-4604-b8b8-f5512ffb59f7"
   },
   {
-    "id": "db227aac-317e-423a-b759-e53e363f99c3",
+    "id": "9ae9c0a6-0e75-427e-bfb4-f925875e22ba",
     "name": "Acrobatic Leaps",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -18932,7 +18932,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0f1dbabb-75a9-4300-be60-3242f623f796"
   },
   {
-    "id": "2ed68acc-591a-485d-8dba-1bac98c5dbd9",
+    "id": "06a2ddff-f0d8-419a-b227-a47b25353592",
     "name": "Klutcha-grot",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -18947,7 +18947,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f2a8a114-d702-45bf-9c6d-757d096706ba"
   },
   {
-    "id": "10d32cdd-803d-440c-8da1-3bcd914acdea",
+    "id": "fd12e656-da47-4589-81b1-03c68042ade8",
     "name": "Da Final Fling",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -18962,7 +18962,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ab0c387a-4ab0-4ef6-b544-86502f1d8a61"
   },
   {
-    "id": "da2b82bd-987a-4f88-a15d-7adedc89bbd2",
+    "id": "ca3ef36d-384b-4092-843e-db33d926590a",
     "name": "Wrathful Guardian",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -18977,7 +18977,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fff78886-e1e9-463e-b7a8-3d36d3774ce8"
   },
   {
-    "id": "5e876270-c353-4e62-9cc4-e288cb36cfa2",
+    "id": "d520ec99-a9d9-4d7b-94b5-d34ad6036085",
     "name": "That Which Should Not Be",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -18992,7 +18992,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c53af49b-ad48-418f-a93f-f439b846a45b"
   },
   {
-    "id": "7c9a97ce-7ee2-4236-80e5-ef0a3b629931",
+    "id": "036aba7d-a095-428c-a0c4-13a61a3add01",
     "name": "Always Take What You Are Owed",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19007,7 +19007,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f52dbbc4-b942-46cb-a4ac-53018e73c35e"
   },
   {
-    "id": "aec04467-cb89-4973-bd0f-d4744280afbb",
+    "id": "049522a2-e2f4-4bdb-a088-883e77aa63da",
     "name": "Stolen Hours",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -19022,7 +19022,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2da4cc03-e17d-4cfd-bf1e-03dfdc8173ac"
   },
   {
-    "id": "64a80ad9-70b5-4d90-83a5-10988a68f6a7",
+    "id": "31253736-cd6d-4d8e-8233-2e8a8bc49932",
     "name": "Terrifying Monstrosity",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -19037,7 +19037,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d81c17ed-1d97-4f5b-a5e4-8a4f70ca1fcb"
   },
   {
-    "id": "5e9ccf07-4cac-4558-a987-67ceda7b5795",
+    "id": "5be337fd-913f-4bd1-8671-b28aaf9c73bd",
     "name": "Hedkrakka, Gob of Gork",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -19052,7 +19052,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5946a887-261e-4028-9602-006df64908e7"
   },
   {
-    "id": "693b5aed-0bc9-4a31-b12f-e7ea2c427b21",
+    "id": "0749f7e6-2f2b-4940-91fd-a78acc6da286",
     "name": "Relentless Killers",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -19067,7 +19067,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aaff4f9f-3b04-406b-942c-0b627c76fc25"
   },
   {
-    "id": "e220323c-6c74-43b3-a975-775f54dd7f7b",
+    "id": "9f54de1b-5162-41a4-820e-57774f37bfce",
     "name": "Guardians",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -19082,7 +19082,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ed784227-958b-4506-9788-ee5d529ece90"
   },
   {
-    "id": "fefb5d7e-f922-4e4a-b8d3-00fe2b5a4af8",
+    "id": "20aef16f-a7a3-4893-8467-76c0968ac3c8",
     "name": "Tireless Hunter",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -19097,7 +19097,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1cac6fd6-0bd0-4146-a158-702d9a9bd054"
   },
   {
-    "id": "5e88ac5c-ff23-47d8-820b-56a7481d1ee2",
+    "id": "40665cf0-b3d5-4261-81ea-81040da757ac",
     "name": "Severing Strike",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -19112,7 +19112,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "175ab760-441a-46b6-9bc4-7adc519c7d87"
   },
   {
-    "id": "5cc0716a-7d51-465e-8739-f89872daf03b",
+    "id": "ba894faa-8a4f-40ce-9a85-95ba37efd3fd",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -19127,7 +19127,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bfafb352-105c-4a8b-905a-aa31be989663"
   },
   {
-    "id": "9bde90e3-e5ba-45c7-8c26-25d012d5bc99",
+    "id": "d0cec7b0-287a-40ad-98f6-1ecc791bad9b",
     "name": "Longshanks",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -19142,7 +19142,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597"
   },
   {
-    "id": "593f9920-fd00-4c21-b13a-a74f87027ae9",
+    "id": "7db2813b-08bf-4fbe-9899-812b644b0045",
     "name": "Twisted Mirror",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -19157,7 +19157,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e43966c7-990d-45e7-a8c8-ffca27db6926"
   },
   {
-    "id": "63c9d1bc-7038-45b3-9430-71df7f8bd764",
+    "id": "995a7272-1f90-4645-99b2-d4d8fc67dc3b",
     "name": "Quest's End",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -19172,7 +19172,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "48bbd51d-5f22-4b5e-85e1-60985c2eb214"
   },
   {
-    "id": "3cff87ce-6649-45f2-b144-68e4949ab0b1",
+    "id": "57c80ef3-5d3b-4c5b-b5de-2fe3154532c5",
     "name": "Freeguild Adjutant",
     "phaseDetails": "Once Per Battle Round (Army), Any Hero Phase",
     "phase": "heroPhase",
@@ -19187,7 +19187,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "083d8e07-03c6-4c81-82f6-0d199b4b63e9"
   },
   {
-    "id": "a61106b7-e87a-46af-ab19-2fab2699cfef",
+    "id": "a81da8e4-d955-4dba-a406-06448a80587f",
     "name": "Voice of the God-king",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -19202,7 +19202,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "180bd84e-27ca-4529-8d66-89d8f8edeedd"
   },
   {
-    "id": "5722c03c-7103-45e2-a71a-e4a8caf83981",
+    "id": "f6825ac2-2604-47b7-aacf-9ee277763d2b",
     "name": "Arcane Vassal",
     "phaseDetails": "Once Per Turn, Any Hero Phase",
     "phase": "heroPhase",
@@ -19217,7 +19217,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82eb8a43-c4b0-4716-bb64-83b2bea22957"
   },
   {
-    "id": "9fa6665a-9128-4c67-9ea0-04bab4b86f2a",
+    "id": "73effcfe-a56d-4864-bfcd-1f8c4f790d73",
     "name": "Words of Hate",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -19232,7 +19232,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2d3dc0dc-2578-4bd2-8e9c-5aadfbbcbd24"
   },
   {
-    "id": "a786d8f2-d2b8-4309-8256-4f81fd1df211",
+    "id": "c56510bc-01c1-477e-94aa-8d11ebab2a97",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -19247,7 +19247,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2101af71-d1ae-4f30-ae30-6fb709cd4c08"
   },
   {
-    "id": "34f1b156-4846-44fa-8314-c94576bb2a6a",
+    "id": "27ab2e90-46c8-48c6-9705-d714abe9523b",
     "name": "Mortal Contract",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19262,7 +19262,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "479d6b81-3989-424d-813a-bc764a864d77"
   },
   {
-    "id": "1712db32-3139-4f64-ab38-a183d0f56bee",
+    "id": "b469e96e-485b-4d60-af7a-98120710049e",
     "name": "Broken Nadja",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -19277,7 +19277,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f27ea6f0-d4e4-45b3-bb12-108f3b6b962d"
   },
   {
-    "id": "4480cefa-2b2c-4f7a-a943-a78c850503ad",
+    "id": "733ebbcd-fb46-4202-b4a1-470b8123bc43",
     "name": "Failing Fortitude",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19292,7 +19292,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aaa6205b-6886-4ae2-85c2-96ba2e5c515a"
   },
   {
-    "id": "04ef3ba5-cbef-48fc-9772-6f2146f03a9d",
+    "id": "4196e523-67b5-4f92-aa14-d0c6b231ccf1",
     "name": "Master of the Slime Fleet",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -19307,7 +19307,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "24ba4886-2f94-44a6-8304-fbe6f9e59d9a"
   },
   {
-    "id": "9c5f28ce-d70c-4d01-adc8-aa8a96545f5f",
+    "id": "62c13843-c8cf-4deb-b8e8-fbb2323419cd",
     "name": "Shadow Leap",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -19322,7 +19322,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "87e55d8b-c524-4f61-86d8-f79ec70a9236"
   },
   {
-    "id": "2981417a-f11c-4007-aa03-170ed50ec540",
+    "id": "9a1004c4-189b-4991-83a8-a714d7511d5e",
     "name": "Booming Cacophony",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -19337,7 +19337,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d1facb98-3add-4cb2-9d03-b667e0128b33"
   },
   {
-    "id": "8b694b03-48ae-44f8-9290-115ca4e571d6",
+    "id": "687b4806-dd01-46b1-bcc7-ad3461d7c550",
     "name": "Moonfire Flask",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -19352,7 +19352,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "95f46666-4b32-476b-9458-e7681a5fac35"
   },
   {
-    "id": "e22f6ab3-9760-492a-8425-9a0bc36b0686",
+    "id": "42500c8e-5e07-49dd-958e-19d884583ae2",
     "name": "Whipped Into A Frenzy",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -19367,7 +19367,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6387ddcd-1f89-4ae5-bf37-327546904c8b"
   },
   {
-    "id": "845cf2b3-1800-494a-bf36-e82ebece2265",
+    "id": "b0cbf3b9-c550-45e4-9607-650b813e98c1",
     "name": "Moonclan Lairs",
     "phaseDetails": "Once Per Turn (Army), End of Your Turn",
     "phase": "endOfTurn",
@@ -19382,7 +19382,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67656820-2853-46af-ae96-283c02971718"
   },
   {
-    "id": "45d05ae5-3bf3-49ec-9acc-1035ccbf4175",
+    "id": "0a5e9cf8-1ec2-43df-ad5c-fe472c84f216",
     "name": "Web of Intrigue",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19397,7 +19397,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "adad59dd-957e-4c76-b565-3c5ef52c1c8d"
   },
   {
-    "id": "40c86445-87a1-4dcc-bac8-06459079279c",
+    "id": "856c038d-6387-4bb8-a12f-63e3fbb2343a",
     "name": "Plan the Attack",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19412,7 +19412,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10b3bf76-14df-4fd1-b147-5f6179e3950c"
   },
   {
-    "id": "5b57ee75-e46a-4b5f-b102-aa532015ad7b",
+    "id": "b2098140-5b3d-4dcd-84ae-97226ea49071",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -19424,10 +19424,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "While this unit has 10 or more damage points, the Attacks characteristic of The Dread Mace is 4 and this unit has a Control characteristic of 10.",
     "abilityAndCommandIcon": "battleDamaged",
-    "warscrollId": "3c152a9a-8abb-4de8-bef8-ea1df87b866a"
+    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece"
   },
   {
-    "id": "7b6b90b8-447b-41f3-a139-00b9675a684b",
+    "id": "eb33956b-4ef8-48ed-b805-f8127584de8e",
     "name": "Celestial Deliverance",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19442,7 +19442,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "72638bb4-d077-45f8-9cb4-98f15de22244"
   },
   {
-    "id": "e9fecdab-ff1e-4a93-8407-4a813acc1a99",
+    "id": "e3d6b13e-ffa9-4c59-9ed8-f39cbad95731",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -19457,7 +19457,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f63f5685-9404-4c21-b5e2-6b616c8d2882"
   },
   {
-    "id": "e80ce39c-37f4-4b1d-a19a-e57eec2db14b",
+    "id": "022c1b2f-e79a-4ad8-976a-2568aa3e7433",
     "name": "Deliver The Killing Strike",
     "phaseDetails": "Once Per Battle (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -19472,7 +19472,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "586014df-d60c-436b-ab0c-74dbf6fafcbf"
   },
   {
-    "id": "61040fd5-6ce4-4cf4-b5b9-f3396b6c608b",
+    "id": "e94bf574-ab0e-4618-a3c8-54e0fe121756",
     "name": "Hunters of the Frozen Wilds",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -19487,7 +19487,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6429d750-39c7-4052-9291-d128bbdde327"
   },
   {
-    "id": "92e46586-ee6a-4b3f-89b5-79163224d2d8",
+    "id": "953e5870-fd54-48f2-beff-d9a4014b5912",
     "name": "Drain Vitality",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19502,7 +19502,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9f7d32fe-eb7a-4552-95d5-baf827102456"
   },
   {
-    "id": "aa9e356c-e119-4834-a509-bd8a0b519ad4",
+    "id": "85587c84-ab43-490b-a500-c1307421a583",
     "name": "More Pressure!",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19517,7 +19517,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "46323ed0-f853-4ffc-ae1a-4810bba0c821"
   },
   {
-    "id": "9d10cab6-d9f6-4f40-bde2-b1b420a0b36c",
+    "id": "457360da-fa0a-4de1-bab8-dbe0708d48a3",
     "name": "Harbingers of Death",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -19532,7 +19532,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8a0e02b5-5812-4fce-b29f-57ef28575df3"
   },
   {
-    "id": "612facbf-ddac-4cfb-8e94-abd6bd76d1a3",
+    "id": "aeacf0fe-c3a5-4c23-ab8c-0219fe24f256",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -19547,7 +19547,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97a97882-730b-44b9-9eb9-8bd3cb91e9c3"
   },
   {
-    "id": "4b44a919-ffbf-481c-b3a5-04625568aa1b",
+    "id": "2290ebae-121b-4dd8-ba65-cbbf125fa10c",
     "name": "Division Commander",
     "phaseDetails": "Once Per Battle, Your Shooting Phase",
     "phase": "shootingPhase",
@@ -19562,7 +19562,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "95a49feb-fc10-4d7f-b0e8-b239cebf66f3"
   },
   {
-    "id": "346bd5ce-f72a-48e3-92bd-44ffeb762d4c",
+    "id": "82fbb9a7-c0c7-4db2-8455-046911a97847",
     "name": "Hamstring",
     "phaseDetails": "Once per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -19577,7 +19577,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d4867263-475d-4bb1-97d7-4e84625bee25"
   },
   {
-    "id": "f9af402e-8bb1-450d-b801-73681c8f8252",
+    "id": "12e37aa2-e0a7-4942-b04a-d3160392893f",
     "name": "Death's Construction",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19592,7 +19592,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7a2ae466-08d8-4a14-ac8d-395802f9ff57"
   },
   {
-    "id": "d9696c04-5fec-4b90-ab85-fa743b47ff49",
+    "id": "4075f264-0415-4643-863d-a39e22c009d5",
     "name": "Quickblood",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19607,7 +19607,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13a48d2d-4966-4e3e-ac17-e22b6bd1ed4b"
   },
   {
-    "id": "8daba7dc-a6fc-40e8-a6e4-5982479bc27b",
+    "id": "49c50139-3ea4-4181-935a-2fcd9e666909",
     "name": "Long-planned Strike",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -19622,7 +19622,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "397b5c01-acce-406b-be7c-de2e940977c8"
   },
   {
-    "id": "3d112416-d508-4b9b-be4c-1ac5d558d31e",
+    "id": "3eb7e716-cdf0-4b30-892b-91b3173b731a",
     "name": "Duty Unto Death",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -19637,7 +19637,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10a7e8fc-d74e-43e0-a3cb-ffde4e208cd9"
   },
   {
-    "id": "64661580-75db-470b-8afd-5615ea0070e7",
+    "id": "232f45ed-c158-4c34-9eba-94ba18c1cba0",
     "name": "Captured Soul Energy",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -19652,7 +19652,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "762def12-00f0-42b3-b603-167f5290ebfd"
   },
   {
-    "id": "39d2d2a9-e0d5-4574-9479-ccc1a3fb5cc9",
+    "id": "316dfbd3-4396-4087-913e-183effe5ffbb",
     "name": "No Escape",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -19667,7 +19667,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0a69e736-1ab1-4bb5-9547-f69b4cb3e2b0"
   },
   {
-    "id": "8d57837a-53ff-4269-a646-df24e7175a4d",
+    "id": "ad54d784-99bf-4d2b-bf69-c72870c81d47",
     "name": "Biovoltaic Blast",
     "phaseDetails": "Once Per Battle, Any Charge Phase",
     "phase": "chargePhase",
@@ -19682,7 +19682,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7fd2be68-c0c8-4cab-8b90-20290e314767"
   },
   {
-    "id": "7a0c16c1-26cb-4c88-a207-4920210e5ebb",
+    "id": "65956b9b-ce76-42d4-940d-2df6c8d5bee7",
     "name": "Cornered Rat",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -19697,7 +19697,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5d383ea0-48e8-4f1d-9e47-e52660ffc8e3"
   },
   {
-    "id": "03851b9e-71b2-4ce5-b07f-2f73c41bfad5",
+    "id": "de6ef025-7123-46a6-9f49-794f6fde979e",
     "name": "Madcap Mushroom",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -19712,7 +19712,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d5546a07-2903-44b3-9ab1-091b48082803"
   },
   {
-    "id": "0c696801-7bd6-42e2-9ddb-2094df99efbd",
+    "id": "45184f9e-9a2d-40f2-893a-c1becf97205c",
     "name": "Volcanic Blood",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -19727,7 +19727,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82ad3073-c649-45fd-964e-15c04fd184bc"
   },
   {
-    "id": "10c6d0b0-efa1-4f51-8b2f-08b73a3c2b16",
+    "id": "490019c4-a0e5-481b-88c5-1427d22650ac",
     "name": "Netters",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -19742,7 +19742,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "85b69383-999e-45da-aac6-def469138be6"
   },
   {
-    "id": "f4e142f5-435e-40b5-a036-ae0546d26396",
+    "id": "f779a1bc-2fea-4f23-8790-b8ee3e5db26e",
     "name": "Zarbag",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -19757,7 +19757,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5587c735-4b81-49e6-97f2-0b841b44bd1b"
   },
   {
-    "id": "da6e24d7-262d-4d83-9b54-f3e7867ab7bd",
+    "id": "22bed1cd-d9a8-4422-94f2-d470bee887b0",
     "name": "Vile Transference",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -19772,7 +19772,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d03da0b1-8da4-431e-b253-728b9a5b4834"
   },
   {
-    "id": "865b9e86-fe0d-43d2-a0bc-bbb657088f8e",
+    "id": "4815cc99-2c4c-4b06-924d-f22389b3ca75",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -19787,7 +19787,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "571ab394-6ed2-407d-ad90-31349ca0b379"
   },
   {
-    "id": "34b2efbe-aa04-4f4d-a5f7-f52d79f8f8c1",
+    "id": "bf3d1462-5369-4f60-9677-cbeaa9033660",
     "name": "Deadly Trap",
     "phaseDetails": "Once Per Turn (Army), Enemy Combat Phase",
     "phase": "combatPhase",
@@ -19802,7 +19802,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f63f5685-9404-4c21-b5e2-6b616c8d2882"
   },
   {
-    "id": "0e068a20-8f0d-4477-9ff1-570d46e6c1a4",
+    "id": "39bfc4d2-27ad-403d-9d9a-a6cef723f908",
     "name": "Heroic Guard",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -19817,7 +19817,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "56934c98-f378-4d53-9d60-910e622667ee"
   },
   {
-    "id": "13b7d411-50ea-4a62-9bb9-461670e98c76",
+    "id": "febe0ffc-e0a6-4b91-be8e-a9012426de80",
     "name": "Soporific Musk",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -19832,7 +19832,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0c05a591-385d-4fff-aba7-8f6e20e1bff8"
   },
   {
-    "id": "538a3cec-3c2e-4204-8765-f2c34344cc61",
+    "id": "fa994f87-b01a-4dec-bdd1-ee2485ace518",
     "name": "Transport Capacity",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -19847,7 +19847,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3f93d3cc-04f4-4e19-86b1-b0ebc5bbbcf1"
   },
   {
-    "id": "4b151a6e-addc-41e5-9f7c-d5736858f6d9",
+    "id": "93205371-91c6-48e2-b805-12a8df8fc55f",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -19862,7 +19862,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3cc579b6-a4b9-48e7-b134-0decf7ed3129"
   },
   {
-    "id": "f150157f-1e4c-403c-bc51-956da0cb808a",
+    "id": "0ee9c4f0-8f3b-4c34-bf37-318505c89fb8",
     "name": "Slaughter At Any Cost",
     "phaseDetails": "Enemy Shooting Phase",
     "phase": "shootingPhase",
@@ -19877,7 +19877,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "481cb116-a321-4961-9456-8da6a8b0e1e9"
   },
   {
-    "id": "9a6a5127-4ccc-4545-817d-f9eb962aed42",
+    "id": "eb9672c2-4fbe-491e-8715-7efbd55bf930",
     "name": "Blissbrew Homonculus",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -19892,7 +19892,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "26cfe8d7-5ece-4190-a640-67d85d65519f"
   },
   {
-    "id": "9de43451-aa30-410f-bc3c-0f7114f80354",
+    "id": "415e9338-3050-4cf3-a452-92c60a28ff95",
     "name": "Morgwaeth the Bloodied",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -19907,7 +19907,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6ccec673-4957-43fe-8e1a-0d3164ea1962"
   },
   {
-    "id": "350ae0bf-e476-41e5-a127-56c214a54077",
+    "id": "71cad65f-d8c0-4cf0-ae35-6489c0db3d94",
     "name": "Thrillseeking Cavalcade",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -19922,7 +19922,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "78f1741c-25d7-49a7-acb1-4ae9cdc08833"
   },
   {
-    "id": "472252e7-4818-4699-88b6-102e4bf41763",
+    "id": "a06ed8fb-1838-42b0-a9ee-d2f8a325d97b",
     "name": "Flattened Into The Mud",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -19937,7 +19937,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1988e7d3-7d1a-426e-95d6-4f8e530ccabd"
   },
   {
-    "id": "de9138cc-011f-4d27-8332-50d7dd99f5d6",
+    "id": "2bb30127-a476-4b83-b217-f2823e40c612",
     "name": "Boing! Boing! Boing!",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -19952,7 +19952,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6376c762-ded8-4ee2-a0d7-78b8e7b49c40"
   },
   {
-    "id": "96b8928e-af0c-419d-af3c-07084679daba",
+    "id": "fbe52bf0-eff6-4558-8222-eafecd719a8c",
     "name": "Moustache-mounted Aetherblasters",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -19967,7 +19967,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1a6f67bf-e9b4-44ce-b975-7c63c704ae5f"
   },
   {
-    "id": "6242de32-2508-4ce2-85d4-474e40171f57",
+    "id": "5e354771-6a32-4f79-8270-25a238ad2d7b",
     "name": "Overflowing Gore",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -19982,7 +19982,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6ef433e-fe76-40da-9ca0-51a789a51804"
   },
   {
-    "id": "63dd59a9-3262-4a7b-a96a-617616e68b6a",
+    "id": "79a89c54-6bd3-443f-89db-43837e1d7058",
     "name": "Averon Stormsire",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -19997,7 +19997,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "443ebea8-10e9-4a8c-8483-18a64902d9ad"
   },
   {
-    "id": "c48df498-2045-486f-9150-bb93c6ebb95c",
+    "id": "bb7d67c9-2b1b-41f7-928b-d741205a0e11",
     "name": "Dinner is Served",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -20012,7 +20012,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "53fc8a9c-13ed-46a1-a154-542e98260d76"
   },
   {
-    "id": "86dc5c67-d107-42f5-8b78-51d7c67f8272",
+    "id": "2d8abef3-6a25-42b6-a96f-a436f9f16791",
     "name": "Flinger",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -20027,7 +20027,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ed358108-74fe-48db-96b6-219e66f4bb47"
   },
   {
-    "id": "e4ed5b02-b697-43d4-9431-252ed86bd4b9",
+    "id": "cd4f94c2-5c40-4422-9d80-b31352bd793e",
     "name": "Kurnothi War-horn",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -20042,7 +20042,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6793b9a5-00ef-4777-9c95-eb7ae615d5d2"
   },
   {
-    "id": "9f3e007f-c1e1-4342-ae07-535db29acc86",
+    "id": "6d2b8e66-cdf1-45e6-ae11-a73c6952cfda",
     "name": "Piercing Bloodroar",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -20057,7 +20057,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "04d4d4a0-2f40-4945-aee7-1692a5d3673b"
   },
   {
-    "id": "ae7d8b56-f241-46b6-a39a-26a96bb10f9a",
+    "id": "245aeab1-30aa-4727-8974-edbfc24421c5",
     "name": "Sow Confusion",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -20072,7 +20072,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9e273bdc-e6cb-42c6-93f4-150f4918d3e4"
   },
   {
-    "id": "cd61a7ea-3b24-4488-8fab-b77c5fd30ed0",
+    "id": "78ebe435-38e8-4b91-b031-f8fa9df5ec94",
     "name": "Primal Rage",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -20087,7 +20087,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fc719a86-a87c-4913-9b9d-cf4d2f184373"
   },
   {
-    "id": "ffc471c2-d437-40b1-99a9-7aae56945b9e",
+    "id": "fc66506b-6db3-4cf8-a940-5741b392110e",
     "name": "Oath of Conquest",
     "phaseDetails": "Once Per Battle, Any Hero Phase",
     "phase": "heroPhase",
@@ -20102,7 +20102,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9c87a56a-e978-4c6e-a985-08ff20c3b09a"
   },
   {
-    "id": "e6225e4b-648b-41ea-a602-e92cd83aa06b",
+    "id": "3b0c6fa9-9b22-4021-9605-5c123ea9dd92",
     "name": "Cornered Rat",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -20117,7 +20117,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "142291b8-fffc-4a76-804c-550aca11a3a7"
   },
   {
-    "id": "297ad900-5d6d-4a78-b767-3c04adc41345",
+    "id": "e91573ce-9cca-4e93-8a6a-039508b06c77",
     "name": "Curse of Loyalty",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -20132,7 +20132,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "41bde6cf-c21e-4048-9b1c-03ddd083120c"
   },
   {
-    "id": "30e94ea2-9de8-4490-ad75-c30885461ba6",
+    "id": "3b1e2287-c7f5-4cc7-a220-c200db67baa1",
     "name": "Marshal of the Peasantry",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -20147,7 +20147,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d8d83aff-0e39-4dca-91d1-3c85e3f27755"
   },
   {
-    "id": "f53f78f8-fcfe-4751-90f5-d598249412c7",
+    "id": "48be3fd6-59e1-4b1f-aad0-5b446fa6c836",
     "name": "Lord of Assassins",
     "phaseDetails": "Reaction: You declared the ‘Redeploy’ command for a friendly Eshin Infantry unit wholly within 13\" of this unit",
     "phase": "movementPhase",
@@ -20162,7 +20162,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bd31cfe5-03c6-4b64-9a66-da2554b54f01"
   },
   {
-    "id": "6a52c7e6-470a-4037-a861-e26356254d37",
+    "id": "135153d5-5c62-416b-b462-f1091ad0d43a",
     "name": "Swordsmasters",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -20177,7 +20177,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "da674447-2450-4717-85ea-300c53d92f40"
   },
   {
-    "id": "8222e50b-8133-45eb-997a-477ef1017eae",
+    "id": "63b46d1f-a48b-4f94-b74b-f7df32ec524f",
     "name": "Seething Swarm",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -20192,7 +20192,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9c16ad20-f95d-49a2-9417-a3ff00bd4c56"
   },
   {
-    "id": "93c8a9a2-b53a-4766-9725-a9f356273fde",
+    "id": "2534912f-ecce-4be0-a64c-a303428e5483",
     "name": "The King's Entreaty",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -20207,7 +20207,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0483c074-045a-430d-8adf-7801c493889c"
   },
   {
-    "id": "05406c60-9299-4d9b-99c8-978eb6e5bc03",
+    "id": "91a5e9b8-0c0b-470b-954c-b01cc6e7f60c",
     "name": "Epicentre of Delusion",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -20222,7 +20222,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "716956a7-c8f2-41b5-a623-d43c552c805d"
   },
   {
-    "id": "f7173f42-2619-4e77-b3a3-7d9a79f09e10",
+    "id": "bc3082f0-4d18-489f-96f2-da3f8886cb09",
     "name": "Sorceress Supreme",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -20237,7 +20237,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3220f55f-a9a2-4424-a70c-a592a74cfde3"
   },
   {
-    "id": "f4f72592-2157-4e09-af84-65ac092efd6f",
+    "id": "d2ae190c-229e-4801-89c2-6f3d49fa961b",
     "name": "Void Drum",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -20252,7 +20252,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "24fd34a9-2736-4ad6-8c76-f6871cbf15fd"
   },
   {
-    "id": "5d19bea0-8f3b-456b-9630-b6471cd95f86",
+    "id": "4a02cfa6-3310-46ff-be12-370c6f155f7e",
     "name": "Murderous Paragon",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -20267,7 +20267,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d9de54f6-29a2-4019-9af2-3c8160b68609"
   },
   {
-    "id": "c76a7c77-fb37-4486-9870-a748d3f6f45e",
+    "id": "7913c39c-62c1-44de-a84c-41512d15bb35",
     "name": "Noxious Roar",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -20282,7 +20282,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8d8fda17-8204-4639-8a64-a91bfe458769"
   },
   {
-    "id": "b71cafd0-8b4a-4d2b-9d96-03ec175fb40d",
+    "id": "94c56bd1-7492-4ec8-af7c-f0eac8477d15",
     "name": "Trampled to Dust",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -20297,7 +20297,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "10b5f932-af4d-44b4-af57-25b72a5e61d4"
   },
   {
-    "id": "055a4913-e907-4c55-a34d-f26a154fe24d",
+    "id": "ed58edd3-28f9-4b22-ba50-5065388b4fd4",
     "name": "Unfeeling Fortitude",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -20312,7 +20312,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b66a39a0-4d2c-4687-816e-babf11f7da63"
   },
   {
-    "id": "316c3d8c-eb3b-43bd-9ce1-40ba32f1952a",
+    "id": "ffdce3f7-76ca-4d08-ad5e-9bd77a8a8ba7",
     "name": "Toad Rage",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -20327,7 +20327,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "30432f9c-db7c-49ca-be1b-83f7a676e78b"
   },
   {
-    "id": "2d170cde-c549-4d04-b31e-09d35e87c261",
+    "id": "0c4cc2ce-6a64-4759-9bff-d27843d6bae5",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -20342,7 +20342,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4c8d3e26-25bc-459d-8997-3fa60fd63f4d"
   },
   {
-    "id": "c7320350-a104-40c1-9ff9-6d508265a633",
+    "id": "9a596c69-4ac7-4522-8ce6-8f43fed3b914",
     "name": "Purifying Blast",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -20357,7 +20357,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "917a57ba-2e52-4e4d-8d4e-1adece6c4b7f"
   },
   {
-    "id": "2d21d6ba-7698-46f5-a0ba-c4331f0669c3",
+    "id": "1b6b7014-919a-4482-bf09-4a3db13c124c",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -20372,7 +20372,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "69cee10c-84d4-4ff3-a1d7-a2aa2663fce4"
   },
   {
-    "id": "64a242f7-93a7-4bbd-89a6-d7068f7723e7",
+    "id": "1e389112-5781-4be3-80bb-2b2c8f059a0d",
     "name": "Chameleon Ambush",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -20387,7 +20387,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6584ea3b-897e-4c4c-b69a-1e553867b119"
   },
   {
-    "id": "c90e6417-0bfd-4f9c-bc75-06b615a2bbf7",
+    "id": "e4aa9d45-fd49-449d-a5f9-330e5bdaa9e3",
     "name": "Swordmasters",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -20402,7 +20402,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ed784227-958b-4506-9788-ee5d529ece90"
   },
   {
-    "id": "920296d3-8d21-4b4b-8ca2-30a4c3379597",
+    "id": "d58f4ea3-a62d-4858-a003-5a35b118f2d9",
     "name": "Turn to Stone",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -20417,7 +20417,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d926e70b-1ae9-4e58-9af5-61a5d7eec0aa"
   },
   {
-    "id": "0602a0f7-cef4-4bee-908d-e2265c34afd9",
+    "id": "9ffe5ca1-8c60-42f7-bc87-1bbfcf79f958",
     "name": "Bestial Instincts",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -20432,7 +20432,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "38fcaef4-2b56-4b18-9d9a-52fc5215e0bc"
   },
   {
-    "id": "49fdf547-43f9-4c0b-b997-6f1bb5fbc932",
+    "id": "009c3fc9-3cac-4e4b-bc4d-9f64e3df6653",
     "name": "Deffcap Mushroom",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -20447,7 +20447,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "24cd0930-9ae2-4ecf-a8ea-8b2e7f155c9b"
   },
   {
-    "id": "7264a4fd-800d-4682-9541-524c9c86df3e",
+    "id": "c7f77edd-2dba-46d3-bfb9-082e5cea22e6",
     "name": "Stuff 'Em In Me Net",
     "phaseDetails": "Once Per Turn, Any Combat Phase",
     "phase": "combatPhase",
@@ -20462,7 +20462,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597"
   },
   {
-    "id": "0e682ed9-5a23-411c-bbc0-8e542f0b36e6",
+    "id": "dc5b5152-2dc3-45ca-8c6b-213340b84f25",
     "name": "Fearless Charge",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -20477,7 +20477,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ad3eb674-53c1-4412-98b8-ed9f383c1265"
   },
   {
-    "id": "f9cae842-7a64-45dd-a32c-32121b402ba5",
+    "id": "001dbb15-f331-4580-b00e-2f6d3bcb5b61",
     "name": "Torrent of Flame",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -20492,7 +20492,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0161ae7b-9a93-463c-a893-a5e0ef07aa20"
   },
   {
-    "id": "34c88ca0-4b7a-437a-a409-0631307d0c73",
+    "id": "7fb14abe-cd0d-41b0-a666-07eca7e977b1",
     "name": "Loathsome Descent",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -20507,7 +20507,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "525f6c9a-f82d-48e0-8894-3ca86ecc6f32"
   },
   {
-    "id": "b636548f-d316-48bb-a68f-75bcb8e8ed14",
+    "id": "f8ebcd25-7b12-4705-89a4-b8e406ceba71",
     "name": "Taker of Heads",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -20522,7 +20522,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ad9a3807-1fd8-4b75-9cf9-c79821747f0d"
   },
   {
-    "id": "3d71e26b-8f5c-4b7e-b4ec-d73b0ffba55d",
+    "id": "451b8e0f-62be-4735-a300-7bc8cdcff8f9",
     "name": "Grind Their Bones, Seize Their Skulls",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -20537,7 +20537,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6b38ecf9-d706-4b16-9e93-6d20f80edb9b"
   },
   {
-    "id": "a42dce73-b253-41b4-a4aa-184e0178592b",
+    "id": "9ac8c0ae-91d2-4621-a1db-81bd960509e5",
     "name": "Favoured of the Pantheon",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -20552,7 +20552,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0b3cfea5-69d7-4deb-9e21-e93b5c809a17"
   },
   {
-    "id": "e64837b6-c427-44ea-9a84-0bf644195138",
+    "id": "99177d97-16b1-4d52-8a82-212d1fb11eee",
     "name": "No Respite",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -20567,7 +20567,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fb2d43ee-1297-4134-8c20-6b623f516827"
   },
   {
-    "id": "5a5ac913-4e67-4187-b6fa-917de47717f9",
+    "id": "192ea1d0-02cf-46a0-b0d9-6fa9455b024b",
     "name": "Divine The Future",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -20582,7 +20582,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b475bfca-7ecb-4ef5-87d1-c322366877ae"
   },
   {
-    "id": "e503beeb-6c31-408e-893c-3888d78f3ee2",
+    "id": "c0909c18-4fe7-4d02-b3ad-8dd8faef6df2",
     "name": "Once More, for Sigmar, Charge!",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -20597,7 +20597,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "470d6115-f411-4db6-adbc-66507c070ac9"
   },
   {
-    "id": "11c2cd2c-df42-4f3a-9e55-742cc0ab3366",
+    "id": "9560fa89-a3e1-4244-8034-ce3b661bbade",
     "name": "Outmanoeuvre",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -20612,7 +20612,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0d7ede6e-b5e2-4a15-bded-c79e66dfa299"
   },
   {
-    "id": "190181aa-9aa0-4f01-a687-a24f5e92e4ca",
+    "id": "efdc3bda-e6df-45b1-aaf8-5e4082f744fa",
     "name": "Ancestral Grudgebearer",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -20627,7 +20627,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b4f67dad-e875-49df-99da-a3f145a0ff02"
   },
   {
-    "id": "80970c7a-be49-436f-9ffb-31e8ef0a2110",
+    "id": "fc31fb97-fe0b-441d-b62f-6b36676fd997",
     "name": "Transport Capacity",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -20642,7 +20642,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "89562fe2-8685-43de-9830-ed9d5c364f84"
   },
   {
-    "id": "e54ee5f7-4134-4af6-87a7-4c5612413661",
+    "id": "db11664a-0a44-4cfc-93f1-f9c002150086",
     "name": "Minions of the Silver Tower",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -20654,10 +20654,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a friendly unit that has not been deployed to be the target.",
     "effect": "The target is set up in reserve in a Silver Tower. It has now been deployed.",
     "abilityAndCommandIcon": "special",
-    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff"
+    "warscrollId": "80a7e85a-7a29-4ee7-a418-8a745a4a9149"
   },
   {
-    "id": "7cabe1e9-d204-4384-9337-e726ffe2820f",
+    "id": "444f9c99-cbad-40a3-a99e-8ed2f33d9b09",
     "name": "Lithe and Swift",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -20672,7 +20672,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c359ad1c-f4af-4972-af42-8a6d061a1e6a"
   },
   {
-    "id": "a01b6475-67f5-4a46-9c7d-8f607ec51d25",
+    "id": "c100ce25-7ff9-4de9-a332-345547dbb683",
     "name": "Powered By Vainglory",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -20687,7 +20687,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "15855e9b-7224-4f40-b68e-d46c4fce7fb9"
   },
   {
-    "id": "77bec3ea-4020-4d01-b43b-943fe672333e",
+    "id": "a6487a20-1f45-4e1c-8e5d-03ae30858270",
     "name": "Brass Stampede",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -20702,7 +20702,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1a4ff416-e3a7-4926-bc53-f5b34c3be6d5"
   },
   {
-    "id": "d323d05c-ff81-4fb1-a826-d5bb5aa8c85f",
+    "id": "d766e3cb-b904-4e02-905a-471043241798",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -20717,7 +20717,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a4c15ce5-1bfe-4f3d-86e8-bd0427d5e5c1"
   },
   {
-    "id": "fe2a5533-e446-4647-9b1d-e684e241a125",
+    "id": "c1327c15-38df-40fc-9ede-915a7edbd4cd",
     "name": "Stampede of Iron",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -20732,7 +20732,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d3cafef2-532e-446c-9258-028a444782c7"
   },
   {
-    "id": "a750b690-0d98-47f9-a377-4710c0052b1f",
+    "id": "18b67174-5bbe-4bae-b171-07e0c5cc7fa5",
     "name": "Relictor Soulguide",
     "phaseDetails": "Once Per Battle, Your Movement Phase",
     "phase": "movementPhase",
@@ -20747,7 +20747,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a784b1ab-6224-4ceb-a83b-9d2f21b45891"
   },
   {
-    "id": "71ed5639-7366-4f9d-b20d-b3b9d50dc0ad",
+    "id": "3ea06ff3-43e3-45e2-aeae-8b03d16c03e7",
     "name": "Gut-wrenching Howl",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -20762,7 +20762,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b3013117-b36e-4677-b070-cef740deee7d"
   },
   {
-    "id": "a33fe328-8850-4f1b-90fe-656c0afe1fa6",
+    "id": "5e3e6826-a08c-4bb6-8c37-ad5c121e0644",
     "name": "Burnt Offerings",
     "phaseDetails": "Once Per Turn, Any Hero Phase",
     "phase": "heroPhase",
@@ -20777,7 +20777,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d3270c99-ec06-40a8-b997-9dd2c7233140"
   },
   {
-    "id": "f467342d-f3bd-42ff-9b69-d7713e298da1",
+    "id": "e4ce6635-8919-41dc-9448-074a1ead059b",
     "name": "A Promising Concoction",
     "phaseDetails": "Once Per Battle (Army), Your Combat Phase",
     "phase": "combatPhase",
@@ -20792,7 +20792,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67f8f334-425b-4655-899b-2d66018dfb06"
   },
   {
-    "id": "6d98bbe2-25dd-4ab3-adf1-cd32cea81cb9",
+    "id": "a078f9b3-cb0a-41c0-90d7-c850625a2742",
     "name": "Unstoppable Battle Fury",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -20807,7 +20807,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "832a56bd-2b47-4f8f-847e-29c5650c9391"
   },
   {
-    "id": "608ceb18-954d-42fe-8e31-3d6ede3a94c9",
+    "id": "48ff2acf-eff7-439b-8fc4-8b8abdcb017c",
     "name": "Undead Minions",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -20822,7 +20822,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4ada29c6-895a-415a-91cb-0e79398893ed"
   },
   {
-    "id": "09669765-722a-40b9-b347-975dc4b1369a",
+    "id": "335a11df-f75a-40da-b9ae-5f034b8781e2",
     "name": "Entropic Lodestone",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -20837,7 +20837,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "16eb3837-3152-495f-a000-354d8c6f89ce"
   },
   {
-    "id": "a02aa6e0-71d3-41be-97fc-d9167f8f1840",
+    "id": "60fa77f8-70a4-4c42-8ec6-f7b802e31e44",
     "name": "Wrath of the Scáthborn",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -20852,7 +20852,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e0cc3856-24f1-4066-9aa3-f76a1a4c0751"
   },
   {
-    "id": "91588b70-86bc-4118-96a7-b62922a0335a",
+    "id": "fbc09dc4-c999-40de-8e13-f35e4d643dac",
     "name": "Sigmarite Thundershield",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -20867,7 +20867,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "470d6115-f411-4db6-adbc-66507c070ac9"
   },
   {
-    "id": "66280f39-502d-4785-bc4d-541cf7716fc9",
+    "id": "82357d72-1eb1-4109-9d7e-35170dd66aaa",
     "name": "Nadirite Bow",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -20882,7 +20882,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fd57d27f-267b-45c0-8188-849d85cec476"
   },
   {
-    "id": "38cf0e65-2d88-4e03-acf6-9c33663ef550",
+    "id": "d0a38a94-8c3d-4f6b-b02c-767dc179247d",
     "name": "Infuse With Bestial Vigour",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -20897,7 +20897,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67e6a764-9b3c-4a61-ba78-45d3dd5c07a0"
   },
   {
-    "id": "32f1f1d6-4244-4be1-b2d3-e3c889dd7c57",
+    "id": "fba4393a-e9bc-42ef-9dbd-a08d29e4b132",
     "name": "Been There, Done That",
     "phaseDetails": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
     "phase": "defensive",
@@ -20912,7 +20912,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "116dde53-f676-49c6-b879-af4b98d22725"
   },
   {
-    "id": "10c25913-c0bb-4f6a-9dc0-f11c78139c31",
+    "id": "df3248a5-5116-4787-bc8b-947263ebe798",
     "name": "Warp Vortex",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -20927,7 +20927,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7025730d-4adf-42d4-a55d-0d8b21572150"
   },
   {
-    "id": "972b2848-7ea9-4aa6-b8e5-82f93e3d337c",
+    "id": "af495a05-6b8b-4c19-93c2-42b2bab461da",
     "name": "Endless Terrors",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -20942,7 +20942,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8de47fd2-656f-4f93-b79b-211777230138"
   },
   {
-    "id": "ff6927c3-2407-499f-a6aa-1f95e19ab1e4",
+    "id": "934f5d18-e311-4e3b-a369-6b486510fc62",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -20957,7 +20957,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82ad3073-c649-45fd-964e-15c04fd184bc"
   },
   {
-    "id": "17c54dde-072c-4d05-9ff4-9e12e9eca437",
+    "id": "03ec2bdc-ff8f-4062-b992-c78cf269ae72",
     "name": "Guided by the Past",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -20972,7 +20972,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8d5de02f-cc50-473f-b02f-ba59d24106a2"
   },
   {
-    "id": "8e277722-daf7-402b-9e39-6bef7f363182",
+    "id": "c0d9df01-66ee-475b-a4d2-0f493de16d2d",
     "name": "Shrine Guardian",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -20987,7 +20987,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ac54f3c4-b399-43d0-ac91-4827b797d03a"
   },
   {
-    "id": "d1b467de-18cf-4aa4-b9ee-26ff666c88c2",
+    "id": "e311d4a9-9e06-4cdd-b483-e9cca7c3b9aa",
     "name": "Fleeting Dance of Death",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -21002,7 +21002,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64e22b93-0add-409c-977c-effe16b4bce0"
   },
   {
-    "id": "64e215a7-9b26-4165-8d8f-8203d2b01a52",
+    "id": "df8f1328-e47d-44ec-b488-03cfa40db2c0",
     "name": "Stuff 'Em In Me Bag",
     "phaseDetails": "Once Per Turn, Any Combat Phase",
     "phase": "combatPhase",
@@ -21017,7 +21017,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4e2acca9-5000-4a8c-8a41-8d3247b25c85"
   },
   {
-    "id": "fdf3ec29-eca9-4524-87b1-19b95fe9b4cd",
+    "id": "21088e06-3c2a-4b90-97b2-df9e07390ec7",
     "name": "Pick 'Em Off",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -21032,7 +21032,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b90af676-e523-4cbc-8d9c-61030a4436d2"
   },
   {
-    "id": "fe536b13-752f-4ef6-8ea2-ce00807c0eb7",
+    "id": "bbf6ad49-8d7f-4875-ac37-622149949cb2",
     "name": "Feed On Mangled Remains",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -21047,7 +21047,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a5eacd7e-78fd-4426-9edd-906448ac4337"
   },
   {
-    "id": "7044d9b1-4542-4d0c-bb71-6ba38159a7ed",
+    "id": "37161ed0-f206-4301-91ce-8a28f19cae59",
     "name": "Sneaky Infiltrators",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -21062,7 +21062,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "56358663-0f7f-42ce-a67e-fd218d479c3f"
   },
   {
-    "id": "40227e3e-1d06-4fff-b5be-74f91ad14ab1",
+    "id": "9df08e4a-9e32-4e54-9b16-19d4729ce7e0",
     "name": "Lead From The Front",
     "phaseDetails": "Once Per Battle (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -21077,7 +21077,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "063fbf2f-5d84-4a60-815d-052984d192fe"
   },
   {
-    "id": "d11ae904-c0af-4344-877c-6c29828e9cd4",
+    "id": "9f151671-b42c-440a-8143-d1d3b3e555a2",
     "name": "Spawn of Sotek",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -21092,7 +21092,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8b809172-65f2-4d7b-aa42-8de279f73475"
   },
   {
-    "id": "6225f6c1-55c9-4082-8e39-16b2e141d76f",
+    "id": "8b4a4ce3-8cf0-4684-bf11-315272537390",
     "name": "Smash Down",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -21107,7 +21107,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f"
   },
   {
-    "id": "131b8ab0-7edb-4def-8efe-4846f321bf61",
+    "id": "aa70f058-2d45-43b0-8fe6-fdda9a93ee90",
     "name": "Sonic Assault",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -21122,7 +21122,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6d2d5756-2783-4522-a16b-fe2c123f230c"
   },
   {
-    "id": "2fa0b234-7f52-47a5-8ee9-d923a4559da9",
+    "id": "205a58da-a63b-4e72-892d-b262a08545c3",
     "name": "Damned Conduit",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -21137,7 +21137,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ebc1df94-e25a-4fe9-a28c-83738b3a11ea"
   },
   {
-    "id": "baea883c-acd2-4884-8d1d-5b404f7655f0",
+    "id": "836c7bf1-6e72-4e1c-ad3c-b94b5b4edc26",
     "name": "More-more Rats",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -21152,7 +21152,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ab71275b-ceae-4628-b262-b643547a65ec"
   },
   {
-    "id": "357c567c-47c4-4b8c-9759-fcf9b38b91c4",
+    "id": "74d77ec8-11ba-4c10-8080-002e02be6560",
     "name": "Mortis Priest",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -21167,7 +21167,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "00e402db-f205-4ae1-95d7-6a14a91aa1f4"
   },
   {
-    "id": "436201d8-fd96-465d-890a-456b1813428c",
+    "id": "40fb723a-76cf-4544-973e-1e5aa43c3576",
     "name": "Warlord of the First Circle",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -21182,7 +21182,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640"
   },
   {
-    "id": "7eaf4dba-59ba-4617-8552-3c9bfcb43cfe",
+    "id": "b824b9e9-521f-4c68-8deb-a207674bf2de",
     "name": "Bet-master",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -21197,7 +21197,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d9792d3c-58eb-4993-9561-07b92858050a"
   },
   {
-    "id": "178762e4-9ae6-450f-b927-7958cebe7a21",
+    "id": "e6f6de22-cc32-4080-98b1-c610df90015f",
     "name": "Mortarch  of Grief",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -21212,7 +21212,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "211a0af9-d36b-4572-b263-ca41e907e044"
   },
   {
-    "id": "2967f679-0c41-4aaf-a24d-835c6c2b792e",
+    "id": "1212fafe-af18-4db9-9768-2a3cde880235",
     "name": "Aura of Agony",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -21227,7 +21227,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d09668d1-c67f-4d50-9870-bca8f7d16bd6"
   },
   {
-    "id": "4c2c8e1e-681e-453b-9e87-16168cdb0394",
+    "id": "32e8b2f6-e7ab-4685-a350-f6273964710b",
     "name": "The Queen's Dictat",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -21242,7 +21242,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e49cc262-90d5-4977-bbe5-852041b42e6b"
   },
   {
-    "id": "891c29e6-9096-4f7a-9e25-fe4513b86c0c",
+    "id": "8ec8524d-3496-4fa6-916c-759553c2b601",
     "name": "Ripperdactyl Assault",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -21257,7 +21257,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "95b6f2b8-6cc3-43fb-9454-c6ec13d382c3"
   },
   {
-    "id": "36a26ebb-b7fe-4e01-a5fe-9d03abde552d",
+    "id": "f0c74d75-7216-4f85-bd50-4d033648fb83",
     "name": "Bubonic Barrage",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -21272,7 +21272,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "563131e7-d364-4897-872f-a8fcb6ad7834"
   },
   {
-    "id": "a066004f-6aaf-4f66-8f34-facbf53ada3d",
+    "id": "c55b0dc3-cf40-4199-824f-97d9dd807ccd",
     "name": "I'm Da Boss",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -21287,7 +21287,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "496c303a-a30c-44e3-9e27-2bceed7472f6"
   },
   {
-    "id": "2c96b9a0-ec03-464c-84fe-53131c512e8c",
+    "id": "98ac7b50-87f0-47dd-8294-f5b290fb88d8",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -21302,7 +21302,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fff78886-e1e9-463e-b7a8-3d36d3774ce8"
   },
   {
-    "id": "9cd6a6a3-6122-4862-8413-fe49a73b926e",
+    "id": "5dac376e-cbe9-4bca-b85a-899da85a1d80",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -21317,7 +21317,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "27bf346d-56fb-4fd8-964d-08c1bbec8b96"
   },
   {
-    "id": "e096e3d7-e769-462d-8485-2abe85c2aabb",
+    "id": "4ebdbf91-4715-4718-bc1f-6a472ee949a6",
     "name": "Mortarch of the Necropolis",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -21332,7 +21332,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "33307074-e207-4cda-8c0c-ffb6060b0815"
   },
   {
-    "id": "d5786661-4108-49be-8a20-e67e39f4f459",
+    "id": "59c553b7-4416-486a-9b5f-08b4e092e83b",
     "name": "Excess of Blades",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -21347,7 +21347,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e15afc97-a4e7-463c-bac1-61c72be00a6d"
   },
   {
-    "id": "40d442d6-e381-4511-a236-c4de086c7e0c",
+    "id": "5ab3bbec-08a1-403f-a270-c4dfe815d1a7",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -21362,7 +21362,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c53af49b-ad48-418f-a93f-f439b846a45b"
   },
   {
-    "id": "11255214-0bdb-4a8b-a4fe-cbb29b7acda7",
+    "id": "c6193b87-c921-4419-a24a-e774b0a2d28b",
     "name": "Invocation of Nagash",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -21374,10 +21374,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "This unit can cast this spell more than once per phase. Pick a visible unit wholly within 18\" of this unit that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
     "effect": "If the target is an enemy unit, inflict D3 mortal damage on it. If the target is a friendly Death unit, pick 1 of the following effects:\n\n• Return a number of slain models to the target unit with a combined Health characteristic of up to 3.\n• The target has Ward (5+) until the start of your next turn.",
     "abilityAndCommandIcon": "special",
-    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c"
+    "warscrollId": "9b60ec8d-81b2-4818-bbb1-01b888070ad4"
   },
   {
-    "id": "acb6a220-0909-453b-bd97-cf02bc457eb5",
+    "id": "9e531e0c-4643-48b7-9999-4585642e6257",
     "name": "Rise Again",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -21392,7 +21392,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5a2a1de6-51c5-450e-87a6-8c08e64c7fea"
   },
   {
-    "id": "2a59867a-5e2f-443a-a5a4-bcbf9dff1685",
+    "id": "7ee1cdd8-b61f-49f0-a2e6-1c68f723ca3c",
     "name": "Tyrannical Packmaster",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -21407,7 +21407,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "351f40fc-7aba-49a6-8f04-48a165978cce"
   },
   {
-    "id": "85155e29-b5f3-444c-a5d4-c3fb847bb522",
+    "id": "7ee863e7-fbb8-4e43-b924-a27f9a8dba21",
     "name": "Lofted Shots",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -21422,7 +21422,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6fea767a-570e-408f-9ed6-0fc6c682c116"
   },
   {
-    "id": "6dd9d367-3ba1-4f20-b246-ec1eb39dc401",
+    "id": "81d8c2f6-c5e9-471e-84bb-4e06eb3094c3",
     "name": "Mercurial Aspect",
     "phaseDetails": "Once Per Turn, Any Hero Phase",
     "phase": "heroPhase",
@@ -21437,7 +21437,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2f62a967-f20f-440a-a961-883d98999633"
   },
   {
-    "id": "38f80c12-39e6-47f6-add9-9e2c864eb0a9",
+    "id": "bb325c6a-11d4-44b6-b4fe-7d69503bf404",
     "name": "Impaling Charge",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -21452,7 +21452,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82dc37c6-a37a-4522-9141-30761cf8ef45"
   },
   {
-    "id": "933ecdf3-e37d-4dd7-bf37-434d651ec84c",
+    "id": "e28c67a1-c180-47a3-9950-e8c31821326c",
     "name": "Bloated Bulk",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -21467,7 +21467,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5bda55a6-2cfa-40ce-93b3-a52fd70d3fc2"
   },
   {
-    "id": "674f4b19-79d1-41c7-8af3-85e748249d52",
+    "id": "64393160-89fa-4214-b539-e5c17784d0e7",
     "name": "Stuff 'Em In Me Bag",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -21482,7 +21482,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "af21e57b-8de2-4052-8f0f-d07187ea211d"
   },
   {
-    "id": "b0102cc2-eab0-40ea-b347-6063ca0f876d",
+    "id": "d76cc940-f0cf-46b3-9692-0a119758654f",
     "name": "Son of Behemat",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -21497,7 +21497,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1"
   },
   {
-    "id": "d496c2ff-e54d-4d6e-967c-804bc38c542c",
+    "id": "06ae2cc3-892b-4d56-9d2a-b6bf903460c1",
     "name": "Killing Blow",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -21512,7 +21512,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "760608a5-5a37-45fe-8a78-b18b682c458a"
   },
   {
-    "id": "2ae3fb25-4ef4-4bc4-a94b-4fa70a303831",
+    "id": "26042d66-f8b7-4739-b869-e033c0673cc5",
     "name": "Stalk The Prey",
     "phaseDetails": "Enemy Movement Phase",
     "phase": "movementPhase",
@@ -21527,7 +21527,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "256dbc2a-c9de-4373-82a9-673821e7f105"
   },
   {
-    "id": "158b3a55-adfa-4201-8780-da0f1f949e89",
+    "id": "d122db22-c159-4073-b794-4b23e2dd6832",
     "name": "Supreme Lord of the Undead",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -21539,10 +21539,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a friendly non-Hero non-Unique Death unit that has been destroyed to be the target.",
     "effect": "Set up a replacement unit identical to the target wholly within 12\" of this unit and more than 9\" from all enemy units.",
     "abilityAndCommandIcon": "rallying",
-    "warscrollId": "2f5ce910-2283-48ca-b2a8-9ab50262cb9f"
+    "warscrollId": "096e15ac-06a5-4ef2-a9cf-21c72be02f1d"
   },
   {
-    "id": "d52b3c92-0168-4b19-b3d8-8cf4cf3ea16a",
+    "id": "3f161ea3-03bb-438c-9cfe-6aa9f7ca2662",
     "name": "Smouldering Braziers",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -21557,7 +21557,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e2ca438e-bdb7-4aa9-8929-134aee79376f"
   },
   {
-    "id": "09ba58d1-c6d1-4915-91cf-d06a6e3c2d77",
+    "id": "e2fecf08-88d7-45d5-805b-a2308d683b31",
     "name": "Locus of Change",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -21572,7 +21572,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e9e685ea-35f5-45b7-96b9-ac0a16813888"
   },
   {
-    "id": "5c5bb759-dcf9-4e93-8778-f8faa23ab72f",
+    "id": "e902ea26-c19e-426a-adf7-9572760289a6",
     "name": "Violent Despoilers",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -21587,7 +21587,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1844d752-8715-4670-8e97-1c43ba13c3de"
   },
   {
-    "id": "fe35ea1d-50b1-4821-849c-4d64320bb1c0",
+    "id": "c9312a5e-650c-4745-a3e9-42c6f7b9defd",
     "name": "Emergency Field Repairs",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -21602,7 +21602,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d5aefc64-615e-4e47-8b0a-c512f45f6011"
   },
   {
-    "id": "4f8792e0-d14a-4618-9f93-7ce1107c903b",
+    "id": "763392bc-159d-4c0f-9bde-78d26bb41d83",
     "name": "Fount of Willpower",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -21617,7 +21617,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0bc4317c-0717-46b5-bb3f-e7c3978980a0"
   },
   {
-    "id": "d829974a-42f4-4327-a09e-b969215ba7e7",
+    "id": "5501b763-1133-49e5-a05c-47e01cd951df",
     "name": "By Grungni, I Have My Eye On You!",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -21632,7 +21632,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f3d7efad-563f-4932-93b0-e240fd9fe162"
   },
   {
-    "id": "71f19ed2-917c-4cf7-9e95-d88773dac089",
+    "id": "5ff133cc-86bb-4433-8feb-b8cf2951c376",
     "name": "The Shield Inviolate",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -21644,10 +21644,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit was picked to be the target of that spell, roll a dice. On a 3+, ignore the effect of that spell on this unit. This unit can use this ability more than once per phase but only once per Spell ability.",
     "abilityAndCommandIcon": "defensive",
-    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f"
+    "warscrollId": "8108d657-35b7-46b6-87fc-96855286fa65"
   },
   {
-    "id": "cc3d784f-1357-4466-a2c9-040c1726e024",
+    "id": "b109a107-6cd2-4a04-96e2-101083ed836c",
     "name": "Unleashed Warp-fury",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -21662,7 +21662,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6982f25e-c504-490b-9ab5-32b3db768d04"
   },
   {
-    "id": "bbe68a94-ade0-4542-a3b8-045d68355c66",
+    "id": "48b32d51-284b-41f4-bed6-27116d6a8d87",
     "name": "Gobbapalooza Know-Wotz",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -21677,7 +21677,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9ba17166-fd30-4cce-ba16-42946c38ae66"
   },
   {
-    "id": "06717351-a947-4d58-be8a-c2f18076f8d0",
+    "id": "e102d8d3-dd1a-4aa0-8632-f09ceae4e60e",
     "name": "Marked for Destruction",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -21692,7 +21692,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3cc579b6-a4b9-48e7-b134-0decf7ed3129"
   },
   {
-    "id": "e08ac051-b249-4b8a-8187-680b7fdf2c02",
+    "id": "ebb320af-37e5-4866-947e-d354ba610bc8",
     "name": "Orgy of Slaughter",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -21707,7 +21707,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bad52d81-5205-4eef-8961-6ea85609eae4"
   },
   {
-    "id": "9153b71f-6f4b-42c6-8542-1893447f20ab",
+    "id": "e79ffb91-e000-4b08-9417-dd0f08f0982a",
     "name": "Forest Fighters",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -21722,7 +21722,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e9a93214-b15c-448f-b749-5e95bb71613a"
   },
   {
-    "id": "6c08a3f0-3f9e-483b-888c-b9de2898430b",
+    "id": "e9b8a53c-6ab2-40d3-9608-a3679fd104b5",
     "name": "Bully of the First Degree",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -21737,7 +21737,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7bae36d7-9d2e-4ff5-95f8-43f79dae52dd"
   },
   {
-    "id": "843d443f-7036-4658-a760-ecb30bde2fad",
+    "id": "94452d0d-edbf-40e6-810f-7da38e7358aa",
     "name": "Sigils of  Domination",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -21752,7 +21752,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "69cee10c-84d4-4ff3-a1d7-a2aa2663fce4"
   },
   {
-    "id": "2e20ab13-1e12-4cba-8906-d8132f0d8c01",
+    "id": "b06183e6-068c-4f3f-9bc4-26729ef1ddd0",
     "name": "Saintly Assault",
     "phaseDetails": "Once Per Battle, Your Charge Phase",
     "phase": "chargePhase",
@@ -21767,7 +21767,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "35dc51cf-1d72-4a80-b4ed-68026a4c68d7"
   },
   {
-    "id": "16eb0073-5f49-421c-8412-a2169614f79d",
+    "id": "57d1f004-4c2b-4b39-9058-58ebc08ec3f7",
     "name": "Oath of Conquest",
     "phaseDetails": "Once Per Battle, Any Hero Phase",
     "phase": "heroPhase",
@@ -21782,7 +21782,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f0ed01a0-a398-4e76-8d83-2de2f0730b30"
   },
   {
-    "id": "68d0753b-0b4f-4b68-bdc1-f987b1132d1e",
+    "id": "12f9d0c3-05e8-4752-8878-cf2d0dd8e49a",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -21797,7 +21797,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b31ffa62-7cc1-4ef2-87b7-b583667ab7c3"
   },
   {
-    "id": "fdc19484-cf63-4451-9cd4-a2c6d0507c70",
+    "id": "0c9901f5-e4b7-4892-9225-9431feb92632",
     "name": "Wolfguard",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -21812,7 +21812,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cea7cd00-b2e6-48ea-9bfd-cb353cb78ab0"
   },
   {
-    "id": "9bd53c49-958e-4e12-96c3-2a37feef9e89",
+    "id": "a8ce1d9b-0ee6-43dc-8afc-ca3b0f314199",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -21827,7 +21827,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13a48d2d-4966-4e3e-ac17-e22b6bd1ed4b"
   },
   {
-    "id": "2a0e9002-f79a-46f1-806c-ce7284fc942b",
+    "id": "5a27690f-3457-4e1b-a993-56910c20f4e8",
     "name": "Festering Wounds",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -21842,7 +21842,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6b13f90a-9ee7-4d0a-89bf-a2e104f9cc09"
   },
   {
-    "id": "c600d0c1-48b2-4e79-a25c-a77bcf67a141",
+    "id": "74cb2ddb-e069-431b-9116-6d860ed68f59",
     "name": "Cosmic Engine",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -21857,7 +21857,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d1988651-7d73-4683-a57f-7310b15a99fc"
   },
   {
-    "id": "d44f9894-0480-4ad4-b23c-470323eefe1e",
+    "id": "51bfcad1-384f-48e0-bb85-5dfda7a42547",
     "name": "Raging Inferno",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -21872,7 +21872,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9dc54ba7-9824-44e6-929f-17177742c982"
   },
   {
-    "id": "93f900b3-ddf9-4630-a5a2-0369c160c0c9",
+    "id": "45a9bdb3-095e-4ee7-b1f9-ae0c4bed7eea",
     "name": "Wake of Fire",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -21887,7 +21887,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6ca9706d-8960-4b35-b58b-e7714865e07c"
   },
   {
-    "id": "ad0b79a2-fc67-437c-9a98-69ee9b4b1c15",
+    "id": "1095c401-ddaa-47ea-91b8-f76ac2c8b2bd",
     "name": "Ensnaring Lash",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -21902,7 +21902,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "af26720d-51aa-43a6-8e9c-4fadfd5f17e7"
   },
   {
-    "id": "548c492a-f411-4cc9-9058-3aaedfb95100",
+    "id": "f24e33a3-fdcc-4b94-a95d-141470962da7",
     "name": "Indulgence Given Form",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -21917,7 +21917,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "48818195-19b6-4f67-bec3-00e6adfb63ed"
   },
   {
-    "id": "7a009c70-a39f-4271-aecd-4eca41928c32",
+    "id": "74d7ba17-4372-44e6-a806-9965c44be4e7",
     "name": "Stonemage Symbiosis",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -21932,7 +21932,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c4820879-595d-45e5-949b-f8d15cfe7d98"
   },
   {
-    "id": "fd80a96c-5859-4672-ac94-26e9343ff55a",
+    "id": "83069b53-93cb-4de1-84d8-71c1cb4a4413",
     "name": "Shepherd of Destruction",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -21947,7 +21947,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "43973acb-7890-4efa-8f1f-2650bd30fca5"
   },
   {
-    "id": "b3203a12-de19-4cdd-8a39-cd29c3b6eb3f",
+    "id": "d281c7a3-7211-4d80-8194-419389c9a674",
     "name": "Noble Blood",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -21962,7 +21962,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a560e2b6-0cc9-425e-ada5-df0ce833adc7"
   },
   {
-    "id": "25194e1e-7706-43b0-ab81-406ca043dc88",
+    "id": "8cf5efc0-1abe-47bb-863a-d98e306443a7",
     "name": "Unbridled Malice",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -21977,7 +21977,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3e757945-739e-489d-bda6-bc40c4f74a6e"
   },
   {
-    "id": "37bc3dc4-ba89-4bdd-b5e3-ba6659a7c223",
+    "id": "41e3710a-4100-424b-9e17-4c891e89a763",
     "name": "Stolen Hours",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -21992,7 +21992,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "83fd3e52-1fcd-4ef7-a9e1-1ecab4759e66"
   },
   {
-    "id": "a218638a-bb1e-4ae0-a2e7-d1682b28a9dc",
+    "id": "ceae6517-822a-4370-941e-49080793cf4d",
     "name": "Beckon The Hunt",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -22007,7 +22007,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "af26720d-51aa-43a6-8e9c-4fadfd5f17e7"
   },
   {
-    "id": "a0f2a898-80eb-4359-94ec-ea1fa8e87f51",
+    "id": "22f13828-147a-42cc-8bf5-a4bf766d8ce8",
     "name": "Warrior-kings",
     "phaseDetails": "Once Per Battle (Army), Your Combat Phase",
     "phase": "combatPhase",
@@ -22022,7 +22022,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9dc54ba7-9824-44e6-929f-17177742c982"
   },
   {
-    "id": "d160ced9-f1e6-41bd-8678-537d62ede83e",
+    "id": "86156cc1-1341-4c9e-8892-ef5cd1ffc324",
     "name": "Lifebloom",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -22037,7 +22037,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "067a82f4-42c7-49d7-be99-9875a6f9c6b2"
   },
   {
-    "id": "5bbfd52b-3492-4f59-bf4a-ceb9056577aa",
+    "id": "24697c09-0d59-4ad7-9f81-2032eb86bc11",
     "name": "Unstoppable Charge",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -22052,7 +22052,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "56a7bac6-dad9-44c3-baa4-56eeb9a0f803"
   },
   {
-    "id": "30d495c6-f21e-4dca-8c49-c1a05a844321",
+    "id": "7d9e3506-c159-41c1-add4-ea440c9366fd",
     "name": "Attack from on High",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -22067,7 +22067,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "94032dc0-5c0b-4ee3-a98a-6544169a4ddb"
   },
   {
-    "id": "ddb6cd3d-91ca-4588-b02d-d966a593b83a",
+    "id": "6dc57c3c-e6ec-415f-9e3c-e816fb087efa",
     "name": "Squig Rage",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -22082,7 +22082,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e7ec47e9-b8bb-4234-9c11-70bb9fe7bf6d"
   },
   {
-    "id": "2137775d-9e96-49c6-9840-588ef94654fc",
+    "id": "5ef86322-cf77-4fa9-96cc-fe434fe59be0",
     "name": "Blood Sacrifice",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -22097,7 +22097,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9869ec58-8081-4f8c-b966-e5abd13f3e3d"
   },
   {
-    "id": "8d8ad83b-b572-411f-ab09-f4925e9c34cb",
+    "id": "10e70ab0-d470-4e2b-bd0d-241950522b85",
     "name": "Envoys of the Everqueen",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -22112,7 +22112,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9e173f98-a411-4bda-9253-e7b315de7ca5"
   },
   {
-    "id": "b3853435-a366-4c86-9c22-5cdc6f699954",
+    "id": "3f7b2381-4f9b-4168-a5ea-e3fc2a31a712",
     "name": "Smash Through",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -22127,7 +22127,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ab6c336a-76d3-480f-b7da-68d213041206"
   },
   {
-    "id": "614e1d1f-301f-441a-a8ab-499ea22de192",
+    "id": "a10a040e-b5c6-4c32-bfaf-40b3e05495ee",
     "name": "On Wings of Brilliance",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -22142,7 +22142,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c01f5685-3704-4b3f-942f-e59d6ad8b9ef"
   },
   {
-    "id": "25b3c906-f4c7-4bdd-acac-e8524f320f9f",
+    "id": "3b1acf7f-3625-4ce0-89ab-294ac729b6ca",
     "name": "The Shield Inviolate",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -22154,10 +22154,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit was picked to be the target of that spell, roll a dice. On a 3+, ignore the effect of that spell on this unit. This unit can use this ability more than once per phase but only once per Spell ability.",
     "abilityAndCommandIcon": "defensive",
-    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324"
+    "warscrollId": "4e49066f-602e-446b-9107-1adec25aa3ac"
   },
   {
-    "id": "91d07d6a-26ed-4e0b-af4f-9c471e30f7a2",
+    "id": "c5656394-e6c6-4ee6-aa06-3b18f8374132",
     "name": "Wither",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -22169,10 +22169,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a visible enemy unit within 13\" of this unit to be the target, then make a casting roll of 2D6.",
     "effect": "On a 6+, inflict D3 mortal damage on the target.",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "c7eb4898-9e61-4652-a539-53b69c92fc21"
+    "warscrollId": "786a967d-0559-4bfb-8953-6644543d59dd"
   },
   {
-    "id": "0f0d74ec-5ed1-4359-9e42-977eab746c17",
+    "id": "c39ae584-818f-4383-837e-a6ce64e26390",
     "name": "Share The Pain",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -22187,7 +22187,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3db5edd1-8a80-42a1-997f-5b578943b462"
   },
   {
-    "id": "14f16cf9-f9b4-48e7-9c2e-3f51019184bf",
+    "id": "bd36f75a-f79a-4c80-98e6-68b7c8240bf8",
     "name": "The Thirteen-headed One",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -22202,7 +22202,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d81c17ed-1d97-4f5b-a5e4-8a4f70ca1fcb"
   },
   {
-    "id": "33492dae-2c2a-4f56-8fcb-d975edea933a",
+    "id": "4c803a56-e188-49fb-94d0-62b33cb1f7be",
     "name": "Rite of Haste",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -22217,7 +22217,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2904363f-db05-48c4-809c-38c77c31f963"
   },
   {
-    "id": "bf697d9e-9fd7-4dc0-af3f-1208601308c5",
+    "id": "e08ccc4b-5be5-4aed-a830-4b0419927caa",
     "name": "Maiming Charge",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -22232,7 +22232,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6716938f-a836-42f7-bd9c-aa0b183c585d"
   },
   {
-    "id": "734b9c72-7265-425e-86bb-649709a0ad8e",
+    "id": "9f109fbb-f9bc-4b17-b5e9-9e043352461e",
     "name": "Oath of the Marauder",
     "phaseDetails": "Once Per Battle, Any Charge Phase",
     "phase": "chargePhase",
@@ -22247,7 +22247,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8abf7633-9c6e-4781-9352-4721b5151a56"
   },
   {
-    "id": "9218d189-62f7-4ed3-953b-3d1e5b9ffbf7",
+    "id": "88d1ef70-7c3a-4310-9110-4fb7bca093b0",
     "name": "The Doom of Traitors",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -22262,7 +22262,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9864e44c-eff4-4d80-87b8-b73a06080d03"
   },
   {
-    "id": "de89a951-0c72-4943-ac5e-e10ba37c334f",
+    "id": "e3fc825a-c1f1-4eeb-bfe7-79b453845075",
     "name": "Zondara Rivenheart",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -22277,7 +22277,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "271da01b-9ae3-4a51-b23e-4e6e39a890bf"
   },
   {
-    "id": "42c1364f-a495-4b49-9b22-d7e549942c1d",
+    "id": "2b4de2dc-533b-4fef-9320-6d914875e992",
     "name": "Phase Ink",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -22292,7 +22292,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a482bb1b-598a-465d-b50d-16c957d5b6ca"
   },
   {
-    "id": "daf8048a-f550-43ca-8a13-cd8da8b488ae",
+    "id": "189b4436-a7aa-45c5-b2ec-6e03071a182c",
     "name": "Slaughterer's Call",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -22307,7 +22307,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f50fa1d6-6239-4563-90d8-e1a8e1a35c78"
   },
   {
-    "id": "78fb5f22-392f-4d78-afb9-8337ea48fa95",
+    "id": "41cd85c6-587d-4ddb-a4fd-e456d322eac7",
     "name": "Killing Stroke",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -22322,7 +22322,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "780daaa4-923d-4851-8bad-2b343ac3cc6d"
   },
   {
-    "id": "3dfde716-3b30-40b8-b419-3e0fbbf79d12",
+    "id": "0ff5ab7d-b0c3-4bd9-b968-c9624ad6a95a",
     "name": "Mutagenic Sorcery",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -22337,7 +22337,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2904363f-db05-48c4-809c-38c77c31f963"
   },
   {
-    "id": "9208122d-3979-412f-aeeb-c4a1b3fc6b55",
+    "id": "8421372e-3788-4c63-b094-4df4a9494a61",
     "name": "Ferocious Advance",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -22352,7 +22352,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7aa44d11-c512-4ae9-b856-1c31ad579ec0"
   },
   {
-    "id": "e24b867e-d137-484d-82a4-b1051166c79d",
+    "id": "6ec6392c-70a7-4983-af23-3bd967cd9c7f",
     "name": "Tanglethorn Thicket",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -22367,7 +22367,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aefaabaa-52aa-49d4-8208-c9da6cbee590"
   },
   {
-    "id": "7e6b0633-0344-4f16-8064-5a8d956efbe7",
+    "id": "21b66182-b10a-4844-bd7e-6f604755495a",
     "name": "Unstoppable Momentum",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -22382,7 +22382,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bb3a92b0-8814-4d7e-93e5-5092f18f8075"
   },
   {
-    "id": "3b943516-2736-4372-ba0e-e88bf12b5fa6",
+    "id": "a3a44db3-8805-49d5-9278-783436d01b18",
     "name": "Driven by Hunger",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -22397,7 +22397,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0a292d10-51bf-45cd-b033-7386d8f7819e"
   },
   {
-    "id": "6d93e43f-da3b-4b19-9b3f-e8f52f922570",
+    "id": "e142b92a-b110-4af4-885f-626e418f2491",
     "name": "Horrific Predators",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -22412,7 +22412,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ad9a3807-1fd8-4b75-9cf9-c79821747f0d"
   },
   {
-    "id": "344d9efa-3add-4db0-b747-d3558d7bc200",
+    "id": "f021c4ba-13e6-4cd7-87bb-7d72c45446c6",
     "name": "Ferocious Hunger",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -22427,7 +22427,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64303de5-ba4e-4a76-a12b-95a0b7fac376"
   },
   {
-    "id": "b3d2feac-e6a3-4ff2-bd31-23fba01e2074",
+    "id": "acd62f83-e34a-45f1-afd4-3593461c6a3e",
     "name": "Unnatural Speed",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -22442,7 +22442,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2ff2597e-76de-4d7d-a32c-5b69dded74c0"
   },
   {
-    "id": "d30ddec2-925f-464c-9d26-a3bbb7d76bb4",
+    "id": "98857740-53b9-45e3-9bb6-da10c06da476",
     "name": "Keep Counting, I'm Watching You",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -22457,7 +22457,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "20eb03fc-e277-49f7-aea3-57507af11896"
   },
   {
-    "id": "f5cc7406-7648-445b-954f-8e69a759b6d7",
+    "id": "e4b991df-ffa0-4ffc-9e41-19664afb9af6",
     "name": "Slicing Fervour",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -22472,7 +22472,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "074b6728-9ed2-4a73-a1f5-4a6e034f9525"
   },
   {
-    "id": "90073297-5596-4f54-8136-80d10b97f1f3",
+    "id": "adb08bfa-4128-4a71-a5f3-7d39b6071e9c",
     "name": "Pulled Into The Depths",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -22487,7 +22487,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6e6d7560-c4b3-46f1-8a02-37152b8584f3"
   },
   {
-    "id": "221835f1-ab4e-4157-9e85-a1129dc83d5a",
+    "id": "e85b8017-a7fa-4f31-a142-afc7a0bf9f8f",
     "name": "Lord of Great Plagues",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -22502,7 +22502,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f6def3d-a822-46f8-b15f-a18cb71a6e29"
   },
   {
-    "id": "b26f8ca7-a666-427f-a777-0c6517c4b931",
+    "id": "781c7a65-0685-45ea-bc31-ff33615bcabf",
     "name": "Crimson Haze",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -22517,7 +22517,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5c83096b-00bf-4231-8ec9-87389157441c"
   },
   {
-    "id": "ddc65f7d-60f7-4cb1-a146-8169cdd43ed5",
+    "id": "c88d2939-1cc9-40db-a87a-bf98ae754834",
     "name": "Kiss of the Blade Proboscian",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -22532,7 +22532,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "42d0aa6d-2f14-4abe-9bac-bd3619d4394f"
   },
   {
-    "id": "0cf1bb09-26db-4509-90ed-f271ca0599f3",
+    "id": "c97604fa-d40c-4b01-8854-7ce39fe05bd1",
     "name": "The Slaughterborn",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -22547,7 +22547,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d9de54f6-29a2-4019-9af2-3c8160b68609"
   },
   {
-    "id": "aa128429-b9f3-4257-8eec-cfad03226fb8",
+    "id": "c63306dd-6751-4c63-94ff-288dc40d4a92",
     "name": "Regeneration",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -22562,7 +22562,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3a64da27-5cab-468a-8fc8-84a238e2305a"
   },
   {
-    "id": "fd451340-7a61-4f06-ae6c-e5b24a72388d",
+    "id": "507630d3-ce90-47a0-b678-eaa660cc2d0a",
     "name": "Fierce Guardians",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -22577,7 +22577,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8f5107dd-7622-442b-bca6-d256c942fd6e"
   },
   {
-    "id": "808fc86c-989d-4929-8d0f-8b382dbba7ed",
+    "id": "82c34adb-21fe-458c-b03a-97f84d8b8395",
     "name": "Staff of the Horned Rat",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -22592,7 +22592,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1d0d4abc-e4ba-4604-b8b8-f5512ffb59f7"
   },
   {
-    "id": "1bf4d2c5-3789-4d5a-b4b3-5856ad04c00d",
+    "id": "3def3c58-17aa-4f93-a668-8a8b3292e509",
     "name": "Aura of Protection",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -22607,7 +22607,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e43f0fb8-ba17-45b4-9944-7ceb118b5338"
   },
   {
-    "id": "2f8bb2b7-4081-45f5-8127-383c645f596e",
+    "id": "b76efa07-71cb-4961-96d2-05b322f639dd",
     "name": "Charge of the Lumineth",
     "phaseDetails": "Once Per Battle, Your Charge Phase",
     "phase": "chargePhase",
@@ -22622,7 +22622,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7104c2c8-b3f4-44ad-a06e-7817ece9134a"
   },
   {
-    "id": "569daaf0-7104-4231-bd0c-391cb7df1b64",
+    "id": "51304178-8854-4188-8129-503efe3f9e7d",
     "name": "Ark of Sotek",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -22637,7 +22637,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bbc6f653-7d6a-4a84-a681-2473362dc080"
   },
   {
-    "id": "4b909a1c-4dbc-4042-8078-efe094d501f2",
+    "id": "86e11a61-8de6-4b17-87da-a818f6fc086c",
     "name": "Fleet of Foot",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -22652,7 +22652,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aacea25b-e67c-43c8-871a-223f5aa52a8c"
   },
   {
-    "id": "cc2e7dff-3ef0-4b71-9851-da1175040bb7",
+    "id": "ae57a1ca-c6b3-4c84-ba3f-be99f3345505",
     "name": "Inescapable Wrath",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -22667,7 +22667,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9bf5e29a-c0f9-42cc-aeae-0c46a192b883"
   },
   {
-    "id": "b7af1e7f-bfbc-4d65-8036-72e69c5dae2c",
+    "id": "f639fa6f-a510-45dd-96b7-f0943d83c020",
     "name": "Unrelenting Hunter",
     "phaseDetails": "Once Per Turn (Army), Enemy Movement Phase",
     "phase": "movementPhase",
@@ -22682,7 +22682,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ef34403b-bf7c-45f9-9dad-9d66d358c93c"
   },
   {
-    "id": "c8de50f0-df25-4b31-9f57-64e6f7d694de",
+    "id": "295ea643-18e5-4e0e-8561-e7f09bafbfb8",
     "name": "Fuelled By Sorcery",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -22697,7 +22697,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ff34b3df-0dc1-41b9-9eb7-4ee6d246bd3b"
   },
   {
-    "id": "95118dc7-a7c1-4b30-b641-8c9bbbbcfab8",
+    "id": "9abe9c90-f51c-4639-bc45-4a254475a848",
     "name": "Watch Out!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -22712,7 +22712,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "51f2ce79-fa04-47ac-89f2-34cd916a57d5"
   },
   {
-    "id": "34149e65-8967-4fe3-8b6b-3469cc61ca94",
+    "id": "0286c547-2cff-4382-ac17-519da3869bed",
     "name": "Only The Best Will Suffice",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -22727,7 +22727,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f73839c-5f51-4859-91ac-2844711cd34f"
   },
   {
-    "id": "1c1b00ff-d3d8-43dd-af9e-b04c81c77968",
+    "id": "67f68d28-433a-4ab2-b3b0-1f5d53ca8423",
     "name": "Royal Flaymaster",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -22742,7 +22742,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bf24a6e9-4de1-4f51-b9ce-cf116ca32430"
   },
   {
-    "id": "02c12396-6299-431d-956d-f06de6ab218d",
+    "id": "154318f7-1fca-47ea-9211-c473655c4980",
     "name": "Wails of the Damned",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -22757,7 +22757,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67f8f334-425b-4655-899b-2d66018dfb06"
   },
   {
-    "id": "674a62b6-6d8e-4eb0-a359-d3304c996bd8",
+    "id": "21c8c9a1-0090-444c-b686-de6e8d7ecbfa",
     "name": "Supreme Master of Order",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -22772,7 +22772,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "72638bb4-d077-45f8-9cb4-98f15de22244"
   },
   {
-    "id": "640d12c0-6816-45a9-a257-da6f1f38b39e",
+    "id": "997dd6a8-1155-4842-a0c8-b7f9cd13ec6d",
     "name": "Heralds of Ruination",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -22787,7 +22787,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "90065c7b-196e-400e-baa1-5ba85e2806da"
   },
   {
-    "id": "d9647e06-364e-41bb-a6d6-4c6f0a4d23d6",
+    "id": "f71f64b4-0039-4978-8ada-b1a3f8aca7e4",
     "name": "Power of Behemat",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -22802,7 +22802,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d962076c-7139-4eae-ad69-22235ef6cbbd"
   },
   {
-    "id": "b9c7b9eb-e179-4bf4-b1d9-54a11d3c7db7",
+    "id": "f12282be-a333-4457-b533-e5606cdff1aa",
     "name": "Overwhelming Storm",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -22817,7 +22817,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "443ebea8-10e9-4a8c-8483-18a64902d9ad"
   },
   {
-    "id": "d607e43c-265c-44db-86bf-9dc194ca1c9e",
+    "id": "71811162-cc2d-4a80-ad67-f701b7eb3a20",
     "name": "Cavalry Warleader",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -22832,7 +22832,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "95a1be8b-a98a-4bae-9758-ea90f03119c9"
   },
   {
-    "id": "297ae09f-c44b-4fcd-8742-e8c45cb3bf5c",
+    "id": "2f6840e7-5499-4069-97a3-bfd0c218c0e6",
     "name": "Spell-eaters",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -22847,7 +22847,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3f6137c5-a9ff-4d03-b874-ff26b29f8848"
   },
   {
-    "id": "bfd50f37-5338-4a12-9d60-8aff520722ea",
+    "id": "4347727e-62cd-4a81-8159-9eaa303a81c1",
     "name": "Beneath The Tempest",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -22862,7 +22862,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "91cf69df-62af-417f-9c1d-64cb48060153"
   },
   {
-    "id": "dce86eb6-9e58-476f-b821-ab6897770645",
+    "id": "37b94b13-9660-49c9-ba3b-28b67c1a5670",
     "name": "Shadow-lurkers",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -22877,7 +22877,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a562aa0f-80e4-4332-80ba-5eaeb2be90d5"
   },
   {
-    "id": "805ba4d3-7bf6-4886-b32d-e359c761fbd1",
+    "id": "548b2467-ace0-4c6e-908a-1cff50ebc5d7",
     "name": "Sarrakkar Blackwing",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -22892,7 +22892,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62e80fcb-c385-47b0-b2cb-63406e0e3c66"
   },
   {
-    "id": "ea7acad5-961a-494a-abd6-51d493c612a1",
+    "id": "763807ab-93b5-4196-8dc1-43589007ccd8",
     "name": "The Staff of Spirits",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -22907,7 +22907,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9864e44c-eff4-4d80-87b8-b73a06080d03"
   },
   {
-    "id": "4cfd8134-e68c-4d77-acfe-d66022634707",
+    "id": "626abb1e-effa-4b8f-9d35-e0ca9cf8550f",
     "name": "Feed on Eldritch Energy",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -22922,7 +22922,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67d7a81f-160d-4881-94b8-a58d803b48c4"
   },
   {
-    "id": "02bed2fe-22cd-4566-a2a6-94bcd73b04e7",
+    "id": "97b67d4e-b9fc-421b-8e4f-17edcc83c129",
     "name": "Fill the Chalice",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -22937,7 +22937,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6ef433e-fe76-40da-9ca0-51a789a51804"
   },
   {
-    "id": "3982f514-d6a2-4d64-bdb4-f7240b9e6453",
+    "id": "c6779789-7b3e-49c7-b2ef-92ca5c4c6070",
     "name": "Drawn to War",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -22952,7 +22952,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "feafaace-e885-4a87-bc43-974f5637a55d"
   },
   {
-    "id": "04139ee3-1d47-45b0-89dd-b50b28641f71",
+    "id": "477aaa03-4c19-4823-87fa-b5280d6a92a8",
     "name": "Power Unleashed",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -22967,7 +22967,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8f5107dd-7622-442b-bca6-d256c942fd6e"
   },
   {
-    "id": "2475983f-4911-4d3b-90a1-be55275aa33f",
+    "id": "f9aaa560-cb56-40c5-85e0-2e0ea3276ddb",
     "name": "Cruel Sacrifice",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -22982,7 +22982,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d0df9f70-f9b6-4a26-8335-372f9099b3a6"
   },
   {
-    "id": "dfeb846a-67a1-46d6-a441-8086425bec83",
+    "id": "6de2c9dd-f721-437b-a91c-0bf8202c592f",
     "name": "Bite Da Moon!",
     "phaseDetails": "Once Per Battle (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -22997,7 +22997,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e7ec47e9-b8bb-4234-9c11-70bb9fe7bf6d"
   },
   {
-    "id": "a7b8a32d-12d7-4c67-bd7f-74a4de322beb",
+    "id": "dff4d004-9fee-4779-be4b-ccbc4125c440",
     "name": "Dead 'Ard",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -23012,7 +23012,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "113d045d-fb16-4513-82c7-e307cd6a5166"
   },
   {
-    "id": "84346d86-7532-4897-b88e-487f9cf6bafa",
+    "id": "dea98f9d-28ea-4cf0-9879-5fd25435a069",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -23027,7 +23027,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f3ef9b73-9107-4438-bcbd-e356151fda01"
   },
   {
-    "id": "a8076ca3-a307-4316-8c2e-41e2df58c5f3",
+    "id": "aa0be281-e5af-44ea-87ba-978b0d957c95",
     "name": "Bitey Distractions",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -23042,7 +23042,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "01fe8cf1-4f44-47e6-89e9-8b1b976b174d"
   },
   {
-    "id": "bc4d1346-9a91-40f4-b6e6-22141f85d70c",
+    "id": "3f2cf406-a63b-4b4b-a1c3-04a4ca299f88",
     "name": "Bloodfury",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -23057,7 +23057,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5c83096b-00bf-4231-8ec9-87389157441c"
   },
   {
-    "id": "799ae139-d094-471c-ae8e-49a775daddca",
+    "id": "5284e952-0f8c-45df-967b-10d35acfaa33",
     "name": "The Scent of Gore",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -23072,7 +23072,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d213163a-8f7b-4e55-b47a-88a4b5ede175"
   },
   {
-    "id": "c568358d-36d5-440e-bcfa-418cc8be65ce",
+    "id": "13aed8b3-922b-4561-920b-6193c5805a21",
     "name": "Wurrgog Mask",
     "phaseDetails": "Once Per Battle (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -23087,7 +23087,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "12378aca-546c-4cdb-9ab7-f1873e810bde"
   },
   {
-    "id": "9884ea37-f413-4023-b236-277af455a17c",
+    "id": "3a5e1dcf-9ba6-41f3-930e-4a3ded88f1bb",
     "name": "Whirlwind of Destruction",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -23102,7 +23102,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "61fc3295-b421-4d9f-907b-3e3340462085"
   },
   {
-    "id": "39c444cd-a83e-4b6e-9f91-ba9c7e21a166",
+    "id": "02e9c058-d421-44ff-bd8c-10df7ad6a70b",
     "name": "Deranged Transformation",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -23117,7 +23117,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ec6d0fa7-2418-4037-a663-77a87a746963"
   },
   {
-    "id": "ecde774f-f453-44a7-bcb4-79cb92116b4a",
+    "id": "e3a77d70-aac1-4dd7-839f-52fd23f855a3",
     "name": "Saviours of Cinderfall",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -23132,7 +23132,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "529b128b-dc22-49e3-a427-04dc2f009c09"
   },
   {
-    "id": "3aa50abd-ce85-464f-ad7e-cf0efd091bc7",
+    "id": "cdf15ff8-a80a-4663-9d51-14709bd3fe93",
     "name": "Grief-stricken",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -23147,7 +23147,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "211a0af9-d36b-4572-b263-ca41e907e044"
   },
   {
-    "id": "26721938-15e2-42d1-9b26-b3ea9bb140bd",
+    "id": "1795cbf9-df0c-4904-a1bb-b1b132bbc6f8",
     "name": "Klonk",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -23162,7 +23162,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "adecff8e-767e-4c87-9284-cf79fed6f87f"
   },
   {
-    "id": "d04d9434-7b65-446d-b794-00ab906bb9dc",
+    "id": "8076e8ee-c29d-4023-982a-8fdc558569b8",
     "name": "Wrath of the Seraphon",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -23177,7 +23177,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "83536524-9811-499f-88b5-607d2e8c61b9"
   },
   {
-    "id": "05d3a752-0e5a-4a24-8020-458644e490a0",
+    "id": "61a84642-904a-4486-ade7-e0245b47b7b1",
     "name": "Noxious Vomit",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -23192,7 +23192,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3a64da27-5cab-468a-8fc8-84a238e2305a"
   },
   {
-    "id": "0685e64c-4330-42a5-bc01-c49bc5ea05b4",
+    "id": "3859f908-1556-4b2b-bfad-14374004e8a0",
     "name": "Wrath of Khaine",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -23207,7 +23207,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "67e624d7-d1da-4761-8ca2-ec2f0bf9f5d2"
   },
   {
-    "id": "c38a9aee-bae3-48c0-8574-6269434043af",
+    "id": "f3af157e-2d1e-4edc-bf16-30b76e1e3260",
     "name": "Soulscent",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -23222,7 +23222,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ba2bce56-1746-4a09-893a-871a37c40fa0"
   },
   {
-    "id": "bd322535-0f4e-4109-9a31-5bf1d840a36a",
+    "id": "41174f15-15a9-4d54-ac51-01338c88e461",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -23237,7 +23237,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dce1facb-86d3-42a3-a75f-e1516d346b34"
   },
   {
-    "id": "74bc07af-90b1-4c4d-ac3f-fcbf07a6d8c1",
+    "id": "2fbdc46a-1e98-4a62-877f-ccbebdc2018e",
     "name": "Wave Rider",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -23252,7 +23252,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ce78aae4-0801-4388-a6c8-f1ed5d5e1af4"
   },
   {
-    "id": "aef1dea3-7b79-4440-b330-40e9b138c9b5",
+    "id": "ae76533b-91c4-494f-a50b-4eaaabe6a7a4",
     "name": "Oath of Dark Sacrifice",
     "phaseDetails": "Once Per Battle, Any Hero Phase",
     "phase": "heroPhase",
@@ -23267,7 +23267,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "62e80fcb-c385-47b0-b2cb-63406e0e3c66"
   },
   {
-    "id": "009cef4c-60e5-477f-82ea-7522d796e936",
+    "id": "c437a7d5-02bd-41ba-9055-60d3e381aa24",
     "name": "Ogor Breacher",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -23282,7 +23282,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f5199166-4357-4209-a865-b615881e8a14"
   },
   {
-    "id": "e53e04a5-57b1-44ce-974a-d1a707bfd482",
+    "id": "d829a44e-2b75-4b23-9b7c-3cdca462f56c",
     "name": "Tide of Nurglings",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -23297,7 +23297,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c8d331fc-9977-4d84-8bdf-9741c7f107a9"
   },
   {
-    "id": "77a24577-62d4-4066-ba11-79cdd61ce001",
+    "id": "bdfe91c4-d9af-4b00-9fc6-d5c4e2349b5a",
     "name": "Aethermatic Anatomiser",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -23312,7 +23312,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bcc576ba-ec4a-4502-9808-546e14cc5ad3"
   },
   {
-    "id": "64c489e6-638b-46b0-9aab-e6fe7acacd00",
+    "id": "98e18bc3-2e58-4472-aa50-3f66c03ff4ea",
     "name": "Pick 'Em Off",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -23327,7 +23327,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c80de68e-d97c-46a1-b86d-39252733a410"
   },
   {
-    "id": "2021b6e4-f510-45a2-962d-12b1d4b70bd5",
+    "id": "f1aa9e4a-48a5-4e76-a3c8-7c36b17ef11e",
     "name": "Stab-grot",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -23342,7 +23342,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "06cac41e-66d9-4688-88f6-7330f6b4cdb9"
   },
   {
-    "id": "f1b622a3-7a61-4159-ace7-0e4303d3c46d",
+    "id": "f78fbfd3-292b-4f1e-9536-3bd8515a4253",
     "name": "'I Thought Duardin Were Made Of Sterner Stuff!'",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -23357,7 +23357,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e4af8b59-39ff-45f5-8dba-a2e2e1864a7f"
   },
   {
-    "id": "99948ba2-e984-4599-bf11-4ec6e8de2ef0",
+    "id": "9a8e66e1-85f5-48bd-9909-4735bf813b89",
     "name": "Aura of Purity",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -23372,7 +23372,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "35dc51cf-1d72-4a80-b4ed-68026a4c68d7"
   },
   {
-    "id": "712b3f66-6259-4b89-9339-9d016d10bfd0",
+    "id": "c4bc034f-e210-424d-8a57-d6c5f16488df",
     "name": "Trail of Destruction",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -23387,7 +23387,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ea712e39-1afc-4a90-950a-777e00aa5719"
   },
   {
-    "id": "323ef7fc-067a-476b-b8f6-8839263f5cc0",
+    "id": "69d1de0f-9b69-438e-9824-4c2c391d95af",
     "name": "Chief's Deadly Cargo",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -23402,7 +23402,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "94032dc0-5c0b-4ee3-a98a-6544169a4ddb"
   },
   {
-    "id": "39444f9d-a5a3-4e4d-9809-5ba3c6b4815c",
+    "id": "deb849f4-6de7-41c2-aecf-2d1cfe371b3f",
     "name": "Glorious Ascent",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -23417,7 +23417,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "672bfc39-92b0-467e-89f2-7a9c8df61980"
   },
   {
-    "id": "449a868a-3933-4403-b1b5-b75b84975f72",
+    "id": "776563bd-ce32-4d18-8e8e-0043a9a07a35",
     "name": "Mir Kainan",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -23432,7 +23432,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fd57d27f-267b-45c0-8188-849d85cec476"
   },
   {
-    "id": "990f11be-4e56-4301-bd29-63d8525f5f6d",
+    "id": "40caf66a-c935-4d3c-9a7d-38f9699fa7fe",
     "name": "Vanguard Chamber",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -23447,7 +23447,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7388b0e4-6180-4c14-9908-811b62f86317"
   },
   {
-    "id": "160db9ce-2bd9-4d4c-867a-26d7033f6c1e",
+    "id": "a82ea474-9a42-4202-ae5d-41bc2555ca09",
     "name": "Treacherous Bond",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -23462,7 +23462,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "65a148a4-61f3-4c35-99b9-9fde5e1fe5a5"
   },
   {
-    "id": "fff4c0ef-a725-431e-8611-b74f72b6a62f",
+    "id": "cd5a29e6-11a9-4f99-8abc-c1a9bea7def0",
     "name": "Battle-fury",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -23477,7 +23477,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3f2fb8fe-f21f-445b-8a6a-b449077b9761"
   },
   {
-    "id": "8af235fd-3207-4715-9031-1f6010e2dfda",
+    "id": "b31b0ece-15cd-46a5-8884-837cfb158e0e",
     "name": "Cold-blooded Unity",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -23492,7 +23492,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "34865f3c-6e85-493c-8d01-b015e7a67d8d"
   },
   {
-    "id": "84f3395c-6069-47ff-bd40-cfc690f84556",
+    "id": "608815c3-7f8e-4e71-b863-a1417426c43f",
     "name": "Light Bomb Racks",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -23507,7 +23507,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3f93d3cc-04f4-4e19-86b1-b0ebc5bbbcf1"
   },
   {
-    "id": "b3a51e16-b6ca-4fc4-9c3b-3d8cdafc4b77",
+    "id": "71558467-7d3a-4da8-a98f-f7adbae0adef",
     "name": "The Staff of Power",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -23519,10 +23519,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "Add 2 to casting rolls for this unit while it has not miscast any spells this turn. If this unit miscasts a spell, ignore the restriction that would stop this unit from casting any more spells this turn.",
     "abilityAndCommandIcon": "special",
-    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545"
+    "warscrollId": "5197fab6-20c0-4ee0-af67-0239b5262dee"
   },
   {
-    "id": "0eafd157-bb30-4dad-859e-4e10e8a3fd09",
+    "id": "14e5d303-f842-4e2d-affc-b179f8934e29",
     "name": "Bushwakka's Traps",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -23537,7 +23537,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "05675b36-4aa5-4a48-a24f-bb660bd4c0ad"
   },
   {
-    "id": "b9f4879f-f5a9-4380-a83f-fdf2a8d03167",
+    "id": "da60ff73-d0a5-4dfb-8a75-e27946ff45bc",
     "name": "The Sword of Unholy Power",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -23552,7 +23552,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0fb1882c-5a8f-4458-a650-9aa03a0f6c1e"
   },
   {
-    "id": "9f30e677-d789-4119-872c-83f697c2a768",
+    "id": "6236d1fd-b575-434d-8f33-2aa41328f015",
     "name": "Regeneration",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -23567,7 +23567,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5838172c-6dae-44d2-ad0a-deee45bb497f"
   },
   {
-    "id": "37ce6b19-ba30-4e94-978f-112e5757a051",
+    "id": "c6aaf991-1168-4d13-8f19-f2a9f953f1e5",
     "name": "Icon of Grimnir",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -23582,7 +23582,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5b4a2efc-d509-4e95-8102-9409bbf34f1a"
   },
   {
-    "id": "b086017b-53bf-4c21-808c-be17f452da6b",
+    "id": "e9e5a6d3-4a98-48bb-abd8-998742a37315",
     "name": "Suiggly Curse",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -23597,7 +23597,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "12378aca-546c-4cdb-9ab7-f1873e810bde"
   },
   {
-    "id": "6f5bb8ff-9663-4bfb-b81c-cf8f855ef5d4",
+    "id": "236718fc-3d8b-44ad-b53c-2e2573149df7",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -23612,7 +23612,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13fa2a54-37f5-4b31-88ea-c7b51c8b9b40"
   },
   {
-    "id": "9f2a4f19-eadb-45cc-a83b-3772e77bac80",
+    "id": "c5f52487-8d7c-4fc4-94c8-d0bd04f398ab",
     "name": "Grisly Trophies",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -23627,7 +23627,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "181fa314-5759-4e16-b1c2-feee048adbe8"
   },
   {
-    "id": "03c46bd5-c122-4968-ae55-28b4e0c9a4d9",
+    "id": "24c41333-ba95-4c0c-a88e-8cb7687d44e9",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -23642,7 +23642,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64303de5-ba4e-4a76-a12b-95a0b7fac376"
   },
   {
-    "id": "37276deb-3928-4451-a44c-f23e76ccb2d1",
+    "id": "87c561cf-68bb-437f-91a8-674e0e1cbd10",
     "name": "Countless Servants",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -23657,7 +23657,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9381b491-02f0-4abe-9310-e280fa415a65"
   },
   {
-    "id": "ac9f40d2-7f1d-43cc-ad55-c1b1a7a61f7f",
+    "id": "4b79facd-37aa-4659-8e6c-4617b068d8ad",
     "name": "Hand of Dust",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -23669,10 +23669,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": "Pick a visible enemy Hero or Monster in combat with this unit to be the target.",
     "effect": "Hide a dice in one of your hands or under one of two appropriate containers. Your opponent must pick one of your hands or containers. If they pick the one hiding the dice, this ability has no effect. If they pick the empty one, the target is automatically destroyed.",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "2f5ce910-2283-48ca-b2a8-9ab50262cb9f"
+    "warscrollId": "096e15ac-06a5-4ef2-a9cf-21c72be02f1d"
   },
   {
-    "id": "fc302219-45bc-46ba-8bfb-a98135737dc6",
+    "id": "dc03d8e2-cbfd-4bf7-9323-c141184afd82",
     "name": "Volcanic Blood",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -23687,7 +23687,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e5641197-1fc4-46a6-814b-6de950219cd5"
   },
   {
-    "id": "3eff8d0b-abdc-4266-80b6-ff856c55bf5a",
+    "id": "00256630-dbbf-4723-86a5-a7822060671f",
     "name": "Multiple Parts",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -23702,7 +23702,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bc3822ac-4e26-4925-b4b2-f25b28db04b1"
   },
   {
-    "id": "b0781917-6794-4fa2-8a11-6e4914fc5806",
+    "id": "5713fd4e-a490-44bb-a693-601461fa3f89",
     "name": "Celestial Doom",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -23717,7 +23717,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "17389c4e-de36-4a00-8c9e-cd7ae21882bb"
   },
   {
-    "id": "3a9be4a3-90f2-415e-80aa-755ec0044d68",
+    "id": "908f37bc-6da3-44b2-b77e-d0937e913ef3",
     "name": "Scuttling Terror",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -23732,7 +23732,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f7231b61-b537-4b26-b11f-b91031beafe2"
   },
   {
-    "id": "0f24df42-bb67-45e1-acf4-dc02b2add257",
+    "id": "58f9a2aa-8685-4531-af90-7d48e367f3d3",
     "name": "Fire and Flight",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -23747,7 +23747,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f369ef8c-5690-4153-ae23-9024b9e26158"
   },
   {
-    "id": "86428503-8c96-4e60-8790-17a1d5cf88cf",
+    "id": "0055f83f-ca9d-471c-a3ef-d0801e18efdd",
     "name": "Eruption of Thorned Vines",
     "phaseDetails": "Once Per Turn (Army), Any Movement Phase",
     "phase": "movementPhase",
@@ -23762,7 +23762,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "91a23b9e-2d9d-42c7-b9cb-f6827b7d9b8e"
   },
   {
-    "id": "decbdc4b-2db8-4dfa-b8d0-fac76162631b",
+    "id": "4cf8274c-adff-406a-83a0-f40f242724ab",
     "name": "Relentless Attackers",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -23777,7 +23777,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "830832c6-a3bf-45ca-9751-001ac9dde511"
   },
   {
-    "id": "83cb1455-7709-4c30-b6db-fc35820a8ef5",
+    "id": "a5d9fe98-22fd-49cf-ac47-9b3da3e71b11",
     "name": "Supernatural Grace",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -23792,7 +23792,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dd1f9d92-c70b-4cec-b48b-17b6f6cacee0"
   },
   {
-    "id": "865184bc-263a-4f58-b6ff-0fe85ed58ab9",
+    "id": "770ee401-65ca-4038-b9b4-edeec35ad1ac",
     "name": "Serpentine Agility",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -23807,7 +23807,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7a2ae466-08d8-4a14-ac8d-395802f9ff57"
   },
   {
-    "id": "fca3d56c-3659-4f98-8695-eda16e050e7e",
+    "id": "501cb864-35f4-4f0c-b8b2-959bfe8825b4",
     "name": "Karthaen",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -23822,7 +23822,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aacea25b-e67c-43c8-871a-223f5aa52a8c"
   },
   {
-    "id": "88e83a00-c6b1-42df-b7bb-21200753e694",
+    "id": "5b0b678d-ffab-4b05-8e96-6e80a647c13e",
     "name": "Catchweb Spidershrine",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -23837,7 +23837,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "456b0bae-ac56-495c-9f67-7338abf00072"
   },
   {
-    "id": "00323d42-f197-4a83-b3ac-34b54c305e02",
+    "id": "714d4f55-2c81-4c4e-ac72-df90dfcb297f",
     "name": "Soul Eruption",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -23852,7 +23852,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f70abc4b-bbf9-4713-96f3-cfb159b547ba"
   },
   {
-    "id": "ac5a6969-328d-4793-84d3-9f962d43f828",
+    "id": "01d39390-a73d-41ea-9956-2c7b451028b4",
     "name": "Elathain's Lurelight",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -23867,7 +23867,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fecbbf66-705b-47b0-b401-08e9c1234482"
   },
   {
-    "id": "8a72aedc-c2c4-44c2-aca2-932c548b31cb",
+    "id": "76157acf-839b-4ff7-84e3-7fe0d42c58b7",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -23882,7 +23882,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "be5dd3ac-cc03-414b-a778-48c5df0a92f9"
   },
   {
-    "id": "371ec44f-b093-4939-92e8-547d319e7605",
+    "id": "c675d569-3056-40b6-a495-e47f5e446c87",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -23897,7 +23897,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1609ecd0-fe6b-4aa7-8611-e5b6fc53d92d"
   },
   {
-    "id": "c6dea933-1a33-4a13-bea1-d6eafd609200",
+    "id": "ce5d226d-450c-4561-9bcc-c10c614390ec",
     "name": "Spirit Armour",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -23912,7 +23912,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "26fd4164-313e-4af7-b085-fabce55c88bc"
   },
   {
-    "id": "5bfdfdde-a7ee-43c0-8b1e-a580cb919207",
+    "id": "e2373f56-5575-47cc-9105-365e2c00200c",
     "name": "Mind-shattering Cacophony",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -23927,7 +23927,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "63a9cf77-fbbd-43ad-8c49-82b095422698"
   },
   {
-    "id": "90f5874d-8a4b-4e5c-a4fa-661979c83e4a",
+    "id": "a5de9df6-c134-4a80-8cd7-42b7f9787919",
     "name": "Dark Temptations",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -23942,7 +23942,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dd1f9d92-c70b-4cec-b48b-17b6f6cacee0"
   },
   {
-    "id": "5fa75bea-b37a-46d6-a1c9-b1b81ff60d91",
+    "id": "2830defd-9d98-4ac8-9d37-e0e0359e6751",
     "name": "Arcane Engineer",
     "phaseDetails": "Once Per Turn (Army), Any Shooting Phase",
     "phase": "shootingPhase",
@@ -23957,7 +23957,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d87adf96-2149-45db-ac60-c68eb395bff8"
   },
   {
-    "id": "109220fd-6a00-467b-87a2-e2147cee62a7",
+    "id": "f39e7827-52b4-4c6e-a61a-5b6725dd7c9d",
     "name": "Call to the Hunt",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -23972,7 +23972,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f4454a2e-9e10-4e8b-8465-58b0f22f5aed"
   },
   {
-    "id": "98e87cc2-de17-4ee9-b12e-244880007d39",
+    "id": "9fb2545b-b551-468e-b458-a09fd3bf7002",
     "name": "Tainted Sorceries",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -23987,7 +23987,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "26a1b4dc-2eb7-4b42-bb9f-8aadee230ada"
   },
   {
-    "id": "5c7ba4d3-5deb-4cf2-ae9a-30a736730972",
+    "id": "0b024027-3211-4181-86b5-0f3e1dd0376e",
     "name": "Ebon-wrought Armour",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -24002,7 +24002,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "78fdf391-9f01-4d97-8826-9613793626a0"
   },
   {
-    "id": "b81da1a2-48a8-4c60-9475-a70d12e70f46",
+    "id": "2c9b057f-d9e3-4a21-ac9e-7773f462617f",
     "name": "Warp Lightning Blast",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -24017,7 +24017,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "eeb6211f-ba55-40ec-acfb-ed2f4fc26596"
   },
   {
-    "id": "48870a6e-73cd-4704-819d-8dec946aeaa9",
+    "id": "ff4333c9-50ff-4be9-a4d0-ca322543601c",
     "name": "Predator's Pounce",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -24032,7 +24032,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "12a8d1ab-d61a-4416-be66-19b32b9d34b7"
   },
   {
-    "id": "b73d0395-0a8d-4bd7-af0a-b0496d976a59",
+    "id": "d200f046-f1de-4bb3-8a7f-5b354a78050d",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24047,7 +24047,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9b94218c-7969-46b9-9547-f90f6724793d"
   },
   {
-    "id": "ed9a468a-bc2d-4cd5-b105-5d4f3719e6df",
+    "id": "fbe0d0df-e21d-43ff-8e05-4c3d05c0fece",
     "name": "Morboy Fury",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24062,7 +24062,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "54fba4c0-6e0f-4182-adda-e6b4013e46bb"
   },
   {
-    "id": "e71a6c2a-9dd8-4818-b826-681a1baaf6a9",
+    "id": "27d86a26-35be-43f3-a88c-19ea610429c5",
     "name": "Forest Fighters",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24077,7 +24077,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9ef45bfd-ed5b-4c09-b52b-6412da6340d4"
   },
   {
-    "id": "dc1afd15-4735-4598-921f-05c01eb698bd",
+    "id": "4f936526-6552-439c-b6b8-3a77a8750128",
     "name": "Troglodytic Lurkers",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -24092,7 +24092,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e38ffae7-acc8-49da-a6e2-143100668b6d"
   },
   {
-    "id": "0f55c2b0-8587-47d0-b72b-594af5f46c1a",
+    "id": "aa260300-3307-499e-bc35-e9e35c01a9b0",
     "name": "Feed on Life Force",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -24107,7 +24107,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2a9d9821-b5d0-4c5a-92f8-9b95915776e3"
   },
   {
-    "id": "2da2b3bf-d70d-459c-8182-94298368933d",
+    "id": "653a973f-68e1-48c5-abbc-6cf11e4424a6",
     "name": "Netters",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -24122,7 +24122,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1deeb7dc-8ec5-4271-bf74-cf7917df82e8"
   },
   {
-    "id": "21e7aa95-fd40-40c2-83be-573807beeb5e",
+    "id": "a868c476-67f9-4d6b-9f9e-0a1bf2212002",
     "name": "Soulnet",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -24137,7 +24137,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fecbbf66-705b-47b0-b401-08e9c1234482"
   },
   {
-    "id": "ea5a4d3b-3e24-4681-a20a-f87db5f771fc",
+    "id": "7f79500a-7960-4a1f-a7d0-17a6005d21db",
     "name": "Blessings of the Cauldron",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -24152,7 +24152,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b9b30995-b1ef-4b12-98e4-4b16e4b60ffa"
   },
   {
-    "id": "3f2b0646-9092-42a1-a597-492fbb0d3606",
+    "id": "bd445481-42b8-4314-87a4-25b29666e33b",
     "name": "Six-headed Strike",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -24167,7 +24167,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0d3c2fc6-6edd-4693-902d-b85fadfe9edb"
   },
   {
-    "id": "8567a9a7-3673-4a31-90f7-217199e993c6",
+    "id": "751c86c9-801c-435e-9712-d4dd9d56b7fc",
     "name": "Can't Catch Us",
     "phaseDetails": "Once Per Turn (Army), Enemy Movement Phase",
     "phase": "movementPhase",
@@ -24182,7 +24182,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f0be021d-a953-4464-a775-a16a84945a85"
   },
   {
-    "id": "e8330250-d895-492d-8256-b3479fe742e1",
+    "id": "c5902be6-80fa-4d89-bb55-fe5ed34e6752",
     "name": "Arcane Imprisonment",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -24197,7 +24197,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff"
   },
   {
-    "id": "074217a4-4ae7-4791-b580-3bc22bafc69e",
+    "id": "c047f537-70a5-48ee-b5e4-c6d1f7f40514",
     "name": "Boing! Boing! Boing!",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -24212,7 +24212,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a0df1407-9863-45e5-a62e-bd99d320747f"
   },
   {
-    "id": "cb025361-c210-438b-b502-edbea1db61f4",
+    "id": "8021dedb-359b-45f1-9419-154ebd7a8255",
     "name": "Cursed Destroyers",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -24227,7 +24227,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d5ab6852-fc44-446c-b342-7db95f92c1fa"
   },
   {
-    "id": "527b4700-0826-4b7f-95b3-2a2c5496204b",
+    "id": "2608b3f1-d2bf-4b1d-b405-046eeb84cf07",
     "name": "Molten Blessing",
     "phaseDetails": "Start of Any Turn",
     "phase": "startOfTurn",
@@ -24242,7 +24242,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "33def0da-f8c0-4ad5-aaa3-7acd3ac56670"
   },
   {
-    "id": "667cffc9-2da0-4319-a0cc-c855d112e99f",
+    "id": "884a5f5a-91b6-4002-a043-9451d6d5b375",
     "name": "Theddra Skull-scryer",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -24257,7 +24257,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f0ed01a0-a398-4e76-8d83-2de2f0730b30"
   },
   {
-    "id": "99108e08-f2a7-4015-9906-5a343b00624c",
+    "id": "54762e3c-0b3c-403d-b592-9f84a3ea1add",
     "name": "Castigator Aetheric Channelling",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -24272,7 +24272,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cdf522d0-e9f7-46de-9523-fff23d286461"
   },
   {
-    "id": "4f5bd58e-3a64-41fa-8482-fd3fb7bd5b43",
+    "id": "0480e3c3-9f76-4ae5-b48c-b9f4d222cebd",
     "name": "Draconic Onslaught",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -24287,7 +24287,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dce1facb-86d3-42a3-a75f-e1516d346b34"
   },
   {
-    "id": "fe9b42f8-0e27-42a3-9123-c19e6cd3e6d3",
+    "id": "5b1bc983-5f9e-4fd8-a030-1ebe8d0cd61c",
     "name": "Overwhelming Volleystorm",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -24302,7 +24302,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6d0c557-1723-43bd-bede-b5a89a078710"
   },
   {
-    "id": "41c0fc30-5202-4b5c-95b4-3bba8826984b",
+    "id": "e5ea94db-81bb-4861-b0a2-9391c8810253",
     "name": "Rampaging Destruction",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -24314,10 +24314,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit charged this phase, pick 1 of the following effects:\n\n• Roll a dice for each enemy unit within 1\" of this unit. On a 2+, inflict an amount of mortal damage on that unit equal to the roll.\n• Pick an enemy Monster in combat with this unit and roll 2D6. On a 7, this ability has no effect. Otherwise, inflict an amount of mortal damage on that unit equal to the results on the dice used for the 2D6 roll multiplied together. For example, a 2D6 roll of 2 and 6 would inflict 12 mortal damage (2 × 6).",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324"
+    "warscrollId": "4e49066f-602e-446b-9107-1adec25aa3ac"
   },
   {
-    "id": "ce84447d-cfe1-429f-8a3d-c800d5fe0476",
+    "id": "3749b3f6-0b68-4805-9b9a-34fca43f75aa",
     "name": "Darkness of the Soul",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -24332,7 +24332,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "434ee2a5-5085-4f75-b9dd-02c0fc961f0e"
   },
   {
-    "id": "bcd103ce-82b4-45c9-b532-2f14a9d5a93d",
+    "id": "f31a37c4-babc-49fc-b74f-c64aa3d6d66e",
     "name": "Thunderblast",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -24347,7 +24347,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fa89fccd-b102-45d9-85d4-3ac7a7c1b52d"
   },
   {
-    "id": "c37841ac-101f-4b97-9a8a-19a3f8207469",
+    "id": "ceb0b9d6-4902-49a9-bf1f-4eefec18cb74",
     "name": "Dependable Gryph-hound",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24362,7 +24362,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cdf522d0-e9f7-46de-9523-fff23d286461"
   },
   {
-    "id": "a8d01760-d2ff-49e5-8a78-ac920648e8b9",
+    "id": "5bd1492e-c85f-4728-b120-aaea001193c4",
     "name": "Masters of Ambush",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -24377,7 +24377,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "be110262-0a0a-432a-8173-0bf9ac519413"
   },
   {
-    "id": "82cad7e1-450c-4c42-a6c8-227571f363c4",
+    "id": "b488c5b7-eb2b-4219-8be3-4f9fbadc4635",
     "name": "Spectral Bolts",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -24392,7 +24392,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d514144d-b678-4036-b6da-c33ca9dc7130"
   },
   {
-    "id": "da0c41e7-1691-4689-9609-88cd8b0b8a9e",
+    "id": "0187bfe2-3d74-443f-b203-7fd6984c282c",
     "name": "Heartseekers",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -24407,7 +24407,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "60924227-9fd2-44a6-8b8a-d1172480b8ad"
   },
   {
-    "id": "7861a6ca-5cb0-4c16-9422-26beba133420",
+    "id": "edcc79a1-22b0-4bc9-8d2b-ff2c14ad1432",
     "name": "Deadly Cargo",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -24422,7 +24422,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b9674d2f-550b-45c5-96ea-2d1c877c4591"
   },
   {
-    "id": "699f554b-cfe7-415f-8f5a-59f40c12670f",
+    "id": "32be0204-1afe-43cd-8ab2-6577bb7a7bad",
     "name": "Royal Approval",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -24437,7 +24437,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a560e2b6-0cc9-425e-ada5-df0ce833adc7"
   },
   {
-    "id": "2fc4f8d9-4a02-497c-8608-8d10e81b384f",
+    "id": "e9ed637e-b08d-4b4f-86c8-d3da1095e407",
     "name": "Scrap-bang",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -24452,7 +24452,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "44633c3c-665a-41bf-a905-8657eb22e334"
   },
   {
-    "id": "b6f1b11a-5b7e-44f1-b0bb-7de30388d96a",
+    "id": "c425e067-0190-4755-b4cf-e53e8c20ef51",
     "name": "Stonemage Symbiosis",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -24467,7 +24467,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9b94218c-7969-46b9-9547-f90f6724793d"
   },
   {
-    "id": "24ffc2ae-ffde-4ff3-9e9e-e88d1ba4cfce",
+    "id": "d52ec891-0889-4d9f-964f-b4814e3477b5",
     "name": "Wither",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -24482,7 +24482,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c7eb4898-9e61-4652-a539-53b69c92fc21"
   },
   {
-    "id": "00ece5c1-2ac6-40bb-90da-a0d5970a8df4",
+    "id": "f6b48302-084c-4c8d-aa9f-61c17ced7266",
     "name": "Shroudcage Fragment",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -24497,7 +24497,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "716956a7-c8f2-41b5-a623-d43c552c805d"
   },
   {
-    "id": "c24817e9-4a1f-4cea-8c3e-054b93c0259a",
+    "id": "8009504a-de83-448a-a237-7193cd13b1e3",
     "name": "Arch-Deceiver",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -24512,7 +24512,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9676d3f9-a44b-4126-8ded-e5087281bbb2"
   },
   {
-    "id": "ae72a9fb-ed16-4d16-ac9e-85d428b16402",
+    "id": "6f30d808-07b7-49ea-ba24-3f66b99c7620",
     "name": "Netters",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -24527,7 +24527,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bad60a6c-6611-45f0-8fd0-553688060a1b"
   },
   {
-    "id": "cafd1218-be82-4704-bcf1-f936f6450df6",
+    "id": "4b57ac08-f181-4dca-9f84-7ad46cd1333c",
     "name": "Puffshroom Frenzy",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24542,7 +24542,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fa530ce2-01e0-4f20-a525-1c1dc79d0623"
   },
   {
-    "id": "9ff9b189-9005-41ed-9511-577f57bf62f9",
+    "id": "5625c629-cf95-4cf8-840b-ba1f7e78373e",
     "name": "Sons of Behemat",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -24557,7 +24557,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f"
   },
   {
-    "id": "e09f4618-47f0-455e-95c2-f4b51d33f56e",
+    "id": "59d8dd46-5757-4034-afa0-200befb7922b",
     "name": "Oath of Murder",
     "phaseDetails": "Once Per Battle, End of Any Turn",
     "phase": "endOfTurn",
@@ -24572,7 +24572,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5d4ddcec-096b-467a-8a7a-8dcb182427c6"
   },
   {
-    "id": "118d78d4-8225-406a-a429-ab272fc7bb55",
+    "id": "74f95967-1b2e-4ed9-bd2b-a065abd1a229",
     "name": "Web Slingshot",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -24587,7 +24587,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4c0077d2-8bc2-4dea-a34f-616575f525dc"
   },
   {
-    "id": "fee49620-301a-4e03-9716-9908bebf5643",
+    "id": "e5c4f214-f3bd-44a6-bc09-a01cdeed71d9",
     "name": "Dominating Roar",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -24602,7 +24602,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82ad3073-c649-45fd-964e-15c04fd184bc"
   },
   {
-    "id": "ee803887-bbcb-41f1-9cfa-bf1d48640f07",
+    "id": "fcb466a7-699d-4c83-9280-66feb3f9803d",
     "name": "Iron-willed Champion",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -24617,7 +24617,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0b3cfea5-69d7-4deb-9e21-e93b5c809a17"
   },
   {
-    "id": "112bde00-ef31-46a5-85de-8fe25949f081",
+    "id": "4683ee1f-c326-46ed-9590-176e6778cc3b",
     "name": "Deathrider Wedge",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -24632,7 +24632,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82197086-282d-42fe-a632-3196a00969fb"
   },
   {
-    "id": "06597e59-d4d4-41df-b93b-12bac053e04d",
+    "id": "f42dd9cf-d662-489c-a739-153f2f518953",
     "name": "Burning Up",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -24647,7 +24647,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fcfd7193-b255-474e-bb81-7b31a9c009b3"
   },
   {
-    "id": "bcd66739-049d-43ac-9e49-ef212814649e",
+    "id": "9747fab7-2bca-4a7b-826c-2b173ee63065",
     "name": "Devourer of Magics",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -24662,7 +24662,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "25da53ad-d7a1-47ac-a2bf-64d8cfce8da6"
   },
   {
-    "id": "9c04188d-c2f0-4eea-bac0-dba4e2226639",
+    "id": "323dcc24-8498-41c3-a7b9-4ae8c7432af0",
     "name": "Wild Form",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -24677,7 +24677,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "25da53ad-d7a1-47ac-a2bf-64d8cfce8da6"
   },
   {
-    "id": "a83f1503-5cd8-4b43-83e0-a7a515ddd35c",
+    "id": "b825665e-2c02-4a6e-acb1-185361431a95",
     "name": "Multiple Parts",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24692,7 +24692,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3a30fe6b-439b-439b-96f7-962eeda62212"
   },
   {
-    "id": "d3bc6cf6-5cfb-4f6a-bc91-43f427df5534",
+    "id": "040acb23-0799-4854-95b3-20178e75b8d5",
     "name": "Phantasmal Translocation",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -24707,7 +24707,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3a30fe6b-439b-439b-96f7-962eeda62212"
   },
   {
-    "id": "b8756324-9b8f-4cbd-b6b7-9e77d2a12db8",
+    "id": "b9393db5-939f-4f04-a821-276b4a8820bf",
     "name": "Ensnaring Soul-Drain",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -24722,7 +24722,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3a30fe6b-439b-439b-96f7-962eeda62212"
   },
   {
-    "id": "19fe80ed-7e9a-4431-89a0-55ba1fce02d6",
+    "id": "95f82700-02fb-4a49-8225-6435ab063bce",
     "name": "Harbinger of Horror",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -24737,7 +24737,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c37dfd03-0837-4d43-ba02-ad3d79f854e3"
   },
   {
-    "id": "d77369ef-a9c3-4ea3-ae07-644dd6470d70",
+    "id": "37b912d0-6892-4e15-896b-039b8c43c973",
     "name": "Multiple Parts",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24752,7 +24752,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "45245d1d-2a2b-4069-bb35-46e374e67104"
   },
   {
-    "id": "0a39d2d6-d9dd-4369-911d-1e081776be44",
+    "id": "96f28985-ad27-4525-b7a6-560fee7b2c86",
     "name": "Deathly Passage",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -24767,7 +24767,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "45245d1d-2a2b-4069-bb35-46e374e67104"
   },
   {
-    "id": "1985c2e5-ee08-4992-b02b-03589ce1419a",
+    "id": "84a6ab4c-3852-4fa0-aba2-86c8c3e4ea04",
     "name": "Bound for the Great Oubliette",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -24782,7 +24782,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bc3822ac-4e26-4925-b4b2-f25b28db04b1"
   },
   {
-    "id": "d066ee33-a484-43f4-91fa-b3673f810769",
+    "id": "12985571-bc01-41bf-a6ec-5e6787f26439",
     "name": "Blinding Light",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -24797,7 +24797,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bde2d49e-6fb0-4b5a-8818-e3992a292a15"
   },
   {
-    "id": "04912d5c-2d40-4095-b06b-3347ee8820b5",
+    "id": "5044072a-a2c9-4f95-ae81-e87e392ef2e0",
     "name": "Traverse the Tides of Death",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -24812,7 +24812,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bc74fc97-6e53-4ab5-a807-cef8133e4dac"
   },
   {
-    "id": "47623b90-029f-4299-af12-f9ac37722ff9",
+    "id": "5118ae52-a83d-47bb-ad00-c8b4cdd5bd54",
     "name": "Necrotic Vortex",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24827,7 +24827,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e60d3726-1842-4f13-8584-ed31a5776017"
   },
   {
-    "id": "f2976ec4-bb40-4f2f-a2ae-68567d2399d5",
+    "id": "cdcfb8b6-6d6f-4b74-b892-16696b39aa70",
     "name": "Mechanisms of Time",
     "phaseDetails": "Once Per Turn, Your Hero Phase",
     "phase": "heroPhase",
@@ -24842,7 +24842,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b9df11c4-7d9c-4c08-a97e-b60b25dabe5f"
   },
   {
-    "id": "bbaf8562-62c0-4617-a424-09e9b1a75c92",
+    "id": "ef2dd04d-7e13-4866-954a-46a1349d957b",
     "name": "The Pendulum Swings",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24857,7 +24857,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8845ed7d-7270-4ee9-b0ca-abd31a11c991"
   },
   {
-    "id": "8598d12f-0db3-4be7-a577-9de4d03053a6",
+    "id": "09971eb2-57a6-4efb-8033-467f1824a966",
     "name": "Scything Blade",
     "phaseDetails": "Any Movement Phase",
     "phase": "movementPhase",
@@ -24872,7 +24872,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8845ed7d-7270-4ee9-b0ca-abd31a11c991"
   },
   {
-    "id": "090b9d4e-f432-43df-80cf-9cff51e0e502",
+    "id": "f609a6d4-7032-4ce6-b816-b979ae8d1a10",
     "name": "End Given Form",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -24887,7 +24887,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8efce43a-fe09-481c-ad9e-ce413149ac3b"
   },
   {
-    "id": "43a7e8e6-14ad-4466-80b7-7ae68e065feb",
+    "id": "2a477837-9923-4d78-862d-5f2b360c84fa",
     "name": "Pulled to the Grave",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -24902,7 +24902,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0254559e-4758-48e8-ba24-640988883310"
   },
   {
-    "id": "b258b261-e247-451d-a49f-f17c99ccd7cc",
+    "id": "45db9634-4e72-4a25-8683-c8f6ade2cbba",
     "name": "Ravening Hunger",
     "phaseDetails": "Any Charge Phase",
     "phase": "chargePhase",
@@ -24917,7 +24917,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e4776e01-e896-4cae-8a42-a1cdb2b20b5d"
   },
   {
-    "id": "ef828656-26ad-4411-b947-e6e2200d331d",
+    "id": "edc94168-6c8d-448f-91b1-a43d4d5b5306",
     "name": "Restored Vigour",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -24932,7 +24932,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1e4f4954-a946-40ee-971a-c5e52f2d5ad4"
   },
   {
-    "id": "ff5dfdb0-74c3-4882-a871-9cc4af6aaa6a",
+    "id": "3292c118-6f69-486a-a976-f50eb63b0791",
     "name": "Bounteous Healing",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -24947,7 +24947,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1e4f4954-a946-40ee-971a-c5e52f2d5ad4"
   },
   {
-    "id": "54261733-01be-44d7-abff-a8c0d7587351",
+    "id": "3fa1a6b0-cdd3-41e3-a668-d2616d2fa810",
     "name": "Multiple Parts",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24962,7 +24962,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e37c9f7a-630f-475e-ac3c-35caac486e16"
   },
   {
-    "id": "74a0eebd-5910-4d5c-9658-712284215103",
+    "id": "3ab840dd-c634-41ee-9fb5-fb7588b952e6",
     "name": "Tendrils of Shadow and Light",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24977,7 +24977,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e37c9f7a-630f-475e-ac3c-35caac486e16"
   },
   {
-    "id": "1b32089c-f1e2-4ae2-8673-b1233858673d",
+    "id": "e0a18cc5-a017-4fec-8965-88167283d1fb",
     "name": "Multiple Parts",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -24992,7 +24992,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "99a2d439-4a3c-4f59-9c7d-db873d05d4fa"
   },
   {
-    "id": "b52a88c8-cec2-4fa4-bdb8-70f3e45de314",
+    "id": "a2739801-5cd8-464a-aca8-4933f9e975e6",
     "name": "Arcane Passage",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -25007,7 +25007,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "99a2d439-4a3c-4f59-9c7d-db873d05d4fa"
   },
   {
-    "id": "79096781-bcdf-4877-88fd-cae795db399c",
+    "id": "8db45c6a-20e1-4ee3-a9eb-45e32214cea3",
     "name": "Arcane Predator",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -25022,7 +25022,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "25da53ad-d7a1-47ac-a2bf-64d8cfce8da6"
   },
   {
-    "id": "1b542784-737e-42b2-ac06-d734164d8823",
+    "id": "afdb395c-8392-4ed1-af10-ffd1bd5c2a9a",
     "name": "Akhelian Paragon",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25037,7 +25037,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ce78aae4-0801-4388-a6c8-f1ed5d5e1af4"
   },
   {
-    "id": "7e3a7b22-2f65-419a-ba86-2408ff21f346",
+    "id": "daf71ef8-2bd5-4970-b500-ed47b364c385",
     "name": "Thrallmaster",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25052,7 +25052,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2df18dec-6cba-4aa0-b7e8-7e76c4ccbe13"
   },
   {
-    "id": "1ee7b3d9-3abc-4e94-a64e-76605e9fc37b",
+    "id": "1a0409e1-afcf-4f75-aaea-55df339a2fba",
     "name": "Mortarch of Sacrament",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -25067,7 +25067,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9864e44c-eff4-4d80-87b8-b73a06080d03"
   },
   {
-    "id": "14f49f09-7740-48c3-8b14-66d80f8745ca",
+    "id": "d62af61b-655d-4c84-978c-597002780eb1",
     "name": "Furious Warleader",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25082,7 +25082,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e7814b1d-1923-470d-ab81-d1c4548579dc"
   },
   {
-    "id": "1e166ef8-fa28-4672-a821-810b3eec1ccc",
+    "id": "e5bda0d2-d643-4071-bf23-2001a861e114",
     "name": "Royal Companions",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25097,7 +25097,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aa9247a1-8f1c-4bce-be23-7dcccf041e3e"
   },
   {
-    "id": "fbd45133-06bc-45eb-8a37-71c450008363",
+    "id": "8fcf3fa3-5c04-4f4e-a8e8-cf3d8810abd5",
     "name": "Gnash-gnaw On Their Bones!",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25112,7 +25112,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "449c59a1-7f31-48ce-b7a1-1b697a9584ba"
   },
   {
-    "id": "d8ec916f-deed-4b15-9c04-8090dc54ea1b",
+    "id": "86ddbf9c-a619-4412-a905-c518fdcde176",
     "name": "Master of the Runes",
     "phaseDetails": "Reaction: You declared an Ur-gold Rune ability",
     "phase": "startOfTurn",
@@ -25127,7 +25127,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bdf47317-d52a-42c4-ab30-38c17d7023af"
   },
   {
-    "id": "126afbf2-73fd-4f82-9129-94206a45e37f",
+    "id": "2ce2520a-692e-4e90-af96-fed28566a616",
     "name": "Dauntless Assault",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25142,7 +25142,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ad3eb674-53c1-4412-98b8-ed9f383c1265"
   },
   {
-    "id": "80cf9674-ae46-40b7-88cd-1ad211b716f4",
+    "id": "72e55f87-35b5-44e5-b39c-5f36cf9bd6c1",
     "name": "Call of Battle",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25157,7 +25157,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "47a58477-2b3d-4f7e-b3a4-9c349809af61"
   },
   {
-    "id": "ce42f099-2a5f-4550-9cff-63a648d8be14",
+    "id": "0ed3b963-4a64-4c76-931d-e0021c3af7de",
     "name": "Despoilers",
     "phaseDetails": "Reaction: Opponent declared the ‘All-out Defence’ command for a unit within 6\" of this unit",
     "phase": "combatPhase",
@@ -25172,7 +25172,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7aa44d11-c512-4ae9-b856-1c31ad579ec0"
   },
   {
-    "id": "698e813f-a4f3-4da9-8818-0394d979d637",
+    "id": "65a4d34f-9f6e-4e8c-94cb-0f81b5ed7333",
     "name": "'At Them, You Curs!'",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25187,7 +25187,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2f655f08-850e-4461-99ed-9b5237d3b0be"
   },
   {
-    "id": "e226a9af-c061-4290-9af7-b2d70ca59963",
+    "id": "77e4691f-e770-46f3-81e8-fc4933f15fc1",
     "name": "Sigil of Doom",
     "phaseDetails": "Reaction: Opponent declared a command for a unit within 8\" of this Manifestation",
     "phase": "startOfTurn",
@@ -25202,7 +25202,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b244f2c5-6e7c-40c2-93ad-f1fe6e8c5c4c"
   },
   {
-    "id": "6fcb8ba8-136e-40f5-bd2c-4d5fd1f6a043",
+    "id": "1fcb60d0-0799-4c1d-ba73-4defaba51d04",
     "name": "The Blood Must Flow",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25217,7 +25217,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "661a2b09-b2cf-4e75-8b2b-1472df9e8447"
   },
   {
-    "id": "997da3b8-6730-427a-89d3-f7209e3eef12",
+    "id": "bb65fc34-fb48-45ff-b602-75a41cfd84d8",
     "name": "Enshrouding Fumes",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -25232,7 +25232,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ba983e99-4300-4b47-bca3-384be59ade49"
   },
   {
-    "id": "81474c37-dce7-4a58-a90a-23a7bc53c2d0",
+    "id": "b0fed3fe-91e6-4aef-a75f-1a25d4e3fe15",
     "name": "Melusai Kin",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25247,7 +25247,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "86126e78-7fcd-4792-ad28-1fba83b02227"
   },
   {
-    "id": "caf15f54-9021-4615-9102-9f4c031a5328",
+    "id": "b8a2ca0e-7ecd-47f0-b585-c0e8191f4645",
     "name": "Get It Done",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25262,7 +25262,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7cbce98d-135b-4c88-844c-c24a0f0adaef"
   },
   {
-    "id": "20798ad0-9834-41fa-8b40-4dc0c8ee0cd7",
+    "id": "f228ed93-7ec0-4204-a140-c3ecdc402846",
     "name": "Scouting Companion",
     "phaseDetails": "Reaction: You declared a Shoot ability for this unit",
     "phase": "shootingPhase",
@@ -25277,7 +25277,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cdf522d0-e9f7-46de-9523-fff23d286461"
   },
   {
-    "id": "32a46275-4645-4548-b5da-1260db242436",
+    "id": "97c367a8-96d2-4866-8e04-b3e0c7658ab2",
     "name": "Marshal of the Legions",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25292,7 +25292,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e08a53ad-541e-4e23-893a-5c324913bd07"
   },
   {
-    "id": "a2dfefe6-04f8-4a1e-b5ad-44368580af58",
+    "id": "5fbf34ae-bdea-42eb-838c-e65eb2b277cb",
     "name": "Glory In Battle",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25307,7 +25307,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2e5a2d2d-4ead-432e-8275-8259dd4061c8"
   },
   {
-    "id": "eae3aedd-9047-4004-bf8e-75170a6fcee1",
+    "id": "d6bede00-1f4d-42b4-bef3-79fe88ed4f2f",
     "name": "The Knights of Chaos",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25322,7 +25322,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e07f7143-5725-45ac-9f22-9a722439b8f1"
   },
   {
-    "id": "30cc6c3f-5850-4988-aca2-db09ebd8a1eb",
+    "id": "96290ec6-b981-4d03-ab03-dd83b5fc59c9",
     "name": "Ancient Strategies",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25337,7 +25337,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a2ac2e9a-53cf-4906-8138-6449c25329c6"
   },
   {
-    "id": "4b1a0e5f-f83e-405c-aaa1-dacd86c3f241",
+    "id": "76629ed5-6e48-444d-bd32-19b5e41542af",
     "name": "Echoes of the Watch",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25352,7 +25352,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b5e5ac37-000a-435e-9a90-3d945e56c1f5"
   },
   {
-    "id": "f37fbd34-3c6d-4ecf-a402-d63e9f89dc62",
+    "id": "921b152c-e0fe-48bf-b3fc-8038b29f3f69",
     "name": "Knightly Exemplar",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25367,7 +25367,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3e3dfc26-0405-4b44-8800-8eb80d21311b"
   },
   {
-    "id": "438eeeb0-c4c7-4239-a2a6-e822c25f5981",
+    "id": "6f696258-88d0-47ba-ad59-9e6ae2be29fd",
     "name": "More-more Warp Energy!",
     "phaseDetails": "Reaction: You declared a Shoot ability for this unit, it was not set up this turn and it has not used a Move ability this turn",
     "phase": "shootingPhase",
@@ -25382,7 +25382,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ef69e06b-bdff-4451-a22b-c6d36049bd41"
   },
   {
-    "id": "06cbb956-b6d7-4113-9d3a-fd85c604011a",
+    "id": "7adf5cfb-dda0-4186-8808-2d2f3fbd2490",
     "name": "Magical Resistance",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -25397,7 +25397,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b92c2f90-f6a1-4b0d-995b-2735def73d85"
   },
   {
-    "id": "66684518-ff4f-4552-ae1f-b2f47b3274d0",
+    "id": "b096d2b1-eac5-4784-9e3a-e18a9d13f874",
     "name": "Scion of the Primordial Storm",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -25412,7 +25412,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "91cf69df-62af-417f-9c1d-64cb48060153"
   },
   {
-    "id": "f512af9e-2f1c-4996-8e53-028d4e734632",
+    "id": "70758c4c-8c83-423b-a659-76b94f89d411",
     "name": "Soulbound Shield",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -25427,7 +25427,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e9cd270c-596f-4732-ad4a-6f0257508dbe"
   },
   {
-    "id": "ae668be1-8743-4735-aa23-06b83f0d2a94",
+    "id": "e2245d56-f708-4052-9e7b-19d807afc7bc",
     "name": "Dispatch Spies",
     "phaseDetails": "Once Per Battle (Army), Reaction: Opponent declared a command for a unit within 12\" of this unit",
     "phase": "startOfTurn",
@@ -25442,7 +25442,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "083d8e07-03c6-4c81-82f6-0d199b4b63e9"
   },
   {
-    "id": "be61c296-4836-4591-8798-480f700590c4",
+    "id": "528276f6-ad2f-499e-b0a6-39fc778e9f9e",
     "name": "Transfixed by Countless Eyes",
     "phaseDetails": "Reaction: You declared a Spell ability for a Wizard within this Manifestation’s combat range",
     "phase": "heroPhase",
@@ -25457,7 +25457,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4afeeabf-025d-4259-b399-6e8c27f8c2a5"
   },
   {
-    "id": "ad5dc258-c54e-4c75-a72b-2646f39c473f",
+    "id": "f1aaeb08-44ae-4c22-8210-d656ba336421",
     "name": "On a Tear",
     "phaseDetails": "Once Per Turn (Army), Reaction: You declared a Charge ability for this unit",
     "phase": "chargePhase",
@@ -25472,7 +25472,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "603dfa14-e8fa-4db8-81f7-b3ba04da5624"
   },
   {
-    "id": "0e16ce9a-7441-421f-aede-5ea339b75771",
+    "id": "8a3d502e-6ffb-45df-88c6-8418c6f8a91d",
     "name": "If I Cannot Rule, None Shall Rule!",
     "phaseDetails": "Once Per Turn, Reaction: Opponent declared a command for a unit within 12\" of this unit",
     "phase": "startOfTurn",
@@ -25487,7 +25487,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7d756b60-cf31-4329-9361-0eed198cec99"
   },
   {
-    "id": "0625db5f-a66f-4ff4-92d7-aa00f65be58e",
+    "id": "1cc92c8b-23ed-4c5a-bd12-91b357e82ec1",
     "name": "Predatory Exemplar",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25502,7 +25502,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "83536524-9811-499f-88b5-607d2e8c61b9"
   },
   {
-    "id": "3236173a-725a-4ea0-b364-fcaa4b98c33f",
+    "id": "0d150520-f412-4ac0-9434-adf9994b0373",
     "name": "Slinking Advance",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -25517,7 +25517,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a6388b6d-e9bf-4ddf-a606-d46ca6b3c8b8"
   },
   {
-    "id": "5db80739-cd50-4a58-ab20-6a4eb9790108",
+    "id": "ac11e3ad-874e-4b62-a14b-871ad38745ba",
     "name": "Armoury of Madness",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25532,7 +25532,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b4f92c0a-a4b3-4853-9b4b-310967e433ca"
   },
   {
-    "id": "c64a072b-ad12-4450-96f5-654f62bdd9e1",
+    "id": "f9f1eace-2334-4735-99bd-02595daedce0",
     "name": "Magical Resistance",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -25547,7 +25547,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "43973acb-7890-4efa-8f1f-2650bd30fca5"
   },
   {
-    "id": "f00a33bc-bf55-46b2-80ac-84012a3a3126",
+    "id": "e304b710-5e1b-4938-a83e-47d105ce06e1",
     "name": "Fearless Leader",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25562,7 +25562,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b4f67dad-e875-49df-99da-a3f145a0ff02"
   },
   {
-    "id": "df0119b1-7213-495c-82c5-1200513e6504",
+    "id": "747a93ce-3e1d-477d-84ce-d7608259ad9d",
     "name": "Tribal Warleader",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25577,7 +25577,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5d4ddcec-096b-467a-8a7a-8dcb182427c6"
   },
   {
-    "id": "581f6477-29aa-4d6f-8862-cd7f84858f9c",
+    "id": "2116f49b-fc4e-4608-89b3-22e83af12b15",
     "name": "Lust For Violence",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25592,7 +25592,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c359ad1c-f4af-4972-af42-8a6d061a1e6a"
   },
   {
-    "id": "182157a4-0b1c-4c42-a924-644bf9546544",
+    "id": "01e6cea2-0756-42b3-aa23-40622824e021",
     "name": "Network of Spies",
     "phaseDetails": "Reaction: Opponent declared a command for a unit within 12\" of this unit",
     "phase": "startOfTurn",
@@ -25607,7 +25607,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "60bbfe85-47c6-4d15-b420-cbe3bae13385"
   },
   {
-    "id": "11de5649-8e0f-41a7-9e10-7986d081a521",
+    "id": "a224ce89-44ff-4469-8124-7e6b61bebf12",
     "name": "Arcane Heritage",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -25622,7 +25622,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4ae6e449-bd26-4241-a004-235defae879f"
   },
   {
-    "id": "b128863f-84a4-4092-b1ef-cd777c15a123",
+    "id": "6aa67910-be01-4bdb-baa3-1ae7b2c2b172",
     "name": "Plague Rat",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -25637,7 +25637,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ba983e99-4300-4b47-bca3-384be59ade49"
   },
   {
-    "id": "42ab687d-0cfb-4721-8aa8-e3ea4c0cfb01",
+    "id": "e2651fa7-df84-4d6f-93fa-80ceaf198f35",
     "name": "Tactical Acumen",
     "phaseDetails": "Reaction: You declared the ‘Redeploy’ command for a friendly Cities of Sigmar Human unit wholly within 12\" of this unit",
     "phase": "movementPhase",
@@ -25652,7 +25652,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "04d4d4a0-2f40-4945-aee7-1692a5d3673b"
   },
   {
-    "id": "a0273987-1a7a-4f65-84f4-587fb1f64c65",
+    "id": "8402f2c9-eeb6-4c7d-bd18-8606f1a797a4",
     "name": "Blighted Stampede",
     "phaseDetails": "Once Per Turn (Army), Reaction: You declared the ‘Counter-charge’ command for this unit",
     "phase": "chargePhase",
@@ -25667,7 +25667,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "97a97882-730b-44b9-9eb9-8bd3cb91e9c3"
   },
   {
-    "id": "3db2eefa-4101-4e82-9637-9ae95e5060de",
+    "id": "09bf032d-30fc-4363-9e8c-be00472554af",
     "name": "Screamin' Mandrakk",
     "phaseDetails": "Once Per Battle, Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -25682,7 +25682,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "86bbdce1-0803-4499-b434-dae4f795d7db"
   },
   {
-    "id": "6b62e8a1-f15f-4a9e-b05c-3777de87beb9",
+    "id": "00c00a94-6719-44dd-8e95-646f3ba4240d",
     "name": "Voice of Gork",
     "phaseDetails": "Once Per Battle, Reaction: You declared a Waaagh! ability",
     "phase": "chargePhase",
@@ -25697,7 +25697,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "345c8662-5a2f-406d-8606-5fcc91c98ad0"
   },
   {
-    "id": "93b4bde6-68fe-4f1d-85a3-b083b2e19e24",
+    "id": "6478a135-3ab4-45ee-a52c-8a4de8593b68",
     "name": "Hatred of Sorcery",
     "phaseDetails": "Reaction: A friendly unit within 18\" of this terrain feature was picked to be the target of an enemy spell",
     "phase": "startOfTurn",
@@ -25712,7 +25712,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2d3dc0dc-2578-4bd2-8e9c-5aadfbbcbd24"
   },
   {
-    "id": "4baa99f6-f3ed-4a2f-81a8-454164b750c5",
+    "id": "a79cdd5d-0d60-4d3a-b41d-3a76e3cf66d2",
     "name": "Discordant Disruption",
     "phaseDetails": "Once Per Turn (Army), Reaction: Opponent declared a Spell ability for a Wizard within 18\" of this unit",
     "phase": "heroPhase",
@@ -25727,7 +25727,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4745c669-b1ed-4c50-8c3b-76747855a379"
   },
   {
-    "id": "bcc711a6-ee5f-4e7d-9aea-114f107677ae",
+    "id": "e209189e-9fa7-41c2-bdd0-eb85cb7cea9a",
     "name": "Oracle of Eternity",
     "phaseDetails": "Once Per Battle, Reaction: You declared the ‘Tactical Gambit’ ability",
     "phase": "startOfTurn",
@@ -25742,7 +25742,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6a0ad383-a414-4c9e-b485-a5a03d84d5ce"
   },
   {
-    "id": "d26e706f-1eea-46b4-9492-d18218919f14",
+    "id": "f2da2efb-0332-49ce-9df7-e04d99966506",
     "name": "Babbling Wand",
     "phaseDetails": "Reaction: You declared the ‘Redeploy’ command for a friendly Moonclan unit wholly within 12\" of this unit",
     "phase": "movementPhase",
@@ -25757,7 +25757,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9e6757ac-14ba-4aed-bc30-03ca9874ff5d"
   },
   {
-    "id": "22e6bed0-b316-49a1-a86c-becc2d4dcdc4",
+    "id": "ab90b956-e16d-4f88-abc6-4158fc84d546",
     "name": "The Shield Inviolate",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -25769,10 +25769,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit was picked to be the target of that spell, roll a dice. On a 3+, ignore the effect of that spell on this unit. This unit can use this ability more than once per phase but only once per Spell ability.",
     "abilityAndCommandIcon": "defensive",
-    "warscrollId": "3c152a9a-8abb-4de8-bef8-ea1df87b866a"
+    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece"
   },
   {
-    "id": "74b2884f-797c-4255-89d7-8d894cf1bd0a",
+    "id": "be74726e-ec4a-490f-8c94-94d0bcadbd1e",
     "name": "Aviarch Spymaster",
     "phaseDetails": "Once Per Turn, Reaction: Opponent declared a command for a unit within 18\" of this unit",
     "phase": "startOfTurn",
@@ -25787,7 +25787,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "33307074-e207-4cda-8c0c-ffb6060b0815"
   },
   {
-    "id": "1892fcb8-33de-42b9-b032-b1dfd1af4ea1",
+    "id": "9dea2cc8-f88f-4d34-a06b-d2343008024e",
     "name": "The Shield Inviolate",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -25799,10 +25799,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit was picked to be the target of that spell, roll a dice. On a 3+, ignore the effect of that spell on this unit. This unit can use this ability more than once per phase but only once per Spell ability.",
     "abilityAndCommandIcon": "defensive",
-    "warscrollId": "28647412-df3c-4aaf-9519-3f7966ef367d"
+    "warscrollId": "0992ef28-02f3-4b03-a740-f818e1b3ff00"
   },
   {
-    "id": "d3032b58-2572-4149-9fc9-eda4a68bce0b",
+    "id": "267e000e-ce56-49af-9a99-ad0cca1bc685",
     "name": "Havin' A Good Old Rukk",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25817,7 +25817,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0bc74feb-b7fb-4abd-9581-7d12e905d0f6"
   },
   {
-    "id": "35910f97-8495-4804-8697-02516ebdd12f",
+    "id": "8f29f467-e771-4b1c-a98b-7264fe67ac08",
     "name": "Cleansing Rituals",
     "phaseDetails": "Once Per Turn, Reaction: You declared a Spell ability for a unit wholly within 12\" of this terrain feature",
     "phase": "heroPhase",
@@ -25832,7 +25832,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ac54f3c4-b399-43d0-ac91-4827b797d03a"
   },
   {
-    "id": "877add71-6a99-4daf-84ba-b04cd1e4e32e",
+    "id": "37c0ca67-2625-4871-90a6-30ae0a4ff77f",
     "name": "Fight and Flight",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25847,7 +25847,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c4ab87fb-95a7-4651-b054-63ba321ec637"
   },
   {
-    "id": "457a0877-5dd6-49a8-a986-a21a8232d28a",
+    "id": "89527180-6159-4577-9160-e50f68afc1ea",
     "name": "Paramount Hunter",
     "phaseDetails": "Once Per Turn (Army), Reaction: Opponent declared a Charge ability for a Hero within 9\" of this unit",
     "phase": "chargePhase",
@@ -25862,7 +25862,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "967c2da8-77c3-490a-9285-6906ad79aefc"
   },
   {
-    "id": "da8a55d0-4c49-4f67-ad7c-df96a823706f",
+    "id": "ff8ae675-3442-4bc6-8e34-70e29a5e20f2",
     "name": "Heroic Retribution",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25877,7 +25877,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65"
   },
   {
-    "id": "52f46c9d-75b4-477d-861a-02546bbdb142",
+    "id": "46630bbe-3cc8-4b11-83d7-852c766467d7",
     "name": "Feed On Pestilence",
     "phaseDetails": "Reaction: You declared a Fight ability for a friendly Pestilens unit wholly within 13\" of this unit",
     "phase": "combatPhase",
@@ -25892,7 +25892,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "72a55234-53c4-48b5-9a6e-e929489148a5"
   },
   {
-    "id": "ef034653-6f59-4395-ae35-d6234d9f32be",
+    "id": "45b44222-8cc7-4296-b336-aaea936e24e9",
     "name": "Infantry Overseer",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25907,7 +25907,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "83fd3e52-1fcd-4ef7-a9e1-1ecab4759e66"
   },
   {
-    "id": "f16e020c-4fa8-4cd3-9439-f046bead49e8",
+    "id": "23f221dd-86ed-41d5-bdc7-6f6773e72b8f",
     "name": "Necrotic Impetus",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25922,7 +25922,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "eeb0632a-3846-456e-b5d7-3776f3dc4592"
   },
   {
-    "id": "dc36a33c-ec41-441c-ad9d-22739bc3828b",
+    "id": "dbe5decd-d75a-4282-9b2c-781d9bf5c612",
     "name": "Heralds of Nagash",
     "phaseDetails": "Once Per Turn (Army), Reaction: You declared a Relentless Discipline ability",
     "phase": "startOfTurn",
@@ -25937,7 +25937,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8a0e02b5-5812-4fce-b29f-57ef28575df3"
   },
   {
-    "id": "7ea5c08d-db31-4d58-ae8c-c60bf69caafd",
+    "id": "8501c4c9-e049-400c-a222-5fff03fbd5bc",
     "name": "Irresistible Lure",
     "phaseDetails": "Reaction: Opponent declared a Move ability for a unit wholly within 12\" of this Manifestation",
     "phase": "movementPhase",
@@ -25952,7 +25952,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "49344b9d-0c3e-4639-b998-dcce6c5c8f0c"
   },
   {
-    "id": "05a9ee15-2107-4ab8-85dc-d6d083ce5660",
+    "id": "b6446aab-8f89-4733-bbab-39f418b0b797",
     "name": "Captain of the Plague Legions",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25967,7 +25967,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7c58a04a-dcb8-44e0-afb3-474321fd15c3"
   },
   {
-    "id": "bc30e803-5705-4d76-bab6-0c393ac36fca",
+    "id": "1ffec9c0-4d2a-45d4-b51e-7b4afc9eb756",
     "name": "Pit Master",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25982,7 +25982,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "88ab4833-847f-4958-adad-38361aa4f23c"
   },
   {
-    "id": "008db526-324e-4216-a0aa-a25e679a78ac",
+    "id": "67fe7cdc-5481-48d1-923d-6f096d409f15",
     "name": "Gory Offering",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -25997,7 +25997,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e0cc3856-24f1-4066-9aa3-f76a1a4c0751"
   },
   {
-    "id": "6185592b-faf7-48a9-beb0-0bcb91aef8fa",
+    "id": "52844f63-3d26-49d7-876e-e42c4db37e4d",
     "name": "Lead Da Brutes",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -26012,7 +26012,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f06dc003-e88b-4d0c-8824-333cb2ea0ab0"
   },
   {
-    "id": "663b47a4-e288-4235-9f13-03f8a21418bd",
+    "id": "47c030ba-10a3-406a-b8ae-13f34d280565",
     "name": "Total Eclipse",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -26027,7 +26027,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "782db5cc-416a-4ffc-b0fa-a91e0aaffeec"
   },
   {
-    "id": "3ccad989-75e3-4847-9599-457ba9915701",
+    "id": "52ac500a-5247-4eb8-b255-9f695222833f",
     "name": "Doomfang",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -26042,7 +26042,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "db06d425-2e53-4bc0-8ad9-dfdba0aea076"
   },
   {
-    "id": "5ac1d6e9-50aa-43d3-b180-df7d0e5efed2",
+    "id": "9c1d0e82-45fe-4b64-be22-552c3ea3bed3",
     "name": "Assault Boat",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -26057,7 +26057,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "89562fe2-8685-43de-9830-ed9d5c364f84"
   },
   {
-    "id": "bb36aa0e-0534-406b-9a50-ac5b0c332cb7",
+    "id": "2f352154-8c6b-40c5-a26b-d17d34b932e4",
     "name": "Alpha Roar",
     "phaseDetails": "Once Per Battle (Army), Any Combat Phase.",
     "phase": "combatPhase",
@@ -26072,7 +26072,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fc719a86-a87c-4913-9b9d-cf4d2f184373"
   },
   {
-    "id": "dcef6fd1-8bbf-42cc-88be-231a72707077",
+    "id": "c3670542-8541-411b-9517-80b2272f6fef",
     "name": "Comet Trail",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -26087,7 +26087,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ab0519a7-7a91-4973-92d0-1e447f3178e9"
   },
   {
-    "id": "481b86dd-3c0c-4112-8523-93209cd324a5",
+    "id": "d19ae5ba-5fac-46b4-8911-eba01f0a8f3c",
     "name": "Bone Spirit",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -26102,7 +26102,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3beeb7af-9b51-4e47-85a4-5be13a4981fd"
   },
   {
-    "id": "ab88aa01-33ab-4755-b313-a68c6aecf6f3",
+    "id": "e23817f9-3966-4d28-a35b-f69d9a2d26f0",
     "name": "Prophet of the Horned Rat",
     "phaseDetails": "Once Per Battle, Your Hero Phase",
     "phase": "heroPhase",
@@ -26117,7 +26117,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b366d04a-6d3b-43e3-b253-bdb84aa25ddf"
   },
   {
-    "id": "5a26a509-d00d-4750-bbd8-e29945c78d6e",
+    "id": "2cb7d281-cdd2-4a09-b0c5-b77372a7cafc",
     "name": "Unleashed Warp-Fury",
     "phaseDetails": "Any Combat Phase, Once Per Battle",
     "phase": "combatPhase",
@@ -26132,7 +26132,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6153e3e4-8423-4ebd-bb3b-f9fc731d240d"
   },
   {
-    "id": "7693a30a-2d2d-498e-a995-bdd9ab21771d",
+    "id": "5520cfe9-5e13-4076-ae42-913360d55c9d",
     "name": "Tyrant of Battle",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -26147,7 +26147,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "760608a5-5a37-45fe-8a78-b18b682c458a"
   },
   {
-    "id": "7f6e8cfe-5f4a-4661-9280-9f0ef53cfaeb",
+    "id": "16092ba7-6d85-4949-8fa9-7c16ad6e7e13",
     "name": "Fissures In Reality",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -26162,7 +26162,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b366d04a-6d3b-43e3-b253-bdb84aa25ddf"
   },
   {
-    "id": "5cba2a1e-293b-46be-88f9-b3543be13d4d",
+    "id": "43e366f0-3e0c-4260-a6f1-9efb74a1cbb0",
     "name": "Duty Calls",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -26177,7 +26177,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "03f7a4f0-cf00-4cf3-a267-62923a00c845"
   },
   {
-    "id": "a097a15f-13e7-403d-aeee-095447492a49",
+    "id": "111fc4e4-7f4f-4006-940d-9971ea4bde20",
     "name": "Gaze of the Gnaw",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -26192,7 +26192,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b366d04a-6d3b-43e3-b253-bdb84aa25ddf"
   },
   {
-    "id": "807efdd2-85a5-4eb5-a9ca-85007c6e871c",
+    "id": "9786d682-8db8-4de2-b43b-d25f0329abe5",
     "name": "Lightning Master",
     "phaseDetails": "Once Per Battle (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -26207,7 +26207,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "44085ddb-e834-426c-b242-4b8ab963021a"
   },
   {
-    "id": "1592ba15-d325-4f22-bdce-5bcd4fd3cd9a",
+    "id": "b8d971c2-fcc1-4f89-85fa-b191e3ee47f9",
     "name": "Tunnel Skulkers",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -26222,7 +26222,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "75ea0c6a-b825-49a0-82f9-1da283f05c75"
   },
   {
-    "id": "773728c5-148b-45a2-a837-5e55e4ab3c31",
+    "id": "cd1c89f5-d9bd-4930-858f-fbf28e7a9122",
     "name": "Warp-ambush",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -26237,7 +26237,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "75ea0c6a-b825-49a0-82f9-1da283f05c75"
   },
   {
-    "id": "269d5f13-d5e4-46a4-9a64-162aa9f206be",
+    "id": "0942f2f7-fb6b-49d0-a917-547305d31076",
     "name": "A Reputation For Cunning",
     "phaseDetails": "Enemy Hero Phase",
     "phase": "heroPhase",
@@ -26252,7 +26252,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "db06d425-2e53-4bc0-8ad9-dfdba0aea076"
   },
   {
-    "id": "b2e6a194-4e46-437b-8792-3a0ec2ce972e",
+    "id": "a4f4e8d6-14fe-4f37-8681-2af3b5f0d84f",
     "name": "Foster Competition",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -26267,7 +26267,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "db06d425-2e53-4bc0-8ad9-dfdba0aea076"
   },
   {
-    "id": "f303f348-9482-4a9f-9b66-8dbd98b936b3",
+    "id": "be4f719f-58a1-46fc-8a6d-7e45f2ff65fa",
     "name": "Volatile Ground",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -26282,7 +26282,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "1bd35367-92db-4fdc-8438-14065af828fb"
   },
   {
-    "id": "df1360ea-6b13-4846-bf65-b6ca110373a6",
+    "id": "8d00b4f7-e5c7-4984-b80a-b96027b1f7a6",
     "name": "Toll of Doom",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -26297,7 +26297,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "33101a31-cf1a-4f50-b0ce-4abbc328eace"
   },
   {
-    "id": "9ba18d98-1099-4416-9462-18e6ed993263",
+    "id": "22ccc708-c4a7-43ab-af72-978fff5206ce",
     "name": "More-More Warpvolt Doom!",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -26312,7 +26312,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "44085ddb-e834-426c-b242-4b8ab963021a"
   },
   {
-    "id": "8244cd9f-d1e2-4f2c-857a-71905bfe6a97",
+    "id": "1dd0634c-f768-432f-abe2-3c75fced940f",
     "name": "Hidden Weapon Team",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -26327,7 +26327,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8f54d2d0-c9e4-4da2-97ad-4fa6afa25c7b"
   },
   {
-    "id": "57fcfa18-8b53-4c2e-91f7-ce24f094e306",
+    "id": "a7103ef6-a4a7-4e99-9afa-ea43d5ba87b9",
     "name": "Shadowy Killers",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -26342,7 +26342,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d5e0bf47-def3-42ef-934d-d77fc30b851f"
   },
   {
-    "id": "6039fb96-342b-4cca-abe5-e51ea2952d9e",
+    "id": "d5be6381-549a-42a5-ae45-aec86932ba77",
     "name": "Regenerating Terror",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -26357,7 +26357,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aebf99ba-1a73-46df-971a-263a8bd7f8c4"
   },
   {
-    "id": "d7dd683e-bcbe-46cf-be26-1916b34f725d",
+    "id": "48c09627-3719-4738-9a8f-a05d03cd9382",
     "name": "Warpstone Fumes",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -26372,7 +26372,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aebf99ba-1a73-46df-971a-263a8bd7f8c4"
   },
   {
-    "id": "61b596c6-b4cb-40d0-82e6-dbd67d113fb0",
+    "id": "f336b434-18d9-41a9-b1a7-e2689560f4ed",
     "name": "Battle Damaged",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -26387,7 +26387,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f519ae30-9d60-464b-993e-ca45664e844f"
   },
   {
-    "id": "ef42fdc7-2c3d-466f-b4ba-fdc33435dd92",
+    "id": "5502e370-df93-4ad4-b587-8968cd31c285",
     "name": "Regenerating Monstrosity",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -26402,7 +26402,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f519ae30-9d60-464b-993e-ca45664e844f"
   },
   {
-    "id": "a1e05c18-e739-4c4c-84c2-75d122166777",
+    "id": "3fd1ab31-fb10-4641-b954-ad5ebe03150e",
     "name": "Avalanche of Flesh",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -26417,7 +26417,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f519ae30-9d60-464b-993e-ca45664e844f"
   },
   {
-    "id": "2f396dd2-2293-4130-ae3f-37a07872c5c0",
+    "id": "6df40f15-cea8-4d05-978d-118c24d7c3d6",
     "name": "Phantasmal Discorporation",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -26432,7 +26432,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "41bde6cf-c21e-4048-9b1c-03ddd083120c"
   },
   {
-    "id": "90fa9085-d939-46a7-8c3c-f2585325959d",
+    "id": "b9600efa-063e-454c-bcce-4ddbce80157b",
     "name": "Too Horrible To Die",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -26447,7 +26447,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f519ae30-9d60-464b-993e-ca45664e844f"
   },
   {
-    "id": "f9cd9c7a-29e9-4e15-b668-4e6f7c3ec243",
+    "id": "aa1e991b-e4a2-4b33-9059-aca1d1959f2a",
     "name": "Seething Swarm",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -26462,7 +26462,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f16b2ddb-cd56-4139-8d8c-3b90d2fd8055"
   },
   {
-    "id": "957b42f1-81c7-4e11-94f5-35cab6e76660",
+    "id": "fd5a1996-7e33-4507-9070-2cc902650fd8",
     "name": "The Dreaded Thirteenth Spell",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -26477,7 +26477,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d81c17ed-1d97-4f5b-a5e4-8a4f70ca1fcb"
   },
   {
-    "id": "046c9f91-2400-4cb0-b980-60e1bf1611a0",
+    "id": "812ff633-eb47-41e0-b4f3-ef61786a9db1",
     "name": "The Death Frenzy",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -26492,7 +26492,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b366d04a-6d3b-43e3-b253-bdb84aa25ddf"
   },
   {
-    "id": "fd3b01c9-2f78-425d-aaf8-22bbda1d26e7",
+    "id": "8965b163-864f-4cdf-a28f-17f8552f0663",
     "name": "Exit the Shrine",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -26507,7 +26507,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ac54f3c4-b399-43d0-ac91-4827b797d03a"
   },
   {
-    "id": "94e5beb5-5e10-4b1a-9a44-31feb81220a6",
+    "id": "6fe4c4c1-825a-4180-8d7f-07a097c2dc1b",
     "name": "Rampaging Destruction",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -26519,10 +26519,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit charged this phase, pick 1 of the following effects:\n\n• Roll a dice for each enemy unit within 1\" of this unit. On a 2+, inflict an amount of mortal damage on that unit equal to the roll.\n• Pick an enemy Monster in combat with this unit and roll 2D6. On a 7, this ability has no effect. Otherwise, inflict an amount of mortal damage on that unit equal to the results on the dice used for the 2D6 roll multiplied together. For example, a 2D6 roll of 2 and 6 would inflict 12 mortal damage (2 × 6).",
     "abilityAndCommandIcon": "offensive",
-    "warscrollId": "e13fcd1d-b044-4ff9-b0e8-7145ec437bf7"
+    "warscrollId": "37e37cf6-600c-41b7-b36a-384fed5df4c8"
   },
   {
-    "id": "c40a8b17-d789-427c-8d09-56c672146a13",
+    "id": "6be32048-e90f-4f2a-91d0-a534c9123b37",
     "name": "Avatar of Destruction",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -26534,10 +26534,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit would be automatically destroyed, it is not automatically destroyed. Instead, allocate 6 damage points to it (ward rolls cannot be made for those damage points).",
     "abilityAndCommandIcon": "defensive",
-    "warscrollId": "e13fcd1d-b044-4ff9-b0e8-7145ec437bf7"
+    "warscrollId": "37e37cf6-600c-41b7-b36a-384fed5df4c8"
   },
   {
-    "id": "a81a93e8-7d81-46fa-9d8b-32e7f12d6c56",
+    "id": "f89514ef-7e47-45fa-b360-d52dd3d993a1",
     "name": "The Shield Inviolate",
     "phaseDetails": "Reaction: Opponent declared a Spell ability",
     "phase": "heroPhase",
@@ -26549,10 +26549,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "If this unit was picked to be the target of that spell, roll a dice. On a 3+, ignore the effect of that spell on this unit. This unit can use this ability more than once per phase but only once per Spell ability.",
     "abilityAndCommandIcon": "defensive",
-    "warscrollId": "e13fcd1d-b044-4ff9-b0e8-7145ec437bf7"
+    "warscrollId": "37e37cf6-600c-41b7-b36a-384fed5df4c8"
   },
   {
-    "id": "86e32d19-e3d3-4221-90cf-1ef79eb4ec44",
+    "id": "759ac5c4-e260-4a90-8568-c65bb5363fca",
     "name": "Morbid Detonation",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -26567,7 +26567,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e60d3726-1842-4f13-8584-ed31a5776017"
   },
   {
-    "id": "ff2eb095-8359-43d3-8c59-f07dfa1e4800",
+    "id": "1d3335b5-1ca9-48b9-b915-a851948e492d",
     "name": "Hatred's Edge",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -26582,7 +26582,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fa466065-a4bf-44d3-838a-62a9844ff782"
   },
   {
-    "id": "de6a2f6b-0297-4552-bf7d-ba35249529e5",
+    "id": "41303f13-9b50-48e1-b2a0-b6a78df44e7e",
     "name": "Ascend The Altar",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -26597,7 +26597,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2d3dc0dc-2578-4bd2-8e9c-5aadfbbcbd24"
   },
   {
-    "id": "e69d8b9c-936c-4cd0-a0f4-5aaeec650199",
+    "id": "f50120c4-47ff-4ccb-82eb-1da5acf24694",
     "name": "Descend The Altar",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -26612,7 +26612,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2d3dc0dc-2578-4bd2-8e9c-5aadfbbcbd24"
   },
   {
-    "id": "4da75d9e-a0c2-429b-8279-c2cc8cae81f9",
+    "id": "3d5b1cee-1ebb-4ca4-9afa-f99a87a26e8d",
     "name": "Fusiliers, Fire!",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -26627,7 +26627,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f8e8a55d-6702-4075-ba5f-23d8842cf8a4"
   },
   {
-    "id": "828efd45-bbe8-4633-94f9-65257daf91a7",
+    "id": "f633474d-eabe-4c75-b1df-ad4d643d1278",
     "name": "A Twisted Fate",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -26642,7 +26642,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13fa2a54-37f5-4b31-88ea-c7b51c8b9b40"
   },
   {
-    "id": "6cb6129b-ffdd-4985-af93-2c75136767cc",
+    "id": "ef05fe0e-acd3-4982-85d3-a302d528d126",
     "name": "Reigning Champion",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -26657,7 +26657,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "03f7a4f0-cf00-4cf3-a267-62923a00c845"
   },
   {
-    "id": "439f310f-7fc5-4741-b10d-4c000e785fe5",
+    "id": "6b38f327-9a78-4ba9-a5f1-50a1cdbbd2b7",
     "name": "Vying for Glory",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -26672,7 +26672,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "82ad3073-c649-45fd-964e-15c04fd184bc"
   },
   {
-    "id": "86e4d8d3-f79f-4ab4-ac6f-aa8ec3f7f789",
+    "id": "af53b826-14d2-43dd-85bf-06defa49450f",
     "name": "Enter the Shrine",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -26687,7 +26687,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "ac54f3c4-b399-43d0-ac91-4827b797d03a"
   },
   {
-    "id": "46cd8246-2799-4f6c-8f83-d57629f25910",
+    "id": "8a065a69-9c27-42a8-8548-21578ac9d6b7",
     "name": "The End of Empires",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -26699,10 +26699,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for friendly Destruction units while they are wholly within 12\" of this unit, to a maximum of 3.",
     "abilityAndCommandIcon": "movement",
-    "warscrollId": "3c152a9a-8abb-4de8-bef8-ea1df87b866a"
+    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece"
   },
   {
-    "id": "1c53d5c9-014f-4071-b4f8-745c53efd80c",
+    "id": "9db5c539-162e-4095-80a3-bda62f8db97e",
     "name": "Voice of Tyrion",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -26717,7 +26717,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4d8b1c80-9f01-4ded-802e-a531bef7ef8c"
   },
   {
-    "id": "f7fca7c2-bbfd-48fe-b0a0-a56c85701b0e",
+    "id": "057f8bf9-8ae7-40c3-a0bc-217a95a95289",
     "name": "The Prime Huntress",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -26732,7 +26732,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c01f5685-3704-4b3f-942f-e59d6ad8b9ef"
   },
   {
-    "id": "6e05c912-c8d3-47c8-88c4-fed5779e20c0",
+    "id": "b84f7c7a-d4a9-4cd3-b5b7-9de7d64e6afe",
     "name": "Feed the Maw",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -26747,7 +26747,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "444f4e9b-ed43-4fe0-aa24-7e25f78abec0"
   },
   {
-    "id": "abc188fa-1411-4645-a8db-edafb4a2ad9b",
+    "id": "a8c52ed0-224d-4503-a6f5-8736ac50126d",
     "name": "Step Away From The Maw",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -26762,7 +26762,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "444f4e9b-ed43-4fe0-aa24-7e25f78abec0"
   },
   {
-    "id": "0e789e0a-613d-48a6-b0d6-756023e285f1",
+    "id": "cb2bf07c-92b8-48c7-ba3a-389775589e66",
     "name": "The End of Empires",
     "phaseDetails": "Your Charge Phase.",
     "phase": "chargePhase",
@@ -26774,10 +26774,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for friendly Destruction units while they are wholly within 12\" of this unit, to a maximum of 3.",
     "abilityAndCommandIcon": "movement",
-    "warscrollId": "28647412-df3c-4aaf-9519-3f7966ef367d"
+    "warscrollId": "0992ef28-02f3-4b03-a740-f818e1b3ff00"
   },
   {
-    "id": "c905c021-3011-448e-941e-5755158c90e8",
+    "id": "40530d3b-ea17-49ec-92b7-959d2f8624bd",
     "name": "The End of Empires",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -26789,10 +26789,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for friendly Destruction units while they are wholly within 12\" of this unit, to a maximum of 3.",
     "abilityAndCommandIcon": "movement",
-    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324"
+    "warscrollId": "4e49066f-602e-446b-9107-1adec25aa3ac"
   },
   {
-    "id": "69161066-a6db-48a1-8a29-c4d6f5c41a4b",
+    "id": "9fa4d7fe-c064-4a94-9504-1f70b6e204f8",
     "name": "The End of Empires",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -26804,10 +26804,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for friendly Destruction units while they are wholly within 12\" of this unit, to a maximum of 3.",
     "abilityAndCommandIcon": "movement",
-    "warscrollId": "e13fcd1d-b044-4ff9-b0e8-7145ec437bf7"
+    "warscrollId": "37e37cf6-600c-41b7-b36a-384fed5df4c8"
   },
   {
-    "id": "b615b992-f193-43aa-b75e-ca18143ef7ba",
+    "id": "8de6499c-3c5c-4a0c-920e-a8b1c2fa0c30",
     "name": "Celestial Conduit",
     "phaseDetails": "Reaction: You declared a Spell ability for a friendly Seraphon Wizard wholly within 12\" of this unit",
     "phase": "heroPhase",
@@ -26822,7 +26822,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "2cc95014-c662-4f47-9271-c3fb6085789a"
   },
   {
-    "id": "45bfefba-fabe-4ae1-b7bb-fe1b4d65d566",
+    "id": "44c2b03b-7901-40cb-8381-5758c568bd59",
     "name": "Get Orf Me Land!",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -26837,7 +26837,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597"
   },
   {
-    "id": "b453255d-b3b2-409a-b647-506f5321cea3",
+    "id": "8cd5f5d9-9bcb-4e86-88be-44aac61658f1",
     "name": "The End of Empires",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -26849,10 +26849,10 @@ export const warscroll_abilities : Ability[] = [
     "declare": null,
     "effect": "For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for friendly Destruction units while they are wholly within 12\" of this unit, to a maximum of 3.",
     "abilityAndCommandIcon": "movement",
-    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f"
+    "warscrollId": "8108d657-35b7-46b6-87fc-96855286fa65"
   },
   {
-    "id": "c2e1976e-b0e3-43a3-948f-ba350f58d27e",
+    "id": "06396313-cef9-421a-be24-95cfaad074dd",
     "name": "Trusted Lieutenant",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -26867,7 +26867,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "aaa6205b-6886-4ae2-85c2-96ba2e5c515a"
   },
   {
-    "id": "b7ea4f07-65ca-4e73-80f4-fbe0b95d984d",
+    "id": "2f1541ce-5897-4bed-97d2-64b3d809ea5d",
     "name": "Rite of Life",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -26882,7 +26882,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "067a82f4-42c7-49d7-be99-9875a6f9c6b2"
   },
   {
-    "id": "f92c9ac9-732b-46f3-b986-7eddbc9d1619",
+    "id": "d3749163-d276-437e-b971-15692f0de6df",
     "name": "Growing Woods",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -26897,7 +26897,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3e330358-f275-4078-aa3f-2a91528dd91d"
   },
   {
-    "id": "0bf1c48b-bd78-49c2-a88d-672ae8599bfd",
+    "id": "2d254f20-5acd-4aa1-85b6-04df08082e21",
     "name": "Vengeful Terrors",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -26912,7 +26912,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e1dfdf68-6cb3-4554-946b-88da45bc4579"
   },
   {
-    "id": "0221938c-e302-4354-990a-de96c99d0318",
+    "id": "e7e90ee7-3abf-4036-9788-1e2adf8c18c2",
     "name": "Radiant Transmogrification",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -26927,7 +26927,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "63f28039-b148-46b6-9972-bf684e50a185"
   },
   {
-    "id": "59b56d52-2f6a-419a-a43a-4ecf8fd4f76b",
+    "id": "2217875d-ac13-4fde-a4f6-4a873decf9e9",
     "name": "Let's get Stabbin'!",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -26942,7 +26942,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f72384fe-8723-40d7-af21-8de58b65f424"
   },
   {
-    "id": "85b49d52-54c5-42f4-8932-1f8bb4b4eacc",
+    "id": "f06d32e4-b547-4e1a-b2a3-0109babeb345",
     "name": "Miasma of Pestilence",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -26957,7 +26957,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "452f26fe-9c6e-4c8c-ae0a-43322cf62ef1"
   },
   {
-    "id": "1e9eab33-c02b-4036-b6d4-1b3ad0809e27",
+    "id": "b39cd8fb-0966-4208-822d-1a2614ecaba1",
     "name": "Creeping Willow",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -26972,7 +26972,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e1dfdf68-6cb3-4554-946b-88da45bc4579"
   },
   {
-    "id": "08c3da0f-db0c-4f18-b2e4-ef5d4807fee3",
+    "id": "793be3f9-3cd6-4769-a1d2-2fa3541a3053",
     "name": "Calamitous Tail Sweep",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -26987,7 +26987,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f766968f-7e13-4fec-b708-abd5ee15633f"
   },
   {
-    "id": "ec2445ef-2b92-4ed2-9c35-7895a0189418",
+    "id": "0a7f84a6-183a-44c7-aece-6725d1a5216f",
     "name": "Ruination Chamber",
     "phaseDetails": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
     "phase": "defensive",
@@ -27002,7 +27002,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad"
   },
   {
-    "id": "7071476a-0c1c-47ac-b31b-0a37ba550fa5",
+    "id": "c2869ee1-7a9c-440e-be3f-af304eae2efa",
     "name": "Nebulous Sea-fog",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -27017,7 +27017,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "135f32ce-8633-4428-959d-18df5b941121"
   },
   {
-    "id": "9ccad34c-a62b-43ea-829e-9b6b407222c5",
+    "id": "2a316375-4647-4ab2-b7d3-90deba0192ff",
     "name": "Step Into The Storm",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -27032,7 +27032,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863"
   },
   {
-    "id": "01dd1cd5-62b8-488c-ba2c-32faf4d6bc8e",
+    "id": "8c83231b-bc5a-4f02-b4a6-601341051cc2",
     "name": "Vengeance Unleashed",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -27047,7 +27047,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3375d9ce-66c7-4910-ad52-332acd2aed64"
   },
   {
-    "id": "2d515ec0-f5ab-4533-b076-3ecfe742072c",
+    "id": "95c488a6-7a96-4031-a512-edae27b0f419",
     "name": "Burning Vengeance",
     "phaseDetails": "Any Hero Phase",
     "phase": "heroPhase",
@@ -27062,7 +27062,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c40ce2eb-1313-4f36-8b1a-c932b850a61f"
   },
   {
-    "id": "f0a1f0d2-c2b5-4135-9bbf-60e7b6e2fda0",
+    "id": "ec1d04dd-d983-4be9-803e-918951189fc3",
     "name": "Arcane Disruption",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -27077,7 +27077,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c40ce2eb-1313-4f36-8b1a-c932b850a61f"
   },
   {
-    "id": "1c053a61-e068-4800-aa4c-14247cca0d6c",
+    "id": "502d5330-12a3-44f5-9cc0-15e9ffb57ad7",
     "name": "Herald of Redemption",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -27092,7 +27092,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6fc894c6-c2f3-46bb-8904-ed8181888594"
   },
   {
-    "id": "a23b1783-0008-4c6c-8906-1bdf0f797d99",
+    "id": "8750cb81-8275-46e1-86ed-f49f8b9f42c7",
     "name": "Ruination Chamber",
     "phaseDetails": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
     "phase": "defensive",
@@ -27107,7 +27107,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6fc894c6-c2f3-46bb-8904-ed8181888594"
   },
   {
-    "id": "1b6d475f-4e3e-4d74-870c-556380b6daff",
+    "id": "0c1c5cfe-f287-4a87-b6f0-060c05c911f7",
     "name": "Tornado of Magic",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -27122,7 +27122,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "fc75e8fb-0c49-4b62-8bc2-f4187448cdd5"
   },
   {
-    "id": "f378401a-4fb9-4a48-bffc-10bf040a5ff9",
+    "id": "464d5040-9ab2-47d8-9996-9fb07d785e03",
     "name": "Ruination Chamber",
     "phaseDetails": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
     "phase": "defensive",
@@ -27137,7 +27137,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "658bcb73-0797-4396-aa47-f3f90c3185ce"
   },
   {
-    "id": "c1558646-628e-4558-8f8f-eab397842d39",
+    "id": "f92c6b1d-1a86-482e-889a-a3fd58ea6d47",
     "name": "The Light of Sigmar",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -27152,7 +27152,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6fc894c6-c2f3-46bb-8904-ed8181888594"
   },
   {
-    "id": "1b0692c7-fc71-477e-ac1c-9152f39bdb55",
+    "id": "b3387756-c92e-405f-81dc-63c2de2fd5c8",
     "name": "Memorian Descendants",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -27167,7 +27167,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "658bcb73-0797-4396-aa47-f3f90c3185ce"
   },
   {
-    "id": "2040dd77-de84-428a-aee5-d55b8e2f633a",
+    "id": "4114d485-816e-45ee-9346-c3f1e510bfca",
     "name": "Ruination Chamber",
     "phaseDetails": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
     "phase": "defensive",
@@ -27182,7 +27182,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bc0939ee-34ec-4714-a82f-02b030e52240"
   },
   {
-    "id": "569c2c22-2af7-44c2-a041-b6eb7990e19e",
+    "id": "78f58bf9-a7f2-4a72-b296-61af521fde78",
     "name": "Staff of Abjuration",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -27197,7 +27197,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bc0939ee-34ec-4714-a82f-02b030e52240"
   },
   {
-    "id": "4bf022c1-7ad7-46a1-8c4c-d41b00d08a56",
+    "id": "540877a0-38ce-4a71-a075-058a2549a5b0",
     "name": "Sense Unholy Sorcery",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -27212,7 +27212,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bc0939ee-34ec-4714-a82f-02b030e52240"
   },
   {
-    "id": "8cc722ce-ee7f-49fb-9737-f50634fa5735",
+    "id": "efadb4b4-069f-4569-a5ac-281e3c7865b2",
     "name": "Loyal Gryph-hound",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -27227,7 +27227,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "995b948f-1de2-4275-a507-3b33729892d4"
   },
   {
-    "id": "13537e84-07aa-4e40-ae77-c1b13060a814",
+    "id": "98a9c280-810a-439a-a02b-c74d49e5d4c4",
     "name": "Guided by Lightning",
     "phaseDetails": "Once Per Battle, Your Movement Phase",
     "phase": "movementPhase",
@@ -27242,7 +27242,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "995b948f-1de2-4275-a507-3b33729892d4"
   },
   {
-    "id": "c721c397-fa93-42ca-9f02-7a18959bce35",
+    "id": "89514bac-ee87-466e-ac09-cde99570e22f",
     "name": "Earn an Honourable Death",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -27257,7 +27257,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "418c7a31-53ba-4176-82de-ed99d1f8cc74"
   },
   {
-    "id": "fdb50416-1686-4b05-8992-3ecfad1f5aa7",
+    "id": "e4ae2553-4d92-4fda-b9ce-8aabec1a4927",
     "name": "Memorian",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -27272,7 +27272,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "418c7a31-53ba-4176-82de-ed99d1f8cc74"
   },
   {
-    "id": "bbd35b02-c4df-4b97-859e-255e1d58a1e2",
+    "id": "03d8e2b9-4ac5-4a9b-9d9a-37f1eb7cd0d8",
     "name": "Deliver Judgement",
     "phaseDetails": "Once Per Battle (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -27287,7 +27287,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "dc52859a-3319-4220-a61b-f51784a40f8c"
   },
   {
-    "id": "80974477-5698-498a-8a90-b258de402a66",
+    "id": "273e3ae1-b469-44aa-bff2-b4c78cb71405",
     "name": "Ruination Chamber",
     "phaseDetails": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
     "phase": "defensive",
@@ -27302,7 +27302,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8ca07d29-068e-48ae-a7c4-ed1abeafe6db"
   },
   {
-    "id": "1946a033-c013-41d7-978b-69c36da62f58",
+    "id": "be0558b3-cf51-4084-81fe-9102c9b683e1",
     "name": "The Light of Sigmar",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -27317,7 +27317,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8ca07d29-068e-48ae-a7c4-ed1abeafe6db"
   },
   {
-    "id": "a99b9182-9f9c-48dc-a40d-8a33a503ae77",
+    "id": "23a47f3a-73ab-44d4-af5b-8f1c6afe80ad",
     "name": "Light in the Dark",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -27332,7 +27332,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "8ca07d29-068e-48ae-a7c4-ed1abeafe6db"
   },
   {
-    "id": "27d9f4f5-ae83-40ef-9337-95f01b444954",
+    "id": "48637843-2a5f-48b3-a83c-feca1da944b6",
     "name": "Direct The Assault",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -27347,7 +27347,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0"
   },
   {
-    "id": "82a38065-0e9d-4f61-a6fe-be2977afdc45",
+    "id": "7ff8f64a-8f62-4e29-a3f6-016851085a14",
     "name": "Soul-forged Guardians",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -27362,7 +27362,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7aacedac-3ffa-4946-bf4d-12cacfac7ec0"
   },
   {
-    "id": "75ce78a7-d5e0-4bfa-bdaa-46cc2f6e90d0",
+    "id": "9768effd-f139-4305-8de0-59d5474e4339",
     "name": "Warning Cry",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -27377,7 +27377,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3f4aa91d-2a19-41a9-8132-0875c8bf876f"
   },
   {
-    "id": "3b975c0e-9e38-4af4-8a71-d604cb63ae1c",
+    "id": "d3e7d0bf-ecc7-4799-81e9-a242f13217d6",
     "name": "Beast",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -27392,7 +27392,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3f4aa91d-2a19-41a9-8132-0875c8bf876f"
   },
   {
-    "id": "4086e6a8-5caa-4be6-b533-4c4c3487191d",
+    "id": "eb71ba53-e81c-43d6-b6e8-c8f3ee76ee80",
     "name": "Ruination Chamber",
     "phaseDetails": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
     "phase": "defensive",
@@ -27407,7 +27407,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0"
   },
   {
-    "id": "16256adf-ffc7-4345-aaef-e6a524dcf49e",
+    "id": "5ca3cec9-ab03-4f9d-856f-bf1474922e77",
     "name": "Soul-bonded",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -27422,7 +27422,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "7aacedac-3ffa-4946-bf4d-12cacfac7ec0"
   },
   {
-    "id": "06defbbd-b099-436b-895c-dc4bfd84a783",
+    "id": "377a0adf-1c83-4102-8691-f8b9ee090df7",
     "name": "Vice-Like Grip",
     "phaseDetails": "Once Per Turn (Army), Any Charge Phase",
     "phase": "chargePhase",
@@ -27437,7 +27437,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0"
   },
   {
-    "id": "97f2f504-a1a9-48b9-ac41-f7e2d68bc9b1",
+    "id": "7a16d30f-c534-4d4c-874d-746d020c7a80",
     "name": "Ride for Vengeance",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -27452,7 +27452,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "6617bc47-4c03-4afb-bd3c-0d8b354e000c"
   },
   {
-    "id": "e34fff1f-24c3-4bd3-8670-7c72df772afe",
+    "id": "7640283c-3ed6-4e62-b59b-a6d5dc978906",
     "name": "Headshot",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -27467,7 +27467,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "09630233-cf6d-4547-a143-28014361d1ba"
   },
   {
-    "id": "2a578654-6e05-4e64-bd0c-90f5d6d552ed",
+    "id": "ac7b200e-f5ea-4efe-8357-47693ef29bce",
     "name": "Navigators of the Storm",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -27482,7 +27482,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "e0bd97a7-12c4-4039-afba-7b5ebb5ed678"
   },
   {
-    "id": "ad30260d-daf5-471d-be17-7273b67f0872",
+    "id": "2dbbb92f-40de-411c-98e0-547648ec56d7",
     "name": "Hold the Shieldwall",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -27497,7 +27497,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "64b34504-19a9-479c-9f12-826e66d1c733"
   },
   {
-    "id": "88da103a-3daf-4d6b-9694-a85667b05893",
+    "id": "884f1973-aae1-4c02-bbb5-10761950cb7e",
     "name": "Charging Volley",
     "phaseDetails": "Your Charge Phase",
     "phase": "chargePhase",
@@ -27512,7 +27512,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5fa04b06-90c0-4f13-ae36-10c6e15276a4"
   },
   {
-    "id": "779e9b8a-fa51-4081-bf6b-f6006868b7cd",
+    "id": "7d3bb68e-91dd-4f8c-b633-016a60ee8032",
     "name": "Shocking Strikes",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -27527,7 +27527,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "03fa787e-4936-4b5e-86bd-99850068bcd9"
   },
   {
-    "id": "3e1d1637-4a0f-4f9b-abdd-1b353b8496c5",
+    "id": "39a36022-cd27-4699-82f6-32e373be37c6",
     "name": "Star-marked",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -27542,7 +27542,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "da92c167-084b-4b27-85e0-99feeb219efc"
   },
   {
-    "id": "ee317850-6c18-40e0-8831-c091adb97a3d",
+    "id": "af8cec37-f735-4823-a778-6adeaac45bfc",
     "name": "Draconic Onslaught",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -27557,7 +27557,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "05c274fa-ecc8-4b59-8723-f5c8060db0b4"
   },
   {
-    "id": "99fd4acb-1e3f-4d20-b789-d06077e654d5",
+    "id": "de392084-699b-4257-a326-98ccae508f40",
     "name": "Extremis Chamber",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -27572,7 +27572,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "05c274fa-ecc8-4b59-8723-f5c8060db0b4"
   },
   {
-    "id": "96411bd8-4bc9-490d-a8d4-aba897a71fea",
+    "id": "7edfd364-bbec-47ae-9949-be436a1df8b6",
     "name": "Wrath of the Draconith",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -27587,7 +27587,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4ae6e449-bd26-4241-a004-235defae879f"
   },
   {
-    "id": "af30b474-d2de-4454-a473-d9c9c44642d6",
+    "id": "125d0ccd-bcc2-4a87-bc83-47441eb0dce1",
     "name": "Aethershock",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -27602,7 +27602,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3b0cb46c-8444-4a10-bb47-55107d144fca"
   },
   {
-    "id": "23c7d223-56ba-4e8c-a379-11e24ed070b8",
+    "id": "52e70bc9-f9ba-4bf2-ac73-1203d139ca07",
     "name": "Gather the Aether",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -27617,7 +27617,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "3b0cb46c-8444-4a10-bb47-55107d144fca"
   },
   {
-    "id": "5cda41ad-7cb0-4c8a-b2d2-919591d83679",
+    "id": "a66f7bb4-24df-48c8-b0e6-cdc03874c943",
     "name": "Overwhelming Volleystorm",
     "phaseDetails": "Any Shooting Phase",
     "phase": "shootingPhase",
@@ -27632,7 +27632,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "4c8d3e26-25bc-459d-8997-3fa60fd63f4d"
   },
   {
-    "id": "c328e34f-e381-46ff-92c2-0c2a78484f2c",
+    "id": "42e10a28-fb38-4afa-ae32-7de1e8241082",
     "name": "Cleaving Blow",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -27647,7 +27647,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "d2ddb86f-f3f5-4e99-bcc0-8b2c49126591"
   },
   {
-    "id": "cfb3ce21-c21c-4626-b96f-aaa2ae8011c7",
+    "id": "a2a2e6e5-7420-4c08-a9a9-6613d5a3beb4",
     "name": "Thunderstruck",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -27662,7 +27662,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "9e729045-a908-4c41-831b-6efc76ccaa97"
   },
   {
-    "id": "946efba1-61f9-4ea8-8d9e-013e52cf4d2c",
+    "id": "eea92d12-6bab-42e2-b06f-d59b96b266c8",
     "name": "Lord of the Host",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -27677,7 +27677,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "297589a1-63a3-4949-b84d-0b02291997a7"
   },
   {
-    "id": "27a884e7-0c7f-4609-8110-cc9a6e41a084",
+    "id": "abc2e1db-a0b4-494b-9613-8fe16542d22a",
     "name": "Monstrous Challenge",
     "phaseDetails": "Once Per Turn (Army), Your Combat Phase",
     "phase": "combatPhase",
@@ -27692,7 +27692,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5f6dd5ed-926a-4506-9538-f56ac40a56ab"
   },
   {
-    "id": "c5de8d84-93ee-445d-9788-317042c76f90",
+    "id": "1b921ab1-6005-4869-bda1-8a1effaadb58",
     "name": "Retribution From On High",
     "phaseDetails": "Once Per Battle, Your Movement Phase",
     "phase": "movementPhase",
@@ -27707,7 +27707,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c664609a-8757-4141-99dc-f731794570c6"
   },
   {
-    "id": "4b004886-f409-4f29-b701-28c11241289f",
+    "id": "3b665f13-0bb0-4dee-837a-83e33a347c95",
     "name": "Dazzling Radiance",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -27722,7 +27722,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "c01f5685-3704-4b3f-942f-e59d6ad8b9ef"
   },
   {
-    "id": "410262b4-8dd9-454f-a5bf-576d13f3c4d8",
+    "id": "61f2e102-4380-49c0-a6fa-42ab3002a4ce",
     "name": "Dark Flight",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -27737,7 +27737,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad"
   },
   {
-    "id": "262b41ee-218c-47f0-8dc2-379b23efceda",
+    "id": "1d825899-3e85-49c6-be15-d5e8d3030ac2",
     "name": "Prayer of the Witness",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -27752,7 +27752,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad"
   },
   {
-    "id": "19e49b37-9591-42cb-9fc0-145d7c707c49",
+    "id": "dcffab8b-35c5-4753-bc84-3f4ee2be0070",
     "name": "Ancient Master of War",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -27767,7 +27767,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "f766968f-7e13-4fec-b708-abd5ee15633f"
   },
   {
-    "id": "79f79195-9de2-4f3f-aff0-4b1640c390c4",
+    "id": "8e7a9f2c-c2bb-4232-a280-59210a05eb0a",
     "name": "Righteous Avengers",
     "phaseDetails": "Reaction: You declared a Fight ability for this unit",
     "phase": "combatPhase",
@@ -27782,7 +27782,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "13bc2019-0e12-4a57-8aaf-e6fc5b85a2c0"
   },
   {
-    "id": "443f15ec-53bc-4ecd-8914-a2e072a2b874",
+    "id": "40772efc-6b70-46bf-9746-51feebc3e2dd",
     "name": "Hunting Hounds",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -27797,7 +27797,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "bc045bea-7039-475d-9826-17752abff3bf"
   },
   {
-    "id": "f242ff99-c9d2-416b-9d86-0d89598e9845",
+    "id": "fa5b4acd-bfd8-4f8c-a3a8-92e024f809e5",
     "name": "Ride The Winds Aetheric",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -27812,7 +27812,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "b4da5c03-cbca-47f4-8bdb-a0268fa6e95d"
   },
   {
-    "id": "b0312ca7-948b-4bfc-a135-94906850b93b",
+    "id": "d9506370-a7a3-45b3-9ea2-9cadde509567",
     "name": "Whispers of Doubt",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -27827,7 +27827,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "0ff40368-54ff-4e2c-aff4-3c8dca56a2e0"
   },
   {
-    "id": "02f6cc84-ff71-42a7-9e67-db21f484b33d",
+    "id": "00b199ab-348b-4978-900a-a075a1608956",
     "name": "Relentless as the Driving Current",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -27842,7 +27842,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "5a727a3e-93c7-4b00-987a-128972b0a76c"
   },
   {
-    "id": "ae6f6a45-8856-4b62-922d-15ecf84fe6d6",
+    "id": "aabbcbbb-99f5-4a94-895d-22fedf226e8e",
     "name": "Arcane Vassal",
     "phaseDetails": "Once Per Turn, Any Hero Phase",
     "phase": "heroPhase",
@@ -27857,7 +27857,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "72638bb4-d077-45f8-9cb4-98f15de22244"
   },
   {
-    "id": "1a9a5f33-7485-4dd1-97ba-ee3e0bd632a4",
+    "id": "8ce3b1b4-acf8-4f8b-8036-a3cc2f131055",
     "name": "Under a Killing Moon",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -27872,7 +27872,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "cea7cd00-b2e6-48ea-9bfd-cb353cb78ab0"
   },
   {
-    "id": "d0387f46-7c87-4b70-a98b-018b48962202",
+    "id": "4a599c6e-152e-4359-bcc7-d952a47ee11b",
     "name": "Arcane Enhancement",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -27887,7 +27887,7 @@ export const warscroll_abilities : Ability[] = [
     "warscrollId": "48496b2b-b2f4-4428-b378-26eb06882443"
   },
   {
-    "id": "ed2d157e-0482-4ac4-9070-0687b63ae453",
+    "id": "b3cd4e2c-161d-4cb5-b446-3adfb4ae4304",
     "name": "Horrible Fascination",
     "phaseDetails": "Reaction: Opponent declared a command or Retreat ability for a unit in combat with this unit",
     "phase": "startOfTurn",

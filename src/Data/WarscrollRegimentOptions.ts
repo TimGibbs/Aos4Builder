@@ -2,7 +2,7 @@ import WarscrollRegimentOption from "../Types/DataTypes/WarscrollRegimentOptions
 
 export const warscroll_regiment_options : WarscrollRegimentOption[] = [
   {
-    "id": "44e02e27-2583-47c3-8c92-cf15ed5dc9ff",
+    "id": "9b5eb5c2-2a1b-4256-814f-3e8862890cd8",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -12,7 +12,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "e1d9c34a-2d56-4127-9c63-f13319707dc2",
+    "id": "a184f77f-d3c8-4a79-b525-0c72e0e0c970",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -22,7 +22,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Crypt Flayers (2 models)"
   },
   {
-    "id": "4806fd05-64bc-43fe-a709-092519fbb3c1",
+    "id": "96aaa436-63b3-4dc2-8243-78a272291261",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -32,7 +32,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Weapon Team Skryre"
   },
   {
-    "id": "8c2b9b34-3949-4735-8393-72d4d29986af",
+    "id": "4b58d1a6-e333-4ec0-9dd1-edf19627c2dd",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -42,7 +42,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "1540acd9-aa32-492c-8fa8-40a350116243",
+    "id": "6aa66926-0275-4fbb-b2ca-a20384e0823a",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -52,7 +52,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skaven Overclaw"
   },
   {
-    "id": "a8ca8700-9660-47c5-aabc-50f9739cd9e9",
+    "id": "6a41d353-8fb5-4f4b-8ec4-161a23ff045f",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -62,7 +62,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sybarite"
   },
   {
-    "id": "e6ca0ad8-e0b1-4175-be68-d491823a07d3",
+    "id": "d344be9a-4cc2-4d5a-8a32-06a9b98ff38d",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -72,7 +72,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "96bee33c-8b96-45bb-9007-395f29cbfe58",
+    "id": "340464ce-3f7b-4c28-a5cc-2ae64f572c1e",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -82,7 +82,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sacrosanct Chamber Infantry"
   },
   {
-    "id": "5b5e154c-169c-4bc9-9880-2ee5a2b63489",
+    "id": "77e583e6-31a0-4905-813d-d979379b825e",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -92,7 +92,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "cf3f12af-5591-4df6-bff1-20c66229ef37",
+    "id": "bea6b740-65a5-4de2-a9e4-5a6e9505be4e",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
@@ -102,17 +102,17 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skaven"
   },
   {
-    "id": "aaac59fd-343b-4b9c-b61a-9f50cdcbe039",
+    "id": "e8bacf03-0dca-4dfc-800b-84364f58a9f9",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31",
+    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
     "optionText": "0-1 Cursed Soul"
   },
   {
-    "id": "f9b2d6c5-39a6-49db-be8e-6fb9c8110698",
+    "id": "82294dc4-a3ce-433c-ad3a-723332182697",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -122,7 +122,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warriors of Chaos"
   },
   {
-    "id": "a2e7d041-834e-4913-9f9d-82b98708c6dd",
+    "id": "9631befe-716a-4776-8fcf-c21977ef9508",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -132,7 +132,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "9fe850db-db77-46dc-ae81-0fa6a4e90521",
+    "id": "99a53adb-7d44-4811-8c0f-3328bf107b63",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -142,7 +142,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Arcanite"
   },
   {
-    "id": "31a7c0bb-36ee-4efa-b831-6243eb7db249",
+    "id": "afbc7da5-5739-4d1b-af36-5c68ac370276",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -152,7 +152,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Black Coach"
   },
   {
-    "id": "c4269d06-e4d4-4aa6-a4b4-766c85dc9be9",
+    "id": "1555b00d-db91-41cc-acd4-fd2576301a1e",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -162,7 +162,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sybarite"
   },
   {
-    "id": "cf40d761-e89d-4c90-9b37-2c064af3a337",
+    "id": "8e78ba73-f564-4a2b-9f73-804e3594af27",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -172,7 +172,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warriors of Chaos"
   },
   {
-    "id": "04fba0e4-16c3-46f6-9b01-6b35dae0b6f6",
+    "id": "2ac71fa1-924a-4713-ba97-12c563ec38a4",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -182,7 +182,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "c0266b59-d6d1-4da0-9068-ca695f36fdea",
+    "id": "37f21cca-6b8b-4c4c-9985-9e5aaa7c7a98",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -192,7 +192,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Eshin"
   },
   {
-    "id": "e1353c25-46fb-46fd-a494-7a9b3f854d5c",
+    "id": "243e9b7e-4fcf-409b-a592-43764c9bef11",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -202,7 +202,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "c38992cd-aff1-491f-b6f7-73a4ce96c104",
+    "id": "e80b770b-8849-4844-b0dc-003d2853b6cd",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -212,7 +212,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "d64567d4-9a4e-475e-9783-eda702f3cb53",
+    "id": "85814471-2b73-4d70-870f-c5a5b538f370",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -222,7 +222,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "745732ef-b0d9-4d12-b906-c225fa9e165b",
+    "id": "149e577a-88ba-44d8-9863-9b0b6dc5cd0a",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -232,7 +232,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "241a03bc-ec93-4544-b532-cd751e19caf9",
+    "id": "9307b20a-abcb-44df-9c6e-0291529a8288",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "658431dd-d251-4bfd-be82-e59ecdee0f15",
@@ -242,7 +242,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Beasts of Chaos"
   },
   {
-    "id": "f6571cf2-eb2d-4d07-a4f2-8d5e73a0afcc",
+    "id": "d6d3a386-6d42-440e-bcf1-1f1efbf68c20",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -252,7 +252,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Spiderfang"
   },
   {
-    "id": "0fc8efc7-7b33-4eba-be43-2e5a5d7889e9",
+    "id": "bcccb59a-287a-47c7-8781-5ad415a8182b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -262,7 +262,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Cursed Soul"
   },
   {
-    "id": "ff16511e-f508-46e1-a1fb-c7d4f9c3081b",
+    "id": "4e5fbee5-1a4a-47a7-84c3-cdea1bb17be6",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
@@ -272,7 +272,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sylvaneth"
   },
   {
-    "id": "7f000805-f9cc-446c-8da7-4d4e883452c7",
+    "id": "c463d221-b249-4a3f-b814-cd37028620c5",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -282,7 +282,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sacrosanct Chamber"
   },
   {
-    "id": "a1df994f-f99f-401d-b946-e2499ec2a3d6",
+    "id": "67e905f4-d1d9-4925-9d6b-c9e9bc2204b3",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -292,7 +292,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanguard Chamber"
   },
   {
-    "id": "18e55c08-b7ea-447a-843f-5572e4e1c937",
+    "id": "c8ae7d21-3b6a-4567-8a64-09ce2d32870f",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -302,7 +302,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Serfs"
   },
   {
-    "id": "1d281546-0ccb-4bb3-88d8-9f9c87d6d54d",
+    "id": "d00774f4-d852-45f4-a84d-6ce7dc9d2f0a",
     "childQuantity": "zeroToOne",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -312,7 +312,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Weapon Team Skryre"
   },
   {
-    "id": "43f944a2-140f-4858-885d-18a1d4b27a23",
+    "id": "b7cc97aa-92f5-4a3d-91fd-56822d6dbde5",
     "childQuantity": "zeroToOne",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -322,7 +322,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 War Machine Skryre"
   },
   {
-    "id": "f4b12681-a0d1-4e39-91ee-6f55d88a0655",
+    "id": "79419cfb-9582-4ff5-b5b6-70ec3d1ff961",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -332,7 +332,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "dee7d2bf-00b0-4b27-a47c-fc2ce71fcc55",
+    "id": "3820ab26-dfa7-4ace-9e61-d88c8f7c3840",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -342,7 +342,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "5c5ed55f-1b30-4278-8bbd-6ae4d882015c",
+    "id": "5931b5fb-0101-476e-89b4-afd423964aac",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -352,7 +352,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Moonclan"
   },
   {
-    "id": "754b5c3a-aa2f-4c0b-abca-3fe0355ecd85",
+    "id": "70f78e0e-1910-4a0e-8678-78aa969f8eac",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -362,7 +362,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "717e1a72-9259-4378-b7b0-7509a14d45cc",
+    "id": "78e2bd63-a67a-4e05-9134-7883e9a46017",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -372,7 +372,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sacrosanct Chamber"
   },
   {
-    "id": "e297c280-db6b-4b41-a298-b0da61b0ff0b",
+    "id": "797266a5-53a9-4080-a852-da5d698f0725",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -382,7 +382,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Eshin"
   },
   {
-    "id": "a950214e-3edf-447e-9d1d-a67b71342105",
+    "id": "4697fc4d-225b-4028-b6f3-f3389078ab60",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -392,7 +392,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "40abdf2b-8268-43ac-8879-5488b0af41ab",
+    "id": "cbd2d721-c05b-4403-a63a-07b71bc9a7a3",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -402,7 +402,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "53b82e81-6d10-4edf-ba99-329573505c47",
+    "id": "67f5e251-0291-4913-ad8c-26cebc8abdd4",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -412,7 +412,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ruinous Champion"
   },
   {
-    "id": "0ef3e7b7-0fbb-4720-86b3-39fdc7c90e13",
+    "id": "1eeea2a8-67d7-4300-b938-c593b6c9e096",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -422,7 +422,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "44e9a2fe-5d2b-420c-bba2-d07bb1e465b9",
+    "id": "f582d352-473c-4bd8-bdc4-8e5169a38314",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -432,7 +432,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "f7c7c7bd-0c43-4abe-bb55-e201430ab080",
+    "id": "99ab9267-d25d-4270-a9d2-523b27b510c5",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -442,7 +442,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Rotbringers"
   },
   {
-    "id": "39ff969d-dcbd-4789-91d1-452aca1398c3",
+    "id": "d53c008a-15ff-4337-8109-d83ffddb2610",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -452,7 +452,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "8f8370fe-a4d8-4e7c-bff7-ab6f0f3b65a8",
+    "id": "cfa2690a-f85e-4bfa-a629-76b857319305",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
@@ -462,7 +462,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sylvaneth"
   },
   {
-    "id": "d313d6a2-babd-47a9-8ad6-f12718ee174c",
+    "id": "f9227c9c-f300-4e23-8f2f-6344ea135f00",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -472,7 +472,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Pestilens"
   },
   {
-    "id": "1eefb960-9d9c-4532-8c63-fcbeb0541bec",
+    "id": "6fef6b52-1808-4228-8279-668c9756041d",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -482,7 +482,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Namarti"
   },
   {
-    "id": "2780ecde-8521-4798-b957-f0b2a2cf5429",
+    "id": "240f6477-1265-401b-8225-ce5fb1d1e376",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -492,7 +492,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human Infantry"
   },
   {
-    "id": "16a34106-087c-4140-9b81-b151afdb9a25",
+    "id": "7ea757a2-8f53-44e6-910a-23a63448c09a",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -502,7 +502,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Verminus"
   },
   {
-    "id": "ac50778f-3ce6-4cfd-943d-fd89bc430d93",
+    "id": "0abeaf60-e255-4686-a026-b165b370e2e6",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -512,7 +512,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "0d250672-d9b5-4796-a815-a7e907a43f43",
+    "id": "813cd31a-05a2-44f7-bf44-f4595baa63ef",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -522,7 +522,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "4715b230-e9e3-4cba-b699-4925c44d3c59",
+    "id": "cafb9656-b4f9-4c41-9a6d-0ff95564d8be",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -532,7 +532,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any War Machine"
   },
   {
-    "id": "8de4d04f-782e-4ee2-a038-abbc5e53678b",
+    "id": "302afd81-2389-4e0d-9acb-4ef7d9f868e7",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -542,7 +542,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gothizzar Harvester"
   },
   {
-    "id": "0a561373-d604-4dd8-a76e-9691c00fcab6",
+    "id": "51b924ef-fb02-4b2f-9b43-838a9dfb6e92",
     "childQuantity": "zeroToOne",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -552,7 +552,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 War Machine Skryre"
   },
   {
-    "id": "02f21e6f-bc90-4e98-9850-fb5954bee706",
+    "id": "b8b078f5-ed6f-4907-a0e1-3dac3c074a8a",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -562,7 +562,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Gutbusters"
   },
   {
-    "id": "5c115c05-0a89-4975-a879-ea6ceb6d857f",
+    "id": "c22dc862-8c9e-402c-824b-5e0180e255af",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -572,17 +572,17 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Grimnir’s Chosen"
   },
   {
-    "id": "5d49c1b2-2bc0-4cda-87b2-085251960699",
+    "id": "df250b4c-6ce9-4e0f-96c2-7c16380d6dfd",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "2f5ce910-2283-48ca-b2a8-9ab50262cb9f",
+    "warscrollId": "096e15ac-06a5-4ef2-a9cf-21c72be02f1d",
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "5919c516-df95-447f-8aa1-24bad97e4478",
+    "id": "f00174b8-d4b4-4bd4-8ab1-f2fcbd03ed98",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -592,7 +592,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "89580e13-80d7-4523-b059-633a131c37a9",
+    "id": "d5d084cd-957a-4479-9f73-b6b9850fac51",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -602,7 +602,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "808fa409-15c3-4709-bfea-24e2dcf87390",
+    "id": "9eceff5c-a8b1-4d3f-b192-ade64e569fae",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -612,7 +612,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "347562f2-f271-42cf-8887-eb4c7430c034",
+    "id": "d26a906b-29d4-4beb-b862-484ff72d98c1",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -622,7 +622,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Troggoth"
   },
   {
-    "id": "d3790c47-f2b4-4062-8202-5c22de68f33c",
+    "id": "94e8dae1-d529-4f1c-bbff-6b2d6aef8b51",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
@@ -632,7 +632,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Stormcast Eternals"
   },
   {
-    "id": "b5198e67-d059-4845-8fb7-d0bd3614c5f2",
+    "id": "58bfcc7d-80eb-41fa-b323-7478e6dad27b",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
@@ -642,7 +642,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Stormcast Eternals"
   },
   {
-    "id": "09632632-5e5b-47a0-9ad2-fa1f3cba355d",
+    "id": "e802865f-dec7-40d2-a428-11c7331cf499",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -652,7 +652,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "2a294ec1-90d1-48e5-8221-590b4da48c3f",
+    "id": "bb2a2ead-0c9c-43d5-a066-82c015991ee0",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -662,7 +662,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ruinous Champion"
   },
   {
-    "id": "ba5f1b22-543f-4cbf-b003-81d2580eddfc",
+    "id": "03c51c72-b3cb-4779-858a-c1702c7f7538",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -672,7 +672,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Beastclaw Raiders"
   },
   {
-    "id": "88b8d5bf-e9db-4780-a62f-50b8781b8db9",
+    "id": "3945651c-154e-4312-8f08-2da81a26dab2",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -682,7 +682,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human"
   },
   {
-    "id": "bb9f63b9-0977-4c1d-9499-2dcfca558721",
+    "id": "d89d09f7-a778-4169-8307-2272a4e5794e",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -692,7 +692,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Deathrattle"
   },
   {
-    "id": "5068618f-9094-47e0-a732-32d9a25bea27",
+    "id": "0b9de407-842b-4b5f-80b8-6586850af183",
     "childQuantity": "one",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -702,7 +702,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "1 Lorai, Child of the Abyss"
   },
   {
-    "id": "3987b8b1-d634-4758-a831-78003371b27c",
+    "id": "10648870-1c34-4dfc-80d3-70e44cfb54e5",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -712,7 +712,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Deathmaster"
   },
   {
-    "id": "2619600d-b7f6-4bb1-bba4-e84f4581f06e",
+    "id": "b3b3352d-db88-48a7-be40-7070bc4e9d9c",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -722,7 +722,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Serfs"
   },
   {
-    "id": "628f0964-7448-4627-a61e-3cf82ac9cc78",
+    "id": "b5f1aa69-7298-48fb-a77b-2cb23cf22176",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -732,7 +732,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ruinous Champion"
   },
   {
-    "id": "fa277481-45a2-4686-9e73-4b94d69b9bd3",
+    "id": "dcea1324-0ca2-4a80-b6ba-f66a90da6262",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -742,7 +742,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "ab92e514-5862-4617-b6b9-ec6779ce3789",
+    "id": "2e3dce44-2bb1-4302-902f-cc3c948f6372",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -752,7 +752,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Gutbusters"
   },
   {
-    "id": "a9bdc57d-c151-4e0e-8913-10831540b346",
+    "id": "6d938a89-e30d-48ea-bb75-4bd60f6e6e0f",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -762,7 +762,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "d9cdb1ad-7092-4c3f-9666-e6b659390c32",
+    "id": "288d7d1f-4bc1-4de7-9a68-b380baa5106c",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -772,7 +772,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Deadwalkers"
   },
   {
-    "id": "816be5cd-1eac-429b-abfe-91d07bc0921d",
+    "id": "378d735f-a707-48ce-9999-7ffd1d717868",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -782,7 +782,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ruinous Champion"
   },
   {
-    "id": "32460a6d-312a-415e-bcf2-9e33e54ce11d",
+    "id": "60c61511-f517-4267-8a48-7a6b7be04212",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -792,7 +792,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "c887ad87-3006-4d11-b06e-c83df898424b",
+    "id": "1941c67f-0a2d-4f51-a86e-56ed8eb1989f",
     "childQuantity": "one",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -802,7 +802,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "1 Neave's Companions"
   },
   {
-    "id": "0349dede-3ad0-4475-9512-24d207c5777e",
+    "id": "6fd03dcb-f000-408f-8a39-18a88d1361f4",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -812,7 +812,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "19b6686c-ee9d-4478-9bb6-021f5798f26f",
+    "id": "5ac3b734-7c8e-4de2-ba31-59ea5a51900e",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -822,7 +822,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Extremis Chamber"
   },
   {
-    "id": "398c4f01-e8b5-4849-8163-53a325185a7e",
+    "id": "8325a7d3-4e52-4e2a-8d3f-60646485e8b2",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -832,7 +832,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "1218d8f8-3a84-4ad8-b6d4-7625d9d1b6e1",
+    "id": "50911e34-067e-4cc9-b6cf-ce29a9ea03f8",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -842,7 +842,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Rotbringer Lord"
   },
   {
-    "id": "e63c5dc0-2bd4-4a94-9e55-99818197614f",
+    "id": "e7b05622-2f17-47fe-99c9-95d5b8e6ae6c",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -852,7 +852,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Plague Scion"
   },
   {
-    "id": "f8b4b94c-25f5-40b5-acf5-4afca44e0df6",
+    "id": "be23500f-2dfe-4182-a079-a2a8d6a96fef",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -862,7 +862,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Plague Scion"
   },
   {
-    "id": "23067a3c-41f8-49b5-b2f2-90c0ce03c747",
+    "id": "16464d6e-f5b2-4c2a-bd0f-f272a2e161bd",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -872,7 +872,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gothizzar Harvester"
   },
   {
-    "id": "1b00362f-1d9b-4c06-99a3-bcbd7ed3d2e9",
+    "id": "f7eedcf2-0cc3-4191-91b4-b4da4b2e8e95",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -882,7 +882,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human Infantry"
   },
   {
-    "id": "0dbf73fa-c80f-4eab-ad0a-c16339e9aa18",
+    "id": "de5f83db-9a66-4138-8332-d59d29345311",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -892,7 +892,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "1338eacf-a312-4823-8c0e-11462a20099c",
+    "id": "b6a88c4c-c0c2-41d3-b858-650329580a65",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -902,7 +902,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "c9d0b1bc-2424-48a4-bc83-6bea7eea89dc",
+    "id": "a19681e2-c0a7-4fc0-9ac1-2121b9a9aa3a",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
@@ -912,7 +912,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ossiarch Bonereapers"
   },
   {
-    "id": "b2ee857b-911c-4024-b7bc-35b51a63819b",
+    "id": "018d6374-04ed-497d-b413-506d4dffeede",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -922,7 +922,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Chaos Furies"
   },
   {
-    "id": "7da8a28e-c1af-4368-928a-a21a5041d212",
+    "id": "46ad5f95-7cfd-4eb9-9338-def2a2516933",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -932,7 +932,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Chaos Legionnaires"
   },
   {
-    "id": "6b787f98-59cd-4471-a497-ca712d7ca51d",
+    "id": "ea61d8c0-9149-4db1-b379-45086460f4a7",
     "childQuantity": "any",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -942,7 +942,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warriors of Chaos"
   },
   {
-    "id": "0b02360a-510a-4e73-b8b0-20f9f2a1045c",
+    "id": "b948a5ff-1cff-41c2-ac52-f4c67a50cef4",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -952,17 +952,17 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "1d5aac6e-e7a9-40fe-bd86-22321788cdde",
+    "id": "bbb55265-d4d7-4d1d-8fe1-f704c6cc2742",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "3c152a9a-8abb-4de8-bef8-ea1df87b866a",
+    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece",
     "optionText": "Any Gloomspite Gitz"
   },
   {
-    "id": "be2574be-ec89-4538-a37a-9b021e12a65d",
+    "id": "97fca53a-1645-494c-8f5a-788d575d0410",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -972,7 +972,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "0ed34040-a61d-47cc-8f89-89dd51f81a46",
+    "id": "d2c2584a-754a-4d1f-ab3b-04424fc36dac",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -982,7 +982,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Rotbringers"
   },
   {
-    "id": "a1320c3a-e355-4ea4-b1ad-30485bab312e",
+    "id": "e4c25534-7a94-4dad-b0de-5e3bca3f9058",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -992,7 +992,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "c49e8831-d94e-492d-9f8f-bce658a76470",
+    "id": "a4ff20ca-d758-486b-bd00-a7cce207cedf",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1002,7 +1002,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Saurus"
   },
   {
-    "id": "cfe894a5-ef7d-4b78-8d25-acde0e2d18a8",
+    "id": "7e3f653f-682e-4962-a99c-c8c515832d2a",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -1012,7 +1012,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "df523b94-e4e7-4f09-9424-5ab6afa65d6a",
+    "id": "3c8c0037-826d-4c72-87a0-0c668f070934",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -1022,7 +1022,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "ff9b73fc-f1cf-498c-9cd1-466e1e33f631",
+    "id": "8143ca18-c5b0-4d34-95ec-00dd8b681aba",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1032,7 +1032,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Cursed Soul"
   },
   {
-    "id": "00cb7f28-50e4-4e4c-b132-b395f3b1da3b",
+    "id": "780df7bf-61eb-4dcf-a95f-1f56f49e0da4",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -1042,17 +1042,17 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warriors of Chaos"
   },
   {
-    "id": "c633a737-aa87-42d6-a1bd-3303c9c2c6ea",
+    "id": "04d30f61-43e2-43b2-b4bf-700b65b1c595",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31",
+    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
     "optionText": "Any Nighthaunt"
   },
   {
-    "id": "ed475a8f-f17a-428e-b9c4-53af6e2daaca",
+    "id": "07062df2-bbe5-4184-a83e-2e4b5674266f",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1062,7 +1062,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "539eb37b-0a2a-4ff7-9dd6-d02790460a15",
+    "id": "b0487f6c-7253-4e38-bb41-b0e3c6a4be3b",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1072,7 +1072,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "40316d0a-b831-46d4-9e82-a26a318bf888",
+    "id": "6f1cefad-02b8-4bca-9dcf-2f22fcd4f8a7",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
@@ -1082,7 +1082,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "cebe2322-1ac9-49a2-8fa5-8a0bfb8d7dee",
+    "id": "047110d2-d182-4830-82ab-12f26bafb90b",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "658431dd-d251-4bfd-be82-e59ecdee0f15",
@@ -1092,7 +1092,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Beasts of Chaos"
   },
   {
-    "id": "648c1192-4568-445c-a6b4-4e21ba8bcb53",
+    "id": "b9a9fa44-b54c-4f85-80a6-72d4d48aa32b",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -1102,7 +1102,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Moulder"
   },
   {
-    "id": "9d3758fc-f803-41c0-b90a-e845ae560f0b",
+    "id": "ce3836ea-bf31-4dd2-befb-90f6a0c93f01",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1112,7 +1112,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sacrosanct Chamber Cavalry"
   },
   {
-    "id": "0bbd5e86-a89e-4413-8a9a-b83ea638888c",
+    "id": "ab3b6024-5f0f-43e5-b72d-40523a05357f",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1122,7 +1122,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Deathrattle"
   },
   {
-    "id": "29a73473-6772-430c-9c1f-83bd9dc06118",
+    "id": "3394cb4f-cafa-491f-a4ca-133ee4e07c3e",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1132,7 +1132,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Moonclan"
   },
   {
-    "id": "b4d17e2d-9399-47c5-b7b1-942cd12c1fba",
+    "id": "a842038f-730e-4b0b-826f-b756d33f4888",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1142,7 +1142,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "6bd9f47e-9a51-48d6-b232-b4697e2ee662",
+    "id": "c524fcdd-9665-44c1-b6b3-42fe31af8cb5",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1152,7 +1152,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Deadwalkers"
   },
   {
-    "id": "2a854190-653e-4935-900a-66134f954eb4",
+    "id": "3c7f37e7-1e75-4a4b-9d52-a0628cac3dab",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1162,7 +1162,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "b8113c6f-4d82-443b-ac38-518ea76d4dd1",
+    "id": "bb141df4-85a4-44b1-9ad3-491ae10f75b1",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1172,7 +1172,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "d8e557d1-bd76-40a5-b888-027300e6b8fe",
+    "id": "b78f5db8-7e88-4ddb-ac51-89615d6b8bd3",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1182,7 +1182,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "9dfc449a-0573-4fe4-b9d2-c1e63e9264d9",
+    "id": "c0034332-f58f-4389-98a2-77374b4f5387",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1192,7 +1192,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Steam Tank"
   },
   {
-    "id": "34fb3dd5-79ae-4650-967e-6876235108ad",
+    "id": "69222ad9-f7f0-4c1c-a148-d9dedc1f0203",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -1202,7 +1202,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "55ec96d6-38ff-4b70-990b-cbaed5917eb9",
+    "id": "77fba028-c56c-4f13-bf58-0a995fb69d72",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1212,7 +1212,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "1871ebe5-111d-489f-87b8-e3bf47def0ac",
+    "id": "07a7c4cc-69b4-4aaa-9009-f2a09b4a6d51",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1222,7 +1222,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "67a5b4fd-f5a1-49fd-999e-9f4b7dce5e69",
+    "id": "26f1cc4a-894f-47c9-a0d3-8cfa9caee40a",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -1232,7 +1232,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skryre"
   },
   {
-    "id": "abe77aef-8a61-4706-a00d-08aef669336a",
+    "id": "7e7e309c-ae90-4d75-b70b-27e08e0216ef",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
@@ -1242,7 +1242,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bonesplitterz"
   },
   {
-    "id": "eab36ed0-a7e5-4b93-913d-317ddcdd4325",
+    "id": "a3e8db13-b706-4eb3-8afc-c97a586c1a95",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1252,7 +1252,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "ab1a4ed1-31f9-427c-b5ba-5bf8281d6a68",
+    "id": "698adfdb-2171-4e37-8e4e-36eaf583c754",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1262,7 +1262,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Troggoth"
   },
   {
-    "id": "30100ff1-a95a-43e2-9109-d4f061ded973",
+    "id": "24fadd60-70a8-4870-91f0-24829ee5e426",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1272,7 +1272,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Spiderfang"
   },
   {
-    "id": "2d6cc7a4-b656-409f-a8dd-8b5bfc520cd1",
+    "id": "294f41f5-b747-4aa6-8ab0-d76c7e12e169",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1282,7 +1282,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Deathrattle"
   },
   {
-    "id": "e13e69be-777b-450f-9ee8-54f6856b9cf1",
+    "id": "1652e29a-6482-47f5-9bdc-36ce457d213d",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1292,7 +1292,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skyvessel"
   },
   {
-    "id": "ed9b9fea-dcb5-47aa-a8a7-165763563547",
+    "id": "88f32b6d-c61b-4ad1-8e72-a7fdd5bb57dc",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1302,7 +1302,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "413787b3-cd0a-4ada-ba00-656648fe2a4e",
+    "id": "48782c19-2a67-4507-85cf-811899d9d974",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -1312,7 +1312,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "f4464cea-381f-4ed0-abdf-b04cf2533897",
+    "id": "8df76ebd-ae70-4725-970b-5f0edf83e6e7",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1322,7 +1322,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skaven Overclaw"
   },
   {
-    "id": "e665c946-b69b-4712-bb87-f2d8ffe1d9d7",
+    "id": "f00ca03c-a3ff-4fe6-8316-f183bda20867",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
@@ -1332,7 +1332,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skaven"
   },
   {
-    "id": "a33f15a9-c7f3-4400-aa78-4babc2c57a1f",
+    "id": "3ef95b14-41d8-4ba9-a199-8e85b2dcfe1f",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1342,7 +1342,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Arcanite"
   },
   {
-    "id": "140c280f-edde-450a-b83c-b5ed9eb495b6",
+    "id": "8d843323-715c-4a69-b1f2-c783a2f01330",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
@@ -1352,7 +1352,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Slaves to Darkness"
   },
   {
-    "id": "b17f43f6-77d9-4dc4-8d60-f989248eeab8",
+    "id": "8955b351-9c28-4387-b9e8-d9dfbd97e232",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -1362,7 +1362,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "efca5014-a937-42c7-983e-7cb45c224b85",
+    "id": "a5af4666-2f5c-4d39-8101-01670418b7d0",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1372,7 +1372,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Lumineth Paragon"
   },
   {
-    "id": "d975d345-bbb7-4f19-bed5-22e802209a99",
+    "id": "d49ace97-9d65-4278-a76c-7b90bcca4676",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1382,7 +1382,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Moonclan"
   },
   {
-    "id": "976194e9-8b84-4519-a791-4b8f90a7cd0a",
+    "id": "ac834bad-006a-4954-8ba6-84840d1a24d7",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "658431dd-d251-4bfd-be82-e59ecdee0f15",
@@ -1392,7 +1392,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Beasts of Chaos"
   },
   {
-    "id": "7aae00b1-9f88-4a0b-bd21-8e88f8e1c299",
+    "id": "aa7b00be-003b-41a3-b003-08d984d0ff95",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
@@ -1402,7 +1402,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bonesplitterz"
   },
   {
-    "id": "1569b529-1b72-4ed6-8690-bf7230827002",
+    "id": "1fc0098d-6100-49c2-89b6-e1192d93045d",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
@@ -1412,7 +1412,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sylvaneth"
   },
   {
-    "id": "7d0c167a-f8a2-4912-929d-51ce7c260c08",
+    "id": "f5d3ac7d-eee9-41ee-b662-7f856e3aba8c",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
@@ -1422,7 +1422,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ironjawz"
   },
   {
-    "id": "ac6164a2-6b9f-46e7-a893-265d26b1f8e1",
+    "id": "88ccf2f0-fda8-4fc4-b529-363d67d8190f",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -1432,7 +1432,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warriors of Chaos"
   },
   {
-    "id": "1e2a02e6-4edd-479f-b9d8-03f2e575588c",
+    "id": "64aaad3b-83f4-4f13-8f17-01058ff11c00",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1442,7 +1442,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari"
   },
   {
-    "id": "b9be1d81-5b70-4500-932c-88503d8f5850",
+    "id": "032420bf-4f9f-415b-9cc9-14dd7de234a6",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1452,7 +1452,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any War Machine"
   },
   {
-    "id": "22892bcc-e677-4a7d-996f-1b47a1410cca",
+    "id": "577197f8-c712-47ec-8745-759d801202eb",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1462,7 +1462,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Arcanite"
   },
   {
-    "id": "5306ce56-3fe1-4b56-a707-c7ac5bce60ef",
+    "id": "eaffa009-471e-4008-829b-365468fb0350",
     "childQuantity": "one",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1472,7 +1472,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "1 Toll's Companions"
   },
   {
-    "id": "dab757f4-ddec-4428-bdc4-f0ae6bdffc66",
+    "id": "3236ecb3-c936-4675-b208-2ae8aae3a411",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1482,7 +1482,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Beastclaw Raiders"
   },
   {
-    "id": "2f22ff6d-9a90-4511-be02-02ba549130af",
+    "id": "f85b51d1-6775-4b54-a454-9e6a0bec314f",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
@@ -1492,7 +1492,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "1782de3a-9821-4990-8fb9-921057944bb8",
+    "id": "c25aca42-bfb4-4956-aff5-2b5d506882c6",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -1502,7 +1502,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skryre"
   },
   {
-    "id": "fd511089-5c3f-4c5e-b342-3c50da761913",
+    "id": "dc4c56b2-5062-4a4d-839c-61b332df9f05",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
@@ -1512,7 +1512,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Maggotkin of Nurgle"
   },
   {
-    "id": "a451a505-c495-455c-9162-e9cc6bad2a84",
+    "id": "1c2b328d-ea00-4a6f-950f-c8d407b06d58",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
@@ -1522,7 +1522,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sylvaneth"
   },
   {
-    "id": "cec86e40-0a49-4003-991f-19d306caac7d",
+    "id": "94990c2c-afd4-42a3-bbdc-aca080b93bd3",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1532,7 +1532,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "64a6525f-8ffb-42b8-a077-b3cd3462802c",
+    "id": "bf680ec4-77bc-43ce-89e2-c1555d5c1a92",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
@@ -1542,7 +1542,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skaven"
   },
   {
-    "id": "3734afe9-038d-49c8-989b-3772645d14f6",
+    "id": "c21aa4ab-d5cf-43d5-b3c6-b8d8cce0c740",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1552,7 +1552,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "2f001e48-95aa-4fe2-ad16-d135958ffc8f",
+    "id": "08d85c79-769b-4df9-9f14-1c8f3af9b67e",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -1562,7 +1562,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skryre"
   },
   {
-    "id": "4cca2c03-0ecd-4dfb-a5e1-e86839cacce0",
+    "id": "f4cdb488-2215-4c93-a93f-7cc728f3b258",
     "childQuantity": "zeroToOne",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -1572,7 +1572,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Weapon Team Skryre"
   },
   {
-    "id": "9b89a189-5906-4b8f-9e36-eb9783b5b2d3",
+    "id": "df02f550-8279-4c19-b847-6f3894c6be01",
     "childQuantity": "zeroToOne",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -1582,7 +1582,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 War Machine Skryre"
   },
   {
-    "id": "605eed7f-ae2e-4641-99e5-366003b6b4ce",
+    "id": "24b4e65f-a8d3-476e-9438-863a5b6c9fbc",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1592,7 +1592,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Verminus"
   },
   {
-    "id": "9d478485-eb4c-4c79-8212-9f09e33d0c5e",
+    "id": "2e3bba96-fc39-44b7-ac3e-149d530f1ce0",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1602,7 +1602,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Duardin"
   },
   {
-    "id": "4ac9636e-3a46-4667-ba73-0b7320f42ad5",
+    "id": "bc724244-b285-4234-99b5-b7759df54f9a",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1612,7 +1612,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human Infantry"
   },
   {
-    "id": "44e0139e-6a3b-4e2d-9d4e-57348a33cc3f",
+    "id": "69444d8d-27a4-4aca-98d2-433ea4e81286",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1622,7 +1622,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "747562d0-bdb8-4db6-94c7-2831fa69ccf1",
+    "id": "830dd5bd-b916-4225-9cb0-69477a48680f",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1632,7 +1632,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "77d8a4ea-872a-40e0-acc0-c962b84004fd",
+    "id": "842c8893-352a-4152-aeb1-383f10a9b012",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1642,7 +1642,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Gutbusters"
   },
   {
-    "id": "66dc7e86-3ebb-423b-9a8d-882c4508a531",
+    "id": "1bb5f4d3-51a7-4b89-8356-cc9a570171c2",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
@@ -1652,7 +1652,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ironjawz"
   },
   {
-    "id": "cb1517fd-cc50-4f52-9ecb-2356c65bf7d9",
+    "id": "66110ef4-57c3-4366-9451-0fe8e908ae85",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -1662,7 +1662,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "857eb769-cd42-46da-90f3-4e0569ed027c",
+    "id": "36a83313-e6ef-4db9-ba43-c7293c1ee38a",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -1672,7 +1672,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "c5ae4a4b-5828-4361-95ae-a3cafe8ff747",
+    "id": "0bd1f7b0-eb0a-4afc-ada0-bcb7ce358778",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1682,7 +1682,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Duardin"
   },
   {
-    "id": "8cb55761-50ff-459a-b5c9-d1c6d49a6e86",
+    "id": "3cee5c68-5714-4527-967d-d15d1128e323",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -1692,17 +1692,17 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "6facfcb7-c683-4ff4-ac17-31ab5bb86cf5",
+    "id": "159213fa-d54e-48fd-9bd3-41acdaddf32f",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "28647412-df3c-4aaf-9519-3f7966ef367d",
+    "warscrollId": "0992ef28-02f3-4b03-a740-f818e1b3ff00",
     "optionText": "Any Ogor Mawtribes"
   },
   {
-    "id": "c70777c1-a712-4406-8115-dc41116eb623",
+    "id": "4c64c749-94a1-40fb-8f4a-eee606703ff2",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1712,7 +1712,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Spiderfang"
   },
   {
-    "id": "085ac5fe-3025-418a-96a3-3e2e373973c4",
+    "id": "574c32b1-ded9-447f-805e-b3a5798b7513",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1722,7 +1722,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human"
   },
   {
-    "id": "13de23b3-fbc8-4dec-a4c5-1156b57e3768",
+    "id": "facac946-011a-482c-8e44-e244fca3118a",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -1732,7 +1732,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skryre"
   },
   {
-    "id": "9a555c53-9eda-4d55-a704-0c00c7eb6bee",
+    "id": "3ebe84bb-ed0f-4802-8c09-82c448bdd872",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
@@ -1742,7 +1742,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Maggotkin of Nurgle"
   },
   {
-    "id": "1e81e4d7-e010-4c1c-b332-f7ffbfed3896",
+    "id": "83f800a4-a8f4-4340-a8b7-fd8f1720155c",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -1752,7 +1752,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "7326f28a-a10a-42e8-899a-4204877243c8",
+    "id": "189690c8-f7d3-4130-a0cf-1506f79e642f",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1762,7 +1762,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Verminus"
   },
   {
-    "id": "9f479618-0e32-427c-b2b9-fc2a36d5fcd6",
+    "id": "3a42894f-3629-46b7-80a1-58e87008bb51",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1772,7 +1772,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skaven Overclaw"
   },
   {
-    "id": "7b62965c-1f3b-4d6f-be8b-4d690a91a497",
+    "id": "ff14107e-8aa0-4d6d-931b-a023d727bbf1",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
@@ -1782,7 +1782,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ironjawz"
   },
   {
-    "id": "f1345145-c22f-4905-a541-482eca24c6f4",
+    "id": "460cfc46-16ad-43c7-9028-3539dcb2d7c3",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
@@ -1792,7 +1792,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Slaves to Darkness"
   },
   {
-    "id": "a80c34a9-e5d1-4068-9171-4c3b9f1b85b4",
+    "id": "46dcdcd5-8978-4555-86dd-1ffafb44191f",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
@@ -1802,7 +1802,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sylvaneth"
   },
   {
-    "id": "0177b4ad-11d4-438a-b5c1-48ae93f4a16c",
+    "id": "573fea6e-1684-4221-9b5b-810fe0e42a2a",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -1812,7 +1812,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Pestilens"
   },
   {
-    "id": "716aa79a-4f1c-461b-8e9a-aa0b9cbb6e01",
+    "id": "cdd495bd-57fe-4ede-9de9-19234d4654a9",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1822,7 +1822,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Arcanite"
   },
   {
-    "id": "5a75fa88-b0be-4094-b950-6d070f669f2d",
+    "id": "9876cf52-86d4-44df-b9e4-466c6b2e8b8f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1832,7 +1832,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "39e47e1f-f63a-4874-a8f0-9cdd26605722",
+    "id": "b55d3494-d068-433f-b9f0-d20ff6770038",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1842,7 +1842,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sybarite"
   },
   {
-    "id": "36e915eb-7e86-413b-99c0-b6724a5f399d",
+    "id": "1447681b-dc4d-4b76-b63c-70998799b6ed",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -1852,7 +1852,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Pestilens"
   },
   {
-    "id": "9df4513a-8de4-4d52-8a57-776736eeab52",
+    "id": "bf2d57ca-b8d0-4a78-b91b-262e51e88a47",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1862,7 +1862,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber Infantry"
   },
   {
-    "id": "4ee7ba4e-411e-4ec8-9c6b-b9a603a08ba4",
+    "id": "c304acbd-e53b-405b-a372-30039f43f498",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1872,7 +1872,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Beastclaw Raiders"
   },
   {
-    "id": "3292a726-7b7e-4577-8c5f-53aad7d3b0b9",
+    "id": "011b34e1-874a-416b-9481-c4c78688b039",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1882,7 +1882,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Black Coach"
   },
   {
-    "id": "75e7cf74-8cd6-4175-aad8-211269c2da43",
+    "id": "c0151a72-b5ed-4077-90c8-288c9ec6ca44",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
@@ -1892,7 +1892,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ossiarch Bonereapers"
   },
   {
-    "id": "3e923000-d37e-463e-805d-154e29c5f55f",
+    "id": "7385a86c-425b-4667-b480-1ae2d689f124",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1902,7 +1902,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "2671a673-0cf7-4e81-853a-283dbbb65624",
+    "id": "bd290543-65d0-472f-91fa-358b4538cdf3",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -1912,7 +1912,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "cd66e803-c11b-45a1-a3cb-83244ddc2cf8",
+    "id": "4942c9dc-7465-4816-94f0-3df2a74a4d0c",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1922,7 +1922,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Serfs"
   },
   {
-    "id": "4880a3b9-e0f1-4128-b323-9942912e9a01",
+    "id": "75f26c03-4fed-412f-8694-6c04a9053675",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -1932,7 +1932,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "452d206b-71be-423c-8f29-cba878f66fc6",
+    "id": "9552559a-3ee7-4eef-9832-b819050a044f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1942,7 +1942,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "2d289c95-269e-475b-8dbd-dfb4530c77ae",
+    "id": "47fc38b4-fa16-418b-a049-1198175cf479",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1952,7 +1952,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gothizzar Harvester"
   },
   {
-    "id": "eba314ab-5b2c-4546-a517-8f593814cac4",
+    "id": "f31e1a6c-ac6b-4943-b568-52992db45187",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -1962,7 +1962,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "8e633919-8f32-48de-889c-bff82eba3ea7",
+    "id": "2727b61f-d3a6-49cf-a6db-7848afbfe885",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1972,7 +1972,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "22aba458-1c14-468b-904b-155f8997516a",
+    "id": "e31e9b42-d621-4f5f-8c21-42815123d806",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -1982,7 +1982,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "d434710f-5239-4272-87b2-86edadd9862b",
+    "id": "88acea07-01d5-4ab7-a02d-99611af41ef0",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -1992,7 +1992,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Crypt Horrors (2 models)"
   },
   {
-    "id": "8851ba21-8e5e-43be-8a57-30a2d86fe697",
+    "id": "2ad0036e-ab62-457e-aeb4-6158bdd4200f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2002,7 +2002,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ruinous Champion"
   },
   {
-    "id": "11a1ba7f-96c7-44b7-8d10-adf7cefaa12a",
+    "id": "ee0ea19b-d392-49a7-8774-488741b7f04a",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -2012,7 +2012,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Aelf"
   },
   {
-    "id": "5cec74ae-041a-4f90-b508-00a0ec1efeae",
+    "id": "80e1b85e-938d-4220-af62-717272ff22da",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
@@ -2022,7 +2022,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Idoneth Deepkin"
   },
   {
-    "id": "df5f8ab8-4a37-4b84-bfad-0a384730434b",
+    "id": "1dbd5757-8857-405c-a292-4aa79f94167d",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -2032,7 +2032,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "11547d18-66e1-4de4-81cd-4c74faa16c2b",
+    "id": "88846394-b835-4c8b-9e10-d2c12e7e4dbe",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2042,7 +2042,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "f0e96e13-7156-471e-b838-6ff7c704f3be",
+    "id": "812467e5-2614-452f-bac6-312991cec4aa",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
@@ -2052,7 +2052,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Lumineth Realm-lords"
   },
   {
-    "id": "a7fe8a72-b2b8-440f-a2b3-942b0826dab1",
+    "id": "93e79400-640a-4ccc-b82e-dd5e34fd4435",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -2062,7 +2062,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sacrosanct Chamber Infantry"
   },
   {
-    "id": "23f791bf-506c-489e-815b-40d017411869",
+    "id": "b8cc326d-1d9c-4cbc-a13d-fa1b20e4b0af",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
@@ -2072,7 +2072,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Nighthaunt"
   },
   {
-    "id": "bd60e384-735d-4e09-831b-3d05d9f33bfd",
+    "id": "a179eaa4-1207-4964-b8c1-79ed00336673",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -2082,7 +2082,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warriors of Chaos"
   },
   {
-    "id": "a7ffdf04-2365-46c4-8b67-79a0ac8a138f",
+    "id": "859f9549-d059-4c69-8417-8aef354fd00c",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
@@ -2092,7 +2092,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bonesplitterz"
   },
   {
-    "id": "3d34a70d-77b8-43fa-b7b9-65845926d499",
+    "id": "5c0273c0-f39d-4142-a0af-8b8028bf4e67",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2102,7 +2102,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Dark Egotist"
   },
   {
-    "id": "dcf7d289-90c7-4a92-96a0-81cfeb4663c7",
+    "id": "487bfd59-daea-48d3-8fce-52b33adff915",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -2112,7 +2112,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Rotbringers Infantry"
   },
   {
-    "id": "4edbde9e-82d2-4b6d-9993-6a47f791c2d2",
+    "id": "c2e3bd17-ab61-49eb-be33-b603512e9440",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2122,7 +2122,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clanrats"
   },
   {
-    "id": "f3ce5691-83e3-4b06-a1b9-c590dc984aa7",
+    "id": "9a27bf26-62f5-4f50-bfd6-6a235559414e",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2132,7 +2132,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "7e5634bd-f99a-415f-82f9-d18859ac663e",
+    "id": "25a3e1de-ece5-4b31-bb90-4a04df7c3d99",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -2142,7 +2142,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "63cbbe8f-6019-4c08-9a92-bb4c57a6ee4e",
+    "id": "1d8f6ec8-6a76-411e-9483-fe60bc42b818",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -2152,7 +2152,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound"
   },
   {
-    "id": "6479aae9-fe30-4b3a-90db-1f4ce7929b46",
+    "id": "7db97031-86f8-4262-864d-bd96cb685bc6",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2162,7 +2162,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Daemon"
   },
   {
-    "id": "179c81ba-8be1-4b9d-9257-502dbe43db0d",
+    "id": "794b59fb-dcba-42f0-8a58-d33c5badd117",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
@@ -2172,7 +2172,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ossiarch Bonereapers"
   },
   {
-    "id": "551d63de-693f-481e-b4b9-1d747af4320e",
+    "id": "13eaa4c8-7bb9-4633-b34d-0d04f0724ad9",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": null,
@@ -2182,7 +2182,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Rotbringers Infantry"
   },
   {
-    "id": "3a9cc996-fdbe-4add-892a-3feb868c92cc",
+    "id": "f1483dc6-70a1-4990-af09-1f1250a48600",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2192,7 +2192,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Akhelian Raidmaster or Isharann Emissary"
   },
   {
-    "id": "a36830b8-de4c-4c0c-be41-1c7e37eeda70",
+    "id": "a0c43c3c-e987-4a9d-bb94-50ae5aaeb0d6",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
@@ -2202,7 +2202,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Idoneth Deepkin"
   },
   {
-    "id": "a4822f95-631e-4b9f-ba2c-aadad404bd8f",
+    "id": "81546d72-ca44-439b-b706-74032dfa2cbf",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2212,7 +2212,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Serfs"
   },
   {
-    "id": "755b11fd-313e-4699-bfd6-0ee5a77074a8",
+    "id": "2593bc38-86bc-4547-ba89-ab0630ee41d8",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2222,7 +2222,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Crypt Horrors"
   },
   {
-    "id": "2468303a-67b7-48f9-8121-5458c6386369",
+    "id": "f1d0d619-b247-413a-b3cc-407751722ad0",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2232,7 +2232,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "ba5b6c1b-13ae-4259-952c-db8f1e20e445",
+    "id": "08896a4e-a439-4abd-8a23-a57737ab1c68",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2242,7 +2242,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "4eb5bf81-c2ea-4c36-bf0b-7b5d9fe3e16f",
+    "id": "e212a3f0-060b-423e-aeab-00215fe08f76",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -2252,7 +2252,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "1ccaedea-2cdc-47e7-a09a-47ea1f316d71",
+    "id": "7198e96a-6023-4538-ba42-0dce6b2763e9",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2262,7 +2262,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human Infantry"
   },
   {
-    "id": "5997a389-86ed-4dcf-a5da-b53a9c7bf222",
+    "id": "77c730cf-fe52-4b62-a745-b404f92c0150",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2272,7 +2272,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human Cavalry"
   },
   {
-    "id": "6c40dded-b1f8-42a8-ae6d-6acabd119bc7",
+    "id": "db1d9a97-027b-4753-ba87-2d957c2739a2",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2282,7 +2282,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skaven Overclaw"
   },
   {
-    "id": "90dae0ae-9712-4daa-9f35-ba04c7525026",
+    "id": "0aeaad22-2ca3-4926-a822-21524adab80d",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
@@ -2292,7 +2292,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skaven"
   },
   {
-    "id": "e17748b2-19d9-4a55-aac7-06ce2567be21",
+    "id": "4081e0aa-7bfd-45a4-8201-9152c4e615c0",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2302,7 +2302,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Beast"
   },
   {
-    "id": "7d6b5f18-ee5c-4f44-a0c8-5ead8676aeff",
+    "id": "6aa5d1e3-3649-4ea9-84ce-f338012118f4",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2312,7 +2312,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Brayherd"
   },
   {
-    "id": "ea093b69-9cf9-48cc-ba32-444fdae258b5",
+    "id": "8aba85a9-01be-44c4-bfd3-359301cfd09f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2322,7 +2322,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Coven Matriarch"
   },
   {
-    "id": "180ea9e9-e382-490d-9c16-4c210b196c63",
+    "id": "fc58e582-e4fc-426e-924b-de76db2ce287",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2332,7 +2332,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Avatar of Khaine"
   },
   {
-    "id": "62bf6aff-d83a-4904-a27d-9abd9f56b6e0",
+    "id": "c655d568-1178-4b1c-888e-eede2cea313a",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -2342,7 +2342,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Aelf"
   },
   {
-    "id": "5d1d863e-0b28-46a3-95e0-8d4604194851",
+    "id": "583ad423-cba3-4035-afc3-5853cb785307",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2352,7 +2352,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Black Coach"
   },
   {
-    "id": "a90a9d5e-6139-4c98-a83f-ede109a501e8",
+    "id": "cffc636f-c065-43e8-8990-ff89fae7a8a3",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2362,7 +2362,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "40021061-01b6-458f-a520-fc325286c6be",
+    "id": "bef73355-88b8-4329-bf91-012bebe1de9a",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2372,7 +2372,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skyvessel"
   },
   {
-    "id": "03a1d86d-038c-4938-b9e6-146cdf145c4d",
+    "id": "7089a016-6862-480d-8dce-a1d3c7f13cd3",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2382,7 +2382,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "671bc6ac-0946-4a15-8ee0-7a93e2ccb09c",
+    "id": "f60db05b-fe54-4e6e-8746-8553c488fd18",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2392,7 +2392,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Flesh-eater Noble"
   },
   {
-    "id": "2755a9da-7c6b-46aa-bb06-a25566591487",
+    "id": "502fe535-889a-44a0-ba7e-e29d586e65e1",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2402,7 +2402,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Knights"
   },
   {
-    "id": "b3838012-7f8c-4c70-991a-b188cd411314",
+    "id": "b3eef634-3ed7-4996-b0f4-7f0d61813c75",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -2412,7 +2412,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Serfs"
   },
   {
-    "id": "4e90a205-9ef9-466c-a26e-9a08d36b3c64",
+    "id": "96179e3c-52ac-40e3-a276-76df4d65e38b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2422,7 +2422,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Moonclan Agitator"
   },
   {
-    "id": "36454b7c-18a8-4f24-bbc9-53033f1f0143",
+    "id": "cbb2efe4-54d1-4905-ab5f-ea7cfd92d17e",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2432,7 +2432,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Moonclan"
   },
   {
-    "id": "4e0943a4-7122-4093-9e2d-39f10c2b8d28",
+    "id": "26c4b63f-86d1-47c6-b96a-71cb7f48c922",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2442,7 +2442,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Mob Wrangler"
   },
   {
-    "id": "811c3b24-bd43-4ce0-9d12-35ad6fee8517",
+    "id": "9feb216c-495a-4134-9692-17f7bcdce9dd",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
@@ -2452,27 +2452,27 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "495b314f-8ad9-4646-b579-353a4773dd17",
+    "id": "f9840a84-e83e-4c89-b9cb-799fd8ccf3a9",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f",
+    "warscrollId": "8108d657-35b7-46b6-87fc-96855286fa65",
     "optionText": "0-1 Eager Lout"
   },
   {
-    "id": "e78b9cbf-6ae6-4c4d-8b12-2e2169be8635",
+    "id": "985e5339-9fce-4aec-9b39-40ea4fdb95a5",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f",
+    "warscrollId": "8108d657-35b7-46b6-87fc-96855286fa65",
     "optionText": "Any Sons of Behemat"
   },
   {
-    "id": "578dac08-4bc5-4f77-abbe-43a4062e08eb",
+    "id": "9d3b31ee-3756-4890-8714-4bca475afb52",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2482,7 +2482,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Avatar of Khaine"
   },
   {
-    "id": "3a3984e0-3362-4426-94ca-0729c2e88e96",
+    "id": "77cc4f96-01d2-4876-8bf7-c066aa16eb4f",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2492,7 +2492,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Aelf"
   },
   {
-    "id": "35144e11-318c-440f-81bb-8ab29253ada3",
+    "id": "dc55af45-2dce-4c26-8511-3b70d5107452",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2502,7 +2502,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Black Coach"
   },
   {
-    "id": "ddc76aa9-de24-4dc1-b4c6-29672adc8825",
+    "id": "2dac6577-55f2-4def-87af-c31074057508",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2512,7 +2512,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "86f7a9ed-c638-4a2d-8d1c-ba6355ab14cf",
+    "id": "f9dcdfec-6e6d-409d-9bd6-caf1c8443e63",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2522,7 +2522,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Arcanite"
   },
   {
-    "id": "52552165-3b2e-44c0-b43b-be3e9b10f51b",
+    "id": "7447120e-a103-4cac-9106-55db1f7a50aa",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2532,7 +2532,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Tzeentchian Deceiver"
   },
   {
-    "id": "0333bf88-c654-4129-b48e-dd3f88ed8a88",
+    "id": "6c555a01-f35e-424d-a0e1-e0c79959356a",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2542,7 +2542,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "4f383acb-82e6-4bc5-8945-d9bcff94f19b",
+    "id": "c95099fb-44e2-43d2-b604-07cb23dc047f",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2552,7 +2552,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon Cavalry"
   },
   {
-    "id": "7fe9547f-40df-44fc-8eea-f2b5c7e59687",
+    "id": "14be9e08-28f0-423d-892f-ce81bc683353",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2562,7 +2562,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any War Machine"
   },
   {
-    "id": "1a1f414e-b572-493b-a99b-ff48b99255d1",
+    "id": "b8073339-b93e-4887-90e0-50d485aa7eb2",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2572,7 +2572,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Cursed Soul"
   },
   {
-    "id": "60b429f2-3310-4c42-b708-8966d543d54e",
+    "id": "dd1706ea-1e94-41ff-8687-df8224097141",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
@@ -2582,7 +2582,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Nighthaunt"
   },
   {
-    "id": "3c03ff62-a285-4111-89ae-efc66537f82e",
+    "id": "9a243eeb-45cc-4df7-91c3-22be6b921f06",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2592,7 +2592,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaughter Seeker"
   },
   {
-    "id": "9ee04979-d318-4d88-a71f-dad781bef6f4",
+    "id": "e22d7134-8250-490e-8fb6-e82fd1ba9949",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2602,7 +2602,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "4118e31a-b19b-4c94-81d3-d07f3002ca13",
+    "id": "99b0fb06-9357-45cd-8f3e-ec386d1f6e4b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2612,7 +2612,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "5091f653-8b5a-44c5-bfba-b0077bee4c1b",
+    "id": "6fc6b3fa-7ff8-46ce-ae3d-53555551c5ff",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2622,7 +2622,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sacrosanct Chamber Infantry"
   },
   {
-    "id": "f812d7cb-e47b-4077-a076-9bf290fb11ed",
+    "id": "1db33375-6358-40cc-862b-9e76f6e51052",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2632,7 +2632,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ydrilan Riverblades"
   },
   {
-    "id": "f4136e71-c322-4e99-b75a-168c06864a5f",
+    "id": "34ede2fe-55fd-4527-b201-0e23bd66a49a",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2642,7 +2642,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Auralan Wardens"
   },
   {
-    "id": "5be7094b-efa0-4d4b-9f4f-dc0f61fe476d",
+    "id": "da306acd-4bcf-4bb6-a02e-93105cddcb3a",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -2652,7 +2652,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Bladelords"
   },
   {
-    "id": "88d63f9c-3039-4c6a-89e3-a4fe7c51fcb3",
+    "id": "3bc3fea4-bacb-4682-9a1c-e5eb7dae960d",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2662,7 +2662,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Lumineth Paragon"
   },
   {
-    "id": "066c9237-7a2e-4e62-88bc-4e4981aaff51",
+    "id": "118fb3cc-6c34-4648-a806-d31a848d9018",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
@@ -2672,7 +2672,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Lumineth Realm-lords"
   },
   {
-    "id": "9dc6776a-8c89-4e92-a6f3-52e05d5b5303",
+    "id": "2a30d051-1376-463c-8ff7-cb3568ff7084",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2682,7 +2682,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ruinous Champion"
   },
   {
-    "id": "2465dae5-3ed2-4c75-8c9b-a74f0335c609",
+    "id": "08f457b8-e17f-4505-8939-414c69fdc296",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2692,7 +2692,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "5f271fce-9988-4025-b519-a8c7e474a879",
+    "id": "21e170e3-78c8-4712-ba47-6a112ccd0b27",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -2702,7 +2702,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warriors of Chaos"
   },
   {
-    "id": "2ea627c6-aaf4-4851-8f7b-6a3e35e3d61a",
+    "id": "9f90f451-f071-4cd1-bf93-868cdae371af",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2712,7 +2712,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "a1cddd41-1789-40d0-a3a7-e84355921528",
+    "id": "89e984a3-8820-4093-9213-282a600927c8",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
@@ -2722,7 +2722,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Stormcast Eternals"
   },
   {
-    "id": "6f1e4b70-bc26-4b2a-9872-ad16150c6804",
+    "id": "a573c7d8-9ed2-489a-9d47-17e88dc2c004",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2732,7 +2732,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "037d3b25-7506-4c90-a0df-fc46bea3014b",
+    "id": "81ca4953-bafd-483f-8e62-fbd57e114e1a",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2742,7 +2742,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Darkoath"
   },
   {
-    "id": "a0f9ecf2-7e2b-4e31-b1de-3be42e59cf82",
+    "id": "3a12c024-e652-4ae7-88a6-5e586695c258",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2752,7 +2752,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skyvessel"
   },
   {
-    "id": "183b246b-a4d4-4e26-b5ed-9167491af9e4",
+    "id": "4db263ec-8920-474c-b4ed-91f60704fac0",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2762,27 +2762,27 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "1479d92c-c869-4074-bbdb-92b5834b0517",
+    "id": "aff51586-4a1f-425d-95ed-61e48de4464f",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324",
+    "warscrollId": "4e49066f-602e-446b-9107-1adec25aa3ac",
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "8eb01ff0-e169-425f-af79-e7cf347d7ee7",
+    "id": "1402b546-d10d-4a9f-af4e-010a85903282",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324",
+    "warscrollId": "4e49066f-602e-446b-9107-1adec25aa3ac",
     "optionText": "Any Ironjawz"
   },
   {
-    "id": "c19fa3ff-769c-43c3-b461-4351235b26b5",
+    "id": "521a5139-2298-4111-9dc3-bdf33cb85df2",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2792,7 +2792,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Flesh-eater Noble"
   },
   {
-    "id": "aaf7e610-93c2-401c-b18f-493f34059c33",
+    "id": "f2de5fae-311a-41a2-b8fd-fb10d79f324d",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
@@ -2802,7 +2802,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Flesh-eater Courts"
   },
   {
-    "id": "aa3bb1a8-b627-404d-8073-f067226ad58e",
+    "id": "b51b800c-2db3-4af9-9407-8ce552628862",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2812,7 +2812,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "e49ef0a0-f8d8-4713-bfac-b185af700183",
+    "id": "b2c5b307-799e-4ce3-8b35-1558cd92ebeb",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
@@ -2822,7 +2822,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Stormcast Eternals"
   },
   {
-    "id": "d8355a79-e7af-47ea-b818-be4c1e3c173b",
+    "id": "4a4860a4-9d2d-4885-8b2b-83d7157d4f84",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2832,7 +2832,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Dankhold Troggboss"
   },
   {
-    "id": "f729c6a2-20e1-48cb-a331-1bd9efffc8c9",
+    "id": "4f429859-0a7b-48e1-b4ed-4df9c9ac1cf7",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
@@ -2842,7 +2842,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Gloomspite Gitz"
   },
   {
-    "id": "d1edb8cc-bb7e-4624-aa3b-3fdd3642ed44",
+    "id": "9d579ef4-7ddf-49ac-a403-22d10230df49",
     "childQuantity": "one",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2852,7 +2852,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "1 The Shadow Queen"
   },
   {
-    "id": "5cdcc699-2948-4d00-b14a-1682547e02fc",
+    "id": "06760487-9d66-4c23-83a0-c8b4d24a7add",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2862,7 +2862,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Coven Matriarch"
   },
   {
-    "id": "1de9df56-cdb5-4f0f-8cd8-1e703ea1f13a",
+    "id": "ca7f0b11-0fe6-4268-91a9-edfeb7839fb4",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
@@ -2872,7 +2872,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daughters of Khaine"
   },
   {
-    "id": "7c01c04f-2f2d-414a-b321-41b88dd0c03e",
+    "id": "428a5046-c207-49f6-a464-d0c06a1dbb28",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2882,7 +2882,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "2c2578d6-851e-48a8-9e3f-590645099044",
+    "id": "b6cfd386-20e6-44ff-bc93-febfe0036618",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2892,7 +2892,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Eternus or Ruinous Champion"
   },
   {
-    "id": "ef226466-54d4-4180-8b12-09fa54f3ecf3",
+    "id": "16d029e9-a659-46a0-9fc4-d508aa348a65",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
@@ -2902,7 +2902,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Slaves to Darkness"
   },
   {
-    "id": "6e07b368-57d0-48f3-beab-b87a4c1d07a7",
+    "id": "f0df3f8a-d649-4ccd-9c25-4f776c1ec973",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2912,7 +2912,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ydrilan Riverblades"
   },
   {
-    "id": "0b6f043e-1421-47c6-b90d-c5140ea58df3",
+    "id": "e7153157-ce5f-4c02-a549-09a0f030eb69",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2922,7 +2922,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Auralan Wardens"
   },
   {
-    "id": "cea5f762-8902-407b-8c76-1853f665cf92",
+    "id": "e95e4146-3e20-48e6-9cbf-0bccdda507de",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -2932,7 +2932,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Hurakan"
   },
   {
-    "id": "6ddfaee5-9c9e-4532-ad00-cabf437d9d07",
+    "id": "c42c755a-e3de-4529-b6c0-ad104655b22b",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -2942,7 +2942,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "55afd05f-36ba-44b8-95ff-31fc00bbe6f6",
+    "id": "b59f9653-5c36-4e0f-b841-39a4c288038f",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2952,7 +2952,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Scions of Nulahmia Vampire Lord"
   },
   {
-    "id": "64b62a91-b2f4-46b4-966f-ec4b90fdbd18",
+    "id": "b03c7ba0-457f-4824-a4e9-ace6aa14808b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2962,7 +2962,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Legion Subcommander"
   },
   {
-    "id": "e2d3390c-0e09-4544-ad37-11c53495ecc7",
+    "id": "f35f60f2-4d0d-4e63-9617-e54163d83d62",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2972,7 +2972,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Extremis Chamber"
   },
   {
-    "id": "ab775efb-6083-4113-8302-7cd0e45a3314",
+    "id": "fce352e3-5d34-48dc-9db5-aa065acfe4a1",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -2982,7 +2982,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Arcanite Cabalist"
   },
   {
-    "id": "1d6bb979-ae9f-4e4e-9e36-128c1de9f294",
+    "id": "5d660eef-3c77-4867-9c15-e49baa0fcf02",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -2992,7 +2992,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanguard Chamber"
   },
   {
-    "id": "3e6f3e43-4477-4b69-a8cf-5c10a0163d0d",
+    "id": "118547ef-a04d-4a10-946a-779afb800ce2",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
@@ -3002,7 +3002,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ossiarch Bonereapers"
   },
   {
-    "id": "eebaed01-96fe-4044-8f55-410c553bab43",
+    "id": "d36704fe-9dbd-423c-af9a-d45b6951ec47",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3012,7 +3012,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Vyrkos Retainer"
   },
   {
-    "id": "428b41fc-7751-43c4-83d8-70eff1e57b01",
+    "id": "59ff2f91-a695-4c0d-82b3-fc6d4e718b13",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -3022,7 +3022,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "6c5cf3a4-6bbf-4e7a-b312-dcdd311c2c73",
+    "id": "884ffa79-1a4f-4c84-9ea6-ce97785088b2",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3032,7 +3032,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Knights"
   },
   {
-    "id": "25bdff66-b862-4451-9f73-13c9227517a6",
+    "id": "c1f91566-54e3-40b9-891b-d61177c22145",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3042,7 +3042,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Serfs"
   },
   {
-    "id": "67de0760-31f8-4f40-80bf-993b822700dd",
+    "id": "98701dca-cf53-4416-9f8c-f4f1d09cdce9",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3052,7 +3052,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Vyrkos Retainer"
   },
   {
-    "id": "e4340c1d-bc90-4e6d-9b01-d13044845917",
+    "id": "74335e58-36b7-4055-9c51-ca9cd970258b",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -3062,7 +3062,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "7f29dc1f-1607-4166-b7be-82b27667bdf2",
+    "id": "a7d25deb-c85a-45c9-b6e7-39002021a654",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3072,7 +3072,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Favoured Spawning"
   },
   {
-    "id": "1d3c9fd7-a469-4c66-bd31-805e5978ad7b",
+    "id": "fa2c8203-4b31-413e-b45b-d5381416aa70",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3082,7 +3082,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Saurus"
   },
   {
-    "id": "45477378-4f5b-46d4-9331-e7a63efde4f3",
+    "id": "28b65073-3846-4b70-bb5e-987c523b0ba7",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3092,7 +3092,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skink Starpriest or Favoured Spawning"
   },
   {
-    "id": "506ef1a9-0b3d-474b-b8d4-405cf03b44f9",
+    "id": "0c93291a-dbb0-4177-99b0-e4dac6d0e4f8",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
@@ -3102,7 +3102,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Seraphon"
   },
   {
-    "id": "6d6cff0a-3824-4a7d-a425-bbfc1fcc4504",
+    "id": "0e1858be-c847-49ba-b2ad-144eeb4f56fc",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3112,7 +3112,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Dark Egotist"
   },
   {
-    "id": "89538829-cd15-4b38-b7b3-dd478d2da3f5",
+    "id": "d221543d-7773-4a09-87de-57ab543e1292",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3122,7 +3122,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sybarite"
   },
   {
-    "id": "f85ccf44-1291-4317-825c-b23befa227db",
+    "id": "51cefb13-4c27-49c4-ae5d-f986a0e00e32",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3132,7 +3132,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Black Coach"
   },
   {
-    "id": "033896ce-59cb-49ce-b31f-8eeead51ca9a",
+    "id": "82f4ff6d-0839-4287-96c6-17fdbd26dd76",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3142,7 +3142,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "2fe1d638-37a6-4c7d-946c-b93d87973ba8",
+    "id": "2117e586-5040-4b7b-a52a-ef86eebd3b3a",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3152,7 +3152,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Avatar of Khaine"
   },
   {
-    "id": "6d8091b5-b12d-47d4-8c7b-fe87ce2b96d2",
+    "id": "f8fbc947-361f-46fd-b191-ca2043576ea5",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3162,7 +3162,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Khinerai"
   },
   {
-    "id": "4635610b-7a6f-4add-b901-98d91fdbb975",
+    "id": "845fc6fa-4f85-4085-8894-d6770538f1e1",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3172,7 +3172,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Melusai"
   },
   {
-    "id": "3507206e-7ab7-4db2-991c-532f079b53ca",
+    "id": "bc943746-e5ec-4e07-b3fe-aeb900713ac2",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3182,7 +3182,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "5f77815a-4c14-4637-9aab-a114063da2ca",
+    "id": "df28ec9f-10c8-42c8-8d5e-8c61a85ec861",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3192,7 +3192,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "bbd88aa3-9b12-4196-a730-a7a0a8a54e3b",
+    "id": "10a75eb0-54c6-4533-8b0f-81018af5effb",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3202,27 +3202,27 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "f45504d5-baad-4884-8145-a19357494f1d",
+    "id": "e741ac73-c096-49bc-8650-9c9ad99affe0",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff",
+    "warscrollId": "80a7e85a-7a29-4ee7-a418-8a745a4a9149",
     "optionText": "0-1 Tzeentchian Deceiver"
   },
   {
-    "id": "b39f5f14-da38-4b13-935e-d223ec283184",
+    "id": "afb81fb1-9d60-41fe-9aa5-db893b8cd995",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff",
+    "warscrollId": "80a7e85a-7a29-4ee7-a418-8a745a4a9149",
     "optionText": "Any Disciples of Tzeentch"
   },
   {
-    "id": "c817d999-de49-437a-b3cf-1ace38356b13",
+    "id": "8d5398c8-6e79-4d74-a681-ddc4a94ad0bb",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3232,7 +3232,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Coven Matriarch"
   },
   {
-    "id": "22ac0b4e-7335-4bb0-a4ff-59aca0670286",
+    "id": "8a846e4d-ad69-41b8-aba1-d443fbc0b61f",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3242,7 +3242,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Aelf"
   },
   {
-    "id": "1cadd53a-9560-4e56-9c71-9d2fb39cb01d",
+    "id": "adcde224-df56-456f-9938-d86d8ee68d36",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3252,7 +3252,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Eager Lout"
   },
   {
-    "id": "ea1ff655-3943-4897-891a-e9afd386e25a",
+    "id": "e346a963-f223-46e3-bfd0-05211b26eb7c",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
@@ -3262,7 +3262,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sons of Behemat"
   },
   {
-    "id": "ce898082-aa6d-47ed-8c50-473f547ca4f8",
+    "id": "7fdd686c-1c37-40bd-b987-71086704f580",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3272,7 +3272,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "9ab9b6c7-84c1-4444-8900-a453ed73b629",
+    "id": "c9bff967-c448-4c7d-88c7-bc138ec5493d",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3282,7 +3282,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Beast"
   },
   {
-    "id": "f44b68f6-efce-4d02-8903-fee62645d8ab",
+    "id": "5c49395e-6bfb-4f79-96f0-342200e91fc2",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3292,7 +3292,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skink Cavalry"
   },
   {
-    "id": "f1037ecb-a47e-49a9-a0f4-2bc7ed921d89",
+    "id": "04a03c3f-8d7e-4583-b3e0-e1399306a5e6",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3302,7 +3302,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Headstompa"
   },
   {
-    "id": "d84e842e-2567-40f1-b803-44e20edd3c16",
+    "id": "6382edc1-a445-4582-a1d8-f78d5ab4e463",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
@@ -3312,7 +3312,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ironjawz"
   },
   {
-    "id": "8f589609-ed22-4f17-88ff-f4d9e4b2f1b4",
+    "id": "c744f209-f21a-4803-9f8f-21fbe047b712",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3322,7 +3322,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human Infantry"
   },
   {
-    "id": "ab2ce578-1450-42e2-ac4d-dc8fad913dbd",
+    "id": "56b763d8-d5ea-42bc-a17e-2188d15a0412",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3332,7 +3332,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human Cavalry"
   },
   {
-    "id": "8268a128-6e44-4b80-ac4f-e1ee391a421e",
+    "id": "f8b7b6cf-117d-4c17-b9ef-f4b4fe45d23c",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3342,7 +3342,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Auralan Wardens"
   },
   {
-    "id": "11098016-e5e8-4b71-9286-92e1c2794475",
+    "id": "37a8cae6-674b-404d-9884-ed0b15eb9e25",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3352,7 +3352,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Alarith"
   },
   {
-    "id": "7c42a7d1-abb5-4db5-a34c-14c5f4457751",
+    "id": "09903ffd-e283-4e90-8e7c-5fa7d6155a60",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3362,7 +3362,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaaneshi Beguiler"
   },
   {
-    "id": "2f501f4a-5b5c-41fb-9e55-4608fac89396",
+    "id": "7ec08df4-f88c-4b53-80df-47b1bdbb5c90",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3372,7 +3372,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "ccd3dd25-ff27-4819-b528-55166af0a781",
+    "id": "2c7e235f-88db-4777-920d-8e2e8e75f729",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3382,7 +3382,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Coven Matriarch"
   },
   {
-    "id": "eff78b24-14ab-49ae-b150-d1004fb7dae5",
+    "id": "085e7a79-c440-4969-93fe-4e742cd0826c",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3392,7 +3392,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Avatar of Khaine"
   },
   {
-    "id": "59251913-1328-44ae-acef-40b75f3543cb",
+    "id": "40065bc3-e84e-4652-a7ec-a51ba2e85b46",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3402,7 +3402,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Aelf"
   },
   {
-    "id": "664faf7b-c163-4b39-9f31-ce5afcd401e0",
+    "id": "3a062a05-e2b6-4671-829e-1c6a1611e9d6",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3412,7 +3412,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Guild Officer"
   },
   {
-    "id": "90b32fc6-06d9-4a41-b5f7-2c3540e10949",
+    "id": "15f9407a-8f7e-4740-8258-d1428fe6916d",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
@@ -3422,7 +3422,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kharadron Overlords"
   },
   {
-    "id": "0f58872f-6488-4a17-9155-6cce888de323",
+    "id": "3cd889d9-6c1b-4b20-bc5e-ca6a5aa84149",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3432,7 +3432,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Eager Lout"
   },
   {
-    "id": "f62be284-1ca4-479d-ace2-539460327c29",
+    "id": "b7440d8e-a56c-49df-940e-2ec14a687cac",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
@@ -3442,7 +3442,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sons of Behemat"
   },
   {
-    "id": "5a0cb594-592b-4254-8db4-0779a4fe3087",
+    "id": "02b93260-e34f-4970-aec6-0b745538347f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3452,7 +3452,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "2bca6f61-3426-4925-a23e-dc12fd95e624",
+    "id": "0cb0db0e-e628-4756-83ed-85f20e301206",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3462,7 +3462,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "d27a6b05-137d-475e-aa43-a10f3809d7ac",
+    "id": "a2eb4e65-d433-4da6-af1f-487622e3a550",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3472,7 +3472,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "6fb6dbd0-6862-4187-8125-26a8b8c58d99",
+    "id": "4e511451-22ae-416c-afcf-3f91ff6f6c8e",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
@@ -3482,7 +3482,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Stormcast Eternals"
   },
   {
-    "id": "c8941d5d-49e5-41b1-929c-a0e5fcc9554a",
+    "id": "407a0fe6-b0b0-43bc-9d7f-b371553dff4d",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3492,7 +3492,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ogroid Theridons"
   },
   {
-    "id": "f8d2a96a-b1e8-4dad-96fa-f9f5ccdbb9bc",
+    "id": "4ab1bd99-ad0e-4e92-8cb9-9ea23bd82324",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3502,7 +3502,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Monster"
   },
   {
-    "id": "9f95b4fa-18c9-44d9-a46f-17cf91828745",
+    "id": "7c71b42c-e4f7-40f6-b033-aced72625cc5",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3512,7 +3512,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "64167a03-6a6a-4592-80e6-f19b9312cf63",
+    "id": "13efe205-cfd4-4e48-a83c-22c0f0d9b836",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3522,7 +3522,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Favoured Spawning"
   },
   {
-    "id": "e308778d-8374-4555-861e-2182474f18a1",
+    "id": "8d2873a0-a758-4f22-87d9-363027d2e571",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3532,7 +3532,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "d6349844-5209-4146-83d2-b35c7e652ad1",
+    "id": "8273fce9-7c1e-4a71-abe7-9c2423529cf8",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3542,7 +3542,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Saurus"
   },
   {
-    "id": "866cf5e8-27b2-4f44-8cb0-18fa3b543ae6",
+    "id": "8dafbfe2-af5e-4590-8315-8842ee9a10fb",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3552,7 +3552,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Isharann Emissary"
   },
   {
-    "id": "0f740b32-8ed9-4dd1-b807-b94017944ae2",
+    "id": "4267ce3e-ae35-4108-9361-ce917a8efb15",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
@@ -3562,7 +3562,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Idoneth Deepkin"
   },
   {
-    "id": "f6ce4009-1427-49fb-bab8-5de40baa22e4",
+    "id": "40958a37-8cca-4844-adae-546ed3dafe75",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3572,7 +3572,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Favoured Spawning"
   },
   {
-    "id": "ccd8b5e1-6a65-4608-a0c4-1e1839765878",
+    "id": "1ea1f22e-4e31-4fea-8d6d-f76971db8dd2",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3582,7 +3582,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Monster"
   },
   {
-    "id": "b4237120-bd74-4d61-8792-8aa78acadab3",
+    "id": "9230c716-3c1c-4442-a422-f2c44c7ec3da",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3592,7 +3592,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Saurus"
   },
   {
-    "id": "c9eb6ade-98f6-4f19-97ff-6452c000fbee",
+    "id": "f33cd1ae-f3f3-4c38-a029-3839a2a1ab7e",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3602,7 +3602,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Moonclan Agitator"
   },
   {
-    "id": "4c2720c8-a786-4987-9cf3-ed6e2458c29a",
+    "id": "a7e7d78b-bb79-4cd5-b26e-e9c2ffb64245",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3612,7 +3612,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Moonclan"
   },
   {
-    "id": "670e17e6-d3bd-4966-a5f0-dd92b84aa000",
+    "id": "0d18b0bd-acfb-476d-a24c-e61ee49bcfd7",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3622,7 +3622,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaughter Seeker"
   },
   {
-    "id": "38ece6db-a55c-4fd1-b5a0-4896aa5d5928",
+    "id": "2defc093-a96a-41ed-852a-ea0e8d13b5ee",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3632,7 +3632,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaaneshi Beguiler"
   },
   {
-    "id": "e715d7b6-ef1a-4c58-8ea1-be9bb2997744",
+    "id": "b5472105-008d-4e98-8f35-199d242bb3bf",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
@@ -3642,7 +3642,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Hedonites of Slaanesh"
   },
   {
-    "id": "e63723df-8771-4523-a403-0cc669aeed58",
+    "id": "3290a11e-83ca-4224-9a63-b7bdd2d14f3d",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3652,7 +3652,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Gryph-hounds"
   },
   {
-    "id": "867a414d-93ac-4dee-9730-f302f2e37828",
+    "id": "7fc605ba-ea2d-4535-affe-2bba26205e8f",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3662,7 +3662,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "8d5726dd-2a9e-402b-ba12-c75243b32584",
+    "id": "ec3a1187-7433-4d97-b22d-df43d95af3de",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3672,7 +3672,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Icebrow Hunter"
   },
   {
-    "id": "3343aeef-e0de-41a3-9f59-d5ec50b40325",
+    "id": "e3731a01-0c85-49ce-bbec-133d86fbe9bf",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
@@ -3682,7 +3682,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ogor Mawtribes"
   },
   {
-    "id": "dc7b1df3-7fda-4953-8590-c24f1806f161",
+    "id": "58d1a56f-eea8-450a-b5f8-e7cd7509e5a2",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3692,7 +3692,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Mob Wrangler"
   },
   {
-    "id": "c6c38042-3427-43fa-8830-b4df04f9747a",
+    "id": "b82e4b51-de62-4c12-a903-48d9c23d39ce",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
@@ -3702,7 +3702,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "e6b10949-0075-4fb6-a2e6-0fa77162959e",
+    "id": "9c5c943c-44c6-46c2-8a35-b740aca9469e",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3712,7 +3712,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Mob Wrangler"
   },
   {
-    "id": "f6de8efe-8ffd-4939-8c0a-f51d390f35ec",
+    "id": "9f5ce9db-aac4-47c6-812d-c938cdeb497e",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
@@ -3722,7 +3722,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "516f2517-9f8f-4bfc-aa08-892aba057cf5",
+    "id": "eacae9f9-4b28-436e-8831-1d30f7b76e99",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3732,7 +3732,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Freeguild Veteran"
   },
   {
-    "id": "07e25351-5fc8-4554-9de0-f5308c5f3626",
+    "id": "707df89f-c54f-4b1a-8203-13ebe9e64a27",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3742,7 +3742,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human"
   },
   {
-    "id": "c888fb99-df1b-4897-bf21-5bda10993a21",
+    "id": "064c0d0b-b5d8-4d4d-abeb-223ce60c6810",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3752,7 +3752,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Flesh-eater Noble"
   },
   {
-    "id": "3e188fe9-49b9-4e0f-991b-cb5ec1d29670",
+    "id": "c35399b8-9d6a-4beb-b2d5-dc561c97c535",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
@@ -3762,7 +3762,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Flesh-eater Courts"
   },
   {
-    "id": "8b08b934-351f-4bc7-ab72-1243c6ec2cf8",
+    "id": "90397dea-d243-4a37-a2a4-7bc709d6b056",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3772,7 +3772,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Claws of Karanak"
   },
   {
-    "id": "92bf9ce5-69e1-44fb-800e-76c7ef8203e0",
+    "id": "214ee781-523b-4786-86a4-7996a3d4fee8",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3782,7 +3782,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Flesh Hounds"
   },
   {
-    "id": "05d4721e-4469-4816-b774-4eb1cebc8db5",
+    "id": "da05d640-369e-421c-a7aa-c7f9081aa80e",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3792,7 +3792,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bloodbound Warmonger"
   },
   {
-    "id": "0f51e6cd-b31c-402e-8aa7-c678065fc7f2",
+    "id": "99e1d73f-d5a0-4758-83a2-358f6b264c41",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3802,7 +3802,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Avatar of Khaine"
   },
   {
-    "id": "fe3c0a0d-0dd5-467e-a41a-5b128e94c3d7",
+    "id": "7985e04e-93a3-4fc2-8232-35654fdac073",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3812,7 +3812,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Khinerai"
   },
   {
-    "id": "a6b7e81d-e8a4-44ed-a315-0fec00a0f52c",
+    "id": "0b573a3e-2cba-4fd9-98aa-a515e4f8a3a3",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3822,7 +3822,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Melusai"
   },
   {
-    "id": "010b1739-b968-4dac-9ba2-b564d0b28a5c",
+    "id": "709eec07-d121-438f-a408-cae72c28539c",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3832,7 +3832,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Headstompa"
   },
   {
-    "id": "c3a52c0c-0443-4109-93cd-0a335e066191",
+    "id": "e5178cc2-e405-4174-a5a9-09533be6502d",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
@@ -3842,7 +3842,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ironjawz"
   },
   {
-    "id": "7372ce69-6767-46af-9231-44911e6ca0be",
+    "id": "c1c3a99a-53af-48b2-bfe4-d7a393a1e875",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3852,7 +3852,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Tzeentchian Deceiver"
   },
   {
-    "id": "c9a843b6-9aac-4571-a272-e1902b3f7e5c",
+    "id": "c0130640-aaa7-46e4-b540-0c5413f21d5d",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
@@ -3862,7 +3862,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Disciples of Tzeentch"
   },
   {
-    "id": "06dfadf6-7faa-4a8d-9e49-1eeb65a08a45",
+    "id": "5b70d4f5-1773-4727-8939-923d3d5e5fc6",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3872,7 +3872,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ruinous Champion"
   },
   {
-    "id": "ce5450d0-4ef7-496c-97bc-9408f38b5231",
+    "id": "84cc21c6-7801-488d-ac05-db62a79611cb",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
@@ -3882,7 +3882,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Slaves to Darkness"
   },
   {
-    "id": "52762738-9b69-4c06-92f8-42b8ec46d144",
+    "id": "3929a8b7-2846-495d-ae35-6d71051543f1",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3892,7 +3892,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Lumineth Paragon"
   },
   {
-    "id": "fbdd926f-48f3-4cbc-8743-b49bc324178d",
+    "id": "a92cb32e-e242-4c10-9137-c6b9529edabe",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3902,7 +3902,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ydrilan Riverblades"
   },
   {
-    "id": "b46ea35c-1ce4-4472-ad29-c8c88269ba23",
+    "id": "80f2a75d-15da-4e8b-9de5-4bbf3408be0e",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3912,7 +3912,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari"
   },
   {
-    "id": "c28a5d9a-a592-4898-b252-902fd61a617e",
+    "id": "b409074a-3017-404e-bbe7-e7274ffd9491",
     "childQuantity": "one",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3922,7 +3922,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "1 Singri Brand"
   },
   {
-    "id": "898ee09e-8635-4a7a-92e1-ad371d5b4e83",
+    "id": "50e5f27f-417c-47c6-96a2-2d2ba557840c",
     "childQuantity": "one",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3932,7 +3932,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "1 The Oathsworn Kin"
   },
   {
-    "id": "ed6b8c70-d011-4b58-9121-b3eaed4f2b23",
+    "id": "f3456ed6-14f5-4a38-a1e3-b16a0d8df112",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3942,7 +3942,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Darkoath"
   },
   {
-    "id": "9ad75d9c-f78d-4237-a58f-34045ddd4e61",
+    "id": "43f746a7-4acd-420d-86c4-b807746e84ee",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3952,7 +3952,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Icebrow Hunter"
   },
   {
-    "id": "76265f59-c0cb-473c-b102-7de32b61e7e2",
+    "id": "41272a86-bf98-4d5f-8f2e-4ab30e77e3dc",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
@@ -3962,7 +3962,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ogor Mawtribes"
   },
   {
-    "id": "0947f008-1b8e-4163-993c-551c6f09c160",
+    "id": "8bd7013e-defc-4371-be7b-f8125aa1a6df",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -3972,7 +3972,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "37756e1f-0fc5-4c43-8915-ef587b4a8f21",
+    "id": "e9076fde-0633-455a-b1cd-bbe2bd7c9917",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -3982,7 +3982,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "8b18f7ae-e656-478d-8662-ebc4b1c535e9",
+    "id": "949fcfda-b1d4-4f89-8eed-d63cfa4618a2",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -3992,7 +3992,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ruination Chamber"
   },
   {
-    "id": "050f2ce7-973c-418d-82c6-50bbb62f7dcf",
+    "id": "9b2f3155-37a8-4d85-acd9-ab051da8409b",
     "childQuantity": "any",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -4002,7 +4002,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "20cf49f6-d03b-4d39-ac87-aabf37eacc78",
+    "id": "a3c106c2-544e-4721-90d5-fa09f609abe9",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4012,7 +4012,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Dexcessa or Slaaneshi Beguiler"
   },
   {
-    "id": "da1632e7-7b37-44f2-859a-b1dabcc25ff4",
+    "id": "7a18f7fc-b1fd-4ba5-a0a3-178abcf88321",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
@@ -4022,7 +4022,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Hedonites of Slaanesh"
   },
   {
-    "id": "d5509636-c2c4-487f-a0f1-bb90582442cc",
+    "id": "cde01347-c87f-4c99-900b-46b2a0700662",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4032,7 +4032,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Eager Lout"
   },
   {
-    "id": "f37992fa-7768-4721-98cb-d334b27b96cd",
+    "id": "5d4b65df-54ea-41b2-b917-6f60cc4ba54f",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
@@ -4042,7 +4042,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sons of Behemat"
   },
   {
-    "id": "0c3f97a1-ab33-4a8d-bf29-616ddd07fc38",
+    "id": "aabcd32d-bff4-4b88-8de8-ba202ab6ea2b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4052,7 +4052,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "f4094c58-c4e0-4f41-95f9-32cae7bca354",
+    "id": "243d533f-8b3b-4e5c-a148-a2071ab6495d",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4062,7 +4062,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Moonclan Infantry"
   },
   {
-    "id": "723e6dcc-222d-462c-aee1-e4a1b073e7f6",
+    "id": "0ff7344e-40b9-450d-a26b-239c6d935e6d",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4072,7 +4072,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Bloodpelt Hunter"
   },
   {
-    "id": "0b67f159-a294-4b8a-ab08-5c7088a0ff99",
+    "id": "1ea1f236-dd07-4f27-9611-28547117d277",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
@@ -4082,7 +4082,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ogor Mawtribes"
   },
   {
-    "id": "4e5f0551-a9bd-484b-81a6-79f8c5ddd589",
+    "id": "02a3b992-f112-49b6-96c5-6ba92e8d5bb3",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4092,7 +4092,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skyvessel"
   },
   {
-    "id": "92565972-9dd8-4a2b-8861-45c0bf2b1201",
+    "id": "9930051b-2900-4bd2-9bce-6b7190056cbc",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4102,7 +4102,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "291bf22d-c4d1-4e09-b790-a61700706399",
+    "id": "98bfc059-476c-4f6b-8b98-15e437b6b14d",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4112,7 +4112,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Lumineth Paragon"
   },
   {
-    "id": "09f2e868-a67f-4d29-961b-635aed545f8b",
+    "id": "facaf8e3-d3fb-4493-9977-18e25d3d86a0",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4122,7 +4122,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Alarith"
   },
   {
-    "id": "0829f2e0-68c9-4387-9850-a7d0633fddd2",
+    "id": "9f1adfd6-cfc4-419c-bfa2-b2b2aacce075",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -4132,27 +4132,27 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari"
   },
   {
-    "id": "143ab65a-fc62-48c3-a384-dcf919b6d46b",
+    "id": "26df3c04-50e9-429a-bea0-a68e9287ef85",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c",
+    "warscrollId": "9b60ec8d-81b2-4818-bbb1-01b888070ad4",
     "optionText": "0-1 Legion Subcommander"
   },
   {
-    "id": "64b5ea19-e3f5-488e-9f74-b5a8b2b8d7f6",
+    "id": "1a39d3fd-8d3c-4684-87c5-61890ab0a192",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c",
+    "warscrollId": "9b60ec8d-81b2-4818-bbb1-01b888070ad4",
     "optionText": "Any Ossiarch Bonereapers"
   },
   {
-    "id": "96d7b9bb-fade-448a-817a-21de94678be4",
+    "id": "96308c96-f187-4caa-9297-6d4a11368bed",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4162,7 +4162,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Flesh-eater Noble"
   },
   {
-    "id": "2570d2dc-589a-487f-be7d-63360de2827f",
+    "id": "7355dcb0-53f2-4111-993a-43cb5e7bc91c",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4172,7 +4172,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Serfs"
   },
   {
-    "id": "265cd070-80f7-4b1e-85b1-6c39af3e8103",
+    "id": "18ec7004-9f49-4a33-85aa-a787a6b81efe",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -4182,7 +4182,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Knights"
   },
   {
-    "id": "5b63e2d0-2424-4cdb-8998-c091e50efbfc",
+    "id": "163483c4-2591-4670-a6b6-1232ebc088f2",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4192,7 +4192,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Avatar of Khaine"
   },
   {
-    "id": "34d05c47-ee96-46fa-8677-583d87312418",
+    "id": "370fc0f9-bc49-43db-b1a2-4342e96b2102",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4202,7 +4202,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Khinerai"
   },
   {
-    "id": "5d0e18aa-52bf-46b1-85f9-4d3b9d1b6d1c",
+    "id": "04850135-85be-4fce-8aca-509ea9326c67",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -4212,7 +4212,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Melusai"
   },
   {
-    "id": "244fd3df-5b9d-4c65-8806-b83cc9c5b6bc",
+    "id": "49a2f585-f65d-4bf5-96f4-1edff871c0db",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4222,7 +4222,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ruinous Champion"
   },
   {
-    "id": "3aca751a-11bb-4dad-b0dd-2bdd1c132a6e",
+    "id": "2c7a5e6a-c667-44e6-8e7f-abe693c48f2a",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4232,7 +4232,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warriors of Chaos"
   },
   {
-    "id": "a2a2dcfa-0b0b-40d1-b264-b8111dcb9369",
+    "id": "902e2cf1-33a5-42df-8f13-6f588d4883c4",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4242,7 +4242,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ydrilan Riverblades"
   },
   {
-    "id": "48c3617d-c4a1-4c24-8a0e-29a4a7f0009b",
+    "id": "89c988fb-58e7-4824-8106-b602d5556688",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4252,7 +4252,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Auralan Wardens"
   },
   {
-    "id": "115a213f-ca90-4608-9b24-dab10d25be26",
+    "id": "caaa4a00-0e19-4eb6-8ca7-9b89c0ecf813",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -4262,7 +4262,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Bladelords"
   },
   {
-    "id": "38435a68-c3d9-4188-888e-b4a0c2f74550",
+    "id": "b6f7fea2-36ca-499b-a622-901831a1a5b3",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4272,7 +4272,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Akhelian Raidmaster or Isharann Emissary"
   },
   {
-    "id": "96a0fe1e-29c4-4744-a99a-1f0917ada8ef",
+    "id": "ba4653c8-4d0f-410a-bda6-1d60b24a5507",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
@@ -4282,7 +4282,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Idoneth Deepkin"
   },
   {
-    "id": "3b21baf8-e41c-42c4-be54-e8fe5e746b84",
+    "id": "01107a19-a3ab-4877-9c8b-b28f27718dd2",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -4292,7 +4292,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "5b464e94-bda0-4277-9672-d4c77c60f044",
+    "id": "42ef0d02-923a-4978-b27c-8b0edbef3f18",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4302,7 +4302,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Scions of Nulahmia Vampire Lord"
   },
   {
-    "id": "2fabc6b9-cba5-4f4a-8705-a4bc917925d6",
+    "id": "30b0d9a0-349a-4d68-b74d-5a7ebb22304f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4312,7 +4312,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Flesh-eater Noble"
   },
   {
-    "id": "ed38b5f9-8b39-4dba-a9e1-3c1f6ffa07d4",
+    "id": "35db3b71-dcb4-4314-8872-e4883389d691",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
@@ -4322,7 +4322,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Flesh-eater Courts"
   },
   {
-    "id": "ad45e6b5-33f3-4ed0-a94c-4be2699dbda4",
+    "id": "b24d013d-f5ca-4970-a425-3da6f847da4b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4332,7 +4332,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Oathsworn"
   },
   {
-    "id": "c4d68247-ef7f-4ea0-a7ca-2b0727ad1482",
+    "id": "50298572-ae68-4edb-9a12-80ee3c87a9c3",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4342,7 +4342,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "6a1b8e5d-d390-45c7-b41c-d08c1d8b84dc",
+    "id": "fd8fd305-d6ea-4b6b-9e00-ffb6ef8f3dd7",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -4352,7 +4352,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Darkoath"
   },
   {
-    "id": "127d26c8-54eb-4707-963b-351b4ab0dc27",
+    "id": "507b6df7-aba7-4446-81ea-1de5c706e9ca",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4362,7 +4362,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Forest Sentinel"
   },
   {
-    "id": "180bdea6-aa14-4581-9d89-95af4a7bfacc",
+    "id": "0c145210-1e56-4cfb-8b19-15d9807a74df",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
@@ -4372,7 +4372,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sylvaneth"
   },
   {
-    "id": "2d83c5b5-e6e9-497e-a527-00e0d7a09355",
+    "id": "e49bb689-077e-47d7-9af2-9f072deade3c",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4382,7 +4382,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "3b1001ad-2c29-4e22-b418-69deb478a985",
+    "id": "70774e55-ad32-43f7-beec-04ad99d0c8d5",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4392,7 +4392,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Extremis Chamber"
   },
   {
-    "id": "f94e2897-a6d2-4285-8257-ee39cd7276fa",
+    "id": "4b2baca9-6f20-4781-94f3-c91ed44a31b8",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -4402,7 +4402,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "d686e1e6-6d5d-4d22-a2a8-e14e61103aa7",
+    "id": "abd0817b-a75f-4a08-b919-7644822fcf57",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4412,7 +4412,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Shadow Agent"
   },
   {
-    "id": "30d3db85-ee67-4ec3-b91e-73e8b1630b16",
+    "id": "b5b39458-58ca-4d9d-a3ce-632a4782016e",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4422,7 +4422,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Aelf"
   },
   {
-    "id": "a41ff016-ac5d-466a-bcb0-72fdbaf4b207",
+    "id": "99321ab2-e676-45d9-b14d-9527340191b7",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4432,7 +4432,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Auralan Wardens"
   },
   {
-    "id": "02bfcbe0-0c13-4ff0-bba4-7042b78af224",
+    "id": "6c0dfe2e-38f6-4561-a612-6618332165b2",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4442,7 +4442,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Hurakan"
   },
   {
-    "id": "b8ef6ea0-3104-474b-9cab-d13e88fd536a",
+    "id": "27e3ba07-16f1-4006-a050-7b2bdc32662f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4452,7 +4452,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Rotbringer Lord"
   },
   {
-    "id": "b2ac20ba-ef57-4702-ba6a-8ab3dd3f16aa",
+    "id": "55abcf5f-5706-4cf8-addd-7b571ea95ccc",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
@@ -4462,7 +4462,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Maggotkin of Nurgle"
   },
   {
-    "id": "36a7c7ee-38f3-4971-84bf-48789be82ed2",
+    "id": "1cbdc06f-d482-409e-b5dd-c0035cb1a366",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4472,7 +4472,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Arcanite Cabalist"
   },
   {
-    "id": "b3915c49-f193-40ff-aaf6-cfd8c58f8d8a",
+    "id": "8e43705b-1d97-4c5b-88a9-0ece23b05171",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4482,7 +4482,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Arcanite"
   },
   {
-    "id": "c2fd011f-d779-41b6-b107-46a4ef003842",
+    "id": "bd2de726-8f2f-4db9-b8a9-bb3db883c33c",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4492,7 +4492,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ydrilan Riverblades"
   },
   {
-    "id": "1dedb2fd-e240-400c-bec3-0bb2f472d04a",
+    "id": "d81d7964-bfcd-4ddc-8898-f31170312265",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4502,7 +4502,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Auralan Wardens"
   },
   {
-    "id": "8ca60bd5-9242-41ec-98bb-7cef5f3d45b2",
+    "id": "ea4925ae-d0b5-4722-91b5-1a0109ae2091",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -4512,7 +4512,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Bladelords"
   },
   {
-    "id": "c1e0e3b0-5480-44c1-82aa-64f31d33b380",
+    "id": "edfc9245-2ad5-4186-8abb-7b601709129c",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4522,7 +4522,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Grimnir’s Chosen"
   },
   {
-    "id": "ee8cf7f4-96a7-4549-b615-a1909ec3138e",
+    "id": "5981f7e4-3d12-43cf-85f6-3076fb1b7b94",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -4532,7 +4532,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "403bed14-6157-492a-8ac9-696727e4b5bb",
+    "id": "3bfb7176-ff4f-4903-9165-ef65e78a9ecb",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4542,7 +4542,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "909e8930-8f53-45aa-bade-b5e7e75a7a15",
+    "id": "9d745110-fa24-4e13-aff5-9e149961e4ed",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4552,7 +4552,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Beast"
   },
   {
-    "id": "ab570fba-12fa-4ddf-b551-4fa7edc92185",
+    "id": "47c315f2-be4f-4683-9277-80fc04e63456",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -4562,7 +4562,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kroxigor"
   },
   {
-    "id": "4a945670-f9fe-4569-be6f-9fab6273febc",
+    "id": "6d73708b-4294-4a3d-b746-d053de9c2487",
     "childQuantity": "any",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -4572,7 +4572,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skink non-Monster"
   },
   {
-    "id": "8f31696f-d58c-4a5b-a9ad-cd17400e470b",
+    "id": "09904607-5677-471d-8f9f-c3ca2bca1a44",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4582,7 +4582,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Forest Sentinel"
   },
   {
-    "id": "85b3b932-c233-415b-adaa-92e2a3b04357",
+    "id": "8038a889-e4a6-41fb-b8a3-354da5c4b907",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
@@ -4592,7 +4592,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sylvaneth"
   },
   {
-    "id": "f036c5fe-a15d-4566-8f0c-4cf162e23d44",
+    "id": "13c5f239-2b85-42e4-832d-722e6635c3f2",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4602,7 +4602,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Forest Sentinel"
   },
   {
-    "id": "99a70f19-485f-4c18-9342-854e34614672",
+    "id": "f1913f56-d6b6-4975-8907-1c71971c42ad",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
@@ -4612,7 +4612,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sylvaneth"
   },
   {
-    "id": "be0e8a5b-b129-4bce-a178-7981d6d88be5",
+    "id": "f9e2acbd-8c00-453d-b3a7-d8ed3b54ec18",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4622,7 +4622,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Lumineth Paragon"
   },
   {
-    "id": "6e3880ec-e1eb-4405-bcc7-d7199ec75690",
+    "id": "c63ef9c2-9498-4df8-b0e2-362403d06534",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
@@ -4632,7 +4632,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Lumineth Realm-lords"
   },
   {
-    "id": "77f673ca-c210-458d-8a40-e32d85ba1723",
+    "id": "0cb9c685-bd6a-4f78-a193-dc121fba507a",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4642,7 +4642,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Flesh-eater Noble"
   },
   {
-    "id": "7089a091-c8a1-47a4-93ef-c9809a9ae268",
+    "id": "7c8f8532-be76-474f-afa7-e339506c9183",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
@@ -4652,7 +4652,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Flesh-eater Courts"
   },
   {
-    "id": "912ab5f4-75c6-4ada-ad51-920001667a4c",
+    "id": "cf1b0cf3-e0d9-4231-8657-5eabb09f13aa",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4662,7 +4662,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sacrosanct Chamber Infantry"
   },
   {
-    "id": "a0871505-309d-400c-ae72-2e5c6d1e5a30",
+    "id": "4df8e1d0-ee5f-4482-b8ce-2cfa64d09edd",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4672,7 +4672,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any War Machine Sacrosanct Chamber"
   },
   {
-    "id": "f361ad60-e986-4cfd-ac11-9bee7e45fa7f",
+    "id": "19b828cc-c294-49fa-ad00-0946e1557e2a",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4682,7 +4682,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Isharann Emissary"
   },
   {
-    "id": "1ea83907-cc56-4af4-ba9f-19c39688737c",
+    "id": "41d7c636-cf67-40eb-9faf-a20072d84c3d",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4692,7 +4692,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Namarti"
   },
   {
-    "id": "a807f7ad-8daa-420e-bbb9-5acd4da90ed6",
+    "id": "64145aa7-13d3-43b8-9c47-331816558ccb",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4702,7 +4702,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "84e63bd7-cd23-4f15-8cfd-f72bc3f2899e",
+    "id": "4223dad4-5f9e-41e5-b49f-1d98c5bcec15",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4712,7 +4712,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber Infantry"
   },
   {
-    "id": "27917c47-51a8-42f3-b685-4bb6492d9f8b",
+    "id": "d3b274c2-fbe4-4c8c-93ce-6bcbe5dc28d6",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4722,7 +4722,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Favoured Spawning"
   },
   {
-    "id": "2138a2e9-10be-4bb1-8d99-4a53bd56d0f4",
+    "id": "f807bf06-bdd7-47e6-bfe8-8283b96f0cc7",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4732,7 +4732,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Saurus"
   },
   {
-    "id": "ff81e9ee-beff-4072-aac3-7a35b15a7c26",
+    "id": "31804311-9819-4bbe-80b4-3e983b4e5787",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4742,7 +4742,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ydrilan Riverblades"
   },
   {
-    "id": "14d7d08d-bbdc-4a92-83dc-298dc9f5a306",
+    "id": "d84ccb11-0880-412e-9aa6-05670bcab1dc",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4752,7 +4752,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Auralan Wardens"
   },
   {
-    "id": "fd812346-a6f4-4533-ab06-f3156964f11d",
+    "id": "7948ff2e-7d6f-40b0-8198-e89557d0704b",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -4762,7 +4762,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Bladelords"
   },
   {
-    "id": "b4407bb2-f228-4317-92d2-295f5bb192a0",
+    "id": "04f47897-49fa-4ebb-8bd3-9a244fb901e0",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4772,7 +4772,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaughter Seeker"
   },
   {
-    "id": "b1d77bc1-78c5-4b8b-ad42-35484a6c2449",
+    "id": "67f9575a-5052-4cbb-8ca7-b18f9ed5e1f9",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4782,7 +4782,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "331adb21-77db-4ac6-99b5-4d02db4ffe41",
+    "id": "9874854c-cf9a-449f-985b-f07338ca3d65",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4792,7 +4792,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Guild Officer"
   },
   {
-    "id": "63fb5cda-27ea-4077-af4f-d03df7540be0",
+    "id": "bcf2504c-d3a3-436f-96af-afd427773fb9",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
@@ -4802,7 +4802,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kharadron Overlords"
   },
   {
-    "id": "19fd40e7-a825-47db-a616-dfc765663aa9",
+    "id": "15d98eb5-a19e-4db0-929f-991c47e21ad8",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4812,7 +4812,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaaneshi Beguiler"
   },
   {
-    "id": "c01b0b48-82d4-4544-9767-cef13fa37b45",
+    "id": "ff30ecae-1850-4df5-82b6-afc2b05c4b42",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4822,7 +4822,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any War Machine"
   },
   {
-    "id": "af078b71-e527-406d-92c3-227b0ced2630",
+    "id": "a2eed771-479f-4740-88da-026c5c235d83",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4832,7 +4832,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Cursed Soul"
   },
   {
-    "id": "e0b97836-7e84-41b8-8f28-51b165b7092e",
+    "id": "f2577691-e39e-4365-9df1-1a07815e0492",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
@@ -4842,7 +4842,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Nighthaunt"
   },
   {
-    "id": "4e3b2d21-bc72-4bdf-a952-79c93c32b1e0",
+    "id": "5cf7962b-a26f-4320-bcee-e0a68916e0d2",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4852,7 +4852,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Grimnir’s Chosen"
   },
   {
-    "id": "304029fe-2c78-48b6-888f-445e5ff9490a",
+    "id": "28eaeacc-a754-42b2-8f2e-1e0401f157ef",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -4862,7 +4862,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "e9ad5110-3465-4ec9-92c4-477652ac1bd7",
+    "id": "7a73c223-d02a-4723-ad41-1b36b067ef4b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4872,7 +4872,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Shadow Agent"
   },
   {
-    "id": "e8a39abf-b266-41cd-a453-5ee96bc5fe0e",
+    "id": "19d7faa8-2ad7-48b4-be86-af3b38bad09c",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4882,7 +4882,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Aelf"
   },
   {
-    "id": "36271164-29ad-4192-8c88-22ce760a0e70",
+    "id": "7e8b6432-c91e-4cce-82a9-277b68f5fac8",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4892,7 +4892,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaughter Seeker"
   },
   {
-    "id": "6ca2aa78-bbd7-4cdd-a1d4-0be29093b9e8",
+    "id": "8d383b17-76c2-4f77-8f3c-475eac9ee18e",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4902,7 +4902,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "513e374e-4ec1-4794-af27-636afca32df2",
+    "id": "2fae8e65-ab16-4885-bd79-dba2fad69489",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4912,7 +4912,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "65cadafa-1d72-4ab5-b52a-4eac17d1f19c",
+    "id": "b6dfecb1-27d7-45a3-97e4-0be32527c716",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
@@ -4922,7 +4922,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Stormcast Eternals"
   },
   {
-    "id": "6c73acfd-2869-4065-a3e8-03c738dfa290",
+    "id": "2f6c8a45-31d1-48c2-8ca7-d02fcca944f7",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4932,7 +4932,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Black Coach"
   },
   {
-    "id": "c4793be9-288f-4ed0-86ab-fd5691e68315",
+    "id": "c0aabae9-0adf-48be-b4fe-a70e7a734b5a",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -4942,7 +4942,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "b787d7ce-e050-4cb3-8f0e-67a428327862",
+    "id": "1612df2b-9473-4049-a47c-2ac963ad91fc",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4952,7 +4952,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Rotbringer Lord"
   },
   {
-    "id": "9f277eed-30dc-49fe-ae9c-bb36c3a811fa",
+    "id": "fa178d61-8e7c-4172-85b9-64b17b3888ac",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
@@ -4962,7 +4962,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Maggotkin of Nurgle"
   },
   {
-    "id": "b77e2e46-b232-4464-8702-61999df797cb",
+    "id": "29a2c1a3-e037-4e43-98e4-7ce7fae8d03f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4972,7 +4972,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Grimnir’s Chosen"
   },
   {
-    "id": "13d87242-b1c9-48d6-863f-4f6acb1a4750",
+    "id": "c340b9c4-da96-4d54-8b97-40a11905a7e3",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -4982,7 +4982,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "ba46d2ef-7aa1-4099-982b-4d1a74bb8571",
+    "id": "a5f764bd-4c68-4be8-8f93-d012175d5b7a",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -4992,7 +4992,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Mob Wrangler"
   },
   {
-    "id": "f8f02e94-f108-4380-8ccd-a7a3fa8e8b52",
+    "id": "798a2f11-1852-45cb-a990-cb22a2b51c1c",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
@@ -5002,7 +5002,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "580cb09c-a545-4f75-a69f-ff796902b58f",
+    "id": "56ed9a75-9ee1-4a31-bbb2-584066c30509",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5012,7 +5012,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ruinous Champion"
   },
   {
-    "id": "bd6c9cc7-d5cc-430a-be15-35d7c84ac668",
+    "id": "10ac7c65-e50e-460a-97a4-081e797e346c",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
@@ -5022,7 +5022,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Slaves to Darkness"
   },
   {
-    "id": "6e015302-8a31-4a47-9e68-3f93951eb4f5",
+    "id": "b3f0fc69-1861-4121-a352-668dd21721da",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5032,7 +5032,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Moonclan Agitator"
   },
   {
-    "id": "fdc29637-ca72-44c5-9288-9f8e0d1d1bfa",
+    "id": "a3dbcbe1-d504-43a7-b9a6-24725c34b75e",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5042,7 +5042,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Moonclan"
   },
   {
-    "id": "3a1d7ea4-80b3-44ec-bdb3-d87613e1dc1b",
+    "id": "5036ba86-8836-4534-ae74-347ce203047b",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5052,7 +5052,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Dire Wolves"
   },
   {
-    "id": "0a78a277-7542-4780-84bc-0dc635a94857",
+    "id": "73ece134-d7fb-4c8e-a4c4-ff4b34431c95",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5062,7 +5062,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fell Bats"
   },
   {
-    "id": "6cf78a1b-c4cf-44bf-ae2d-eae439b11384",
+    "id": "f3a79571-d385-4450-aac0-e788133c8b26",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5072,7 +5072,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "790594ec-dd3f-41a9-b799-79765fde9e79",
+    "id": "bc482393-e9af-40cd-85a0-e0d5346c0eff",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
@@ -5082,7 +5082,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Stormcast Eternals"
   },
   {
-    "id": "e1f0a420-e9b6-4523-907f-c7702c65c0ad",
+    "id": "6a987c81-887b-4e0f-9d31-199f351dea0f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5092,7 +5092,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "90a8a657-5c1f-40b4-b8e2-e770e41cc603",
+    "id": "4badd095-436a-4ee2-af75-09fc9d327aad",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
@@ -5102,7 +5102,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Stormcast Eternals"
   },
   {
-    "id": "d08a352b-1794-498c-8c67-ae8d9d87a21e",
+    "id": "480dc6ab-9ad4-46be-ba35-639fd065bff2",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5112,7 +5112,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Clawlord"
   },
   {
-    "id": "963940f4-f2ad-48aa-aaaa-083db0e61822",
+    "id": "faca19d8-4d7a-4860-9ddf-9c8603f4d0b0",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5122,7 +5122,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Verminus"
   },
   {
-    "id": "16ea599a-1d42-449e-9b17-635a4da19ace",
+    "id": "9f61121c-ceee-4f3b-bef3-1195f1cdf2fe",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5132,7 +5132,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Coven Matriarch"
   },
   {
-    "id": "17d17af3-9b7d-4670-a5ba-f8207eca8825",
+    "id": "586cf341-42bf-49bd-8c6e-c235c26856f0",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5142,7 +5142,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Aelf"
   },
   {
-    "id": "43aa618f-9879-4a38-bc09-03603b030c51",
+    "id": "3e507a4d-0762-4273-a2d1-8a886fda8495",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5152,7 +5152,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Coven Matriarch"
   },
   {
-    "id": "3f51b628-897c-4545-8659-a4534bf27321",
+    "id": "0f49644e-d7a9-4e06-8bf2-b2fea7efcba0",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5162,7 +5162,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Aelf"
   },
   {
-    "id": "88cb8d2c-cb9f-4983-b508-bb221a70bacd",
+    "id": "dde1a9d3-0615-4bc7-808d-3e2b01af365b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5172,7 +5172,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Isharann Emissary"
   },
   {
-    "id": "bb8a00c1-6c83-4fb9-a6fc-e62d821ce457",
+    "id": "f20f76a1-f368-4bfd-aec9-184be1d5ea2a",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5182,7 +5182,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Namarti"
   },
   {
-    "id": "79ae9902-cb23-4502-892a-8b3803ab20a5",
+    "id": "9c8d8be0-1358-49dd-a0b8-a4036cb50fd2",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5192,7 +5192,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Maw-grunta Gougers"
   },
   {
-    "id": "5926b3c9-28e6-41b1-9bcd-fed473bda9ac",
+    "id": "17d1662c-1750-4939-94df-8c473d13bbee",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5202,7 +5202,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Maw-grunta with Hakkin' Krew"
   },
   {
-    "id": "9e73f7c9-ee31-4037-86f8-da0a0a9181c2",
+    "id": "1a248667-ab24-4ada-80fc-c5c0e3274eba",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5212,7 +5212,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Cavalry"
   },
   {
-    "id": "543124ac-8ea9-4c45-99df-6bdb01cb3a16",
+    "id": "f0414f64-f598-4aea-87ac-af4c88448ac5",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5222,7 +5222,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "fa16b490-9917-404d-9a6e-0c0953c4164c",
+    "id": "ec67b409-8cff-47ab-841e-c138edb9942a",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5232,7 +5232,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Beast"
   },
   {
-    "id": "85d531e8-b4e6-4fd0-b42c-7666a6b93e31",
+    "id": "5241f870-42ae-4d43-af40-37455874b8cd",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5242,7 +5242,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skink Cavalry"
   },
   {
-    "id": "19d28fe2-a60d-4d0e-ac0d-2ed30609ed98",
+    "id": "08703b14-188d-492d-9703-7d948ab37fe2",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5252,7 +5252,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "274d1e74-3442-427a-906f-02a054201e54",
+    "id": "569d65d9-21e9-4708-8f4c-3c43fa026fea",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5262,7 +5262,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "fd5c40ab-89ce-402d-9dbe-69f94c9cdc9a",
+    "id": "7ba0d515-c94f-43d4-a456-03f46b1f5bd6",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5272,7 +5272,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaughter Seeker"
   },
   {
-    "id": "d31853fd-47b3-4965-a5af-483dfec3c75d",
+    "id": "09e4d7c4-5718-48f0-9a3c-25f3f7dfd223",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5282,7 +5282,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "e0117757-61e1-4f21-a4dc-fdf9e806d432",
+    "id": "687e8254-2348-42df-9808-7e32abc8044a",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5292,7 +5292,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Black Coach"
   },
   {
-    "id": "a134a5ae-5db2-4e90-96f9-5ebb199acd1e",
+    "id": "3e208ce9-185b-4272-998c-0a51ecd1f0cd",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5302,7 +5302,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "4d345bf6-a6a8-40d0-a5df-310b0ac5b2e1",
+    "id": "61692aeb-3ddf-499b-95c2-8a3f880a515f",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5312,7 +5312,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Plague Drones"
   },
   {
-    "id": "e0185f6a-44b4-4f7a-b9d0-e534fada1a83",
+    "id": "ae7687a1-970d-48ef-bde1-199711b77fee",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5322,7 +5322,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Pusgoyle Blightlords"
   },
   {
-    "id": "73bd111d-27cc-4e3a-922e-1e7c8b95753b",
+    "id": "2af4649e-1e82-4728-8aa9-2ac92f1fd9f0",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5332,7 +5332,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Legion Subcommander"
   },
   {
-    "id": "43aaaa03-088f-434f-a824-d8255c92beda",
+    "id": "efc0ab83-3beb-49db-991b-9cc08a9f2948",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
@@ -5342,7 +5342,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ossiarch Bonereapers"
   },
   {
-    "id": "b00df506-2f0f-45e9-accf-3fd87ed2f706",
+    "id": "06fc3cb2-f3ec-4397-8267-97c9734e322c",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5352,7 +5352,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Mob Wrangler"
   },
   {
-    "id": "d0cf3ac7-f60a-4fea-be2a-d27db6a4b2f8",
+    "id": "f059c45f-dee1-4c94-9e5b-f8513ab12570",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
@@ -5362,7 +5362,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "f9298e51-fabb-42b2-a4b7-811752389d0c",
+    "id": "515e7028-c79e-4bd7-87ea-97da1d264726",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5372,7 +5372,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Rotbringer Lord"
   },
   {
-    "id": "b0902873-0c9f-405d-88e1-190f996a9154",
+    "id": "ff5890f7-674f-44ed-ab87-49afbc03c2b0",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5382,7 +5382,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Rotbringers"
   },
   {
-    "id": "48a556aa-6378-4b14-b81a-0bf92af68d81",
+    "id": "2579ef10-5909-4e0d-8576-683aa68dc44b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5392,7 +5392,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Freeguild Veteran"
   },
   {
-    "id": "47ac99c0-563b-4443-b07f-9f21f5c1f56c",
+    "id": "ba7e8146-3389-46b4-b0fc-fff711e173ab",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5402,7 +5402,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human"
   },
   {
-    "id": "eb2e6241-0f22-4031-a786-3759ff341330",
+    "id": "2c42f9ce-5d64-4216-8848-89c3bdd7b4ad",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5412,7 +5412,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "c7da7108-6b78-45bc-b7e9-7b552be40c00",
+    "id": "2952d37c-b3cd-48c6-b18b-23d9a3957032",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5422,7 +5422,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "dc1bed0b-3948-4047-812a-8e5ddeb45978",
+    "id": "085f7273-5b74-4095-a117-83ab76b556d0",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5432,7 +5432,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ruination Chamber"
   },
   {
-    "id": "ab7e0139-be33-41b0-a550-c5cc24e61d77",
+    "id": "7fce09e4-39d0-4f9f-961a-b9795c601afa",
     "childQuantity": "any",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -5442,7 +5442,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "e4de7c3a-a062-4a9c-a47d-d55661273906",
+    "id": "2a7d6c99-0eb0-490b-bb80-38aea67dbd3c",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5452,7 +5452,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Savage Big Boss"
   },
   {
-    "id": "693fec1c-c97c-4a06-bd20-dc40f8dc49b3",
+    "id": "158a30ed-6932-4c8c-bbd5-268300c2ac5d",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
@@ -5462,7 +5462,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Bonesplitterz"
   },
   {
-    "id": "5a2c11bb-505f-4e5f-bb32-679a3dc61b2e",
+    "id": "7b2a24cb-473b-4772-9f10-be4a1ae770cb",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5472,7 +5472,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "a619089e-a1c0-480a-91eb-7a6b6af6465b",
+    "id": "4ad7e693-f628-4ed0-b6a1-7ff1ed0d8a29",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5482,7 +5482,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warriors of Chaos"
   },
   {
-    "id": "1cb4ccee-81b5-4e99-aba0-157c741ac1a2",
+    "id": "254cb045-ca5c-4031-99a2-b6cf16699190",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5492,7 +5492,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Moonclan Agitator"
   },
   {
-    "id": "e3bff865-d1fc-4894-98f5-9b775596577d",
+    "id": "19cfc4cc-01a6-4b22-a43f-99deac315b0c",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
@@ -5502,7 +5502,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Gloomspite Gitz"
   },
   {
-    "id": "26116265-d2f3-4029-9a23-9825dda38d47",
+    "id": "ee6a45a0-63af-4311-b45e-2b4507f9af7e",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5512,7 +5512,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "1897a96e-4bdb-4453-a3d6-87d003425a12",
+    "id": "296cc3c2-4a70-4f1a-b7da-e92a38692c34",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5522,7 +5522,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "cdec20af-d3e0-4111-aeab-360202e98ddc",
+    "id": "fbdfd6ec-ae85-4b86-93a1-839b789940df",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5532,7 +5532,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Serfs"
   },
   {
-    "id": "83e88868-a4a3-4c91-8809-ce175e546dba",
+    "id": "d6157807-cdd9-4249-a469-53488e3cc49d",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5542,7 +5542,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Crypt Flayers"
   },
   {
-    "id": "553f3a26-aa75-495c-8853-b2cb27fee506",
+    "id": "57e99162-6485-4240-8eac-4e0c47ef6006",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5552,7 +5552,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human Infantry"
   },
   {
-    "id": "23d0d0d5-54f6-41dd-8fc7-0013bbd7a933",
+    "id": "461bf199-43ef-4dfd-9221-c3a3b69f1d24",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5562,7 +5562,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human Cavalry"
   },
   {
-    "id": "02e5708e-746a-436f-aa71-0fa90b7a23e5",
+    "id": "18150e9f-b508-4f11-8f64-c1fe782a9fbe",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5572,7 +5572,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Guild Officer"
   },
   {
-    "id": "2454db64-aab7-4360-823c-65ef6c2b89c4",
+    "id": "c59ebfab-97ad-4fed-a576-187cade768da",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5582,7 +5582,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Arkanaut Frigate"
   },
   {
-    "id": "782f0aa8-f33a-4b89-94a4-4d26a153715f",
+    "id": "5ff46e69-298c-44c1-b234-5246350a171c",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5592,7 +5592,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "f8c9d2af-e962-4233-8e30-93b9e3dbce8e",
+    "id": "f5de8b6f-2692-4103-848e-bd4a35c77b6f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5602,7 +5602,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "5d346d50-4093-41b8-bdb2-2453339d9cca",
+    "id": "8295161d-9967-4362-8d02-ab05376a8f32",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5612,7 +5612,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "4827b3a2-3d76-46a5-9036-7f1d6fb81aff",
+    "id": "8fb289c9-f678-4ad0-9d66-72acb575abec",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5622,7 +5622,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ruination Chamber"
   },
   {
-    "id": "a4bd81d4-9827-44e8-b336-0c6df5cceb09",
+    "id": "74b967af-564f-4ff4-9e61-db9ef223c3e2",
     "childQuantity": "any",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -5632,7 +5632,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "6e22b6a8-e38d-4bae-944d-297e51cea1cd",
+    "id": "5e2505ac-9e10-4b44-8fd2-7f764b5d43cf",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5642,7 +5642,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "25aaaa64-a08a-45cb-aa0e-b56631e9fe0d",
+    "id": "b0e834d0-e8a5-4d8b-a94f-d1f3a08157f2",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5652,7 +5652,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Chaos Legionnaires"
   },
   {
-    "id": "8fba412e-ae88-4497-a891-7ff97243e0eb",
+    "id": "cd2e87c3-c71f-4556-b757-e0e01eb248f6",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5662,7 +5662,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "53e4b295-0262-468e-9497-446a8ef89767",
+    "id": "e93d5e1a-9a33-4c61-ba85-0449b3c8a83a",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5672,7 +5672,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "9182d75d-28e2-4add-ab65-49e950a4d376",
+    "id": "7601ed05-cd10-4919-8bb0-7a361f86dbd1",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5682,7 +5682,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "fbe91ae4-9dc5-4298-a21d-2de1a013e333",
+    "id": "84188126-d089-4492-a099-a90279a1dfd8",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5692,7 +5692,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skyvessel"
   },
   {
-    "id": "d9219005-bd7f-4aa7-bdf5-1f0ca7e80a97",
+    "id": "09a05bbf-c139-456b-bd6f-69b6362be9b0",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5702,7 +5702,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "7f653a5f-0855-43ab-a934-10a616805cab",
+    "id": "eb515a33-c5ae-49c1-9db0-61d67839e607",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5712,7 +5712,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "c537c442-697a-4a08-bdb6-09ea0c8cd5e7",
+    "id": "040338d1-16b5-4a06-ab0a-9214ae0f64cf",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5722,7 +5722,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Extremis Chamber"
   },
   {
-    "id": "d57edf6a-f364-4735-8d8b-4d2af227125e",
+    "id": "791406d6-7a36-402e-888d-75974f17a8da",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5732,7 +5732,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "e97de202-45de-4b57-9f38-7b81e687d466",
+    "id": "d02bc574-2d59-43e2-9eff-ca3a7741150b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5742,7 +5742,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skaven Overclaw"
   },
   {
-    "id": "854731f6-e722-43db-b1e2-2b8c7fb61ce7",
+    "id": "0b12da2b-8777-4b57-bedc-da144b5de0d2",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
@@ -5752,7 +5752,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skaven"
   },
   {
-    "id": "74fadcb8-3668-4776-9d51-860eb0d33e9b",
+    "id": "298b5d62-c53c-4ca5-99e9-cb389be17716",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5762,7 +5762,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Questor Soulsworn"
   },
   {
-    "id": "e77d8000-62ef-4239-a5bd-f8fe2d1bc732",
+    "id": "fc9adcee-36a4-4e13-87ba-66e987e8493d",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5772,7 +5772,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "c1d5f55d-fa34-4928-ac42-5fc88ac93c4e",
+    "id": "9c8e6816-5d40-4f95-961e-70fb032ed1cc",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5782,7 +5782,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ruination Chamber"
   },
   {
-    "id": "ed5df1f8-6dd0-4e9c-ba8a-ee63948a01d2",
+    "id": "6c7d2613-d1c7-464d-81cc-b6e0a303e3fc",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5792,7 +5792,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Headstompa"
   },
   {
-    "id": "0ed145fb-4598-4693-9fb6-862f58f89a25",
+    "id": "eb385bdb-6a3c-4ad5-a452-c5a77bf50aa8",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
@@ -5802,7 +5802,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ironjawz"
   },
   {
-    "id": "bac94c0b-8d1e-4ea0-b67a-49ae3e7c5870",
+    "id": "745a5c80-2d41-49c0-aaa6-8fd891995775",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5812,7 +5812,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Tzeentchian Deceiver"
   },
   {
-    "id": "d674a0f2-ec37-4856-8fa7-51a0627374d6",
+    "id": "7a844943-666c-4d39-bf63-e12408900204",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
@@ -5822,7 +5822,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Disciples of Tzeentch"
   },
   {
-    "id": "9d897348-0954-44c7-92a1-663b304424d2",
+    "id": "08afde2c-4517-4a21-ab1f-b7a3938ea065",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5832,7 +5832,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Rotbringer Lord"
   },
   {
-    "id": "27837da3-2f84-4f6a-8c5e-2d8ab5e74f7c",
+    "id": "50f7e0f6-02cc-4de0-bb52-7164029de01b",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5842,7 +5842,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Rotbringers"
   },
   {
-    "id": "ee26a2be-c920-49fe-be68-268584a98fe1",
+    "id": "eaa6fd5f-345f-4c48-9dd7-7fccf3e69615",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5852,7 +5852,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Black Coach"
   },
   {
-    "id": "d83e9a68-3b92-41cb-b01f-98011da45393",
+    "id": "e5976ea8-cf0c-49ad-bb9a-578f25fc5fdf",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5862,7 +5862,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "21a7c94c-1a76-47d5-91e2-c8cbb35c88e3",
+    "id": "06889f97-9c72-44b7-a2f5-dd0b784dd533",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5872,7 +5872,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ruinous Champion"
   },
   {
-    "id": "5609ef55-c149-48dd-bb2c-bf3e47af375e",
+    "id": "c9de3bfe-7c80-45cc-ae4c-03770c26bf47",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
@@ -5882,7 +5882,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Slaves to Darkness"
   },
   {
-    "id": "110c5cc0-be02-4ac0-ba2c-b92541322698",
+    "id": "1349e006-6f6e-4572-82f0-a41f5a3e74a5",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5892,7 +5892,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Rotbringer Lord"
   },
   {
-    "id": "e4467750-fdcd-4362-9189-20b013d55ebe",
+    "id": "586d7206-7217-4817-ad49-4e63b03bc210",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
@@ -5902,7 +5902,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Maggotkin of Nurgle"
   },
   {
-    "id": "f529c045-7cb0-40df-a29d-f93a7fa55272",
+    "id": "5008606b-27d4-4931-8d4a-da5cbc7edfed",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5912,7 +5912,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "ef42ab7f-e465-4786-86ea-3b8f1348cfdf",
+    "id": "434f716d-af3b-4772-8568-19fb5547cb6d",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5922,7 +5922,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Beast"
   },
   {
-    "id": "93f241a2-ec5d-4caa-9fe8-6b8bc9b949c4",
+    "id": "99e46a50-1afa-47e6-95e5-0d508fd54b55",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5932,7 +5932,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kroxigor"
   },
   {
-    "id": "002eed5c-5578-4ad2-b01c-ad202acb7981",
+    "id": "c0a7534e-ac39-4a73-ad24-7939f8159ff6",
     "childQuantity": "any",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -5942,7 +5942,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skink non-Monster"
   },
   {
-    "id": "55c7fa77-b3f0-4bd5-8d61-8b0fd8858e50",
+    "id": "142d835e-ea76-4ea5-ad46-05f4ab060a3c",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5952,7 +5952,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Shadow Agent"
   },
   {
-    "id": "743f87ea-1b18-48b5-9315-c07e5e12a540",
+    "id": "02d0a591-8dc1-4e34-9f05-625ff5544d5b",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -5962,7 +5962,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Aelf"
   },
   {
-    "id": "ba13175e-c6e7-42a9-b394-6496db605c99",
+    "id": "e135ee7a-9aaa-47a6-bbb5-2b12b021a5c3",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -5972,7 +5972,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Grimnir’s Chosen"
   },
   {
-    "id": "17511063-2618-47e4-8756-c8c13511d413",
+    "id": "41dc6170-be47-45c6-b2af-380c214e8f62",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
@@ -5982,7 +5982,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Fyreslayers"
   },
   {
-    "id": "73e16bba-9963-41d0-bdbb-e5c3f895ced0",
+    "id": "d743a320-2d7f-4bf5-bfb5-d16369d8a9b2",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -5992,7 +5992,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Pusgoyle Blightlords (1 model)"
   },
   {
-    "id": "10ba717f-0bbf-4faa-96bd-76b62ce04917",
+    "id": "aca3d2f4-0a76-47ce-ab3b-226125d48157",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6002,7 +6002,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Weapon Team Skryre"
   },
   {
-    "id": "c90f603d-df03-4e99-b840-4d3a79745f38",
+    "id": "a80a6c99-fc21-4528-a516-0f957f8ab945",
     "childQuantity": "zeroToOne",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -6012,7 +6012,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 War Machine Skryre"
   },
   {
-    "id": "d253ce5f-8006-4e81-ae2b-aab3c21ab2a3",
+    "id": "7608fa1b-adae-47ad-aa40-5119a540f24a",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -6022,7 +6022,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Lofnir Drothkeepers Auric Runeson"
   },
   {
-    "id": "943cedae-8503-4c53-ba32-9bda645c949e",
+    "id": "ab31877e-f6dc-4615-9cdd-a3831d88cda8",
     "childQuantity": "any",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -6032,27 +6032,27 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Lofnir Drothkeepers Auric Runesmiter"
   },
   {
-    "id": "aa80f8be-5200-4eda-aa81-1d7ad72b0c2b",
+    "id": "6be05d72-e39a-4fe8-93be-3d46682674a0",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545",
+    "warscrollId": "5197fab6-20c0-4ee0-af67-0239b5262dee",
     "optionText": "0-1 Flesh-eater Noble"
   },
   {
-    "id": "8052e431-ca8d-432c-8864-ac4dcb3de380",
+    "id": "09be9960-0f57-4033-92a9-9b90ae77fd3f",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545",
+    "warscrollId": "5197fab6-20c0-4ee0-af67-0239b5262dee",
     "optionText": "Any Flesh-eater Courts"
   },
   {
-    "id": "c1e42611-eebe-46fd-aba6-035679893fa4",
+    "id": "bf762869-ba13-4d6b-803d-f8943d8a327f",
     "childQuantity": "one",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6062,7 +6062,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "1 Doralia ven Denst"
   },
   {
-    "id": "751993db-565d-499b-b975-728d7ab2bce4",
+    "id": "b82098f8-af2e-40e2-82ac-55cffe0e6728",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6072,7 +6072,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human Infantry"
   },
   {
-    "id": "fa4c0beb-d94a-487a-8a29-bbf39b2fb25d",
+    "id": "954be3d2-0362-4ed5-9b9a-a8c4f6116ff7",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6082,7 +6082,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "66738446-191a-42a9-ad40-7781c4956886",
+    "id": "c0991ee7-838f-4299-a6b0-a85e27503c60",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6092,7 +6092,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Beast"
   },
   {
-    "id": "bdcf443b-642c-45f3-847d-25316af6114b",
+    "id": "eca2b9ba-4bc9-4ae6-b356-1d5316fc9473",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -6102,7 +6102,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kroxigor"
   },
   {
-    "id": "6d20fd4d-07d2-4a2a-839c-c493cd29eecc",
+    "id": "0baefb84-b90a-4240-9d12-03ede46ed1e8",
     "childQuantity": "any",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -6112,7 +6112,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skink non-Monster"
   },
   {
-    "id": "ac42b1e1-816f-4fb9-92de-ca6c65e4a900",
+    "id": "be49633a-8acc-4375-a40e-58dabcc45b5a",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6122,7 +6122,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Oathsworn"
   },
   {
-    "id": "25ea246f-c29a-4e11-9e2a-2ef74b31b997",
+    "id": "765fa720-a162-4bf5-adb1-828cc0390ffd",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6132,7 +6132,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "fd2c85d3-2527-417a-b3a4-50b5618d0298",
+    "id": "b1c30d1e-1089-4dcb-9bab-6b00aedb11c5",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -6142,7 +6142,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Darkoath"
   },
   {
-    "id": "53204440-013b-4c0d-9f37-1915b172c303",
+    "id": "d0981480-d135-43a9-a801-aa1d6298d6a5",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6152,7 +6152,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Synessa or Slaaneshi Beguiler"
   },
   {
-    "id": "2cf7f13d-9152-4934-9fa2-94c7e57f73e6",
+    "id": "846040e5-d272-4b6d-8c89-f8dd757742a8",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
@@ -6162,7 +6162,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Hedonites of Slaanesh"
   },
   {
-    "id": "49d7f1e4-9ddf-48d0-97be-27f1d4ec4aa2",
+    "id": "fc6b1274-59fc-4681-aeed-78cbbfec963b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6172,7 +6172,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaaneshi Beguiler or Dark Egotist"
   },
   {
-    "id": "e05bbcd9-b879-4e8b-8b44-6fe74ed3fa28",
+    "id": "dfab88d5-ca68-4f42-88b5-634e063757de",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
@@ -6182,7 +6182,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Hedonites of Slaanesh"
   },
   {
-    "id": "864cc118-07cd-4aae-b288-b44ecc893407",
+    "id": "4703540f-2c32-49db-a273-bed3e3ad5b3f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6192,7 +6192,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Isharann Emissary"
   },
   {
-    "id": "73f4f69a-cb92-4d3a-875b-c6fc1d638d47",
+    "id": "689eb23d-a6b8-4e1e-aa79-f0bf40350294",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6202,7 +6202,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Namarti"
   },
   {
-    "id": "431ccf76-0803-4898-9395-abd2dd9da8e7",
+    "id": "cc155a82-8fa7-44b8-bd85-4215980085d7",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6212,7 +6212,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Rotbringer Lord"
   },
   {
-    "id": "b49a1c19-93a7-40b5-b2b4-dda339e2e755",
+    "id": "4caf6e46-25e2-431e-82db-d6846a8a34c4",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
@@ -6222,7 +6222,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Maggotkin of Nurgle"
   },
   {
-    "id": "3029b905-9d73-4b17-bad9-85f56fd7be45",
+    "id": "b53b81d3-872a-4d1c-bd3a-42a3b8b05724",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6232,7 +6232,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skink Starpriest or Favoured Spawning"
   },
   {
-    "id": "16731e53-6ded-4436-ad71-3ee6868a5f72",
+    "id": "a736b0ba-005a-406d-8ec6-e60f7c4d9a83",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
@@ -6242,7 +6242,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Seraphon"
   },
   {
-    "id": "6f2aa505-734c-4b84-8afe-03850f961361",
+    "id": "c77adc86-4460-4261-923c-75eb2c0025fb",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6252,7 +6252,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Dark Egotist"
   },
   {
-    "id": "decb2491-8def-40b8-8e0a-bd8a68bbe636",
+    "id": "5e343fa5-e100-45fb-989b-415c4bb73e1f",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6262,7 +6262,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Daemon"
   },
   {
-    "id": "dc7b8d1a-4a65-41e9-bbde-1af9d3630e55",
+    "id": "be98d64b-f4b1-44ce-b5c6-211bb2737cb6",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -6272,7 +6272,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sybarite"
   },
   {
-    "id": "c65e3976-4636-4207-acde-c638d952aa2a",
+    "id": "933f957f-3cb6-4b49-b975-bf9e5e690e30",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6282,7 +6282,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Knights"
   },
   {
-    "id": "a0399e1e-3e14-4040-970e-c6968d17b965",
+    "id": "484b0629-2bdb-418f-b777-a8416324e23b",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6292,7 +6292,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Serfs"
   },
   {
-    "id": "ea77814a-dd82-4742-a76f-28508e198cfb",
+    "id": "1f356c73-a812-4bfa-b573-8858a3b8722b",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6302,7 +6302,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaaneshi Beguiler"
   },
   {
-    "id": "bc3b85d4-1aa5-417c-bff0-d58cd5175304",
+    "id": "23b0bbc0-9264-4b5a-ad72-4d5021e2f1fb",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
@@ -6312,7 +6312,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Hedonites of Slaanesh"
   },
   {
-    "id": "78670243-c275-448f-939c-1fc4fd0c21b5",
+    "id": "9f1fa4c9-4c10-44b5-9b36-694508e49d46",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6322,7 +6322,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Cursed Soul"
   },
   {
-    "id": "2ed83f73-4f22-4a5e-9bfa-68d1d1b71962",
+    "id": "e34eceee-141d-4210-b826-6ff38c845aff",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
@@ -6332,7 +6332,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Nighthaunt"
   },
   {
-    "id": "74d48770-611d-49aa-a111-101286fc9f5d",
+    "id": "a5c31c77-4ade-48c6-996d-a0435aff57ed",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6342,7 +6342,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Slaughter Seeker"
   },
   {
-    "id": "d7236570-543d-4249-a58d-10200fb37798",
+    "id": "0f77aa2f-cc75-419e-9926-7d30285bcc95",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6352,7 +6352,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Daemon"
   },
   {
-    "id": "006cde35-18ef-4c96-b174-b4e47e6c7833",
+    "id": "bfe4884c-02f7-435a-a609-8010fa7d99ab",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6362,7 +6362,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Gryph-hounds"
   },
   {
-    "id": "55dffbac-4a32-4fa0-b5c2-7966c09403ae",
+    "id": "e611b576-822e-4277-9140-b562e418fb80",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6372,7 +6372,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanguard Chamber"
   },
   {
-    "id": "e3112ed5-d266-47e8-9573-6648ef31fb3f",
+    "id": "cfc5d180-25b9-4f44-9713-7f4e9b7b8968",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6382,7 +6382,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "e95ad27e-db39-4780-bc8e-d2f235f3daf7",
+    "id": "958dba74-0861-4dff-8238-b4ca97f1ecc0",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6392,7 +6392,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Extremis Chamber"
   },
   {
-    "id": "d1ec1e70-e735-415e-809f-8fe7b0a8943b",
+    "id": "25754538-77b1-4f68-8408-10cf7a9c2a9b",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -6402,7 +6402,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "cf26ad15-18e7-4fc3-9b58-dbcdf844eaaf",
+    "id": "af0a6dac-3356-49e0-bc60-9128237f2586",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6412,7 +6412,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Flesh-eater Noble"
   },
   {
-    "id": "b08b0138-914f-4343-af7b-569279c8794a",
+    "id": "3848372b-fa83-423b-bf9e-2d8e6724ea0f",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
@@ -6422,7 +6422,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Flesh-eater Courts"
   },
   {
-    "id": "a2e3b2f2-f9d8-4cd6-a041-c8837dd666bf",
+    "id": "14d1f9fa-9d9e-43c2-be24-c2001700b709",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6432,7 +6432,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Vyrkos Retainer"
   },
   {
-    "id": "b9c0b276-49f9-4685-920a-15b65cb9e0a7",
+    "id": "7d91b35e-c3ba-4909-b6eb-24c965332744",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -6442,7 +6442,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "102ec2a6-33e8-47c7-99e1-4271abdcabc1",
+    "id": "1bc90381-c57a-4043-9db8-5814b597cbcb",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6452,7 +6452,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Cogsmith"
   },
   {
-    "id": "78515a3f-70e1-46a7-949a-963b89b5aed2",
+    "id": "71de0fd7-cb37-4e92-858b-9d2775aeed42",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6462,7 +6462,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Duardin"
   },
   {
-    "id": "8b8c11ce-2339-4497-97f9-9dc70006fa76",
+    "id": "36e4dbaa-c886-487e-8d6f-5178d42d7bab",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6472,7 +6472,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "b255b71e-fe59-4cbe-9105-40c85a7bed2e",
+    "id": "dbdb943e-0582-4b4b-8b7e-8d157e20b8bd",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6482,7 +6482,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "0762df3a-96cf-48fb-af17-6634fd10e145",
+    "id": "434e2fd6-5b2d-402b-b767-157aae9b0410",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6492,7 +6492,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Eager Lout"
   },
   {
-    "id": "862e9a5f-1e7e-40fc-b52c-90340ad12027",
+    "id": "cc395fbf-87bd-4679-a4b2-c7dcf71129a1",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
@@ -6502,7 +6502,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sons of Behemat"
   },
   {
-    "id": "f48820fa-57cd-4bfb-bc69-bcb2a579b33d",
+    "id": "4b08bf3d-c804-4c2c-8d65-1b204370f9b5",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6512,7 +6512,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Gorger Mawpack"
   },
   {
-    "id": "9235ab5e-7eee-4988-b8c8-b1b411e86e6d",
+    "id": "5f8a5cee-9fe2-4b07-918f-7ef6c3773e36",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6522,7 +6522,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Gutbusters"
   },
   {
-    "id": "d737c43f-42ab-4633-8a1a-522f3169f541",
+    "id": "76985dd6-1893-4229-892a-096f5b748740",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6532,7 +6532,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Freeguild Veteran"
   },
   {
-    "id": "8e293d08-7a1f-435a-bd55-b272a00cae4a",
+    "id": "270544d5-7e44-44d3-8287-f3fe22c1dabe",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6542,7 +6542,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human"
   },
   {
-    "id": "944b7054-653d-4efe-8d50-6bbf6c2a2984",
+    "id": "85c5978e-cdee-417c-8278-6a88eb90ba31",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6552,7 +6552,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Freeguild Veteran"
   },
   {
-    "id": "f6246b73-e456-4ff6-bb23-f80c8a77a8a7",
+    "id": "25b00c3b-fd6a-4d5e-b037-3407701426a3",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6562,7 +6562,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Human"
   },
   {
-    "id": "90e181a4-e3e0-4251-923b-b09e27b3d626",
+    "id": "d32e6fb1-818d-4b2d-9555-bb7a793d2c67",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6572,7 +6572,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Moonclan Agitator"
   },
   {
-    "id": "82e7b741-3865-435d-8ba3-1c041da4a3f9",
+    "id": "b8195034-76a7-43eb-a517-d287e5a6b80a",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6582,7 +6582,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Moonclan"
   },
   {
-    "id": "3624406c-ca3f-45ac-a555-e8d53815e6b3",
+    "id": "b1f369eb-52a7-4bc1-8281-d24679674952",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -6592,7 +6592,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "ecd50f01-266c-4667-af60-c9f7aa83b80d",
+    "id": "db66658a-5b63-4156-8f54-8bfc0c8d32ca",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6602,7 +6602,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Scions of Nulahmia Vampire Lord"
   },
   {
-    "id": "efb0e447-7cbe-46ab-bffb-e8bcf75f07cf",
+    "id": "7990fb78-9948-4461-9629-2b3b1ad5af88",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6612,7 +6612,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "1da5b8a6-3f06-4b00-989f-530f63844123",
+    "id": "0a7b7b2b-4acd-4886-b9c8-23f29e0fead6",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6622,7 +6622,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "53cdc445-52f8-4988-890d-b3beb8eb7619",
+    "id": "b4efe56b-2077-4f59-8647-5c315a4267bc",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6632,7 +6632,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Cursed Soul"
   },
   {
-    "id": "da95c10f-f32e-4832-bbd6-874bd7b7f77e",
+    "id": "400f0066-2885-4be1-aaf6-ea2578574212",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6642,7 +6642,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Black Coach"
   },
   {
-    "id": "8d4b03c1-78be-4077-8b4c-ede2523d182d",
+    "id": "34f5e747-a6ec-462f-8238-aae0efd3ab17",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -6652,7 +6652,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Cavalry"
   },
   {
-    "id": "cff525e9-af7d-41c0-b941-27e246ce8776",
+    "id": "a314230f-024d-47ab-91a0-e6bdf165995f",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6662,7 +6662,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Monster"
   },
   {
-    "id": "3f9d580b-40bb-4a86-9e1c-d8768246af9d",
+    "id": "3006bc66-3bb5-4899-9e8c-95d314ddac4b",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6672,7 +6672,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kroxigor"
   },
   {
-    "id": "4b98ff4e-ab7f-4961-9b8c-a0c396eee952",
+    "id": "86d031b7-372b-44ad-a805-0e2a8b6c683f",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -6682,7 +6682,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skink non-Monster"
   },
   {
-    "id": "3cca0ad7-5474-4a2c-a36a-fef8b9402df0",
+    "id": "44d1da20-18d5-42f0-972f-a08d833ad408",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
@@ -6692,7 +6692,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Soulblight Gravelords"
   },
   {
-    "id": "f3dcb3e5-8655-45bc-9b0f-8434d5be95a7",
+    "id": "217eb43f-849d-4c78-9909-1ede811afa63",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6702,7 +6702,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Scions of Nulahmia Vampire Lord"
   },
   {
-    "id": "fe7cc220-2b94-4137-b995-395aebbc255f",
+    "id": "8cae6ca8-6be3-4ce6-a351-49919c981635",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6712,7 +6712,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Isharann Emissary"
   },
   {
-    "id": "a9efd701-4aa0-49e4-8c9f-f3895a0c43e2",
+    "id": "39911b4e-60b3-45d4-b9bf-4f1fc1d2c02b",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
@@ -6722,7 +6722,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Idoneth Deepkin"
   },
   {
-    "id": "a5808457-bf37-4b43-8feb-534c19fb37af",
+    "id": "d8544578-8b0c-4b91-a254-fb8731dd56b9",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6732,7 +6732,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Mob Wrangler"
   },
   {
-    "id": "42b8f6e1-c031-4f0c-8e9f-03099339c3bc",
+    "id": "22734599-4452-4d1e-bb79-5d2e025badf7",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
@@ -6742,7 +6742,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kruleboyz"
   },
   {
-    "id": "6f65bfa9-6c34-465a-97de-a96110ca340f",
+    "id": "0d80ba26-1a8f-4022-b2d5-d9b10a436598",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6752,7 +6752,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Eager Lout"
   },
   {
-    "id": "54d0b88a-8422-4be4-a1fc-62a16441c0c2",
+    "id": "9e33dd3d-43dd-4f5a-b565-2383c25678ce",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
@@ -6762,7 +6762,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Sons of Behemat"
   },
   {
-    "id": "8661c432-bfb6-458f-9930-26f73fdf9d96",
+    "id": "5bc0724c-3b44-40f0-aeda-c1ad69223c7e",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6772,7 +6772,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Ydrilan Riverblades"
   },
   {
-    "id": "5a77ab57-4b7a-478c-80b1-a7e0eb88cfdf",
+    "id": "f21ed019-b84d-4601-ad35-4c36f3f8694e",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6782,7 +6782,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Vanari Auralan Wardens"
   },
   {
-    "id": "7616d4a7-26dd-4f7f-b74a-54ecb406be06",
+    "id": "77699a49-6065-4762-842a-c3830f4797ef",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -6792,27 +6792,27 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Alarith"
   },
   {
-    "id": "66cb8b39-5924-4b82-9764-c90ca4edb2b2",
+    "id": "6a1d1c18-f030-4146-a752-93ed22681d74",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca",
+    "warscrollId": "2faf277c-6868-42bf-a055-e06c106d6322",
     "optionText": "0-1 Tzeentchian Deceiver"
   },
   {
-    "id": "d29a3687-8341-48ac-a51a-8a82babd2336",
+    "id": "595a554c-8f3e-4778-9a57-94e2f6c365f3",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca",
+    "warscrollId": "2faf277c-6868-42bf-a055-e06c106d6322",
     "optionText": "Any Disciples of Tzeentch"
   },
   {
-    "id": "dfead2d9-f25b-450a-80a2-f9cfb3f41539",
+    "id": "15f49ecc-85cc-4426-a746-c1bf6bc20040",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6822,7 +6822,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Gossamid Archers"
   },
   {
-    "id": "09f4b468-82a7-4e3d-9dba-8132e4dca414",
+    "id": "90607753-926e-429e-af36-04f8be6a7f34",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6832,7 +6832,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Kurnothi"
   },
   {
-    "id": "40ad586a-f155-47aa-91be-cbbd09a1c9a2",
+    "id": "375580e5-00f1-4f9c-a048-5708d3496983",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6842,7 +6842,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Skaven Overclaw"
   },
   {
-    "id": "28522a0b-5904-498b-be9f-ae66cfa1854c",
+    "id": "986cf890-b684-45b3-b449-cf6d7b5b6e14",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
@@ -6852,7 +6852,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skaven"
   },
   {
-    "id": "8806ce07-eb92-41b1-9a2d-d82de790e3a5",
+    "id": "bcd2c84a-760b-4ffc-ac25-ec5ab6e3d034",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6862,7 +6862,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Weapon Team Skryre"
   },
   {
-    "id": "9391034e-2102-4fc9-8c52-7a1fe57789f0",
+    "id": "669f21d4-c858-429a-af45-f6fd54c46782",
     "childQuantity": "zeroToOne",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -6872,17 +6872,17 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 War Machine Skryre"
   },
   {
-    "id": "0201b483-fc56-44a6-ab1d-b459efafb137",
+    "id": "925bc6c9-89a5-4f6a-ba70-16d9177a8cd9",
     "childQuantity": "any",
     "displayOrder": 0,
     "requiredFactionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
     "requiredRosterFactionKeywordId": null,
     "requiredWarscrollId": null,
-    "warscrollId": "e13fcd1d-b044-4ff9-b0e8-7145ec437bf7",
+    "warscrollId": "37e37cf6-600c-41b7-b36a-384fed5df4c8",
     "optionText": "Any Bonesplitterz"
   },
   {
-    "id": "c54eaf24-4bbc-4e45-b404-328a63aade46",
+    "id": "7ab72949-307f-40a5-a97e-6c453099cc2c",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
@@ -6892,7 +6892,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Blades of Khorne"
   },
   {
-    "id": "ffe549e5-a8bc-4a99-a0c1-591264895fcb",
+    "id": "b780465f-956c-409f-8b54-1cf393c93085",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
@@ -6902,7 +6902,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Blades of Khorne"
   },
   {
-    "id": "42c64829-2040-4254-a3c1-ccddfe14c91b",
+    "id": "a05f7363-bf10-463a-9c26-9d9d93f5af74",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6912,7 +6912,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gothizzar Harvester"
   },
   {
-    "id": "121e3a4a-a0b3-4746-8ec8-445bace5857d",
+    "id": "18489f36-0374-482d-b279-ee9f6feca2ce",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6922,7 +6922,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Mortek Crawler"
   },
   {
-    "id": "ad03c94d-9939-4495-b9f9-25150db47b35",
+    "id": "f6347d0c-2306-4a51-b439-77d4d8676d7a",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -6932,7 +6932,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Infantry"
   },
   {
-    "id": "3da4d1d2-8a5b-4998-8d60-a733a336fe63",
+    "id": "6f15f84f-db89-45f4-b367-d420c6f474dd",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6942,7 +6942,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Warrior Chamber"
   },
   {
-    "id": "6765102d-959c-4c6d-ad3d-8f70384a88fe",
+    "id": "80ad96f9-c5e4-492e-8dc3-ef47988599e2",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6952,7 +6952,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ruination Chamber"
   },
   {
-    "id": "8ee4363f-b8fd-4856-918c-a7b4df93a6f1",
+    "id": "a744f961-9b64-400e-811f-f613de32d856",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6962,7 +6962,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ruination Chamber"
   },
   {
-    "id": "d5bbde7f-3e7e-435a-8496-377c7921c5db",
+    "id": "9a213e7d-ac83-4fad-9df2-03ece061d342",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6972,7 +6972,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "ba7d4e95-8ea1-4b5f-9ee0-ad354744160a",
+    "id": "22b64ada-611e-4a05-acf1-2bd19b59942d",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -6982,7 +6982,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Stormcast Exemplar"
   },
   {
-    "id": "40fd4e2a-6bb2-4e4a-990e-6c41239979e4",
+    "id": "2d1d156e-86d2-4bba-aca8-63713d4547d2",
     "childQuantity": "zeroToOne",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -6992,7 +6992,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "0-1 Gryph-hounds"
   },
   {
-    "id": "2852fb29-04d7-43a5-b87e-b5ae86886fd1",
+    "id": "f1e62489-0799-4752-8dcd-ad48b0eecfc3",
     "childQuantity": "any",
     "displayOrder": 3,
     "requiredFactionKeywordId": null,
@@ -7002,7 +7002,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ruination Chamber"
   },
   {
-    "id": "fc84ce1d-4ac9-4447-9682-05ee035c29d0",
+    "id": "63bbd544-f7a5-40da-96bb-7d034c571584",
     "childQuantity": "any",
     "displayOrder": 4,
     "requiredFactionKeywordId": null,
@@ -7012,7 +7012,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "9d3318b6-d17c-4fdd-9a3c-ca877322aca2",
+    "id": "a221de01-084e-4314-bfa4-69095d79d1da",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,
@@ -7022,7 +7022,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Ruination Chamber"
   },
   {
-    "id": "012339e2-15be-4ac4-9e1c-fee8cd763774",
+    "id": "156126f5-e21e-42d5-a03e-7f38010ffad5",
     "childQuantity": "any",
     "displayOrder": 2,
     "requiredFactionKeywordId": null,
@@ -7032,7 +7032,7 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Warrior Chamber"
   },
   {
-    "id": "76f57519-1221-4463-aa83-4edc5af1e623",
+    "id": "d33a2a6d-d5c1-4f47-a998-dcb3618cb742",
     "childQuantity": "any",
     "displayOrder": 1,
     "requiredFactionKeywordId": null,

@@ -31,11 +31,16 @@ const AbilityCatalogue: React.FC = () => {
     const allAbilites: AbilityViewerParams[] = [...groupAbilities, ...warscrollAbilities, ...formationAbilities, ...loreAbilities]
 
     const viewers = allAbilites.filter(o=> (!warscrollId || o.ability.warscrollId === warscrollId)).map(o => {
-        return <AbilityViewer ability={o.ability} abilityGroup={o.abilityGroup} warscroll={o.warscroll} formation={o.formation} lore={o.lore} />
+        return <AbilityViewer key={o.ability.id + (o.lore?.id ?? "")} ability={o.ability} abilityGroup={o.abilityGroup} warscroll={o.warscroll} formation={o.formation} lore={o.lore} />
     })
 
     const handleFactionChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
+
         const selectedId = event.target.value;
+        if(selectedId==="-"){
+            setFactionId(undefined);
+        }
+        console.log(selectedId);
         setFactionId(selectedId);
     };
 

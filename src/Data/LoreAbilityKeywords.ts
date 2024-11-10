@@ -534,11 +534,11 @@ export const lore_ability_keywords : LoreAbilityKeyword[] = [
     "keywordId": "fbf74ee9-052e-4f0a-98ed-0f9cdc3bf049"
   },
   {
-    "loreAbilityId": "3703b471-c9b5-4dff-80c2-7c1b7faa44b7",
+    "loreAbilityId": "22d1ab26-7fb5-4f73-995f-f498a8d327c3",
     "keywordId": "b0c15673-6f3a-4392-a414-cdad53ff1e0a"
   },
   {
-    "loreAbilityId": "3703b471-c9b5-4dff-80c2-7c1b7faa44b7",
+    "loreAbilityId": "22d1ab26-7fb5-4f73-995f-f498a8d327c3",
     "keywordId": "ccde5d07-5d77-4247-8586-2e5aec56755e"
   },
   {
@@ -1094,11 +1094,11 @@ export const lore_ability_keywords : LoreAbilityKeyword[] = [
     "keywordId": "e503e4c3-1ce0-489a-8892-ae7dacf0ad29"
   },
   {
-    "loreAbilityId": "f6122dac-174d-4243-b31d-b8bd365bb7c5",
+    "loreAbilityId": "1f34a954-b473-435c-92fa-a5dd73fc9a1f",
     "keywordId": "fbf74ee9-052e-4f0a-98ed-0f9cdc3bf049"
   },
   {
-    "loreAbilityId": "f6122dac-174d-4243-b31d-b8bd365bb7c5",
+    "loreAbilityId": "1f34a954-b473-435c-92fa-a5dd73fc9a1f",
     "keywordId": "b0c15673-6f3a-4392-a414-cdad53ff1e0a"
   },
   {
@@ -1118,11 +1118,11 @@ export const lore_ability_keywords : LoreAbilityKeyword[] = [
     "keywordId": "e503e4c3-1ce0-489a-8892-ae7dacf0ad29"
   },
   {
-    "loreAbilityId": "d435f8d1-dcf5-4c07-8fb0-3b58b795401c",
+    "loreAbilityId": "5d4c43ca-7ade-4e1b-8d51-f616a3513e34",
     "keywordId": "fbf74ee9-052e-4f0a-98ed-0f9cdc3bf049"
   },
   {
-    "loreAbilityId": "d435f8d1-dcf5-4c07-8fb0-3b58b795401c",
+    "loreAbilityId": "5d4c43ca-7ade-4e1b-8d51-f616a3513e34",
     "keywordId": "b0c15673-6f3a-4392-a414-cdad53ff1e0a"
   },
   {
@@ -1178,11 +1178,11 @@ export const lore_ability_keywords : LoreAbilityKeyword[] = [
     "keywordId": "ccde5d07-5d77-4247-8586-2e5aec56755e"
   },
   {
-    "loreAbilityId": "c9dde6ba-a033-462f-ab31-a011b3ae15e1",
+    "loreAbilityId": "5bac5ff7-ce92-4327-afc4-ad12e1d40185",
     "keywordId": "b0c15673-6f3a-4392-a414-cdad53ff1e0a"
   },
   {
-    "loreAbilityId": "c9dde6ba-a033-462f-ab31-a011b3ae15e1",
+    "loreAbilityId": "5bac5ff7-ce92-4327-afc4-ad12e1d40185",
     "keywordId": "fbf74ee9-052e-4f0a-98ed-0f9cdc3bf049"
   },
   {
@@ -1222,11 +1222,11 @@ export const lore_ability_keywords : LoreAbilityKeyword[] = [
     "keywordId": "e503e4c3-1ce0-489a-8892-ae7dacf0ad29"
   },
   {
-    "loreAbilityId": "c9dde6ba-a033-462f-ab31-a011b3ae15e1",
+    "loreAbilityId": "769140d9-ff10-4bf7-92ff-8581e200cfd3",
     "keywordId": "fbf74ee9-052e-4f0a-98ed-0f9cdc3bf049"
   },
   {
-    "loreAbilityId": "c9dde6ba-a033-462f-ab31-a011b3ae15e1",
+    "loreAbilityId": "769140d9-ff10-4bf7-92ff-8581e200cfd3",
     "keywordId": "b0c15673-6f3a-4392-a414-cdad53ff1e0a"
   },
   {

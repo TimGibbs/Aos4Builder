@@ -1206,7 +1206,7 @@ export const lore_abilities : Ability[] = [
     "loreId": "4b84e541-02f3-4956-b8a3-19523c706884"
   },
   {
-    "id": "3703b471-c9b5-4dff-80c2-7c1b7faa44b7",
+    "id": "22d1ab26-7fb5-4f73-995f-f498a8d327c3",
     "name": "Summon Molten Infernoth",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2410,7 +2410,7 @@ export const lore_abilities : Ability[] = [
     "loreId": "3937c6d1-d227-4d6f-a6e8-3d33ac443066"
   },
   {
-    "id": "f6122dac-174d-4243-b31d-b8bd365bb7c5",
+    "id": "1f34a954-b473-435c-92fa-a5dd73fc9a1f",
     "name": "Summon Warp Lightning Vortex",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2452,7 +2452,7 @@ export const lore_abilities : Ability[] = [
     "loreId": "1efaf3ae-224c-4f3f-b4a8-0576523e50a6"
   },
   {
-    "id": "d435f8d1-dcf5-4c07-8fb0-3b58b795401c",
+    "id": "5d4c43ca-7ade-4e1b-8d51-f616a3513e34",
     "name": "Summon Vermintide",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2592,7 +2592,7 @@ export const lore_abilities : Ability[] = [
     "loreId": "d3617429-0fc8-4e7f-b2cd-b5274c5674b0"
   },
   {
-    "id": "c9dde6ba-a033-462f-ab31-a011b3ae15e1",
+    "id": "5bac5ff7-ce92-4327-afc4-ad12e1d40185",
     "name": "Summon Everblaze Comet",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -2676,7 +2676,7 @@ export const lore_abilities : Ability[] = [
     "loreId": "bfd4c524-a76b-4caf-a102-e10eaab73df4"
   },
   {
-    "id": "c9dde6ba-a033-462f-ab31-a011b3ae15e1",
+    "id": "769140d9-ff10-4bf7-92ff-8581e200cfd3",
     "name": "Summon Everblaze Comet",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",

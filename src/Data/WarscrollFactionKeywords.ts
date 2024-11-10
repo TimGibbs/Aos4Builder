@@ -27,12 +27,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff",
+    "warscrollId": "80a7e85a-7a29-4ee7-a418-8a745a4a9149",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff",
+    "warscrollId": "80a7e85a-7a29-4ee7-a418-8a745a4a9149",
     "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
   },
@@ -1642,12 +1642,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "28647412-df3c-4aaf-9519-3f7966ef367d",
+    "warscrollId": "0992ef28-02f3-4b03-a740-f818e1b3ff00",
     "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
     "displayOrder": 1
   },
   {
-    "warscrollId": "28647412-df3c-4aaf-9519-3f7966ef367d",
+    "warscrollId": "0992ef28-02f3-4b03-a740-f818e1b3ff00",
     "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 2
   },
@@ -2487,7 +2487,7 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "9c16ad20-f95d-49a2-9417-a3ff00bd4c56",
+    "warscrollId": "2155e43a-495c-4a25-b908-ccf904be6b75",
     "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
     "displayOrder": 1
   },
@@ -2612,12 +2612,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f",
+    "warscrollId": "8108d657-35b7-46b6-87fc-96855286fa65",
     "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "1df0fff7-ce17-42c9-ac86-c7785f37534f",
+    "warscrollId": "8108d657-35b7-46b6-87fc-96855286fa65",
     "factionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
     "displayOrder": 2
   },
@@ -6412,12 +6412,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 3
   },
   {
-    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31",
+    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
     "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
     "displayOrder": 2
   },
   {
-    "warscrollId": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31",
+    "warscrollId": "7c261ea1-465b-4994-acea-7f8d759f0f14",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 2
   },
@@ -6627,7 +6627,7 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "3c152a9a-8abb-4de8-bef8-ea1df87b866a",
+    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece",
     "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
   },
@@ -6647,7 +6647,7 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "3c152a9a-8abb-4de8-bef8-ea1df87b866a",
+    "warscrollId": "13d4d06c-4d85-4544-944c-f7d476744ece",
     "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
     "displayOrder": 2
   },
@@ -6832,12 +6832,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca",
+    "warscrollId": "2faf277c-6868-42bf-a055-e06c106d6322",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca",
+    "warscrollId": "2faf277c-6868-42bf-a055-e06c106d6322",
     "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
   },
@@ -7017,32 +7017,32 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 3
   },
   {
-    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545",
+    "warscrollId": "5197fab6-20c0-4ee0-af67-0239b5262dee",
     "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "displayOrder": 2
   },
   {
-    "warscrollId": "ce4bcd98-3036-425b-9d6c-b3e227bc2545",
+    "warscrollId": "5197fab6-20c0-4ee0-af67-0239b5262dee",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 2
   },
   {
-    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c",
+    "warscrollId": "9b60ec8d-81b2-4818-bbb1-01b888070ad4",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 2
   },
   {
-    "warscrollId": "acb55d94-3827-45c4-8756-2c8b3a62d66c",
+    "warscrollId": "9b60ec8d-81b2-4818-bbb1-01b888070ad4",
     "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
     "displayOrder": 2
   },
   {
-    "warscrollId": "2f5ce910-2283-48ca-b2a8-9ab50262cb9f",
+    "warscrollId": "096e15ac-06a5-4ef2-a9cf-21c72be02f1d",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 2
   },
   {
-    "warscrollId": "2f5ce910-2283-48ca-b2a8-9ab50262cb9f",
+    "warscrollId": "096e15ac-06a5-4ef2-a9cf-21c72be02f1d",
     "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
     "displayOrder": 1
   },
@@ -7927,7 +7927,7 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "c7eb4898-9e61-4652-a539-53b69c92fc21",
+    "warscrollId": "786a967d-0559-4bfb-8953-6644543d59dd",
     "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
     "displayOrder": 1
   },
@@ -8662,17 +8662,17 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324",
+    "warscrollId": "4e49066f-602e-446b-9107-1adec25aa3ac",
     "factionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
     "displayOrder": 3
   },
   {
-    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324",
+    "warscrollId": "4e49066f-602e-446b-9107-1adec25aa3ac",
     "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
     "displayOrder": 2
   },
   {
-    "warscrollId": "3cec4f98-53ce-4d0a-97aa-639a84f8b324",
+    "warscrollId": "4e49066f-602e-446b-9107-1adec25aa3ac",
     "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
   },
@@ -9187,12 +9187,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "e13fcd1d-b044-4ff9-b0e8-7145ec437bf7",
+    "warscrollId": "37e37cf6-600c-41b7-b36a-384fed5df4c8",
     "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "e13fcd1d-b044-4ff9-b0e8-7145ec437bf7",
+    "warscrollId": "37e37cf6-600c-41b7-b36a-384fed5df4c8",
     "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
     "displayOrder": 2
   },

@@ -2,7 +2,7 @@ import Ability from "../Types/DataTypes/Ability";
 
 export const formation_abilities : Ability[] = [
   {
-    "id": "5283bd9e-5f61-417f-a166-4c67e2398a54",
+    "id": "0e236bae-1c94-42fd-adc4-b6d56d0f46a2",
     "name": "Swift as Death",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -15,7 +15,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "951a9bcb-ab9a-4e90-9d08-0ccf828c01f3"
   },
   {
-    "id": "69de6c35-cd0f-4f41-86eb-bc7484b425e5",
+    "id": "00f98044-f123-4dfe-9e2e-109cbea7d8d4",
     "name": "Twist of Fate",
     "phaseDetails": "Once Per Battle (Army), End of Your Turn",
     "phase": "endOfTurn",
@@ -28,7 +28,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "e6d71def-00a1-49e0-8828-10371f905a4f"
   },
   {
-    "id": "fa3a9e6e-de43-410f-bba1-86e4432d53b1",
+    "id": "1f2512a0-8246-4483-8a4f-45c4b47e2129",
     "name": "Realm-chompers",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -41,7 +41,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "44882b99-17a2-46f5-9010-b7bdb45a37b7"
   },
   {
-    "id": "1f9c5548-1532-4789-913e-2fb504daee84",
+    "id": "82800f9c-6362-4c90-bcd9-c5ec7ed18757",
     "name": "Cavalcade of Death",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -54,7 +54,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "11b12d04-423c-483c-8aeb-f03a76eb3f68"
   },
   {
-    "id": "0cf58371-7e74-42ff-b526-407a58bfd29d",
+    "id": "16f36456-7d44-4a71-85e1-ffbd2c0eade1",
     "name": "Arch-Despoilers",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -67,7 +67,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "c21a4baa-5fbc-4a9b-bc21-b08c5e29aaf2"
   },
   {
-    "id": "97024730-6adf-414a-a319-9a7ddeaf7caf",
+    "id": "3c75ec80-6a3c-4390-b3db-fab40d597528",
     "name": "Bloodgreed",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -80,7 +80,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "19a2c1b6-1057-454c-8df5-6cc71e2741c9"
   },
   {
-    "id": "2e7988fe-a455-4064-9dbe-6d626336691c",
+    "id": "12679bd8-789d-4198-857f-9b02f6ecf933",
     "name": "Eyes of the Storm",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -93,7 +93,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "bd15a3a4-ab8b-47be-9e9a-385a792a1e8f"
   },
   {
-    "id": "2cf36695-bb1c-4e9b-8610-4db469c72d59",
+    "id": "a2030710-b453-458a-b5bd-2156deebba53",
     "name": "Grace of the Hurakan",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -106,7 +106,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "40e0b9b9-cdaa-45e2-b05c-229229bec0f7"
   },
   {
-    "id": "7429b479-a127-4911-9d93-f2ad0070bdde",
+    "id": "5e204a8a-09b0-49bc-8884-7013d9899ce7",
     "name": "Crawling Barrage",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -119,7 +119,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "9bd0bfd3-9045-4576-bc26-85b5f646366d"
   },
   {
-    "id": "f7eb138f-38b7-4d86-94f5-87817a8065dd",
+    "id": "b1bdcd5a-e767-4345-99ed-0481969163dc",
     "name": "More Stuff For Me Collection",
     "phaseDetails": "Once Per Battle, Deployment Phase",
     "phase": "startOfTurn",
@@ -132,7 +132,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "30be35e3-83d1-4f5e-ae4b-7ee68138517b"
   },
   {
-    "id": "cd742f87-2d33-47db-9e3c-9d2aed799d47",
+    "id": "772ca8e6-f567-4f7d-a048-6d761a33f960",
     "name": "A Hunger For Glory",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -145,7 +145,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "259a7acd-0192-47cc-ad1a-40546d9ee7e1"
   },
   {
-    "id": "0b063775-99b6-4737-8c4e-6f4fef5faa41",
+    "id": "91101c3d-339e-4e0b-a397-dc5b03e93ebe",
     "name": "Wisdom of the Deep",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -158,7 +158,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "0e0b545f-bc13-463b-b72b-72da65824ef7"
   },
   {
-    "id": "a53062a6-179b-4499-9306-e84406ffd586",
+    "id": "7eea0f5c-91ae-4b78-b087-29da59ebfcc3",
     "name": "Fastest Vessels in the Fleet",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -171,7 +171,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "a3a0f077-49cd-4fe6-8bba-b7b44728ad1a"
   },
   {
-    "id": "fca1937f-da66-4773-a452-15b8b42f613e",
+    "id": "d2d70fd6-8fb4-4198-b291-bf90ea107844",
     "name": "Bulwark of Molten Stone",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -184,7 +184,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "3d27939f-c7b1-400c-ab51-c88119761c1f"
   },
   {
-    "id": "0b1e74d9-30f4-486d-9b9e-36c2cc64b9e2",
+    "id": "303cc207-6551-423f-83af-c46eb8d846e8",
     "name": "The Ecstatic Throngs",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -197,7 +197,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "549c387b-a3cc-4ed1-9720-f165d5e48e7f"
   },
   {
-    "id": "911d5c7f-0e8b-4d3f-8eb5-ba39296399bc",
+    "id": "0a31b3a8-0c2a-4e26-aa8b-3b86d713bf6f",
     "name": "Speed of the Scáthborn",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -210,7 +210,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "457aa5f2-e991-401c-b533-92a147262cb2"
   },
   {
-    "id": "22069020-7334-4f78-aa88-565eb16f4a0c",
+    "id": "af3461e1-7b8e-492c-8545-fb03801dba20",
     "name": "Ancient Bloodlines",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -223,7 +223,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "74cebdc6-71ed-41d2-819e-4e394175fa1d"
   },
   {
-    "id": "f925d6e0-b466-4f66-80e3-512a69c9011b",
+    "id": "f7ef953f-cf22-4005-b9eb-15028e706366",
     "name": "Ethereal Translocation",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -236,7 +236,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "cb0e171e-fb55-47e6-b70d-5cc9bc770132"
   },
   {
-    "id": "b5607a41-11cc-4deb-945e-e799631b8f63",
+    "id": "c10b562a-a57b-4672-9c43-0d71ab942b7b",
     "name": "Alarith Fortitude",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -249,7 +249,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "4d118ba1-4880-4b1c-881c-e4fe1db723e8"
   },
   {
-    "id": "479b6e9e-3986-474b-a065-5af7280e79db",
+    "id": "66470bf5-e0ac-4da7-9ac6-f2234f7acb38",
     "name": "Lacerating Strike",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -262,7 +262,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "a21470d3-5d9f-4f2c-882e-da70e61a31b3"
   },
   {
-    "id": "e546a7d5-258a-4c52-bbcb-e42155eac975",
+    "id": "15ce59ce-532b-4ea8-894e-786827f20d6a",
     "name": "Godly Ambitions",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -275,7 +275,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "57eb929c-93de-4a09-8726-64f69c6d40b5"
   },
   {
-    "id": "e2e40fe4-40d4-4f6b-8913-443db898367c",
+    "id": "783df9e8-cd06-48ed-bd4d-c9f67351b1d7",
     "name": "Ferocious Predators",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -288,7 +288,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "7acd9ba8-8ac5-40a2-bcba-e3fac07d9d10"
   },
   {
-    "id": "85d30471-c821-401c-bb94-5019470dce38",
+    "id": "05804ba8-221e-49f0-981f-cc9f7333c27b",
     "name": "Faith and Firepower",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -301,7 +301,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "cf5e09a9-5120-48f7-a07a-d48be733443f"
   },
   {
-    "id": "d531efd5-f653-4772-8c50-48a89591e1a0",
+    "id": "bdd7352d-625b-4ea5-9ed8-8ccc425798af",
     "name": "Raise the Banners",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -314,7 +314,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "746ad51a-9621-45e3-a1bc-d3ec4cfd2bb1"
   },
   {
-    "id": "ab952d76-0304-4823-a4d2-e133fd4e5dcd",
+    "id": "0a64a9c8-9d15-4c6b-a22a-964b5333b57b",
     "name": "Horror Unending",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -327,7 +327,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "d1dc6cad-d002-43ec-9232-e5c1fb90a8e8"
   },
   {
-    "id": "30dffb1b-32c2-4f9d-a232-dbe69071d4ab",
+    "id": "1c97ce7f-f8aa-4545-8c42-c2dcfcbf7f25",
     "name": "Spirit of Gork",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -340,7 +340,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "a4a25100-d212-436e-b841-7ede1be08db6"
   },
   {
-    "id": "3672fd2b-b3a2-4fcd-8734-6a580fc0d00f",
+    "id": "568b9b3d-5447-4eeb-abde-06c848f3735a",
     "name": "Exquisite Palate",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -353,7 +353,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "e4fe4ee8-a069-4375-a6b8-0d001f15ac4d"
   },
   {
-    "id": "c8cae062-df8e-4d73-b31a-91b0a1340c8f",
+    "id": "5910c98e-2b38-4793-b8b9-a6b50436a11a",
     "name": "Bouncing Fury",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -366,7 +366,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "d8d92603-57e9-4f50-bd45-0f6750c62b55"
   },
   {
-    "id": "48e40c8f-f64b-4a93-a7aa-5c080d167573",
+    "id": "a79d1c78-bebe-4ad1-a146-0c3765282137",
     "name": "We'z Da Beastiest",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -379,7 +379,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "3037b101-994b-4ff1-8c24-86609109cfa4"
   },
   {
-    "id": "ddd98886-1cd1-4e34-a46f-0fd2c0e93144",
+    "id": "21ff124d-3df7-4922-a43b-3b19cb65b7e6",
     "name": "Ded Sneaky",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -392,7 +392,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "5ea05102-4430-476a-aabd-2b67cacaa339"
   },
   {
-    "id": "18cac57b-9660-41dc-8884-4e1dc753228f",
+    "id": "eb302e26-bd56-40b0-b07f-140ef2a399f3",
     "name": "Gladiatorial Acrobatics",
     "phaseDetails": "Once Per Turn (Army), Reaction: You declared a Charge ability for a friendly Daughters of Khaine Aelf unit",
     "phase": "chargePhase",
@@ -405,7 +405,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "116b5dd8-ca10-4aed-b715-f0e1721edc5a"
   },
   {
-    "id": "328e1e40-7bae-47ee-b6ce-1d24f7c2ec62",
+    "id": "e80c1c53-4d3c-405e-8781-57647be707a4",
     "name": "Cycle of the Storm",
     "phaseDetails": "Once Per Turn (Army), End of Your Turn",
     "phase": "endOfTurn",
@@ -418,7 +418,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "c779f990-d642-45c7-be4a-9cef6056b66c"
   },
   {
-    "id": "746abfad-dc7b-406f-be3a-c2e91e39221f",
+    "id": "c4f9b845-59f5-4bca-9762-8acddb40468e",
     "name": "Claw-picked",
     "phaseDetails": "Once Per Turn (Army), Your Combat Phase",
     "phase": "combatPhase",
@@ -431,7 +431,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "c9e15fd2-bcb0-48c6-9112-a5936d530d2f"
   },
   {
-    "id": "6ec59837-d5bc-4c85-9509-1f2a84d32dd0",
+    "id": "cd6d4e12-71a4-478a-a81c-5599d102d3b4",
     "name": "Brutal Stock",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -444,7 +444,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "388bb0f9-0a8d-498c-8d47-906902e98fd6"
   },
   {
-    "id": "2e406f27-b7c2-4377-aec3-4c834159f4c2",
+    "id": "62b05dd4-c726-4504-8149-e7a4be40dca0",
     "name": "Ironclad Onslaught",
     "phaseDetails": "Once Per Turn (Army), End of Your Turn",
     "phase": "endOfTurn",
@@ -457,7 +457,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "b9f61bb8-af58-4b19-b57b-aa5cb893fa87"
   },
   {
-    "id": "2aa79232-e642-4a7c-b852-ea9ecfa46eeb",
+    "id": "d6beb0d4-48d5-431b-bcc5-348b4aff228f",
     "name": "Martial Pride and Stubborn Will",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -470,7 +470,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "9d2d1f38-08b3-405f-b661-0c975910a5e9"
   },
   {
-    "id": "285d5207-f646-4e6c-b3dc-9423ff55a0a2",
+    "id": "872e37cb-6e2e-4d31-a30e-06e1008c307b",
     "name": "Obliterating Charge",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -483,7 +483,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "48e7e6b4-fad9-430c-a2a0-b8d1fe6161c5"
   },
   {
-    "id": "b9ffd00e-7c6f-415b-a4a2-74c6e6713802",
+    "id": "bdbad986-324e-4c6c-bd56-86b1d364be82",
     "name": "Squint-eye Taktiks",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -496,7 +496,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "3c051ca1-ea0b-426d-b6c4-1ff701e1e787"
   },
   {
-    "id": "8afbb13e-4432-4d77-b6eb-4987c46de9ed",
+    "id": "63286dda-ef0a-4308-83a5-3f0f69e324a5",
     "name": "Vengeance of Azyr",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -509,7 +509,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "51e7a3c1-8da2-4966-a52a-f26ffbfd982a"
   },
   {
-    "id": "fad9c8c6-4103-4558-9a78-af76ff871fb3",
+    "id": "43387daa-9426-4833-a1ab-7c059b039de6",
     "name": "Eldritch Expertise",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -522,7 +522,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "7bc9b52b-6327-4114-8d1a-4cd85b4e9d10"
   },
   {
-    "id": "142e76d7-c107-45c8-b6dd-3f608708f134",
+    "id": "13440c54-cbb1-4913-941b-5de4faedd225",
     "name": "Tenders of the Garden Grotesque",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -535,7 +535,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "25e4d67a-deca-4321-9a9b-08c497546437"
   },
   {
-    "id": "fee3f3c8-9122-4091-be8a-7ac237831818",
+    "id": "18f0a696-88d7-42a9-8b04-c7317d958f1b",
     "name": "Tide of Bones and Blades",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -548,7 +548,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "9cfe4830-a319-4452-8e50-749e28da04f3"
   },
   {
-    "id": "d2a32ae0-5e24-4af2-b76e-1774aa0ab78b",
+    "id": "b48227bf-08de-492b-8d1e-9930dc90da54",
     "name": "Oncoming Storm",
     "phaseDetails": "Once Per Turn (Army), Any Combat Phase",
     "phase": "combatPhase",
@@ -561,7 +561,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "fd5d8654-9f28-4ed4-80f7-00af3254c153"
   },
   {
-    "id": "b71cccad-41f5-47fe-a139-0a28f13e78f8",
+    "id": "e8d11ebd-d67b-4fde-a9aa-21f3171bd4ca",
     "name": "'Ere We Come!",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -574,7 +574,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "d544ea51-5f18-4ba6-9f44-0e9ce3f4e4ab"
   },
   {
-    "id": "d5a7b04c-5cce-411d-8c6a-1e035fec3ff7",
+    "id": "7032b917-de45-4002-96c8-122010082669",
     "name": "Berserk Kindred",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -587,7 +587,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "10d17edf-b5f3-44e9-ab3d-35d3aba904e0"
   },
   {
-    "id": "9731b5d6-4f6a-41bd-af47-485faf2fc9a9",
+    "id": "ee95be60-b4a4-47b7-a2f2-268481947129",
     "name": "Rally The Tribes",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -600,7 +600,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "9ba181a3-617f-4aca-aa47-186c3cdeef33"
   },
   {
-    "id": "47f84832-3e50-4aa1-86cb-d38d9942573c",
+    "id": "fdd56001-d69e-48ba-9831-0b5651e62ef9",
     "name": "Grudgesettler Protocols",
     "phaseDetails": "Once Per Battle, Your Shooting Phase",
     "phase": "shootingPhase",
@@ -613,7 +613,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "b9be9712-1a67-499d-af27-5ecacf18e159"
   },
   {
-    "id": "07394cf7-846b-4c5b-907f-165204e3796a",
+    "id": "748f7455-2d91-4b00-a6dd-7ae321464285",
     "name": "Realmweb Ambush",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -626,7 +626,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "6419217f-e53f-4e3c-8db1-78b4c6b72b8b"
   },
   {
-    "id": "05a56673-f1e6-4f84-ba96-fe38e9f71bfa",
+    "id": "39e10554-e029-4f02-9fe3-252f6ff21083",
     "name": "Tireless Conquerors",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -639,7 +639,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "2cb6529d-1f09-47dc-bb53-b6de09bd7183"
   },
   {
-    "id": "c92fdbc3-8c76-4e78-bf58-73fcf59d86ee",
+    "id": "9ef4235e-10e9-428a-829a-ab86f62c9d40",
     "name": "United in Darkness",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -652,7 +652,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "46cbb815-a37f-4343-85b1-2e0d10c4cb42"
   },
   {
-    "id": "1ab18364-1f43-4c22-823a-5fe3f033c0e7",
+    "id": "72cc1265-b8c6-4b79-a7b6-d4044a8f9717",
     "name": "Synchronised Strikes",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -665,7 +665,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "5943d307-0169-4e73-92fb-f3d3da782c87"
   },
   {
-    "id": "95947dc7-3279-4208-a9de-8f54634dbe2e",
+    "id": "99b00f56-e854-4eef-a55e-7dc4ec76107c",
     "name": "Strength Through Slaughter",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -678,7 +678,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "98cdcc5a-7b54-4ef9-a586-94fc645dd45d"
   },
   {
-    "id": "45b4458e-9260-4783-a74d-f8f7ba6af4b7",
+    "id": "90183ecb-0da6-49d4-8c10-1b55b91200c9",
     "name": "Surge Forward",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -691,7 +691,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "d593d096-4c86-4d3f-b982-a52873afd7aa"
   },
   {
-    "id": "e6ae3707-7405-4ec7-893c-918c46ac097e",
+    "id": "6d2c81cd-f2cf-4733-bdfc-51ac53a04807",
     "name": "Nimble and Quick",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -704,7 +704,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "a975e1a7-b3f0-457b-a97f-e002aef484d2"
   },
   {
-    "id": "cd96051e-aef8-4f07-9e55-18050422027e",
+    "id": "c7310f26-d58a-469c-a0c7-390e615d8db0",
     "name": "Vectors of Contagion",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -717,7 +717,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "1ec74496-62c5-4574-9a77-53a7eef8bf47"
   },
   {
-    "id": "8e807154-fe21-45cd-9b7c-db4126770508",
+    "id": "93b0be05-61a9-457a-adf1-419632dc4484",
     "name": "Far-killa Bolts",
     "phaseDetails": "Your Shooting Phase",
     "phase": "shootingPhase",
@@ -730,7 +730,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "a6fb9105-2e15-4d56-bfc8-2b5c74128661"
   },
   {
-    "id": "f27faf8a-a938-4468-9cd0-078f3bd4a6e3",
+    "id": "651ecc12-d4c2-4069-acfb-b56d8f5ad144",
     "name": "Frenzied Devotees",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -743,7 +743,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "5f824c48-fdc7-45bb-a590-ba851fb71535"
   },
   {
-    "id": "8a2d4e38-3c2f-430b-bcf6-2db2c7e26503",
+    "id": "4b827c65-52c1-4975-82a4-df6d75deaba5",
     "name": "Sinister Counter-hexes",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -756,7 +756,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "5afd622a-1bb5-4ab9-b147-e1eaacea1b9b"
   },
   {
-    "id": "176e8a1e-b8da-4977-89a1-b7c7d57eff53",
+    "id": "54de8619-0151-4c76-8bfa-3663ecb068ae",
     "name": "Special Procurement",
     "phaseDetails": "Once Per Battle, Deployment Phase",
     "phase": "startOfTurn",
@@ -769,7 +769,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "dab1df5b-bf06-4328-a059-e0d26365d260"
   },
   {
-    "id": "756e6a29-4d4c-4ebe-a62a-9c1ac5d60a30",
+    "id": "7caa28f7-3a7e-4461-931b-87cb1f73d8e7",
     "name": "Vengeful Malison",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -782,7 +782,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "12fdfedc-5a75-4e30-9609-3a8280c62096"
   },
   {
-    "id": "3f32ceac-bb55-46a8-90c8-8bbf9f83bd40",
+    "id": "c5802260-bec0-4c02-aaed-d7848a839e21",
     "name": "Ancient Aura",
     "phaseDetails": "Once Per Turn (Army), Any Hero Phase",
     "phase": "heroPhase",
@@ -795,7 +795,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "89e86f75-6162-4dd3-8dc3-54e783b2c461"
   },
   {
-    "id": "9fe9edce-5e6f-4252-9d82-99f53af1611b",
+    "id": "8ab7375f-ff10-4bed-a4f0-6cb8d7555215",
     "name": "Screeching Warflock",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -808,7 +808,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "a021e3ba-85c5-43d5-9051-5605571340c9"
   },
   {
-    "id": "b05f2d99-820d-4631-8772-3f573aaea089",
+    "id": "41c2d4d4-21f1-4b9c-a361-6d438f7835e4",
     "name": "'Forwards, Dawners!'",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -821,7 +821,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "a4ffe262-5e2d-4b56-a1d9-a9c79144de4c"
   },
   {
-    "id": "08060690-7c21-4b36-8927-cddef0702827",
+    "id": "22495472-bdce-4f98-95af-3247be84b385",
     "name": "Tireless Trackers",
     "phaseDetails": "Once Per Battle, Deployment Phase",
     "phase": "startOfTurn",
@@ -834,7 +834,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "82fd22e3-6b33-44a9-8a10-7c6c55f3a041"
   },
   {
-    "id": "031b91a9-9b8e-4ffd-85af-2bbe064cc3c2",
+    "id": "317a7ac7-a441-4a02-bd0b-1d9388529827",
     "name": "The Terror in the Eaves",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -847,7 +847,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "4135fc53-2968-4ae1-92df-4deca97ae472"
   },
   {
-    "id": "9b90aaca-204c-4357-8ac1-a090e772f16c",
+    "id": "07b5afe9-171b-4edc-8fcc-101a59ca1a2d",
     "name": "Smashin' and Bashin'",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -860,7 +860,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "3ff099a3-3c02-4d40-92c2-cf5a38ca2d06"
   },
   {
-    "id": "9cc7e470-0475-49e0-a697-662d2868070c",
+    "id": "0b15ae20-30ae-4fab-a267-08b292156c1d",
     "name": "From Noxious Skies",
     "phaseDetails": "Once Per Battle (Army), Deployment Phase",
     "phase": "startOfTurn",
@@ -873,7 +873,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "11353bdd-6c33-4512-b9db-511f570812d6"
   },
   {
-    "id": "b601cfe5-d372-40d1-8e32-7e84b232d2a3",
+    "id": "80eb04e2-87c8-4162-84e3-059669ac15d0",
     "name": "Natural Disaster",
     "phaseDetails": "Passive",
     "phase": "chargePhase",
@@ -886,7 +886,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "f98b224c-f10a-4b86-91c4-fc50a9fb1fb1"
   },
   {
-    "id": "f45b39a4-63fb-4b9e-a800-62801e84ab45",
+    "id": "d86e335a-a685-438e-bef2-d53940d1ef73",
     "name": "Fleet and Swift",
     "phaseDetails": "Once Per Turn (Army), Your Charge Phase",
     "phase": "chargePhase",
@@ -899,7 +899,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "e1747b4c-6160-44a7-a33a-3ddcf99b3252"
   },
   {
-    "id": "11288857-2a98-4b57-a7c4-edee34c9622e",
+    "id": "6d6fbb0d-033a-40b4-a2c2-1eb82a6ce23e",
     "name": "Meanest Beasts",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -912,7 +912,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "67f7690b-0402-42ae-a117-b0942240b9f1"
   },
   {
-    "id": "0fe08e59-3ff9-4c97-a73c-a2f7ab379edd",
+    "id": "ecaa983c-a8ef-4334-9ecc-c67ee824f0cb",
     "name": "Vanari Brilliance",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -925,7 +925,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "dada0081-ee36-4b39-913c-af9fe6b516b9"
   },
   {
-    "id": "377daa42-b822-4d97-bec1-932f78b1ee8f",
+    "id": "42817d69-eec8-40d2-a91c-b0653595a52e",
     "name": "Besieging Bulk",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -938,7 +938,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "8fe5331f-1ad0-4971-b25b-8cd7b78f3dfa"
   },
   {
-    "id": "495c6d8a-17a5-4594-887e-291bef41c564",
+    "id": "7edbc903-2081-4330-a3f7-fa7a572a5c1d",
     "name": "Lore of the Scinari",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -951,7 +951,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "5c02917a-d499-4802-b436-e53c48bf0053"
   },
   {
-    "id": "d8a8f5f7-8300-4902-aae1-7f575574914d",
+    "id": "9fee2910-42d9-4daf-a92b-d10087eca2e4",
     "name": "Bulwark Zone",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -964,7 +964,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "411dc5d0-da6c-40f5-bcdb-13293f0b7f68"
   },
   {
-    "id": "ec78a4c3-3653-4a6d-81a2-7fafb9ece521",
+    "id": "e8aa91ec-1ec2-494f-8059-829dad65e712",
     "name": "Disease and Pestilence Personified",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -977,7 +977,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "a54fa046-b160-45fd-b0ff-3060c7b962bf"
   },
   {
-    "id": "230b7d3c-33a8-4282-94dd-3bfe6cd93fb5",
+    "id": "5c661aef-4270-46c8-95b0-ffa840518c78",
     "name": "Fade Like Mist",
     "phaseDetails": "Once Per Turn, End of Your Turn",
     "phase": "endOfTurn",
@@ -990,7 +990,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "b9a94056-3fd9-432f-94a8-288e34196f83"
   },
   {
-    "id": "16f1d1dc-f6bd-4b01-b9f2-25abd57e1d3a",
+    "id": "7079ed5a-c0e4-40d3-9302-2249423d2191",
     "name": "Meat for the Beast",
     "phaseDetails": "Once Per Turn (Army), Your Combat Phase",
     "phase": "combatPhase",
@@ -1003,7 +1003,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "de60ae97-dc83-45e4-9903-26f328835fe4"
   },
   {
-    "id": "ac6b9cac-83cd-45c8-a109-af223f139277",
+    "id": "cece3290-4b02-4418-99af-bd8eedf14b56",
     "name": "Swamp Shroud",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1016,7 +1016,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "3710d2a1-596d-4b6c-868f-29e444806030"
   },
   {
-    "id": "80567b70-f637-4c1a-acb8-664fe9c6f52a",
+    "id": "45f46c68-ac30-4bdc-a91c-efed901fe997",
     "name": "Dragged Down and Torn Apart",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -1029,7 +1029,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "b172d958-0626-491f-b266-83bb654e5429"
   },
   {
-    "id": "22eb0608-d546-4b94-8fe6-bd3be0da7fb7",
+    "id": "8bbea75c-236b-4174-abbd-4c431ce2aa64",
     "name": "Spreading Loonacy",
     "phaseDetails": "Once Per Turn (Army), End of Your Turn",
     "phase": "endOfTurn",
@@ -1042,7 +1042,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "f90e6bec-d808-43f9-a276-ced4d08f475a"
   },
   {
-    "id": "ec31bcf2-b1c9-4af1-9f33-b69ba5c56ab5",
+    "id": "940afaa9-62e5-4495-9c9c-33f5e68e3e5d",
     "name": "Necrotic Symphony",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -1055,7 +1055,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "b68fd411-fc9e-42b6-a0a1-69739abe64cc"
   },
   {
-    "id": "af3d443e-c8e5-440c-924c-897b2a1d7e49",
+    "id": "06b716f3-1c62-4fa4-a7f9-3ea25718e9b6",
     "name": "Scaly Monstrosities",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1068,7 +1068,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "5d0efbd2-d651-42d0-8a92-109c96ff9683"
   },
   {
-    "id": "715de8a4-ea87-4653-9260-d9f840a8ee5f",
+    "id": "94b611f2-fdf2-45f9-8e23-40084a70de72",
     "name": "Aristocracy of the Night",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -1081,7 +1081,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "833d619d-19ab-4a7a-a012-a202757952ac"
   },
   {
-    "id": "2352725d-b47e-4b1f-b15a-476b60d28a8a",
+    "id": "01917285-6f3d-4348-89e0-4dd05d057413",
     "name": "Send in the Reserve",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -1094,7 +1094,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "dab94aae-ab2b-4ab8-a4ee-6167d881dfff"
   },
   {
-    "id": "7828f227-56aa-47c8-96a4-c6ecd3453a46",
+    "id": "75ee52bb-5746-46ea-af4e-51d5d89a93cb",
     "name": "Healing Song",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1107,7 +1107,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "ec24fcf0-5418-47dd-93ba-3e083fd4de9e"
   },
   {
-    "id": "80852a8b-31e6-4e41-a6a4-869a152303a8",
+    "id": "9b9346bf-8423-4278-a14e-1056c0450d9b",
     "name": "Reckless Haste",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -1120,7 +1120,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "e11fe732-5979-4b7a-b256-bc91b082efa4"
   },
   {
-    "id": "122f4e68-3ca6-4651-afdb-03c3ce5d7a99",
+    "id": "c6f1c0dd-6a1c-4dc1-9cd3-306faa14640e",
     "name": "Feed Yer Cannons!",
     "phaseDetails": "Passive",
     "phase": "shootingPhase",
@@ -1133,7 +1133,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "c30289f4-e892-489a-971e-fa6fc1e1cb4c"
   },
   {
-    "id": "da1a5c09-a44d-4ff7-840c-b08bb9531aeb",
+    "id": "fa484ca4-09d7-4b2e-9b02-7b5f6a477971",
     "name": "Master Butchers",
     "phaseDetails": "Passive",
     "phase": "heroPhase",
@@ -1146,7 +1146,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "6b8d6fdb-61fb-4eea-a53a-11fa1a7a2511"
   },
   {
-    "id": "ba03c87f-c0b8-484f-b59a-99b183e53b43",
+    "id": "95ca6461-b5a0-472e-a9d9-88b92bb3d252",
     "name": "Mutagenic Inferno",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1159,7 +1159,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "ca99c55f-e0e3-4d6d-bdd8-6d19ba5a4e2b"
   },
   {
-    "id": "26b38681-c7ff-4115-813d-82bea972c187",
+    "id": "cc62cb41-83e8-487b-825e-eb31c4cf83f4",
     "name": "Gore-splattered Hunters",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -1172,7 +1172,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "772b5cac-daa3-491d-91a5-32d0c2803562"
   },
   {
-    "id": "457074fb-5967-4b4e-83ac-da1ad37ce78c",
+    "id": "ddeb93e8-4c12-48e7-9b92-8e00e720f4f4",
     "name": "Herd Healing",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1185,7 +1185,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "4c9c69c2-ea01-4561-93cb-1f62fefc218e"
   },
   {
-    "id": "937c0c5a-4fd3-4871-b4f2-bcb6c885d5f1",
+    "id": "3aa3ed90-b056-4d19-a87a-ee7f40e40e76",
     "name": "Revel in War",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -1198,7 +1198,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "3b3c4b3a-1ad2-4c1a-9159-a82f9beabacb"
   },
   {
-    "id": "d384e183-ef2d-460d-af65-44fa70d158b8",
+    "id": "8a1d4615-1d56-46d2-ae0d-6ef1edc6ac3e",
     "name": "Raging Storm",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -1211,7 +1211,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "f166a25c-11f5-48a5-b190-16bf617ecd6a"
   },
   {
-    "id": "ddac56ef-e2d6-47d6-840a-b96217f37af8",
+    "id": "ed2b913b-e145-48a2-b521-9ead495d7255",
     "name": "Meticulously Maintained",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1224,7 +1224,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "a125c72d-88aa-4b49-b965-2a6dbc312a0e"
   },
   {
-    "id": "5e519b56-86d7-4ebc-9743-b3a4291a6282",
+    "id": "c4552d42-d094-4ae5-ad1e-d83fd7ccf677",
     "name": "Big Mouth",
     "phaseDetails": "Once Per Turn (Army), Reaction: You declared a Fight ability for a friendly Mega-Gargant",
     "phase": "combatPhase",
@@ -1237,7 +1237,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "37376d4a-15cc-4b82-84eb-89df0147b3e6"
   },
   {
-    "id": "43db6912-9aa8-4a5f-81ab-158d006d97cd",
+    "id": "4cb6669d-cee3-46de-a916-447924b95caa",
     "name": "Feral Ruin",
     "phaseDetails": "Once Per Turn (Army), Reaction: You declared a Fight ability for a friendly Daemon Prince unit",
     "phase": "combatPhase",
@@ -1250,7 +1250,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "25081336-b2b0-4323-8785-6f515afa0949"
   },
   {
-    "id": "b0fd1ba2-6376-41b0-a002-c9d8ac0bc6b0",
+    "id": "4306670e-9a58-42d0-bd24-b7535139d7d6",
     "name": "Butchers of Nations",
     "phaseDetails": "Once Per Turn (Army), Reaction: You declared a Fight ability for a friendly Blades of Khorne Daemon unit",
     "phase": "startOfTurn",
@@ -1263,7 +1263,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "9893378d-2b4d-4be5-934d-54bd6a48eb8d"
   },
   {
-    "id": "a518066a-8838-4c25-9b64-df2783ad2054",
+    "id": "70027333-2805-4742-858a-353ea1745c80",
     "name": "Fiends of the Wilds",
     "phaseDetails": "Once Per Turn (Army), Reaction: You declared a Charge ability for a friendly Brayherd unit",
     "phase": "chargePhase",
@@ -1276,7 +1276,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "e305589b-7c81-4850-ae3a-275bcdf64e10"
   },
   {
-    "id": "717dbeef-3052-49ea-804b-74ff9c16f346",
+    "id": "f43c6a9a-5b40-4d38-849b-032e8ed968e6",
     "name": "Skryre Prototypes",
     "phaseDetails": "Once Per Turn (Army), Your Shooting Phase",
     "phase": "shootingPhase",
@@ -1289,7 +1289,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "2325eb64-abe6-4aa0-8e2c-c2725f71b491"
   },
   {
-    "id": "b6d13757-b1ac-4521-86f4-2f45966445bd",
+    "id": "ae82fef0-46f5-4d45-9bf4-ff72473771d2",
     "name": "Prized Creations",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -1302,7 +1302,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "590f2787-5080-4a05-af3b-1af8626b4ea8"
   },
   {
-    "id": "e475f087-a0ab-4f8f-a6f3-00092d04b18d",
+    "id": "0235e5e1-b1f3-4a26-b9d0-5e1711d2cde8",
     "name": "Shadowpaths",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -1315,7 +1315,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "ef803c50-727f-458c-ae51-4c56e3fc95e0"
   },
   {
-    "id": "c50e1926-5390-4261-b0c0-b487f2dc4b4a",
+    "id": "ad26813d-13aa-4003-9175-44ab1ee2177a",
     "name": "Celestial Translocation",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -1328,7 +1328,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "dd98439d-1e86-4115-ac87-e677d49511af"
   },
   {
-    "id": "3e825e71-e4a5-4bc1-bb9f-2930e700cbd5",
+    "id": "077cc02e-d786-4e93-9299-4f4800c0ce89",
     "name": "Peerless Manouvres",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",
@@ -1341,7 +1341,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "8ce1b644-e564-4a0c-afe7-60d8e6a2e0b9"
   },
   {
-    "id": "ad7b05bc-c55c-4f6b-b897-a08e18684e6c",
+    "id": "0f7405e6-39dd-4777-8f3f-d503b4f825c4",
     "name": "Corrupted Earth",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -1354,7 +1354,7 @@ export const formation_abilities : Ability[] = [
     "battleFormationId": "f8e53ea8-5ae4-4f3b-91d3-9a9e6b4a0664"
   },
   {
-    "id": "ae67f763-0863-4ffc-adfe-e1a390c72a5c",
+    "id": "7d447b5f-45bf-4628-9a82-eee9cac8e213",
     "name": "There Is No Escape",
     "phaseDetails": "Once Per Turn (Army), Your Movement Phase",
     "phase": "movementPhase",

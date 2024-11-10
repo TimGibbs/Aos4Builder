@@ -266,7 +266,7 @@ export const ability_keywords : AbilityKeyword[] = [
     "keywordId": "e503e4c3-1ce0-489a-8892-ae7dacf0ad29"
   },
   {
-    "abilityId": "29c22483-0214-40a5-8a96-bdf524641b87",
+    "abilityId": "f21059a9-fc2f-4e78-b6e1-8ee0dcbeb0b2",
     "keywordId": "9dd5fa30-3e58-47d6-aebd-693072e2314b"
   },
   {
@@ -286,7 +286,7 @@ export const ability_keywords : AbilityKeyword[] = [
     "keywordId": "90e6356c-2413-4a91-8276-c96839ae12eb"
   },
   {
-    "abilityId": "f60db49e-fdae-4433-a5d5-197d97b4b4c0",
+    "abilityId": "9aaf92a8-140a-4e5e-88f4-c384d36b3f04",
     "keywordId": "e9f4513a-4dc9-41be-9de2-86bb1044bfd5"
   },
   {
@@ -326,7 +326,7 @@ export const ability_keywords : AbilityKeyword[] = [
     "keywordId": "966fc228-9f6e-4e33-8b35-f6785c12c364"
   },
   {
-    "abilityId": "c9113104-c786-428b-9f58-85734a3bc890",
+    "abilityId": "d7d2e299-d1f6-4121-a7bd-a2cfd04317db",
     "keywordId": "f0f5a2fa-c5a0-4ead-99a7-9632f40f2ce3"
   },
   {
@@ -402,7 +402,7 @@ export const ability_keywords : AbilityKeyword[] = [
     "keywordId": "9dd5fa30-3e58-47d6-aebd-693072e2314b"
   },
   {
-    "abilityId": "d1187d19-4c4b-4626-b5a6-19be1be79fdc",
+    "abilityId": "c40d4b2d-3cb1-4383-ae37-792ac0c8c63c",
     "keywordId": "90e6356c-2413-4a91-8276-c96839ae12eb"
   },
   {
@@ -494,7 +494,7 @@ export const ability_keywords : AbilityKeyword[] = [
     "keywordId": "90e6356c-2413-4a91-8276-c96839ae12eb"
   },
   {
-    "abilityId": "730ee948-89d8-44fd-a4a9-c8fed10f3099",
+    "abilityId": "b6aef68d-3e27-4e94-be44-15ea105034ec",
     "keywordId": "90e6356c-2413-4a91-8276-c96839ae12eb"
   },
   {
@@ -566,7 +566,7 @@ export const ability_keywords : AbilityKeyword[] = [
     "keywordId": "da9515c7-9f3b-4266-be08-bb2775be3e7b"
   },
   {
-    "abilityId": "9ab1e0f9-7696-4757-9ffd-7aec57933363",
+    "abilityId": "28d8d30a-e55d-4ce7-9960-e45ee7c122d8",
     "keywordId": "8809c1ed-10a0-4d96-ac6d-c19f7c04dec5"
   },
   {
@@ -602,7 +602,7 @@ export const ability_keywords : AbilityKeyword[] = [
     "keywordId": "30239299-c68b-47c5-98a5-e78eebaf499d"
   },
   {
-    "abilityId": "3cec4fc0-5cdf-411f-8840-2bbe6fba8f46",
+    "abilityId": "d465b004-fa0c-4f13-91ab-94f06854b151",
     "keywordId": "f0f5a2fa-c5a0-4ead-99a7-9632f40f2ce3"
   },
   {
@@ -618,7 +618,7 @@ export const ability_keywords : AbilityKeyword[] = [
     "keywordId": "ab5ac0a0-9256-48cd-bd6f-f9ed065989cb"
   },
   {
-    "abilityId": "5a45bda2-b69c-48d4-9743-13050cbd2a52",
+    "abilityId": "efcd298b-087f-48bc-88ee-cb235429dbd9",
     "keywordId": "8809c1ed-10a0-4d96-ac6d-c19f7c04dec5"
   },
   {

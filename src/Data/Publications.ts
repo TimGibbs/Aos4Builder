@@ -594,7 +594,7 @@ export const publications : Publication[] = [
     "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1"
   },
   {
-    "id": "f67f176e-0521-4989-9974-748621bf3667",
+    "id": "54a7b2cf-6183-4d8d-a5eb-f75a09631d51",
     "name": "Regiments of Renown",
     "spearheadName": null,
     "productId": null,
@@ -602,7 +602,7 @@ export const publications : Publication[] = [
     "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6"
   },
   {
-    "id": "f67f176e-0521-4989-9974-748621bf3667",
+    "id": "90a10c5b-f394-4309-9211-6fd42d97dd66",
     "name": "Regiments of Renown",
     "spearheadName": null,
     "productId": null,

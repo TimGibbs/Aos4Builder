@@ -17,7 +17,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "71d27fd1-a884-47a2-a56e-9d72f44563e0"
+    "abilityGroupId": "70e4a721-1c29-43d5-b641-529998396c56"
   },
   {
     "id": "c349acc7-cfd1-4d89-a260-f95d14a154b2",
@@ -35,7 +35,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0ad23592-b81b-4ece-a4b7-a4ef1c44f734"
+    "abilityGroupId": "59960dae-a204-4f93-ad48-3df3c371dff5"
   },
   {
     "id": "1aff8e48-1c73-4e81-aeda-f7ec13c81617",
@@ -53,7 +53,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8a761e34-ba8b-476d-a171-062bf0f35885"
+    "abilityGroupId": "baf93746-f13f-42da-82cf-d2f0f8aab624"
   },
   {
     "id": "8d641e40-da62-4621-adfa-e30600102bb7",
@@ -71,7 +71,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9f75d41b-9e3a-482f-a7dd-615864306d10"
+    "abilityGroupId": "d1d2b435-d560-4452-8b4b-a0b2b4b98324"
   },
   {
     "id": "535257fd-2c63-43fd-bddf-d59640b05d80",
@@ -89,7 +89,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "40ef41de-d49b-4919-baf4-bdc725ed4f65"
+    "abilityGroupId": "22a6aa92-0e23-455f-b2f8-6cd30bc44230"
   },
   {
     "id": "89a23e02-67c5-4780-85bc-ccdde01385af",
@@ -107,7 +107,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3e00681b-ec10-4a0f-a4c2-73ba7759706d"
+    "abilityGroupId": "8ae7dac7-5c14-4619-b627-5536856ff59a"
   },
   {
     "id": "4f58f8e5-0823-4277-837b-194769ede76a",
@@ -125,7 +125,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0e4cbce7-3784-412d-80c3-2545401f121b"
+    "abilityGroupId": "b0d58710-b89e-4017-8c4b-ec611451585e"
   },
   {
     "id": "3a5e0e36-94bf-4a8f-9220-587c87bf4c6b",
@@ -143,7 +143,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b7cbc9e6-3f3d-4330-902e-4f86c31a1ce7"
+    "abilityGroupId": "b825d78e-9dd3-4b38-a606-577d6b101ecc"
   },
   {
     "id": "dc8649d3-08a3-47a0-a527-3346f26ad130",
@@ -161,7 +161,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f3a04375-c9c8-4418-add9-dfea6566d506"
+    "abilityGroupId": "a6e9a9c9-b8c8-4831-9d08-a5d1400767ce"
   },
   {
     "id": "bdd092a1-c66f-4bee-a4e3-ee97ce4f941b",
@@ -179,7 +179,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3a9c824f-66a5-4e07-817f-d6004afaf369"
+    "abilityGroupId": "d1d38416-ab7d-4183-8789-d60dfa9ab176"
   },
   {
     "id": "f63422e9-1f62-40c7-8197-4478eea800bc",
@@ -197,7 +197,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c4291fb5-542d-4046-b60d-d1c703576ba2"
+    "abilityGroupId": "a522a32e-063e-4c2c-993e-7dd76113c702"
   },
   {
     "id": "4964c18d-96df-445a-ac1a-b218702cfcd3",
@@ -215,7 +215,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88e58571-68da-48d2-a19f-7c0258b7f26e"
+    "abilityGroupId": "b611eefc-3fcb-4d6f-8b80-3b2089c8d274"
   },
   {
     "id": "1bef4b8b-b74d-4565-af53-97013a7fb1d1",
@@ -233,7 +233,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ac5cb0b8-8fb7-4894-af67-48176a2fc958"
+    "abilityGroupId": "0da71ae8-e85d-4e82-a4ae-9d65fdec1450"
   },
   {
     "id": "7bf634af-b95e-4e39-b26a-d74c99728c0b",
@@ -251,7 +251,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "decbd1fd-592d-44f7-8d95-cc695306ab6c"
+    "abilityGroupId": "a140a8a2-092e-41c6-8229-fee864ea1ac6"
   },
   {
     "id": "730ee948-89d8-44fd-a4a9-c8fed10f3099",
@@ -269,7 +269,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7b70d11c-21bf-464f-baa6-68919e0d763c"
+    "abilityGroupId": "b54f902e-fd38-495c-ba4e-274aad1f4b47"
   },
   {
     "id": "0d940b7f-1e6e-49ef-9070-19baca4d5170",
@@ -287,7 +287,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3f66ff66-e229-41e2-9149-6cbb9cac5fa9"
+    "abilityGroupId": "d94ba937-bc39-45c5-9e47-3cf318d50567"
   },
   {
     "id": "cd895c9a-4273-4406-8975-d8e4c489d9fd",
@@ -305,7 +305,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0ac310f8-cf24-4ff6-938a-d9604de99431"
+    "abilityGroupId": "cdaec609-b0cd-4839-8014-0009ce10003e"
   },
   {
     "id": "ed0bec0e-c473-4710-ad31-a29f4365cef6",
@@ -323,7 +323,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ee3b8dbe-3f7f-461b-8fdf-09424c33a47c"
+    "abilityGroupId": "7741ccf0-325d-4cf5-9275-b5dfad2a6e88"
   },
   {
     "id": "6764aca5-9949-49bf-b35f-06e0e89addf6",
@@ -341,7 +341,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "69b480b1-3cb4-48c1-a75b-419854d043fb"
+    "abilityGroupId": "67950fb0-b705-496b-b369-dd776c795842"
   },
   {
     "id": "d2b16424-8e1c-42f4-a569-7b805139be08",
@@ -359,7 +359,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2934cc47-5931-4630-80f6-9f93ea8a8f26"
+    "abilityGroupId": "78010647-f044-457e-9cbc-339f98452770"
   },
   {
     "id": "f53cab86-a3ba-4f45-aaef-16d83ec23221",
@@ -377,7 +377,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "eede06f8-0bd6-4e5c-bca3-bb31083fc973"
+    "abilityGroupId": "1ddc4370-b3e5-4c80-8260-effe9ba71dd9"
   },
   {
     "id": "e3901d35-fab8-479d-996a-613cc035db45",
@@ -395,7 +395,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4001897c-f6d7-445e-9290-6e8d4b6b5ee1"
+    "abilityGroupId": "33b042ac-eefd-49c0-be21-6ea831c3893f"
   },
   {
     "id": "3e6e4039-a180-46f3-ab20-f25485dde2ce",
@@ -413,7 +413,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "42f85f79-fb6f-4be0-bf8e-50856df2b3a6"
+    "abilityGroupId": "9c63a862-2759-45a0-93a1-a05d0b45fa89"
   },
   {
     "id": "8fdb6836-b01c-4b8f-9449-12f21c303ece",
@@ -431,7 +431,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5ea47868-afd2-4896-ac6e-684ae98f776a"
+    "abilityGroupId": "862f29ff-77ca-48b8-9ca1-b18014c24fcb"
   },
   {
     "id": "51f8b71a-0190-4833-9116-423a2f4ac404",
@@ -449,7 +449,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "76929063-1f3b-4094-833c-638aac9a9d3e"
+    "abilityGroupId": "ca44560b-06aa-45ff-9f86-6e3d03c98908"
   },
   {
     "id": "a6cae837-039d-49e2-901c-f1100cbec680",
@@ -467,7 +467,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "028d1b7e-17bc-432c-85b9-af9514b61735"
+    "abilityGroupId": "754875b3-41d9-4510-8bc6-dd208a45131a"
   },
   {
     "id": "b3060048-61f6-44fc-bc4b-04d73c6f1216",
@@ -485,7 +485,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8c96ddaa-00f7-45b6-8a5b-85d375e5ff4c"
+    "abilityGroupId": "c5a1efda-1adb-4d15-81aa-1fae36b3f2d0"
   },
   {
     "id": "b53cf925-0bdb-44e6-b17d-22f85cf3308c",
@@ -503,7 +503,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "71d27fd1-a884-47a2-a56e-9d72f44563e0"
+    "abilityGroupId": "70e4a721-1c29-43d5-b641-529998396c56"
   },
   {
     "id": "0c2655c6-3131-4bf5-a4e0-ff3ea9c15a50",
@@ -521,7 +521,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "50ffa967-f5d7-4b79-8910-7e8a962eac1b"
+    "abilityGroupId": "f8404587-0cae-4c30-b8cc-06ca32b7e243"
   },
   {
     "id": "eb3e7210-0e58-49ca-950e-f632681ae5dd",
@@ -539,7 +539,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7414f389-4b1f-4d61-a7d6-fce8503c6beb"
+    "abilityGroupId": "3e3ae904-4ff7-4089-830b-5bdaad47bf28"
   },
   {
     "id": "3f037c70-4579-4ec3-a59d-be114f71a2e6",
@@ -557,7 +557,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0e2374a9-f2ad-4b6a-924e-d31dc895ffee"
+    "abilityGroupId": "166cb858-1d0c-4dd4-aac9-9170bec06226"
   },
   {
     "id": "c433384b-2aad-4c80-9d4c-e36477f99d94",
@@ -575,7 +575,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c3908fb2-c2c5-45f6-9eaf-ed7c3861fde8"
+    "abilityGroupId": "804cc123-b9a6-4f5e-b998-6bad7916cfda"
   },
   {
     "id": "fc901d25-9f15-4df3-9df0-4c558387af8c",
@@ -593,7 +593,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "641955e5-9bfe-456d-8b29-16819515a9f8"
+    "abilityGroupId": "e915a47a-2265-42e7-99f8-be9357094663"
   },
   {
     "id": "8bcc3661-d2a8-427a-8565-dea7678c3d9f",
@@ -611,7 +611,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "c47c72c7-1275-4fc6-a44f-35309df1f3ac"
+    "abilityGroupId": "d947ca7e-9185-47ff-b7aa-6ed2067f40de"
   },
   {
     "id": "7305605d-ecd5-4480-a500-0ce8b25c5b0f",
@@ -629,7 +629,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e32d4386-8543-4e05-9359-7ac03115edba"
+    "abilityGroupId": "79d45fe5-7af6-402c-a29e-0f74eed4e957"
   },
   {
     "id": "b1c8b86d-78fc-4ed0-96f8-e15936ee0fd0",
@@ -647,7 +647,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0e4cbce7-3784-412d-80c3-2545401f121b"
+    "abilityGroupId": "b0d58710-b89e-4017-8c4b-ec611451585e"
   },
   {
     "id": "64ea2399-f1d0-48e1-bfaa-d79125f3a56b",
@@ -665,7 +665,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b3a83a6d-c6ab-4d41-8c5b-112c14c8ac21"
+    "abilityGroupId": "3eb2cb74-831c-44f4-8877-4eef7072558a"
   },
   {
     "id": "e893d79f-0552-4eb0-9c2f-8fbca73c6735",
@@ -683,7 +683,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "cf27c4d3-3398-444a-b248-dd952e56725d"
+    "abilityGroupId": "d789bc96-5087-44b5-8d76-92d9dbdbf300"
   },
   {
     "id": "22d3c25c-59a7-401b-9b7d-d10cea59c0a0",
@@ -701,7 +701,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c47a9047-075f-4a1f-87dd-a174342f9d32"
+    "abilityGroupId": "2266b4c4-27a7-4f06-aa44-714e2b698682"
   },
   {
     "id": "df6ce022-4a64-4d8d-bcd5-7b68088ec134",
@@ -719,7 +719,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6794b8ff-984b-48fb-9aec-1fc0e22a40ce"
+    "abilityGroupId": "1d81ed7e-1305-4714-ac2b-76a798a9f0d6"
   },
   {
     "id": "78a7dc53-3677-4198-aceb-c6f8082cb62e",
@@ -737,7 +737,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a5a386f6-9712-4b79-adce-187975d7f9ff"
+    "abilityGroupId": "e466b955-f098-43b8-a621-6ba30e5df3a4"
   },
   {
     "id": "2716bc0f-d8d3-4a32-b291-65559ba26340",
@@ -755,7 +755,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "40ef41de-d49b-4919-baf4-bdc725ed4f65"
+    "abilityGroupId": "22a6aa92-0e23-455f-b2f8-6cd30bc44230"
   },
   {
     "id": "a6bb7914-9db9-4043-a319-cf2286f9a9c8",
@@ -773,7 +773,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "15b00a25-49c9-4e28-877d-aa5d556ce718"
+    "abilityGroupId": "8958f417-efbf-4fca-9bbd-092328d373ae"
   },
   {
     "id": "687749ee-1417-4a46-8668-e6f606177661",
@@ -791,7 +791,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a48ec36f-bde9-427a-93c3-a3d3a386f17f"
+    "abilityGroupId": "08555c11-979e-4bdf-a00c-c39d4f3c1823"
   },
   {
     "id": "2aabab5f-c1b6-48d3-9405-1e5d5b65039c",
@@ -809,7 +809,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9985d744-e85f-4d41-84c6-44049eaef2e1"
+    "abilityGroupId": "7b2bd216-5927-4aae-a6a8-cb316c8b9f83"
   },
   {
     "id": "595752fe-29c2-4e70-9439-b4e278348490",
@@ -827,7 +827,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "17c01b4e-055e-4e89-9a24-1db614988d5a"
+    "abilityGroupId": "136c5234-f4d0-4150-8fc6-2ea887c8a385"
   },
   {
     "id": "ae505c9e-2662-41d3-8734-dd00d0d1bd75",
@@ -845,7 +845,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "98400fa5-b44b-449a-8468-dbfc9f9b235f"
+    "abilityGroupId": "b0d897d1-ae8f-4e21-bb63-66f287398ff9"
   },
   {
     "id": "34e58552-398b-4743-90a4-a1272fb7a80e",
@@ -863,7 +863,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "bb42a556-d0b6-4e7b-817d-99a2490e4050"
+    "abilityGroupId": "7636d0de-82d1-44d1-9347-500b7c7e1d73"
   },
   {
     "id": "0ee1a895-5017-4fc4-bd8c-003f3222b7a8",
@@ -881,7 +881,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "38c8696b-4ac1-476a-a8c8-6e9ed405e4ee"
+    "abilityGroupId": "d1d1c4c3-1195-4764-9b1a-b387aebcd7f4"
   },
   {
     "id": "ee4cbdfc-fa8c-44b3-a997-aaea67984219",
@@ -899,7 +899,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "38c8696b-4ac1-476a-a8c8-6e9ed405e4ee"
+    "abilityGroupId": "d1d1c4c3-1195-4764-9b1a-b387aebcd7f4"
   },
   {
     "id": "e55d9b8b-0207-46e5-bce1-6120d93f88d5",
@@ -917,7 +917,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "249688f8-88a0-493e-bbd8-65fd4dd4e761"
+    "abilityGroupId": "ecc857f7-c4a4-4148-a572-d6ff1b3b9e4d"
   },
   {
     "id": "3aae6771-2337-4b91-886d-7d754ec80c6c",
@@ -935,7 +935,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "81efd9f8-9ea9-4c94-a60a-294db9ced378"
+    "abilityGroupId": "fe814a88-12dd-4460-ae7d-ee16d2f612b3"
   },
   {
     "id": "8e12e73b-a744-4b9f-9c36-7fda9b53a71f",
@@ -953,7 +953,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f3a04375-c9c8-4418-add9-dfea6566d506"
+    "abilityGroupId": "a6e9a9c9-b8c8-4831-9d08-a5d1400767ce"
   },
   {
     "id": "089b67d5-8c13-4c5b-8803-59d6ffa180eb",
@@ -971,7 +971,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "69a21f38-308e-4c67-bfde-0237fea9d985"
+    "abilityGroupId": "1ab78339-0e25-4b3a-99bf-479ee1026f7b"
   },
   {
     "id": "ce19a831-75d7-419e-a800-fb7f107cce41",
@@ -989,7 +989,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a7ad1958-293a-43b9-a487-ae66efd133e8"
+    "abilityGroupId": "acc21770-cb67-49ad-9a53-b3757d582776"
   },
   {
     "id": "68600dbb-246e-4570-8f31-fdd5f0e81865",
@@ -1007,7 +1007,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "54fceb59-33f3-4dd8-8d81-0c451e8bdd12"
+    "abilityGroupId": "3c6217a1-1ef4-4d33-b36e-45e2e041acb7"
   },
   {
     "id": "0e351620-8c3b-45ee-a996-28ec16615fa6",
@@ -1025,7 +1025,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d1246d33-5db2-43c8-9ed0-3e119ae6b0da"
+    "abilityGroupId": "ba0d841b-886d-4c8a-9b1e-8d500ae04cbb"
   },
   {
     "id": "f60db49e-fdae-4433-a5d5-197d97b4b4c0",
@@ -1043,7 +1043,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c07a8d4f-cbe4-4611-9543-a04c9ac1291b"
+    "abilityGroupId": "6f1e67a7-1824-4a7c-9255-d4d75df140a0"
   },
   {
     "id": "f8b25b75-fe63-4fc1-896d-e4a2136f63fe",
@@ -1061,7 +1061,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "68a0a362-26a6-48a1-85fa-214588254181"
+    "abilityGroupId": "8d6de2fa-26e8-49ee-a029-d504de2450ca"
   },
   {
     "id": "aae3c7ab-1e66-4f28-a408-e9d147549166",
@@ -1079,7 +1079,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b3a83a6d-c6ab-4d41-8c5b-112c14c8ac21"
+    "abilityGroupId": "3eb2cb74-831c-44f4-8877-4eef7072558a"
   },
   {
     "id": "ca083ece-959e-4023-b764-a569aa9737d3",
@@ -1097,7 +1097,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4086cc2d-fd40-4048-8742-7cee35f3d6fc"
+    "abilityGroupId": "6f20c21b-6964-419a-88d3-efd582a815dd"
   },
   {
     "id": "a9498953-452e-4987-959c-be5829761eef",
@@ -1115,7 +1115,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d1246d33-5db2-43c8-9ed0-3e119ae6b0da"
+    "abilityGroupId": "ba0d841b-886d-4c8a-9b1e-8d500ae04cbb"
   },
   {
     "id": "3b4e19f9-538e-42b4-b9ed-7b8969bd94aa",
@@ -1133,7 +1133,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2e94b77f-6cc6-42af-97aa-98c7cb504b57"
+    "abilityGroupId": "c3d55f19-c01f-4078-ba02-61cc8e92960a"
   },
   {
     "id": "4e7797d7-e2b0-4f66-b542-92e4e0cecd3e",
@@ -1151,7 +1151,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "69b480b1-3cb4-48c1-a75b-419854d043fb"
+    "abilityGroupId": "67950fb0-b705-496b-b369-dd776c795842"
   },
   {
     "id": "4d76e541-1925-45c9-9fdd-a256126e7fa7",
@@ -1169,7 +1169,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a3ebce4a-f9b6-4b1b-b230-8ae364ef2dd0"
+    "abilityGroupId": "8f9249ee-d884-48a0-9ec5-d83a28eceabc"
   },
   {
     "id": "5c634163-226f-4069-975d-ca06cf227993",
@@ -1187,7 +1187,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "81efd9f8-9ea9-4c94-a60a-294db9ced378"
+    "abilityGroupId": "fe814a88-12dd-4460-ae7d-ee16d2f612b3"
   },
   {
     "id": "497e153f-d6d0-42cd-9efb-3189be0339c1",
@@ -1205,10 +1205,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "13c9f8c5-2dd0-49bb-a762-1229d44400f8"
+    "abilityGroupId": "217f44f5-e011-40cc-9111-5401e38fd7f3"
   },
   {
-    "id": "e893d79f-0552-4eb0-9c2f-8fbca73c6735",
+    "id": "5b0ab586-ddf1-4090-8feb-f32685d2733c",
     "name": "Egomaniak",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -1223,7 +1223,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8a761e34-ba8b-476d-a171-062bf0f35885"
+    "abilityGroupId": "baf93746-f13f-42da-82cf-d2f0f8aab624"
   },
   {
     "id": "95bce374-e0ac-4eaa-945f-d8da3f4e0303",
@@ -1241,7 +1241,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9ca8385f-4d45-4f6f-b391-9bf5f741cf61"
+    "abilityGroupId": "e97dcec3-cce3-4a9f-ad37-b239c82efead"
   },
   {
     "id": "35b4b615-9716-4bc2-9f5b-bb28014bbfbc",
@@ -1259,7 +1259,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8040c069-4fa2-4e0f-8f9e-15cb08980382"
+    "abilityGroupId": "1856cd3c-120e-445e-8671-9edeff7cf611"
   },
   {
     "id": "136f21ef-a23d-4cfd-a2cd-16637bf40a44",
@@ -1277,7 +1277,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a95f7ff2-488c-470a-a3a4-e99075c6a154"
+    "abilityGroupId": "0f068bb9-3db4-4889-928c-2d05b657a8c6"
   },
   {
     "id": "becc17c4-c252-421a-901b-decbee759202",
@@ -1295,7 +1295,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a7ad1958-293a-43b9-a487-ae66efd133e8"
+    "abilityGroupId": "acc21770-cb67-49ad-9a53-b3757d582776"
   },
   {
     "id": "ce0ef70c-2561-4428-9da6-0df8ff9b6762",
@@ -1313,7 +1313,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f29d576c-cdc5-4a00-bc36-5ead62cf35a5"
+    "abilityGroupId": "9125c3c5-3ff9-4e0a-9a56-38a7da277ed4"
   },
   {
     "id": "16301482-a66e-467c-b89e-5e4148e210f4",
@@ -1331,7 +1331,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "cb17e29b-0e28-41a4-b716-892ac213e361"
+    "abilityGroupId": "e9b7a5d3-3834-46a2-9928-5eb4b75b5301"
   },
   {
     "id": "9012c124-30fd-47bf-a15d-44113321b134",
@@ -1349,7 +1349,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2a266749-52e0-42eb-8c8a-3b89d926fb0e"
+    "abilityGroupId": "ce3edf5b-ef8f-4d7a-9c3a-3ca9e7675590"
   },
   {
     "id": "bbb3cd19-9a16-4510-a491-e25a780e2adc",
@@ -1367,10 +1367,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a4a47c63-d8a5-4607-b8a2-4f07c43a6762"
+    "abilityGroupId": "0e7195cc-62e4-4d6f-9c8c-6515dfb0348c"
   },
   {
-    "id": "16301482-a66e-467c-b89e-5e4148e210f4",
+    "id": "897c703b-bed6-45f8-8b7a-679a11c49ea4",
     "name": "Timberrrrr!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -1385,7 +1385,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88e58571-68da-48d2-a19f-7c0258b7f26e"
+    "abilityGroupId": "b611eefc-3fcb-4d6f-8b80-3b2089c8d274"
   },
   {
     "id": "4dcab13f-03bd-4416-9c19-db540c9e497e",
@@ -1403,7 +1403,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5d99a0e6-74fa-48ab-b767-963417622b5a"
+    "abilityGroupId": "1d63d4f8-489a-43f6-9730-645214781430"
   },
   {
     "id": "51cfd7e4-0fe1-4b81-a835-a280e7337870",
@@ -1421,7 +1421,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e57827f9-3f0f-4a4e-a7c3-84d9874bae24"
+    "abilityGroupId": "9a5eb069-e12a-47e8-9b1f-f85df968d623"
   },
   {
     "id": "648fba65-ac75-42b4-902b-8e20548b0cef",
@@ -1439,7 +1439,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7c14dae0-d495-4396-87a9-2b54b0d82fcf"
+    "abilityGroupId": "eea78bb8-296c-4906-bff8-3c0a53cc7868"
   },
   {
     "id": "079e1843-0024-40fc-9d90-f9f6f013a2b5",
@@ -1457,7 +1457,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f3037ed9-da7b-425c-a034-a715037a17c7"
+    "abilityGroupId": "a2fd1155-8b65-4b6a-b2c2-7af421997d43"
   },
   {
     "id": "1ace1fb1-3651-44aa-9178-6f0ee860776e",
@@ -1475,7 +1475,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8c6fcc65-ef96-451d-949c-e4e96e50873c"
+    "abilityGroupId": "d2e508a0-47a8-4088-a24d-703905831031"
   },
   {
     "id": "b36e951b-51ed-43f2-b01b-2f2ea5e901ed",
@@ -1493,7 +1493,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b477269d-742e-4cce-9c2c-1eb08f21bae9"
+    "abilityGroupId": "a887ce78-63a1-431d-b35f-16be300fdcfa"
   },
   {
     "id": "f1fda1e5-9632-4a40-8c72-ef61717d3079",
@@ -1511,7 +1511,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88543fa1-e02e-4d11-a618-a77edf6c38ff"
+    "abilityGroupId": "f029ff64-0a68-4e1f-8c51-2186963e6c31"
   },
   {
     "id": "192f8a55-6051-4242-9e12-7640e346d461",
@@ -1529,7 +1529,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "eede06f8-0bd6-4e5c-bca3-bb31083fc973"
+    "abilityGroupId": "1ddc4370-b3e5-4c80-8260-effe9ba71dd9"
   },
   {
     "id": "6ca00695-6570-42ad-ba02-a2fbf526a1b5",
@@ -1547,7 +1547,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9f75d41b-9e3a-482f-a7dd-615864306d10"
+    "abilityGroupId": "d1d2b435-d560-4452-8b4b-a0b2b4b98324"
   },
   {
     "id": "0dde336b-8729-4d80-9659-301391645e84",
@@ -1565,7 +1565,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "736ab84e-34cc-45f8-ab48-8ab07675d1cd"
+    "abilityGroupId": "4e50196f-f858-4be2-aa2c-567f02347e9b"
   },
   {
     "id": "ede0a075-0ff3-4596-8095-fde0aea052bf",
@@ -1583,7 +1583,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6add7e0d-801b-4948-b75a-7f1c157b2ff0"
+    "abilityGroupId": "73a06775-50aa-489d-baa4-b1e9bf2c4b1c"
   },
   {
     "id": "a27c751f-af08-4fa2-90cc-e2c4228c2e2a",
@@ -1601,7 +1601,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7b70d11c-21bf-464f-baa6-68919e0d763c"
+    "abilityGroupId": "b54f902e-fd38-495c-ba4e-274aad1f4b47"
   },
   {
     "id": "c7950dac-d8b3-43ef-b6f4-cc7e6005f0f4",
@@ -1619,7 +1619,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6f38f93e-8cc4-4ffc-803d-ca217738006c"
+    "abilityGroupId": "bfae17c1-893d-46bb-a3dc-34746a9205fb"
   },
   {
     "id": "246df19f-166f-4a27-b80e-d48f68b73adf",
@@ -1637,7 +1637,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "db98c2dd-4825-4775-972f-ff105a3a354d"
+    "abilityGroupId": "0d2a42c3-4a0c-4f00-a361-d1e190989908"
   },
   {
     "id": "fcf4ca30-e9a5-4981-b255-ea90cfe93567",
@@ -1655,10 +1655,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9f75d41b-9e3a-482f-a7dd-615864306d10"
+    "abilityGroupId": "d1d2b435-d560-4452-8b4b-a0b2b4b98324"
   },
   {
-    "id": "b3060048-61f6-44fc-bc4b-04d73c6f1216",
+    "id": "23cdfa95-c40e-45af-8447-b22da487bfff",
     "name": "Zealous Orator",
     "phaseDetails": "Your Hero Phase",
     "phase": "heroPhase",
@@ -1673,7 +1673,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "81efd9f8-9ea9-4c94-a60a-294db9ced378"
+    "abilityGroupId": "fe814a88-12dd-4460-ae7d-ee16d2f612b3"
   },
   {
     "id": "9a4b50ac-a4bc-45d6-928f-c1cc1d6dff38",
@@ -1691,7 +1691,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8a761e34-ba8b-476d-a171-062bf0f35885"
+    "abilityGroupId": "baf93746-f13f-42da-82cf-d2f0f8aab624"
   },
   {
     "id": "c97ac445-600e-4c2d-883e-5a3cc4faa315",
@@ -1709,7 +1709,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "467a38ed-fdd6-4679-ad53-f9ac3c28fac4"
+    "abilityGroupId": "02caeb4f-dfbd-48a4-99d7-d54a9b4a71a8"
   },
   {
     "id": "7d0b4216-8aa2-4345-8c26-1f0c6d0aa134",
@@ -1727,7 +1727,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5766e291-124f-4035-86d7-efd37bd42222"
+    "abilityGroupId": "87290be1-13d7-4f2a-805c-6623402b2377"
   },
   {
     "id": "1080062b-417a-49c9-a44e-57e5065185eb",
@@ -1745,7 +1745,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "54ba6520-5d87-42f1-9e77-b4fbd68112e6"
+    "abilityGroupId": "f13432f4-1150-4704-8669-c308451c97bc"
   },
   {
     "id": "e5e32c20-19d7-42ee-8b2a-93bd9746fe20",
@@ -1763,7 +1763,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c47a9047-075f-4a1f-87dd-a174342f9d32"
+    "abilityGroupId": "2266b4c4-27a7-4f06-aa44-714e2b698682"
   },
   {
     "id": "4f71a215-ef8e-48e5-896a-4dd4ef8bb54d",
@@ -1781,7 +1781,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "1a6ee249-2b7f-42de-80a9-d681f60ce861"
+    "abilityGroupId": "43901985-6af9-445d-934d-7561891cf84d"
   },
   {
     "id": "9d476789-005f-4440-8caa-c8be048079f7",
@@ -1799,7 +1799,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "35cbd082-aba8-49f0-bd3f-edf77875a211"
+    "abilityGroupId": "eac356b3-8819-4017-8e91-924adeb323f5"
   },
   {
     "id": "8ac941a7-3c26-4559-b8fc-1612b34045a5",
@@ -1817,7 +1817,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "54ba6520-5d87-42f1-9e77-b4fbd68112e6"
+    "abilityGroupId": "f13432f4-1150-4704-8669-c308451c97bc"
   },
   {
     "id": "8d4c0a83-178c-4dc4-89ee-87b8e01255c4",
@@ -1835,7 +1835,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2eb61215-31aa-414d-89e0-b2eb8825d226"
+    "abilityGroupId": "52460dab-68a1-4f9c-8a90-6511075f1109"
   },
   {
     "id": "651e7bd1-3751-4f36-b23e-226f9601f978",
@@ -1853,7 +1853,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5569c83a-ed17-4535-9897-b4287078586c"
+    "abilityGroupId": "aa6091f3-985f-4735-a9db-b87630102e45"
   },
   {
     "id": "71f02940-4b0e-4fcc-8319-f0ed660a667d",
@@ -1871,7 +1871,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "decbd1fd-592d-44f7-8d95-cc695306ab6c"
+    "abilityGroupId": "a140a8a2-092e-41c6-8229-fee864ea1ac6"
   },
   {
     "id": "4b89fc7f-f72d-4755-98f6-52700a566de6",
@@ -1889,7 +1889,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f714c5b0-5c38-4609-8921-a67fadeb1616"
+    "abilityGroupId": "74218359-4071-4dc3-8dd3-1dbd70d149b0"
   },
   {
     "id": "510fe061-2895-4da7-806b-48794a9e2fb1",
@@ -1907,7 +1907,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "02783b5b-7077-4409-999b-008ce2528340"
+    "abilityGroupId": "5ae3e70b-a7d6-4dec-a3a0-7b96c9bcd220"
   },
   {
     "id": "27de5b2b-4819-49f2-8f17-d9237feb5fa9",
@@ -1925,7 +1925,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b8834398-07f3-4113-ac35-8c7342fb02ea"
+    "abilityGroupId": "e70429b0-218b-462f-8de6-bc60c8ff4df7"
   },
   {
     "id": "9a16a74c-6a04-49b0-bafc-02addd907634",
@@ -1943,7 +1943,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a7ad1958-293a-43b9-a487-ae66efd133e8"
+    "abilityGroupId": "acc21770-cb67-49ad-9a53-b3757d582776"
   },
   {
     "id": "2493d394-4e4c-492f-85d3-8641dbc0b601",
@@ -1961,7 +1961,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ab3660be-d1c5-4a90-8b9c-8dad8fd84967"
+    "abilityGroupId": "51fa6e1d-68b5-4ec9-bdc0-95b0e3707642"
   },
   {
     "id": "34fabe35-3cbc-4507-ac46-613db76c6e1a",
@@ -1979,7 +1979,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e771cc58-dcf0-4e5c-bc58-bcb60e07c0e4"
+    "abilityGroupId": "8dd6dbc6-a8cd-4b5d-b0b5-87c6d7127c72"
   },
   {
     "id": "f212be4f-0c3d-4674-b7eb-f81fc4d43685",
@@ -1997,7 +1997,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88e58571-68da-48d2-a19f-7c0258b7f26e"
+    "abilityGroupId": "b611eefc-3fcb-4d6f-8b80-3b2089c8d274"
   },
   {
     "id": "505e86f9-08b7-406b-abdd-a4fdb5d9bd87",
@@ -2015,7 +2015,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ab3660be-d1c5-4a90-8b9c-8dad8fd84967"
+    "abilityGroupId": "51fa6e1d-68b5-4ec9-bdc0-95b0e3707642"
   },
   {
     "id": "a44ed13a-6010-4f21-b66f-fbb2a280ec3f",
@@ -2033,7 +2033,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6599745d-18f6-471c-8317-002fa5de055a"
+    "abilityGroupId": "09f9eea9-e79c-4306-956e-f6201421f31f"
   },
   {
     "id": "2dd68cea-db03-4ad5-aa1f-4e1a1549c884",
@@ -2051,7 +2051,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0f9f6991-c384-4b1a-81ce-553f534a897b"
+    "abilityGroupId": "161a80cf-d35d-4dd3-b4ce-ab56b7ce82e9"
   },
   {
     "id": "87014ef5-339e-4f3b-81a3-2fddf9c5d859",
@@ -2069,7 +2069,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c2bdb429-0ba7-4dc9-af81-39bf83f5df1d"
+    "abilityGroupId": "b04ec298-1c71-4444-a377-0f6b139bc263"
   },
   {
     "id": "f30858a1-5527-4f50-9327-c505efd7823c",
@@ -2087,7 +2087,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "148bebe0-39b8-47d1-8cc7-6d5bd7de71c4"
+    "abilityGroupId": "7f228e51-6c77-4dde-8716-d74952430e1e"
   },
   {
     "id": "32b3cbbc-362a-4365-a129-4d8daf4234f8",
@@ -2105,7 +2105,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "69a21f38-308e-4c67-bfde-0237fea9d985"
+    "abilityGroupId": "1ab78339-0e25-4b3a-99bf-479ee1026f7b"
   },
   {
     "id": "d7365e9b-c35c-44b9-982f-d49f9dfed12f",
@@ -2123,7 +2123,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a3ebce4a-f9b6-4b1b-b230-8ae364ef2dd0"
+    "abilityGroupId": "8f9249ee-d884-48a0-9ec5-d83a28eceabc"
   },
   {
     "id": "c5e98d18-a971-49e5-9fed-da5ea5cf817a",
@@ -2141,7 +2141,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ab3660be-d1c5-4a90-8b9c-8dad8fd84967"
+    "abilityGroupId": "51fa6e1d-68b5-4ec9-bdc0-95b0e3707642"
   },
   {
     "id": "278e9856-1781-4524-b9f6-6cb5932f52ce",
@@ -2159,7 +2159,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "148bebe0-39b8-47d1-8cc7-6d5bd7de71c4"
+    "abilityGroupId": "7f228e51-6c77-4dde-8716-d74952430e1e"
   },
   {
     "id": "c643ca6d-7428-4e92-a150-3554bd0cbf5a",
@@ -2177,7 +2177,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0f4d6cc9-119c-41d3-8b4a-ec23f35b9e22"
+    "abilityGroupId": "84564bfa-97ad-49c4-8ecc-119df89ca449"
   },
   {
     "id": "02d1bf48-2054-468b-a99e-37a8a987824a",
@@ -2195,7 +2195,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e2f3472c-a93e-4011-a939-d25a9caf6f23"
+    "abilityGroupId": "8e46cfb5-bd56-452e-832e-f2d7e679f483"
   },
   {
     "id": "f1567df9-e2b3-4810-8269-7a48b59f2ae2",
@@ -2213,7 +2213,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "02783b5b-7077-4409-999b-008ce2528340"
+    "abilityGroupId": "5ae3e70b-a7d6-4dec-a3a0-7b96c9bcd220"
   },
   {
     "id": "cffc2be3-2a4e-4076-bc7a-ac961df27017",
@@ -2231,7 +2231,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4001897c-f6d7-445e-9290-6e8d4b6b5ee1"
+    "abilityGroupId": "33b042ac-eefd-49c0-be21-6ea831c3893f"
   },
   {
     "id": "4f3c8044-1180-4091-abf8-a79fbd8a5701",
@@ -2249,7 +2249,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "48cb0724-50b8-4048-8c9b-6239f07e2544"
+    "abilityGroupId": "051bbb93-c06c-4610-8519-5301e19396fc"
   },
   {
     "id": "174fb392-c52e-4077-a4cd-b67d13eb062d",
@@ -2267,7 +2267,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "721d48ba-3f94-4638-b985-8daf27c5b6aa"
+    "abilityGroupId": "e030e183-8a9b-4dcd-aa96-649245a0848e"
   },
   {
     "id": "5eb98a2c-ec47-4d1d-8d22-3b53f59ab018",
@@ -2285,7 +2285,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5766e291-124f-4035-86d7-efd37bd42222"
+    "abilityGroupId": "87290be1-13d7-4f2a-805c-6623402b2377"
   },
   {
     "id": "e675df62-0bda-4a5d-919f-89ad8021e82a",
@@ -2303,7 +2303,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "69fb62d7-4e68-48ad-970a-fc56dff087b7"
+    "abilityGroupId": "cb4fec1e-58c4-4404-8047-7234ac6c2c2b"
   },
   {
     "id": "c7aeedc2-34dc-445b-99b3-efc858c902da",
@@ -2321,7 +2321,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88fed013-dc0d-4f41-b329-1b8ac83479c9"
+    "abilityGroupId": "534df034-d04b-490e-9d32-323b7f21ffed"
   },
   {
     "id": "72df723a-61ab-4d48-b7d0-82ab54dc533f",
@@ -2339,7 +2339,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a4a47c63-d8a5-4607-b8a2-4f07c43a6762"
+    "abilityGroupId": "0e7195cc-62e4-4d6f-9c8c-6515dfb0348c"
   },
   {
     "id": "f7325eff-dbfb-4d5a-be94-25885305a8e3",
@@ -2357,7 +2357,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d1246d33-5db2-43c8-9ed0-3e119ae6b0da"
+    "abilityGroupId": "ba0d841b-886d-4c8a-9b1e-8d500ae04cbb"
   },
   {
     "id": "269d6ba9-3af7-4092-b0e0-f0affedcad95",
@@ -2375,7 +2375,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "660bcbfa-d216-4483-a952-c21b719c16be"
+    "abilityGroupId": "f66f315e-b7bb-4ad9-94f8-4be3aee72afc"
   },
   {
     "id": "df74a579-3969-414f-bf0c-3a837b13d96f",
@@ -2393,7 +2393,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f3037ed9-da7b-425c-a034-a715037a17c7"
+    "abilityGroupId": "a2fd1155-8b65-4b6a-b2c2-7af421997d43"
   },
   {
     "id": "37db56fc-b0a8-4d22-8ef0-28f7b77e18b3",
@@ -2411,7 +2411,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3c3c062f-0c4f-4f5b-ac02-9c66a7b9fff1"
+    "abilityGroupId": "f640da60-8d57-4ae7-b028-bfa07ddc1372"
   },
   {
     "id": "1888e47a-5e4c-4435-8842-fb49fa90f923",
@@ -2429,7 +2429,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6f5a99e9-d129-479e-94fe-2454e748dffd"
+    "abilityGroupId": "761a7725-3c49-4023-9d9b-8d3d90cdb5df"
   },
   {
     "id": "6111d907-b112-4d04-8f0b-9985df3a66e2",
@@ -2447,7 +2447,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "efb01c5d-517a-45f5-b0aa-2e6c1ba71ef5"
+    "abilityGroupId": "6e72752f-701f-49e4-98a5-877b6c27e8fc"
   },
   {
     "id": "56182cb8-432e-4b27-a745-062850b9a876",
@@ -2465,7 +2465,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e2f3472c-a93e-4011-a939-d25a9caf6f23"
+    "abilityGroupId": "8e46cfb5-bd56-452e-832e-f2d7e679f483"
   },
   {
     "id": "06f4173b-fbec-4320-8576-59c7cfeb614e",
@@ -2483,7 +2483,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "81eb7dfa-6262-4b84-8b3c-79fd2580349a"
+    "abilityGroupId": "6f156cfc-abb7-419d-b85f-528ea8d62564"
   },
   {
     "id": "eea87075-b97d-4177-8a44-7f12250edeb2",
@@ -2501,7 +2501,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "76929063-1f3b-4094-833c-638aac9a9d3e"
+    "abilityGroupId": "ca44560b-06aa-45ff-9f86-6e3d03c98908"
   },
   {
     "id": "3472adec-04f6-4d44-ade5-197333e0c9f7",
@@ -2519,7 +2519,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2f05c70f-c5c9-49c1-b693-9a40375d707e"
+    "abilityGroupId": "f5c95141-017a-4f6e-a73d-efddf8e2281a"
   },
   {
     "id": "d35b073d-8f3e-49b8-9423-eee9a5ad5e0f",
@@ -2537,7 +2537,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "22e95235-241f-48ab-ab4d-6f2bbebaa0f0"
+    "abilityGroupId": "dfa595cd-e058-4ce5-a98b-8d38d428985f"
   },
   {
     "id": "c4424cdf-8acb-42e1-a416-6c13db8c7834",
@@ -2555,7 +2555,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b30d758e-9d23-4127-8b5b-799feaf27a19"
+    "abilityGroupId": "9412a956-ec0b-4c7e-90b1-162d2967d8e4"
   },
   {
     "id": "382ee136-cced-4b66-a420-05700963a9db",
@@ -2573,7 +2573,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "89a68d8e-023e-4c51-be80-5e182feb59d3"
+    "abilityGroupId": "fe02ad5f-5d2a-4f5c-b252-bb143501e0da"
   },
   {
     "id": "4860b3dd-fbd2-4f95-b2a5-3ea9fff20f69",
@@ -2591,7 +2591,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ddd7103b-a13a-4e26-b9ed-9fa3d69842a0"
+    "abilityGroupId": "05d2b71f-c0ea-4bff-a000-f41fb79f9423"
   },
   {
     "id": "be0b9ec3-7288-4ab9-942a-3f25264b11a6",
@@ -2609,7 +2609,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4c0c7aaa-d79b-4f1a-865f-9d41da1560eb"
+    "abilityGroupId": "e9b8a5e1-60e8-4db2-9c8a-a55842576a0a"
   },
   {
     "id": "55e8ff76-e484-48d2-9f33-bf8f50720b4f",
@@ -2627,7 +2627,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "249688f8-88a0-493e-bbd8-65fd4dd4e761"
+    "abilityGroupId": "ecc857f7-c4a4-4148-a572-d6ff1b3b9e4d"
   },
   {
     "id": "aeeb77e0-c74d-4173-b629-da254833827b",
@@ -2645,7 +2645,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "13c9f8c5-2dd0-49bb-a762-1229d44400f8"
+    "abilityGroupId": "217f44f5-e011-40cc-9111-5401e38fd7f3"
   },
   {
     "id": "6214343d-19d2-43c3-a337-676a92aba2b2",
@@ -2663,7 +2663,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f3037ed9-da7b-425c-a034-a715037a17c7"
+    "abilityGroupId": "a2fd1155-8b65-4b6a-b2c2-7af421997d43"
   },
   {
     "id": "6cb7d8f0-2f2d-4c97-b277-85a74c83c640",
@@ -2681,7 +2681,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "725c6803-98cd-4eeb-bbf2-188f332954da"
+    "abilityGroupId": "e3d33262-9146-4c36-be58-7d47973b1312"
   },
   {
     "id": "a48e0893-92ae-4db9-8f02-1b83700fc1f1",
@@ -2699,7 +2699,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "98400fa5-b44b-449a-8468-dbfc9f9b235f"
+    "abilityGroupId": "b0d897d1-ae8f-4e21-bb63-66f287398ff9"
   },
   {
     "id": "7eb9a00d-86cf-4483-a175-a9fcd08275ea",
@@ -2717,7 +2717,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "50ffa967-f5d7-4b79-8910-7e8a962eac1b"
+    "abilityGroupId": "f8404587-0cae-4c30-b8cc-06ca32b7e243"
   },
   {
     "id": "64f77dc1-3832-4e77-a503-9e69ac1f9896",
@@ -2735,7 +2735,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "407ad9ba-8621-44b8-ba56-96f7b06c67c5"
+    "abilityGroupId": "edc740c7-afe3-4cee-b113-ee3d89099aa1"
   },
   {
     "id": "d87aefa1-3186-44f2-a23d-d56a4e32d002",
@@ -2753,7 +2753,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5d99a0e6-74fa-48ab-b767-963417622b5a"
+    "abilityGroupId": "1d63d4f8-489a-43f6-9730-645214781430"
   },
   {
     "id": "3bd326c2-4875-4cc7-be41-1993dea1dd7f",
@@ -2771,7 +2771,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ea945785-f6b6-4dc4-8304-0f61d6bb4e18"
+    "abilityGroupId": "0ea921fc-592c-427c-a923-ab0bf63946fe"
   },
   {
     "id": "4cea615d-3b8c-4aba-9438-dcbc95dfcdd3",
@@ -2789,7 +2789,7 @@ export const abilities : Ability[] = [
     "subsectionLore": "The Ossiarch commanders will bolster their forces wherever battle is met.",
     "subsectionRulesText": "One of your Mortek Guard units is not set up during the deployment phase. Instead, from the third battle round onwards, it can use the Contingent Arrival ability.",
     "reaction": false,
-    "abilityGroupId": "d9edb2cd-a2d0-4028-873e-1d0aa7d52f0c"
+    "abilityGroupId": "ac63ebf9-6274-4064-a178-0c74e310c2fb"
   },
   {
     "id": "36ac7643-af1c-48e2-b788-1b7a08daa22f",
@@ -2807,7 +2807,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "84c40e66-5a9c-4dcd-9e3f-e033517c9186"
+    "abilityGroupId": "7f5678d6-c860-476e-90db-7d50781b82ad"
   },
   {
     "id": "5cc0c02a-fbcd-492d-8c7d-d061dac25ee2",
@@ -2825,7 +2825,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "34dd15c0-2132-42cd-9d83-4db573d38023"
+    "abilityGroupId": "173a03fb-5168-4124-8241-1fd581d4159a"
   },
   {
     "id": "6cc05545-ebbf-4460-851b-b15a6dd25d91",
@@ -2843,7 +2843,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8040c069-4fa2-4e0f-8f9e-15cb08980382"
+    "abilityGroupId": "1856cd3c-120e-445e-8671-9edeff7cf611"
   },
   {
     "id": "29c22483-0214-40a5-8a96-bdf524641b87",
@@ -2861,7 +2861,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2000bec5-d785-48c6-baa1-87a934ce6096"
+    "abilityGroupId": "0664d7bd-33e6-4536-807c-52bc83865230"
   },
   {
     "id": "1657e228-0e0e-4935-be2a-326f68dd9a24",
@@ -2879,7 +2879,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9f75d41b-9e3a-482f-a7dd-615864306d10"
+    "abilityGroupId": "d1d2b435-d560-4452-8b4b-a0b2b4b98324"
   },
   {
     "id": "d3be8012-3ef0-454a-816e-04044007657d",
@@ -2897,7 +2897,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6794b8ff-984b-48fb-9aec-1fc0e22a40ce"
+    "abilityGroupId": "1d81ed7e-1305-4714-ac2b-76a798a9f0d6"
   },
   {
     "id": "c9113104-c786-428b-9f58-85734a3bc890",
@@ -2915,7 +2915,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "13c9f8c5-2dd0-49bb-a762-1229d44400f8"
+    "abilityGroupId": "217f44f5-e011-40cc-9111-5401e38fd7f3"
   },
   {
     "id": "ab12bddb-fa2f-4852-962b-020d7a7b0449",
@@ -2933,7 +2933,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7414f389-4b1f-4d61-a7d6-fce8503c6beb"
+    "abilityGroupId": "3e3ae904-4ff7-4089-830b-5bdaad47bf28"
   },
   {
     "id": "09570ee2-2254-4fa6-b028-85402735d2d7",
@@ -2951,7 +2951,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5eb485d8-9e70-444b-9030-9b4a47a1542b"
+    "abilityGroupId": "963524b7-838e-4e16-97f9-a03e7c9946fc"
   },
   {
     "id": "82766c7a-3b46-4d32-bd8f-e3bdeb9bce6e",
@@ -2969,10 +2969,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "41e4e619-c2e5-490f-82d1-33348f96dea4"
+    "abilityGroupId": "af4f4798-6791-4dfe-a3dd-48e6ce60c4be"
   },
   {
-    "id": "16301482-a66e-467c-b89e-5e4148e210f4",
+    "id": "8a3492cd-f40e-4e8e-b211-a9dade84103d",
     "name": "Timberrrrr!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -2987,7 +2987,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "20286925-abb4-49a8-a72a-1dcc0733847a"
+    "abilityGroupId": "45acb8a7-0e9a-48ad-b807-b450d3617811"
   },
   {
     "id": "4427d243-bc74-41ef-8a14-17f6bd942043",
@@ -3005,7 +3005,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8c6fcc65-ef96-451d-949c-e4e96e50873c"
+    "abilityGroupId": "d2e508a0-47a8-4088-a24d-703905831031"
   },
   {
     "id": "fd51cc50-4e7e-43cd-aff1-023bff34b493",
@@ -3023,7 +3023,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "01fa21b9-9e7a-47ad-98ed-bc7be0321629"
+    "abilityGroupId": "8a90c28d-4cb1-49ca-9c6d-76926f32e015"
   },
   {
     "id": "e3d29537-f6aa-4992-9ef0-0718ca0a0e4c",
@@ -3041,7 +3041,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0ad23592-b81b-4ece-a4b7-a4ef1c44f734"
+    "abilityGroupId": "59960dae-a204-4f93-ad48-3df3c371dff5"
   },
   {
     "id": "cd5c3b05-4ba5-4037-abc9-1d109e94dec3",
@@ -3059,7 +3059,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "cbb856bc-064e-45bd-8c39-8db6eaf55369"
+    "abilityGroupId": "ce2130ab-8b8a-4ff5-a0f6-f4a98015c85b"
   },
   {
     "id": "75deeda6-7567-402e-a550-d997f174fc93",
@@ -3077,7 +3077,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c5f44957-b4b4-4f58-b3cc-606ce0177fde"
+    "abilityGroupId": "d00ac56e-345d-4822-a5f9-602c0e27bef5"
   },
   {
     "id": "eff6962d-cca0-4aed-8e3f-7ceadefa97fd",
@@ -3095,7 +3095,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c9dcc8b2-a6ef-4cd0-8379-7739b8b7544b"
+    "abilityGroupId": "1cb494f9-689b-4e3a-a353-6ab728ba336f"
   },
   {
     "id": "4c89e62e-a860-4aeb-9c7d-b4a106d3b091",
@@ -3113,7 +3113,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2d46bd3d-ad81-445e-b8c2-5f24e6efe399"
+    "abilityGroupId": "a5df2109-90af-4f58-9ebf-3ea70053d0ad"
   },
   {
     "id": "18ebd4d7-360b-4542-9680-0ba135876988",
@@ -3131,7 +3131,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e771cc58-dcf0-4e5c-bc58-bcb60e07c0e4"
+    "abilityGroupId": "8dd6dbc6-a8cd-4b5d-b0b5-87c6d7127c72"
   },
   {
     "id": "3dfd1f12-6d80-4f92-855f-159debc635c6",
@@ -3149,7 +3149,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8040c069-4fa2-4e0f-8f9e-15cb08980382"
+    "abilityGroupId": "1856cd3c-120e-445e-8671-9edeff7cf611"
   },
   {
     "id": "c28923fb-2887-494a-9a61-1813248ebc7a",
@@ -3167,7 +3167,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "35cbd082-aba8-49f0-bd3f-edf77875a211"
+    "abilityGroupId": "eac356b3-8819-4017-8e91-924adeb323f5"
   },
   {
     "id": "7b3ec622-41b4-479d-9f18-fe504f4be59b",
@@ -3185,10 +3185,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0b08ebcc-c944-4028-9086-f75e7572ea04"
+    "abilityGroupId": "a148c5a7-dde0-4994-ae41-f291ca120d1a"
   },
   {
-    "id": "bdd092a1-c66f-4bee-a4e3-ee97ce4f941b",
+    "id": "efe32d53-160b-4402-9a1a-87f2c8f0d903",
     "name": "Monstrously Tough",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -3203,7 +3203,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "09ea7e0f-f1e4-48d6-ae4c-7b4939e3fa15"
+    "abilityGroupId": "4c811d6d-6981-475d-ae9f-1043454b9c32"
   },
   {
     "id": "ff2aa11c-5edf-484e-8260-72fc39dc0a5c",
@@ -3221,7 +3221,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "95774047-35d1-4247-942b-03b63c448550"
+    "abilityGroupId": "f991ca66-2a43-40ed-ada7-4300bc8bdeae"
   },
   {
     "id": "4533992d-515f-4c99-89b5-8fb7b8a17a51",
@@ -3239,7 +3239,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "028d1b7e-17bc-432c-85b9-af9514b61735"
+    "abilityGroupId": "754875b3-41d9-4510-8bc6-dd208a45131a"
   },
   {
     "id": "cc372a7f-a5c6-4162-9487-065c24a82f2e",
@@ -3257,7 +3257,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "01fa21b9-9e7a-47ad-98ed-bc7be0321629"
+    "abilityGroupId": "8a90c28d-4cb1-49ca-9c6d-76926f32e015"
   },
   {
     "id": "8a417eea-756d-495a-80bc-d1992fc0250f",
@@ -3275,7 +3275,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "40552a0f-8bee-4d3c-9d52-a4a6a3f24928"
+    "abilityGroupId": "1df74013-2bf4-4afd-9c6c-cc6214acae85"
   },
   {
     "id": "760ccc9c-9439-487a-a964-8663bdcee5be",
@@ -3293,7 +3293,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "249688f8-88a0-493e-bbd8-65fd4dd4e761"
+    "abilityGroupId": "ecc857f7-c4a4-4148-a572-d6ff1b3b9e4d"
   },
   {
     "id": "922efdda-e04f-4b98-9942-4c0032a85d66",
@@ -3311,7 +3311,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ee3b8dbe-3f7f-461b-8fdf-09424c33a47c"
+    "abilityGroupId": "7741ccf0-325d-4cf5-9275-b5dfad2a6e88"
   },
   {
     "id": "aed6a4f6-cb84-424e-b817-2c48c7eb7f53",
@@ -3329,7 +3329,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ee3b8dbe-3f7f-461b-8fdf-09424c33a47c"
+    "abilityGroupId": "7741ccf0-325d-4cf5-9275-b5dfad2a6e88"
   },
   {
     "id": "fa54aae1-7068-45bd-8bb3-b209235961e3",
@@ -3347,7 +3347,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8040c069-4fa2-4e0f-8f9e-15cb08980382"
+    "abilityGroupId": "1856cd3c-120e-445e-8671-9edeff7cf611"
   },
   {
     "id": "2e96c449-0787-4e12-8d4f-516797960f25",
@@ -3365,7 +3365,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "1d73dfca-68bf-44b6-82da-1af18eeebbf4"
+    "abilityGroupId": "99294de4-7bbd-4bf5-a38d-08eea010c820"
   },
   {
     "id": "8f0a0097-8c7a-47e1-82a8-2e076feaaf6b",
@@ -3383,7 +3383,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b046539f-84b9-4013-84f7-a5f015683895"
+    "abilityGroupId": "a434183f-b0b4-4c04-9c86-bc51d0bc9efe"
   },
   {
     "id": "645d1cb4-4d78-4fbc-9939-658b02ac05d6",
@@ -3401,7 +3401,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e8cf1830-f693-4b1f-abe0-cda16bb2e6c1"
+    "abilityGroupId": "f4c07438-c49a-41bd-b8a7-806da1447ffa"
   },
   {
     "id": "4bc48197-3c1b-4673-a81d-d83940056d92",
@@ -3419,7 +3419,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e771cc58-dcf0-4e5c-bc58-bcb60e07c0e4"
+    "abilityGroupId": "8dd6dbc6-a8cd-4b5d-b0b5-87c6d7127c72"
   },
   {
     "id": "d9080025-3a1a-463f-b4a6-06828c42cfd4",
@@ -3437,7 +3437,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a5a386f6-9712-4b79-adce-187975d7f9ff"
+    "abilityGroupId": "e466b955-f098-43b8-a621-6ba30e5df3a4"
   },
   {
     "id": "72414532-54ca-428b-8fe1-e6650719079b",
@@ -3455,7 +3455,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "229d4bb6-f38f-4913-b0f5-abd6605dc130"
+    "abilityGroupId": "d65eba51-227d-45d6-806a-96aeae3fc4b5"
   },
   {
     "id": "d0036e94-1d68-41b1-9e26-5609de3449bc",
@@ -3473,7 +3473,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "777ed49b-de9d-4af5-b5df-031bd6adb710"
+    "abilityGroupId": "2cf6ac14-6f32-45f3-a726-b67efe63f27d"
   },
   {
     "id": "abdce4f1-57a7-40db-99d4-d46c032fad55",
@@ -3491,7 +3491,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c1f8f3f9-cd7e-4029-bd88-355e30496ad8"
+    "abilityGroupId": "04064ac6-3849-4486-8453-46924eccb4a2"
   },
   {
     "id": "9920e1b6-60d7-4ed2-b273-9c3f2087b4a8",
@@ -3509,10 +3509,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6add7e0d-801b-4948-b75a-7f1c157b2ff0"
+    "abilityGroupId": "73a06775-50aa-489d-baa4-b1e9bf2c4b1c"
   },
   {
-    "id": "a9498953-452e-4987-959c-be5829761eef",
+    "id": "c15a83a4-60fc-499d-9a66-742285653e56",
     "name": "Quicksilver Draught",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -3527,7 +3527,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0c2ee9ef-f7dd-4f6f-98fa-7f92d503a0e7"
+    "abilityGroupId": "4a11f24d-91a5-413d-aab6-c8077bbe4f53"
   },
   {
     "id": "d9ca67e0-5dcd-4e65-a44a-b2af1fb4421e",
@@ -3545,7 +3545,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6f5a99e9-d129-479e-94fe-2454e748dffd"
+    "abilityGroupId": "761a7725-3c49-4023-9d9b-8d3d90cdb5df"
   },
   {
     "id": "251489c9-b635-4f15-9059-26956653fd53",
@@ -3563,7 +3563,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a4a47c63-d8a5-4607-b8a2-4f07c43a6762"
+    "abilityGroupId": "0e7195cc-62e4-4d6f-9c8c-6515dfb0348c"
   },
   {
     "id": "d6255d9e-d5c5-4ab5-ad5b-e75fa6fcd188",
@@ -3581,7 +3581,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c754072a-9fdf-46f1-978f-dc59c66d0c47"
+    "abilityGroupId": "c275ca02-3e09-45cc-8687-6e5498151a39"
   },
   {
     "id": "c6ead1b5-a2c8-49f9-bdbc-e7bc48c68efc",
@@ -3599,7 +3599,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "06c7482e-0d14-4538-807e-70a9434c9644"
+    "abilityGroupId": "b5533e7f-dbe8-44a6-b891-68c235d10fc8"
   },
   {
     "id": "71ffb53c-e087-4ea0-bd20-afa0288f14e8",
@@ -3617,7 +3617,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f1ca4813-4fc4-49c8-a0aa-fc5317964eed"
+    "abilityGroupId": "3442fa58-bf80-4455-bd43-071d00c5fe32"
   },
   {
     "id": "77fc5619-7920-4b22-be2a-e59b2c132b87",
@@ -3635,7 +3635,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8ba9accf-e5c2-4498-9da9-7307ea8b4969"
+    "abilityGroupId": "29206868-322c-440a-88cc-867dbdde0f47"
   },
   {
     "id": "a2b07a6f-b893-447d-96f7-0f4f7d5f9491",
@@ -3653,7 +3653,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6815b335-45f5-4267-8964-1e7eacea4156"
+    "abilityGroupId": "4264aa9a-6bdf-467c-b21b-978e6a7f44a3"
   },
   {
     "id": "cc7df2c2-d395-45f0-a3e6-89432a706d68",
@@ -3671,7 +3671,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "accf6c81-cf13-4ef9-b68d-ce6d00da82d2"
+    "abilityGroupId": "271f349c-ed9d-4abe-ba7d-8ca119822567"
   },
   {
     "id": "f2ff3bbd-524e-490a-a1af-a44f778cdb33",
@@ -3689,7 +3689,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4a23672e-8c5e-46f2-bfb3-bee0c156679a"
+    "abilityGroupId": "67992ca0-1cac-43a9-8836-d8204b5cefa0"
   },
   {
     "id": "d2b57f0d-a2c9-4b93-bb8e-1952fc98456a",
@@ -3707,7 +3707,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88e58571-68da-48d2-a19f-7c0258b7f26e"
+    "abilityGroupId": "b611eefc-3fcb-4d6f-8b80-3b2089c8d274"
   },
   {
     "id": "cc0e7657-0e67-40d2-be64-10af4a852a07",
@@ -3725,7 +3725,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "249688f8-88a0-493e-bbd8-65fd4dd4e761"
+    "abilityGroupId": "ecc857f7-c4a4-4148-a572-d6ff1b3b9e4d"
   },
   {
     "id": "71bf8498-1098-4126-be06-bb3f1ecfae30",
@@ -3743,7 +3743,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "721d48ba-3f94-4638-b985-8daf27c5b6aa"
+    "abilityGroupId": "e030e183-8a9b-4dcd-aa96-649245a0848e"
   },
   {
     "id": "9c63ca46-2f30-4ba3-85f2-127795150d77",
@@ -3761,7 +3761,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3a9c824f-66a5-4e07-817f-d6004afaf369"
+    "abilityGroupId": "d1d38416-ab7d-4183-8789-d60dfa9ab176"
   },
   {
     "id": "a03f2633-7529-423f-8fe9-f1ac6b3d368b",
@@ -3779,7 +3779,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f714c5b0-5c38-4609-8921-a67fadeb1616"
+    "abilityGroupId": "74218359-4071-4dc3-8dd3-1dbd70d149b0"
   },
   {
     "id": "12d735d4-873e-43e0-b0bd-47109914693b",
@@ -3797,7 +3797,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a5a386f6-9712-4b79-adce-187975d7f9ff"
+    "abilityGroupId": "e466b955-f098-43b8-a621-6ba30e5df3a4"
   },
   {
     "id": "9518a437-075c-4c8d-a7b3-62d2bd640e28",
@@ -3815,7 +3815,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0726f5cf-46e3-4a8b-8aed-dc02cee6fa2c"
+    "abilityGroupId": "47b14ed2-ecca-4c9a-891e-5bace8d8f813"
   },
   {
     "id": "86d4f919-9fed-4ec4-877c-82706176118c",
@@ -3833,10 +3833,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "736ab84e-34cc-45f8-ab48-8ab07675d1cd"
+    "abilityGroupId": "4e50196f-f858-4be2-aa2c-567f02347e9b"
   },
   {
-    "id": "ed0bec0e-c473-4710-ad31-a29f4365cef6",
+    "id": "e06cded7-1327-4584-ad46-9748d332a9fb",
     "name": "Glimmering",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -3851,7 +3851,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "42f85f79-fb6f-4be0-bf8e-50856df2b3a6"
+    "abilityGroupId": "9c63a862-2759-45a0-93a1-a05d0b45fa89"
   },
   {
     "id": "e464cbb2-8a21-4c05-8793-b442f76a78e7",
@@ -3869,7 +3869,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "81efd9f8-9ea9-4c94-a60a-294db9ced378"
+    "abilityGroupId": "fe814a88-12dd-4460-ae7d-ee16d2f612b3"
   },
   {
     "id": "94639173-71c8-43cf-9f78-192350f300e9",
@@ -3887,10 +3887,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "229d4bb6-f38f-4913-b0f5-abd6605dc130"
+    "abilityGroupId": "d65eba51-227d-45d6-806a-96aeae3fc4b5"
   },
   {
-    "id": "77fc5619-7920-4b22-be2a-e59b2c132b87",
+    "id": "e49cc5fa-8b0d-4b29-8319-21f1074e8716",
     "name": "Warpstone Charm",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -3905,7 +3905,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6f5a99e9-d129-479e-94fe-2454e748dffd"
+    "abilityGroupId": "761a7725-3c49-4023-9d9b-8d3d90cdb5df"
   },
   {
     "id": "de99d014-c575-4649-9f58-265f5b6e1d62",
@@ -3923,7 +3923,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "db3aef0d-9528-483c-9d96-2e58bd7c931a"
+    "abilityGroupId": "0f399fc3-9ae9-4999-9217-4f27c5a03779"
   },
   {
     "id": "a7acd5c3-8af1-488f-80c8-6044e4e56659",
@@ -3941,7 +3941,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a7ad1958-293a-43b9-a487-ae66efd133e8"
+    "abilityGroupId": "acc21770-cb67-49ad-9a53-b3757d582776"
   },
   {
     "id": "4850941b-3436-4064-9039-dccfebd4c8ab",
@@ -3959,7 +3959,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5ea47868-afd2-4896-ac6e-684ae98f776a"
+    "abilityGroupId": "862f29ff-77ca-48b8-9ca1-b18014c24fcb"
   },
   {
     "id": "3721e576-744b-4828-85db-9374d356806e",
@@ -3977,7 +3977,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f29d576c-cdc5-4a00-bc36-5ead62cf35a5"
+    "abilityGroupId": "9125c3c5-3ff9-4e0a-9a56-38a7da277ed4"
   },
   {
     "id": "88d46298-5531-405c-a27a-c424c17ac393",
@@ -3995,7 +3995,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9be5ea68-6adc-4d4a-9a8c-508cbfbb7ae8"
+    "abilityGroupId": "0525a999-c1a0-4058-a6c1-1514dbccf556"
   },
   {
     "id": "b026af4f-5dbd-4087-997a-d3332e480936",
@@ -4013,7 +4013,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "54ba6520-5d87-42f1-9e77-b4fbd68112e6"
+    "abilityGroupId": "f13432f4-1150-4704-8669-c308451c97bc"
   },
   {
     "id": "46e8064c-1eca-4916-bb63-ded3a08de615",
@@ -4031,7 +4031,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3e00681b-ec10-4a0f-a4c2-73ba7759706d"
+    "abilityGroupId": "8ae7dac7-5c14-4619-b627-5536856ff59a"
   },
   {
     "id": "9d9f00b3-575c-4455-a625-d97d21cdb98b",
@@ -4049,7 +4049,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "660bcbfa-d216-4483-a952-c21b719c16be"
+    "abilityGroupId": "f66f315e-b7bb-4ad9-94f8-4be3aee72afc"
   },
   {
     "id": "808ccb36-e8d2-4193-8865-ac2c4e048b97",
@@ -4067,7 +4067,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "490dd9ae-0c7e-4b56-9c9c-d9c4a6dcaaf9"
+    "abilityGroupId": "87314d2b-cb81-488b-8645-b39eb99ac4a1"
   },
   {
     "id": "f80d3d2c-330d-4001-aed3-89f0ddb8f26f",
@@ -4085,7 +4085,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "cb802493-4eb6-4574-aef0-ab0ab3d6eae5"
+    "abilityGroupId": "0b16705b-42db-4422-9872-71757027878a"
   },
   {
     "id": "e7d8173b-4ea1-4e02-a153-eed993a4c46e",
@@ -4103,7 +4103,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "41e4e619-c2e5-490f-82d1-33348f96dea4"
+    "abilityGroupId": "af4f4798-6791-4dfe-a3dd-48e6ce60c4be"
   },
   {
     "id": "9ab1e0f9-7696-4757-9ffd-7aec57933363",
@@ -4121,7 +4121,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e32d4386-8543-4e05-9359-7ac03115edba"
+    "abilityGroupId": "79d45fe5-7af6-402c-a29e-0f74eed4e957"
   },
   {
     "id": "577865e9-2455-4717-923b-152e42b50d01",
@@ -4139,7 +4139,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d4195810-8cbf-47e6-99f6-e78b181a071f"
+    "abilityGroupId": "c94b8f0f-0936-4d6c-8106-7b57fad5e107"
   },
   {
     "id": "ce315bfe-3627-4d28-ba05-47eac8ceed4a",
@@ -4157,7 +4157,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e57827f9-3f0f-4a4e-a7c3-84d9874bae24"
+    "abilityGroupId": "9a5eb069-e12a-47e8-9b1f-f85df968d623"
   },
   {
     "id": "60f07a27-9f05-45a7-b093-c9b487eda1b5",
@@ -4175,7 +4175,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "34dd15c0-2132-42cd-9d83-4db573d38023"
+    "abilityGroupId": "173a03fb-5168-4124-8241-1fd581d4159a"
   },
   {
     "id": "7d38364a-ea9f-447b-b4ae-a24174e5820e",
@@ -4193,7 +4193,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "20a2d0ad-2d03-4661-a34f-83a4ceb7df59"
+    "abilityGroupId": "7320397e-2d45-4b5d-b597-c3467f94d670"
   },
   {
     "id": "98a387c5-ed73-41cd-8ef4-f341d90cfa54",
@@ -4211,7 +4211,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "013787e5-a464-430e-a7f6-7cbb93bb5722"
+    "abilityGroupId": "34e3ff14-bdce-4946-a9cf-3f8eb24bc9b6"
   },
   {
     "id": "09bd7b99-801f-415e-ba82-9ed9d0ccf13c",
@@ -4229,7 +4229,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "62777ec2-88c9-4c6b-b331-21c9fc564343"
+    "abilityGroupId": "42b68c41-7d7d-46d2-87a0-72a9907a2f79"
   },
   {
     "id": "57c98c63-6863-46a8-a064-78a5a77cf748",
@@ -4247,7 +4247,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6815b335-45f5-4267-8964-1e7eacea4156"
+    "abilityGroupId": "4264aa9a-6bdf-467c-b21b-978e6a7f44a3"
   },
   {
     "id": "dd3ecc22-af98-4876-83b6-f8fca4a136ed",
@@ -4265,7 +4265,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2a266749-52e0-42eb-8c8a-3b89d926fb0e"
+    "abilityGroupId": "ce3edf5b-ef8f-4d7a-9c3a-3ca9e7675590"
   },
   {
     "id": "ac399c13-0553-428f-9778-307ff68b0b06",
@@ -4283,7 +4283,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4c0c7aaa-d79b-4f1a-865f-9d41da1560eb"
+    "abilityGroupId": "e9b8a5e1-60e8-4db2-9c8a-a55842576a0a"
   },
   {
     "id": "18663da8-081a-4210-b697-a67cb656a97a",
@@ -4301,7 +4301,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2e769f8b-0eb4-45c0-9adc-026a6543093a"
+    "abilityGroupId": "de179cdb-07b5-43f1-86bb-479d16742291"
   },
   {
     "id": "426a230a-55f1-4b79-b91e-265516e005c1",
@@ -4319,7 +4319,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a390a910-857f-4ef4-871f-7f1414a757c3"
+    "abilityGroupId": "f9322b1a-7583-4105-9f10-af286a268137"
   },
   {
     "id": "299d686a-c289-4037-8b7b-f48d76c2e358",
@@ -4337,7 +4337,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "431f57bf-90ca-4089-84ed-a837f4640174"
+    "abilityGroupId": "c1005464-3bc2-4b1b-a1af-3f1cc96d15b7"
   },
   {
     "id": "d055c4b8-b658-49a8-9998-3b5eaafd1c91",
@@ -4355,7 +4355,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "148bebe0-39b8-47d1-8cc7-6d5bd7de71c4"
+    "abilityGroupId": "7f228e51-6c77-4dde-8716-d74952430e1e"
   },
   {
     "id": "52e16c11-f838-4eff-9cfa-2dff1d355e70",
@@ -4373,7 +4373,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c3908fb2-c2c5-45f6-9eaf-ed7c3861fde8"
+    "abilityGroupId": "804cc123-b9a6-4f5e-b998-6bad7916cfda"
   },
   {
     "id": "c5b14030-13a3-47cc-aafa-c67d886a8d7e",
@@ -4391,7 +4391,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0e4cbce7-3784-412d-80c3-2545401f121b"
+    "abilityGroupId": "b0d58710-b89e-4017-8c4b-ec611451585e"
   },
   {
     "id": "71797817-3889-46e9-aa98-1a3ee1878b51",
@@ -4409,10 +4409,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "028d1b7e-17bc-432c-85b9-af9514b61735"
+    "abilityGroupId": "754875b3-41d9-4510-8bc6-dd208a45131a"
   },
   {
-    "id": "29c22483-0214-40a5-8a96-bdf524641b87",
+    "id": "f21059a9-fc2f-4e78-b6e1-8ee0dcbeb0b2",
     "name": "Re-form Ranks",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -4427,7 +4427,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a4a47c63-d8a5-4607-b8a2-4f07c43a6762"
+    "abilityGroupId": "0e7195cc-62e4-4d6f-9c8c-6515dfb0348c"
   },
   {
     "id": "c949539f-dcad-4883-a87a-7d30af63acc4",
@@ -4445,7 +4445,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8be077b8-1a8a-477a-97d7-59971d02d8a4"
+    "abilityGroupId": "d5293177-d381-43df-a373-2aef370f3e3f"
   },
   {
     "id": "046d1470-dc00-4369-b18f-167ff88222f0",
@@ -4463,7 +4463,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c4291fb5-542d-4046-b60d-d1c703576ba2"
+    "abilityGroupId": "a522a32e-063e-4c2c-993e-7dd76113c702"
   },
   {
     "id": "0d211d69-1f04-4c35-bb22-1ae9b47dea6f",
@@ -4481,7 +4481,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5ea47868-afd2-4896-ac6e-684ae98f776a"
+    "abilityGroupId": "862f29ff-77ca-48b8-9ca1-b18014c24fcb"
   },
   {
     "id": "5c5c76ce-0bbf-49de-9a97-fd54aef4a594",
@@ -4499,7 +4499,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b046539f-84b9-4013-84f7-a5f015683895"
+    "abilityGroupId": "a434183f-b0b4-4c04-9c86-bc51d0bc9efe"
   },
   {
     "id": "efae995b-c513-458f-ae8b-fe9c2b7a6b7f",
@@ -4517,7 +4517,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2e94b77f-6cc6-42af-97aa-98c7cb504b57"
+    "abilityGroupId": "c3d55f19-c01f-4078-ba02-61cc8e92960a"
   },
   {
     "id": "025f782b-50fb-42b8-a222-d7f70fb18eb4",
@@ -4535,7 +4535,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "777ed49b-de9d-4af5-b5df-031bd6adb710"
+    "abilityGroupId": "2cf6ac14-6f32-45f3-a726-b67efe63f27d"
   },
   {
     "id": "5a6ee6f3-7c7e-4b3c-a75b-3bea94e32f7b",
@@ -4553,7 +4553,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "229d4bb6-f38f-4913-b0f5-abd6605dc130"
+    "abilityGroupId": "d65eba51-227d-45d6-806a-96aeae3fc4b5"
   },
   {
     "id": "923064b9-88ee-4304-bfdf-4f4eb226bb93",
@@ -4571,7 +4571,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d6be0b46-92c8-46ee-a396-2eb84dd8a294"
+    "abilityGroupId": "cfd2dca9-c83f-4cd2-9b4b-99a7276eb3c0"
   },
   {
     "id": "dd268c72-ce24-4a59-8059-827e8095a3e4",
@@ -4589,7 +4589,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a5cd0fe7-4ffd-43b8-817f-0931adb2eb28"
+    "abilityGroupId": "c801e4d6-5dd2-4277-850d-a3d8a95c29e5"
   },
   {
     "id": "49f3e4ad-4da4-4160-9ff4-c4c19bd6582d",
@@ -4607,7 +4607,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2175bafc-2b50-4dc5-b6d6-2db2fbdf578d"
+    "abilityGroupId": "4acbbefb-0838-4c98-a2bf-11ee27230582"
   },
   {
     "id": "b20f6ab0-57d7-4754-a212-c11e519d2dca",
@@ -4625,7 +4625,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0e4cbce7-3784-412d-80c3-2545401f121b"
+    "abilityGroupId": "b0d58710-b89e-4017-8c4b-ec611451585e"
   },
   {
     "id": "39dc7d04-71a5-49be-be00-ca9496242cb5",
@@ -4643,10 +4643,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0ac310f8-cf24-4ff6-938a-d9604de99431"
+    "abilityGroupId": "cdaec609-b0cd-4839-8014-0009ce10003e"
   },
   {
-    "id": "f60db49e-fdae-4433-a5d5-197d97b4b4c0",
+    "id": "9aaf92a8-140a-4e5e-88f4-c384d36b3f04",
     "name": "Heads Must Roll",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -4661,7 +4661,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "01fa21b9-9e7a-47ad-98ed-bc7be0321629"
+    "abilityGroupId": "8a90c28d-4cb1-49ca-9c6d-76926f32e015"
   },
   {
     "id": "da9036b1-183a-4fef-8dd9-fcdf42a83b12",
@@ -4679,7 +4679,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "3c3c062f-0c4f-4f5b-ac02-9c66a7b9fff1"
+    "abilityGroupId": "f640da60-8d57-4ae7-b028-bfa07ddc1372"
   },
   {
     "id": "cf0a9b0d-df7f-45fa-85ff-be31cc568cca",
@@ -4697,7 +4697,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88634d31-7799-4212-9707-3c62bf37ce65"
+    "abilityGroupId": "a5b83144-5c8d-48df-b0f7-07a15b7b6f4e"
   },
   {
     "id": "f0b224d7-388c-4a8a-ab82-8bf0afda3651",
@@ -4715,7 +4715,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0fc1b244-d07f-4cb2-8482-2318aceb3ccf"
+    "abilityGroupId": "09d9f3b3-8e4a-4ea9-bc46-5b0b856d8964"
   },
   {
     "id": "945ff774-f351-4d2f-824c-58850cd433e1",
@@ -4733,10 +4733,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6f38f93e-8cc4-4ffc-803d-ca217738006c"
+    "abilityGroupId": "bfae17c1-893d-46bb-a3dc-34746a9205fb"
   },
   {
-    "id": "dc8649d3-08a3-47a0-a527-3346f26ad130",
+    "id": "601bb18b-adca-496a-8cdf-b2723e47e5dd",
     "name": "Noble Deeds",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -4751,7 +4751,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b30d758e-9d23-4127-8b5b-799feaf27a19"
+    "abilityGroupId": "9412a956-ec0b-4c7e-90b1-162d2967d8e4"
   },
   {
     "id": "0be24720-904b-4292-ad12-867e0596e4fa",
@@ -4769,7 +4769,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "53efbf4a-9451-4e3c-9fe7-abc2f6fab583"
+    "abilityGroupId": "47cb90e1-f7de-4c91-bb19-a2b9102daa97"
   },
   {
     "id": "217dbf31-a5fb-44dc-8939-e33d83ed5258",
@@ -4787,7 +4787,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9be5ea68-6adc-4d4a-9a8c-508cbfbb7ae8"
+    "abilityGroupId": "0525a999-c1a0-4058-a6c1-1514dbccf556"
   },
   {
     "id": "bd9b3fe9-7350-43e9-9869-7b4b6df473e6",
@@ -4805,7 +4805,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8df76f2f-d8b7-4901-8a5c-86a544dcd416"
+    "abilityGroupId": "556607f4-710e-4192-acda-792a960b365a"
   },
   {
     "id": "050eadd1-9638-4310-867f-01955993e47e",
@@ -4823,10 +4823,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "dea97093-fe1c-480d-9da9-18e2cc5edf98"
+    "abilityGroupId": "7d567adf-e1f2-4d9e-8eba-39094cdc10db"
   },
   {
-    "id": "16301482-a66e-467c-b89e-5e4148e210f4",
+    "id": "320a8298-b595-46bc-8aa4-8fd8b9e605ba",
     "name": "Timberrrrr!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -4841,7 +4841,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "53efbf4a-9451-4e3c-9fe7-abc2f6fab583"
+    "abilityGroupId": "47cb90e1-f7de-4c91-bb19-a2b9102daa97"
   },
   {
     "id": "b9d1a688-b9db-4711-b718-dbc9c838871c",
@@ -4859,7 +4859,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0e2374a9-f2ad-4b6a-924e-d31dc895ffee"
+    "abilityGroupId": "166cb858-1d0c-4dd4-aac9-9170bec06226"
   },
   {
     "id": "a09d3039-47bc-411a-b001-a7f29783d6ad",
@@ -4877,7 +4877,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e771cc58-dcf0-4e5c-bc58-bcb60e07c0e4"
+    "abilityGroupId": "8dd6dbc6-a8cd-4b5d-b0b5-87c6d7127c72"
   },
   {
     "id": "0a5564f0-e5af-4ab1-ac54-e112ba06c519",
@@ -4895,7 +4895,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "22e95235-241f-48ab-ab4d-6f2bbebaa0f0"
+    "abilityGroupId": "dfa595cd-e058-4ce5-a98b-8d38d428985f"
   },
   {
     "id": "873467b0-d677-41ce-8ae2-fe8c901f0d66",
@@ -4913,7 +4913,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8ba9accf-e5c2-4498-9da9-7307ea8b4969"
+    "abilityGroupId": "29206868-322c-440a-88cc-867dbdde0f47"
   },
   {
     "id": "ea415d74-6b92-4b1c-94e6-9b078ae93011",
@@ -4931,7 +4931,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "90a069a8-96bb-4d97-97a6-2c772b698fea"
+    "abilityGroupId": "ecd7da03-a48d-4d0a-9e81-d43bc6ba0f1e"
   },
   {
     "id": "187e6c01-b0dc-422b-9c36-2ccc7212b98f",
@@ -4949,7 +4949,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "60797df5-2701-4075-9f3d-0dd7c2cf3cc1"
+    "abilityGroupId": "e931dd96-3dfb-4796-bf42-4c4619143517"
   },
   {
     "id": "1526d330-20ad-46b5-ad39-b649fb11fbba",
@@ -4967,7 +4967,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ba0cab67-6f25-466b-b9b8-65ae3f9d62ca"
+    "abilityGroupId": "7552e875-b9b0-4ca9-871b-a6896792df4d"
   },
   {
     "id": "83107346-61ec-48bc-9b73-715279c14028",
@@ -4985,7 +4985,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88fb58b7-17f6-433a-ae0e-64cc3c5439d5"
+    "abilityGroupId": "1c7a4bbd-e430-4538-b8ca-a9ade56e6905"
   },
   {
     "id": "b502c06a-0cf4-43d1-b0b7-0a22e06dee87",
@@ -5003,7 +5003,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9cbe38b4-bd3b-4757-9c6c-dfc4f6c45354"
+    "abilityGroupId": "273f29f6-4e11-4464-8fdf-db8e34d2db8b"
   },
   {
     "id": "572f5585-4bd5-455e-bb0f-125c3e9bedd2",
@@ -5021,7 +5021,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "69fb62d7-4e68-48ad-970a-fc56dff087b7"
+    "abilityGroupId": "cb4fec1e-58c4-4404-8047-7234ac6c2c2b"
   },
   {
     "id": "8b2aea4d-aafd-4e9c-8d44-8560c0c3cc30",
@@ -5039,10 +5039,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5ea47868-afd2-4896-ac6e-684ae98f776a"
+    "abilityGroupId": "862f29ff-77ca-48b8-9ca1-b18014c24fcb"
   },
   {
-    "id": "8b2aea4d-aafd-4e9c-8d44-8560c0c3cc30",
+    "id": "2ff0885c-6a50-4396-8300-ac618f798588",
     "name": "Delicious Morsels",
     "phaseDetails": "Once Per Turn, Any Movement Phase",
     "phase": "movementPhase",
@@ -5057,7 +5057,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d4a74133-37e3-42ef-a634-a3c4109c3f3b"
+    "abilityGroupId": "31c986ee-83d0-4154-819e-5bff4b906e0c"
   },
   {
     "id": "98aabf15-3757-463a-ba10-5bdd4a2718ac",
@@ -5075,7 +5075,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "229d4bb6-f38f-4913-b0f5-abd6605dc130"
+    "abilityGroupId": "d65eba51-227d-45d6-806a-96aeae3fc4b5"
   },
   {
     "id": "2f73b174-4f64-432c-8ebd-a522c84c0b3e",
@@ -5093,7 +5093,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "95774047-35d1-4247-942b-03b63c448550"
+    "abilityGroupId": "f991ca66-2a43-40ed-ada7-4300bc8bdeae"
   },
   {
     "id": "ffed7e1b-ee49-4776-992b-daa78e2f34f5",
@@ -5111,7 +5111,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4001897c-f6d7-445e-9290-6e8d4b6b5ee1"
+    "abilityGroupId": "33b042ac-eefd-49c0-be21-6ea831c3893f"
   },
   {
     "id": "0e308e43-a00b-49a8-b7ee-f5e339e58cab",
@@ -5129,7 +5129,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "028d1b7e-17bc-432c-85b9-af9514b61735"
+    "abilityGroupId": "754875b3-41d9-4510-8bc6-dd208a45131a"
   },
   {
     "id": "92ec2bc8-cf0e-4113-8d68-0fa7e152a1d8",
@@ -5147,7 +5147,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "013787e5-a464-430e-a7f6-7cbb93bb5722"
+    "abilityGroupId": "34e3ff14-bdce-4946-a9cf-3f8eb24bc9b6"
   },
   {
     "id": "9f74c11a-0e5e-44e2-9160-23a2dc0b2b03",
@@ -5165,7 +5165,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88543fa1-e02e-4d11-a618-a77edf6c38ff"
+    "abilityGroupId": "f029ff64-0a68-4e1f-8c51-2186963e6c31"
   },
   {
     "id": "d2d75c8d-4f5c-4c42-a965-bb7f5fe8e2c5",
@@ -5183,7 +5183,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2175bafc-2b50-4dc5-b6d6-2db2fbdf578d"
+    "abilityGroupId": "4acbbefb-0838-4c98-a2bf-11ee27230582"
   },
   {
     "id": "c381751e-c3aa-4cca-9beb-89c375f8e2e2",
@@ -5201,7 +5201,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4086cc2d-fd40-4048-8742-7cee35f3d6fc"
+    "abilityGroupId": "6f20c21b-6964-419a-88d3-efd582a815dd"
   },
   {
     "id": "abe0643e-58db-4ab8-bd52-ce8566d0833e",
@@ -5219,7 +5219,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0fc1b244-d07f-4cb2-8482-2318aceb3ccf"
+    "abilityGroupId": "09d9f3b3-8e4a-4ea9-bc46-5b0b856d8964"
   },
   {
     "id": "117f6dbd-a319-4bb8-83a2-3e5f486f0e9c",
@@ -5237,7 +5237,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8ba9accf-e5c2-4498-9da9-7307ea8b4969"
+    "abilityGroupId": "29206868-322c-440a-88cc-867dbdde0f47"
   },
   {
     "id": "48206ab6-d1f9-437f-876a-f8d87a9cabf0",
@@ -5255,7 +5255,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "777ed49b-de9d-4af5-b5df-031bd6adb710"
+    "abilityGroupId": "2cf6ac14-6f32-45f3-a726-b67efe63f27d"
   },
   {
     "id": "36d3d39c-01c1-4c3c-a579-f240074b9116",
@@ -5273,10 +5273,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a4a47c63-d8a5-4607-b8a2-4f07c43a6762"
+    "abilityGroupId": "0e7195cc-62e4-4d6f-9c8c-6515dfb0348c"
   },
   {
-    "id": "39dc7d04-71a5-49be-be00-ca9496242cb5",
+    "id": "a84b3c36-8b96-462f-be0b-7ed4b10d89be",
     "name": "Strike and Fade",
     "phaseDetails": "Once Per Turn, End of Any Turn",
     "phase": "endOfTurn",
@@ -5291,7 +5291,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "fad133f1-985e-4509-a9b0-320d5042db1f"
+    "abilityGroupId": "f250aa23-02d7-44d6-b6de-1696cbc09370"
   },
   {
     "id": "7f59126a-4b31-4bde-a5dc-188717b3d5f2",
@@ -5309,7 +5309,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b046539f-84b9-4013-84f7-a5f015683895"
+    "abilityGroupId": "a434183f-b0b4-4c04-9c86-bc51d0bc9efe"
   },
   {
     "id": "b294a3cd-bdb6-4d27-b3bc-b1918f7f49bd",
@@ -5327,7 +5327,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "20286925-abb4-49a8-a72a-1dcc0733847a"
+    "abilityGroupId": "45acb8a7-0e9a-48ad-b807-b450d3617811"
   },
   {
     "id": "ad3457a6-1f6e-4aca-a482-d8200d771a76",
@@ -5345,7 +5345,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0e2374a9-f2ad-4b6a-924e-d31dc895ffee"
+    "abilityGroupId": "166cb858-1d0c-4dd4-aac9-9170bec06226"
   },
   {
     "id": "bd28d84d-e83e-4cb1-ab63-b81da133751c",
@@ -5363,7 +5363,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c07a8d4f-cbe4-4611-9543-a04c9ac1291b"
+    "abilityGroupId": "6f1e67a7-1824-4a7c-9255-d4d75df140a0"
   },
   {
     "id": "ed2cbabd-23e1-465a-8a28-25415d84e4b4",
@@ -5381,7 +5381,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "407ad9ba-8621-44b8-ba56-96f7b06c67c5"
+    "abilityGroupId": "edc740c7-afe3-4cee-b113-ee3d89099aa1"
   },
   {
     "id": "8f6896cd-16e8-4440-8eea-3131808002c1",
@@ -5399,7 +5399,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e57827f9-3f0f-4a4e-a7c3-84d9874bae24"
+    "abilityGroupId": "9a5eb069-e12a-47e8-9b1f-f85df968d623"
   },
   {
     "id": "474430d2-0397-44b2-b7fa-e1cf2851c3a1",
@@ -5417,7 +5417,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2a266749-52e0-42eb-8c8a-3b89d926fb0e"
+    "abilityGroupId": "ce3edf5b-ef8f-4d7a-9c3a-3ca9e7675590"
   },
   {
     "id": "a2f198b7-6490-4a14-946f-e475b7e30201",
@@ -5435,7 +5435,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4da09934-156d-4938-8d56-ccb188c60c25"
+    "abilityGroupId": "00e42815-d38b-41cc-b130-e6fec0c28ba2"
   },
   {
     "id": "4a061c96-1220-4247-8437-dfb5d957a8c3",
@@ -5453,7 +5453,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6cde533e-3597-475a-8620-8b075ad5dec7"
+    "abilityGroupId": "e1b2e6c2-ffe9-46c8-8efd-6675e51868fd"
   },
   {
     "id": "aeda990f-2144-426d-92f8-6ceaa7277bc6",
@@ -5471,7 +5471,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "81eb7dfa-6262-4b84-8b3c-79fd2580349a"
+    "abilityGroupId": "6f156cfc-abb7-419d-b85f-528ea8d62564"
   },
   {
     "id": "d1b28725-5fd3-4ad0-9a00-3fc825f87730",
@@ -5489,7 +5489,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f775861e-14d1-4141-a8b9-46a2fc7882ec"
+    "abilityGroupId": "e72bfa74-6eb0-4e81-84a2-c09b61dff976"
   },
   {
     "id": "b3ec178d-5dea-41b5-9c24-b0870fd6db9a",
@@ -5507,7 +5507,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6599745d-18f6-471c-8317-002fa5de055a"
+    "abilityGroupId": "09f9eea9-e79c-4306-956e-f6201421f31f"
   },
   {
     "id": "a8b0e3ae-5bb8-4026-8cee-4e03194665f2",
@@ -5525,7 +5525,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2eb61215-31aa-414d-89e0-b2eb8825d226"
+    "abilityGroupId": "52460dab-68a1-4f9c-8a90-6511075f1109"
   },
   {
     "id": "bd8c947c-fde4-4bc0-be62-04f4cfb443ec",
@@ -5543,7 +5543,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2175bafc-2b50-4dc5-b6d6-2db2fbdf578d"
+    "abilityGroupId": "4acbbefb-0838-4c98-a2bf-11ee27230582"
   },
   {
     "id": "160c6f76-db6e-43d7-a2e1-52f27f386b25",
@@ -5561,7 +5561,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "40ef41de-d49b-4919-baf4-bdc725ed4f65"
+    "abilityGroupId": "22a6aa92-0e23-455f-b2f8-6cd30bc44230"
   },
   {
     "id": "88073a84-122e-4790-ac51-62a7f8c1a380",
@@ -5579,7 +5579,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0c2ee9ef-f7dd-4f6f-98fa-7f92d503a0e7"
+    "abilityGroupId": "4a11f24d-91a5-413d-aab6-c8077bbe4f53"
   },
   {
     "id": "bf2b2694-b6d6-4fb8-a224-660ad8ef8e7c",
@@ -5597,10 +5597,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "84402496-f435-47e6-a2fa-b3842d2be89c"
+    "abilityGroupId": "f1057714-9689-4b8b-acbe-e0c7d7b17cd3"
   },
   {
-    "id": "c9113104-c786-428b-9f58-85734a3bc890",
+    "id": "d7d2e299-d1f6-4121-a7bd-a2cfd04317db",
     "name": "Power of Hysh",
     "phaseDetails": "Once Per Turn (Army), Your Hero Phase",
     "phase": "heroPhase",
@@ -5615,7 +5615,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "467a38ed-fdd6-4679-ad53-f9ac3c28fac4"
+    "abilityGroupId": "02caeb4f-dfbd-48a4-99d7-d54a9b4a71a8"
   },
   {
     "id": "5fd93f25-9b15-417d-aabe-f4a717505390",
@@ -5633,7 +5633,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "54fceb59-33f3-4dd8-8d81-0c451e8bdd12"
+    "abilityGroupId": "3c6217a1-1ef4-4d33-b36e-45e2e041acb7"
   },
   {
     "id": "eaab8366-57b7-41df-aefb-9dd623613e2f",
@@ -5651,7 +5651,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "1d73dfca-68bf-44b6-82da-1af18eeebbf4"
+    "abilityGroupId": "99294de4-7bbd-4bf5-a38d-08eea010c820"
   },
   {
     "id": "bbe6a911-488e-4868-96dd-ad49d1456f6a",
@@ -5669,7 +5669,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "13c9f8c5-2dd0-49bb-a762-1229d44400f8"
+    "abilityGroupId": "217f44f5-e011-40cc-9111-5401e38fd7f3"
   },
   {
     "id": "2b6a97d1-4172-410d-b5a3-5cba65851db0",
@@ -5687,7 +5687,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "34dd15c0-2132-42cd-9d83-4db573d38023"
+    "abilityGroupId": "173a03fb-5168-4124-8241-1fd581d4159a"
   },
   {
     "id": "bde2b8d0-a5f8-4b30-be24-c5aed1e2f2b3",
@@ -5705,10 +5705,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2e94b77f-6cc6-42af-97aa-98c7cb504b57"
+    "abilityGroupId": "c3d55f19-c01f-4078-ba02-61cc8e92960a"
   },
   {
-    "id": "bd28d84d-e83e-4cb1-ab63-b81da133751c",
+    "id": "b9491187-ede7-497d-a104-c55edd6a9e6c",
     "name": "The Blood Tithe",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -5723,7 +5723,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "01fa21b9-9e7a-47ad-98ed-bc7be0321629"
+    "abilityGroupId": "8a90c28d-4cb1-49ca-9c6d-76926f32e015"
   },
   {
     "id": "fcfc696d-607f-4ce5-9e6f-fecadf633097",
@@ -5741,7 +5741,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "84402496-f435-47e6-a2fa-b3842d2be89c"
+    "abilityGroupId": "f1057714-9689-4b8b-acbe-e0c7d7b17cd3"
   },
   {
     "id": "8df0dad4-6eff-4d29-b018-a19328ab139e",
@@ -5759,7 +5759,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "18ca3cc5-d1bb-453d-9724-6fd9ccffd766"
+    "abilityGroupId": "eaeaa1b0-3fb6-46e7-bfae-f384d84500d0"
   },
   {
     "id": "ea5370be-c119-4cf0-b605-0b8574627dc2",
@@ -5777,10 +5777,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "490dd9ae-0c7e-4b56-9c9c-d9c4a6dcaaf9"
+    "abilityGroupId": "87314d2b-cb81-488b-8645-b39eb99ac4a1"
   },
   {
-    "id": "945ff774-f351-4d2f-824c-58850cd433e1",
+    "id": "7c6b233f-72b0-4007-b357-4c089e56dc2b",
     "name": "Gift of Febrile Frenzy",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -5795,7 +5795,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "dea97093-fe1c-480d-9da9-18e2cc5edf98"
+    "abilityGroupId": "7d567adf-e1f2-4d9e-8eba-39094cdc10db"
   },
   {
     "id": "724a9a20-c220-46c4-974a-8e276409070f",
@@ -5813,7 +5813,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a95f7ff2-488c-470a-a3a4-e99075c6a154"
+    "abilityGroupId": "0f068bb9-3db4-4889-928c-2d05b657a8c6"
   },
   {
     "id": "3b0b2f4f-9d1b-4003-b265-da7f7012a3b8",
@@ -5831,7 +5831,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2f05c70f-c5c9-49c1-b693-9a40375d707e"
+    "abilityGroupId": "f5c95141-017a-4f6e-a73d-efddf8e2281a"
   },
   {
     "id": "253f83f2-37ac-4edf-98b8-24c4efc9cc6d",
@@ -5849,7 +5849,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "1a6ee249-2b7f-42de-80a9-d681f60ce861"
+    "abilityGroupId": "43901985-6af9-445d-934d-7561891cf84d"
   },
   {
     "id": "aa2b365a-b4aa-486a-a2ff-0b41ccec2d3e",
@@ -5867,7 +5867,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c1f8f3f9-cd7e-4029-bd88-355e30496ad8"
+    "abilityGroupId": "04064ac6-3849-4486-8453-46924eccb4a2"
   },
   {
     "id": "fdcf3e13-1c3b-4601-9480-3e991796477b",
@@ -5885,7 +5885,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c5f44957-b4b4-4f58-b3cc-606ce0177fde"
+    "abilityGroupId": "d00ac56e-345d-4822-a5f9-602c0e27bef5"
   },
   {
     "id": "1a469e5d-13bb-4a52-b65e-e88b69aec351",
@@ -5903,7 +5903,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7c14dae0-d495-4396-87a9-2b54b0d82fcf"
+    "abilityGroupId": "eea78bb8-296c-4906-bff8-3c0a53cc7868"
   },
   {
     "id": "d1187d19-4c4b-4626-b5a6-19be1be79fdc",
@@ -5921,7 +5921,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "1d73dfca-68bf-44b6-82da-1af18eeebbf4"
+    "abilityGroupId": "99294de4-7bbd-4bf5-a38d-08eea010c820"
   },
   {
     "id": "3dc94d1a-662a-4826-9d1d-467bec289f2f",
@@ -5939,10 +5939,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "89a9cc93-d598-4290-9f7f-3fc695841109"
+    "abilityGroupId": "73ad4abf-2ba5-4183-93d7-ef87c02a071d"
   },
   {
-    "id": "1a469e5d-13bb-4a52-b65e-e88b69aec351",
+    "id": "d92bfe2d-8e85-49ae-ad23-232e24203f31",
     "name": "Favoured of Khorne",
     "phaseDetails": "Passive",
     "phase": "startOfTurn",
@@ -5957,7 +5957,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0ad23592-b81b-4ece-a4b7-a4ef1c44f734"
+    "abilityGroupId": "59960dae-a204-4f93-ad48-3df3c371dff5"
   },
   {
     "id": "d35c0289-23a0-4ef8-b31b-fc75f72940c8",
@@ -5975,7 +5975,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "cbb856bc-064e-45bd-8c39-8db6eaf55369"
+    "abilityGroupId": "ce2130ab-8b8a-4ff5-a0f6-f4a98015c85b"
   },
   {
     "id": "f2bfb90a-c32e-4207-9269-7bea28e6c8b0",
@@ -5993,10 +5993,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "17c01b4e-055e-4e89-9a24-1db614988d5a"
+    "abilityGroupId": "136c5234-f4d0-4150-8fc6-2ea887c8a385"
   },
   {
-    "id": "16301482-a66e-467c-b89e-5e4148e210f4",
+    "id": "1c44a401-9791-45d7-8e17-edc04d8e55cd",
     "name": "Timberrrrr!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -6011,7 +6011,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a7ad1958-293a-43b9-a487-ae66efd133e8"
+    "abilityGroupId": "acc21770-cb67-49ad-9a53-b3757d582776"
   },
   {
     "id": "65b18bf6-66e5-4ee7-b479-0ab54e85cbd2",
@@ -6029,7 +6029,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ea945785-f6b6-4dc4-8304-0f61d6bb4e18"
+    "abilityGroupId": "0ea921fc-592c-427c-a923-ab0bf63946fe"
   },
   {
     "id": "5a45bda2-b69c-48d4-9743-13050cbd2a52",
@@ -6047,7 +6047,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "db98c2dd-4825-4775-972f-ff105a3a354d"
+    "abilityGroupId": "0d2a42c3-4a0c-4f00-a361-d1e190989908"
   },
   {
     "id": "16bf1023-6893-42c6-a2f5-ea76d99f1581",
@@ -6065,7 +6065,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "bb42a556-d0b6-4e7b-817d-99a2490e4050"
+    "abilityGroupId": "7636d0de-82d1-44d1-9347-500b7c7e1d73"
   },
   {
     "id": "6fc47f1d-1cda-414a-8874-5f6e7646fda8",
@@ -6083,7 +6083,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c47a9047-075f-4a1f-87dd-a174342f9d32"
+    "abilityGroupId": "2266b4c4-27a7-4f06-aa44-714e2b698682"
   },
   {
     "id": "9d762e3f-96c3-4391-b774-94d908643d36",
@@ -6101,7 +6101,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "89a9cc93-d598-4290-9f7f-3fc695841109"
+    "abilityGroupId": "73ad4abf-2ba5-4183-93d7-ef87c02a071d"
   },
   {
     "id": "53c62a7a-02c8-4585-8baa-9288e54d589b",
@@ -6119,7 +6119,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2a266749-52e0-42eb-8c8a-3b89d926fb0e"
+    "abilityGroupId": "ce3edf5b-ef8f-4d7a-9c3a-3ca9e7675590"
   },
   {
     "id": "6b3cf7a5-1d82-43df-b4e3-5c9662f82a5d",
@@ -6137,7 +6137,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9be5ea68-6adc-4d4a-9a8c-508cbfbb7ae8"
+    "abilityGroupId": "0525a999-c1a0-4058-a6c1-1514dbccf556"
   },
   {
     "id": "9503e2c1-8e30-41e1-91cd-7788d52dc5d6",
@@ -6155,7 +6155,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "db98c2dd-4825-4775-972f-ff105a3a354d"
+    "abilityGroupId": "0d2a42c3-4a0c-4f00-a361-d1e190989908"
   },
   {
     "id": "71b7449d-aeaf-4544-bb50-35daea795342",
@@ -6173,7 +6173,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f3a04375-c9c8-4418-add9-dfea6566d506"
+    "abilityGroupId": "a6e9a9c9-b8c8-4831-9d08-a5d1400767ce"
   },
   {
     "id": "4ad22c11-6835-4499-9243-01421905f4b6",
@@ -6191,7 +6191,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "50d9a7ed-3e96-4bfb-a77d-831667862a98"
+    "abilityGroupId": "49d0ece4-5180-4b60-972e-7cdf658712d9"
   },
   {
     "id": "b4118359-308c-4793-9fb0-8d17aea36d1c",
@@ -6209,10 +6209,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e771cc58-dcf0-4e5c-bc58-bcb60e07c0e4"
+    "abilityGroupId": "8dd6dbc6-a8cd-4b5d-b0b5-87c6d7127c72"
   },
   {
-    "id": "36ac7643-af1c-48e2-b788-1b7a08daa22f",
+    "id": "5d45dbd2-1cf9-4941-ab6b-ed75d0ad59ae",
     "name": "Booming Roar",
     "phaseDetails": "Passive",
     "phase": "endOfTurn",
@@ -6227,10 +6227,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "600b73ea-db81-4cb6-bcd2-a05ce1c75205"
+    "abilityGroupId": "360411a4-ead5-44f9-8456-688096c91f9c"
   },
   {
-    "id": "6b3cf7a5-1d82-43df-b4e3-5c9662f82a5d",
+    "id": "ed24bbce-1639-4784-ba81-e2e22059f7fa",
     "name": "Soulfire Ring",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -6245,7 +6245,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4a23672e-8c5e-46f2-bfb3-bee0c156679a"
+    "abilityGroupId": "67992ca0-1cac-43a9-8836-d8204b5cefa0"
   },
   {
     "id": "bdf8b1f7-ed79-4673-a09d-60af766cda28",
@@ -6263,7 +6263,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "decbd1fd-592d-44f7-8d95-cc695306ab6c"
+    "abilityGroupId": "a140a8a2-092e-41c6-8229-fee864ea1ac6"
   },
   {
     "id": "07914409-c627-493e-a628-16c0609adea0",
@@ -6281,7 +6281,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "01fa21b9-9e7a-47ad-98ed-bc7be0321629"
+    "abilityGroupId": "8a90c28d-4cb1-49ca-9c6d-76926f32e015"
   },
   {
     "id": "ea14f965-73dc-4e1b-b4f2-78a919b05f3f",
@@ -6299,10 +6299,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0f9f6991-c384-4b1a-81ce-553f534a897b"
+    "abilityGroupId": "161a80cf-d35d-4dd3-b4ce-ab56b7ce82e9"
   },
   {
-    "id": "e464cbb2-8a21-4c05-8793-b442f76a78e7",
+    "id": "5de3f042-21e0-46b7-99ba-66e07e9e751d",
     "name": "Bathed in Blood",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -6317,7 +6317,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8c96ddaa-00f7-45b6-8a5b-85d375e5ff4c"
+    "abilityGroupId": "c5a1efda-1adb-4d15-81aa-1fae36b3f2d0"
   },
   {
     "id": "123ac5e9-ebf0-46d1-a2e3-6bc66422cb58",
@@ -6335,7 +6335,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "35cbd082-aba8-49f0-bd3f-edf77875a211"
+    "abilityGroupId": "eac356b3-8819-4017-8e91-924adeb323f5"
   },
   {
     "id": "013bc89a-6697-4024-a084-74af32cf427d",
@@ -6353,7 +6353,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88fb58b7-17f6-433a-ae0e-64cc3c5439d5"
+    "abilityGroupId": "1c7a4bbd-e430-4538-b8ca-a9ade56e6905"
   },
   {
     "id": "25976dc1-52e3-4ca4-8332-de11910ee9ae",
@@ -6371,7 +6371,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "abdff600-a78c-43d9-9d00-bd0524f80f1b"
+    "abilityGroupId": "47144d43-9959-44da-9eff-2e07a2996c6a"
   },
   {
     "id": "5782ed68-8da4-4d77-8ab4-6152f7949480",
@@ -6389,7 +6389,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "97baabc7-f3b9-4c89-9ca9-6be27101e054"
+    "abilityGroupId": "a9439b55-b1d9-45f7-b5bf-f83e00a84044"
   },
   {
     "id": "9f999f13-01e8-4c89-88ee-0e54afcc1eea",
@@ -6407,7 +6407,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7848b8e0-6922-46b7-be9e-196489ef2cc8"
+    "abilityGroupId": "02bf30ee-edcf-4555-99c2-97e9b9dc3870"
   },
   {
     "id": "4025ced0-ddd7-4507-87ac-3a9df18c47c6",
@@ -6425,7 +6425,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7b70d11c-21bf-464f-baa6-68919e0d763c"
+    "abilityGroupId": "b54f902e-fd38-495c-ba4e-274aad1f4b47"
   },
   {
     "id": "45e78486-fc1d-4a21-8218-15bbc663f855",
@@ -6443,7 +6443,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9d165c0e-017f-4d7d-afbb-130e05d7800b"
+    "abilityGroupId": "4c0a8688-deaf-46f1-9afb-1e485c0aa3a0"
   },
   {
     "id": "3eae3dec-c26e-4235-8737-2a9b3e9badba",
@@ -6461,7 +6461,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2377b903-6548-4e2f-867f-16bab2696363"
+    "abilityGroupId": "6d3bfd21-8191-4bd3-94bc-2d65211bcecc"
   },
   {
     "id": "ddec4a45-ae14-4980-bbf5-0759ac0f2d8c",
@@ -6479,7 +6479,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c5f44957-b4b4-4f58-b3cc-606ce0177fde"
+    "abilityGroupId": "d00ac56e-345d-4822-a5f9-602c0e27bef5"
   },
   {
     "id": "ae1dec21-9aca-4ca5-bee8-46d7d7b3775b",
@@ -6497,7 +6497,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "09ea7e0f-f1e4-48d6-ae4c-7b4939e3fa15"
+    "abilityGroupId": "4c811d6d-6981-475d-ae9f-1043454b9c32"
   },
   {
     "id": "0b1e0b19-11af-4cd1-8173-1c1bae6e59cd",
@@ -6515,7 +6515,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "59b70ad1-8e4f-4f0c-bc9d-01dd9bde7565"
+    "abilityGroupId": "52939748-4e99-46e6-9c3d-a34547f0f5d4"
   },
   {
     "id": "c7bd411c-6053-441f-8c11-29be1d0109ea",
@@ -6533,10 +6533,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9fd706eb-9305-4650-a6dc-8ae0ceb13012"
+    "abilityGroupId": "70f4ebef-42ad-4c02-83c4-f20e987741a0"
   },
   {
-    "id": "16301482-a66e-467c-b89e-5e4148e210f4",
+    "id": "4f2c479d-ee4c-4f0b-9165-a27ba9dd90c6",
     "name": "Timberrrrr!",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -6551,10 +6551,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2e769f8b-0eb4-45c0-9adc-026a6543093a"
+    "abilityGroupId": "de179cdb-07b5-43f1-86bb-479d16742291"
   },
   {
-    "id": "ae505c9e-2662-41d3-8734-dd00d0d1bd75",
+    "id": "cd3e9c27-2f62-4b4e-abc4-0b38e20ea89c",
     "name": "Cloaked in Shadow",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -6569,7 +6569,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9be5ea68-6adc-4d4a-9a8c-508cbfbb7ae8"
+    "abilityGroupId": "0525a999-c1a0-4058-a6c1-1514dbccf556"
   },
   {
     "id": "6c6d7a80-05b1-4be8-bc77-2ef38017783a",
@@ -6587,7 +6587,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f29d576c-cdc5-4a00-bc36-5ead62cf35a5"
+    "abilityGroupId": "9125c3c5-3ff9-4e0a-9a56-38a7da277ed4"
   },
   {
     "id": "3a0997f6-7948-4869-9d0f-0bff3b3a838c",
@@ -6605,7 +6605,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3f66ff66-e229-41e2-9149-6cbb9cac5fa9"
+    "abilityGroupId": "d94ba937-bc39-45c5-9e47-3cf318d50567"
   },
   {
     "id": "df7db93f-d47d-4e2c-80fc-0f6bbe0d1580",
@@ -6623,7 +6623,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "76929063-1f3b-4094-833c-638aac9a9d3e"
+    "abilityGroupId": "ca44560b-06aa-45ff-9f86-6e3d03c98908"
   },
   {
     "id": "2b8db1ff-1158-499c-a226-bb6c2e641cd0",
@@ -6641,7 +6641,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ab0e6df6-33bc-4901-ad23-27bc3d6cd66e"
+    "abilityGroupId": "c79203ba-0d95-4d36-b346-e4d50a051a30"
   },
   {
     "id": "1dc4e0a4-acec-47fb-b122-2ffa7ce02292",
@@ -6659,7 +6659,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c54178fc-790c-45ab-91ed-e17f60374b54"
+    "abilityGroupId": "bb8cc0b4-1d36-4afa-b092-abfd9f449327"
   },
   {
     "id": "ce212b31-dc05-4698-b148-7f915d758080",
@@ -6677,7 +6677,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "76929063-1f3b-4094-833c-638aac9a9d3e"
+    "abilityGroupId": "ca44560b-06aa-45ff-9f86-6e3d03c98908"
   },
   {
     "id": "036c3e23-9c48-4cff-b192-a46d3bb7a050",
@@ -6695,7 +6695,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7414f389-4b1f-4d61-a7d6-fce8503c6beb"
+    "abilityGroupId": "3e3ae904-4ff7-4089-830b-5bdaad47bf28"
   },
   {
     "id": "15a6b167-34b6-42ea-951a-eaaf608e6753",
@@ -6713,7 +6713,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "95774047-35d1-4247-942b-03b63c448550"
+    "abilityGroupId": "f991ca66-2a43-40ed-ada7-4300bc8bdeae"
   },
   {
     "id": "14a162d7-5962-40e4-b1b8-25247fb9d5ea",
@@ -6731,7 +6731,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "fc337b88-fc60-48b3-9e30-d74c899e2ab8"
+    "abilityGroupId": "77cc4f84-822d-462a-9e53-931e4ac8d4a3"
   },
   {
     "id": "590abbae-4b94-42f4-b7fe-34411819527d",
@@ -6749,7 +6749,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "09ea7e0f-f1e4-48d6-ae4c-7b4939e3fa15"
+    "abilityGroupId": "4c811d6d-6981-475d-ae9f-1043454b9c32"
   },
   {
     "id": "5b2b52a8-09d1-409f-8dfb-76018c4b8c9c",
@@ -6767,7 +6767,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c4291fb5-542d-4046-b60d-d1c703576ba2"
+    "abilityGroupId": "a522a32e-063e-4c2c-993e-7dd76113c702"
   },
   {
     "id": "2e8856d5-9a0f-4d24-9bb5-cab68e5829b6",
@@ -6785,7 +6785,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "20a2d0ad-2d03-4661-a34f-83a4ceb7df59"
+    "abilityGroupId": "7320397e-2d45-4b5d-b597-c3467f94d670"
   },
   {
     "id": "b27f6250-8be6-4f27-8c46-b06c290fef55",
@@ -6803,7 +6803,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d4abc71a-9d70-4533-87b2-d798d86d4a37"
+    "abilityGroupId": "ac0873ed-56fb-411d-b20f-74a30bf63995"
   },
   {
     "id": "82749b35-a294-4271-ac1d-63cc7b5cca22",
@@ -6821,7 +6821,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ddd7103b-a13a-4e26-b9ed-9fa3d69842a0"
+    "abilityGroupId": "05d2b71f-c0ea-4bff-a000-f41fb79f9423"
   },
   {
     "id": "2174b11e-ad1d-46c1-b8a8-7daf78093acb",
@@ -6839,7 +6839,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "90a069a8-96bb-4d97-97a6-2c772b698fea"
+    "abilityGroupId": "ecd7da03-a48d-4d0a-9e81-d43bc6ba0f1e"
   },
   {
     "id": "7674fdce-5327-4955-8f1a-6bfa5a617d22",
@@ -6857,7 +6857,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7339a505-224d-4bd2-a9de-d7191d7134c7"
+    "abilityGroupId": "80e0e2a0-8e8f-4b47-8516-abd8c062739a"
   },
   {
     "id": "d60e18af-5ff7-42a4-86d0-9e8bb77c03b3",
@@ -6875,7 +6875,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f1ca4813-4fc4-49c8-a0aa-fc5317964eed"
+    "abilityGroupId": "3442fa58-bf80-4455-bd43-071d00c5fe32"
   },
   {
     "id": "4ea58d4c-b7aa-4d4d-9dfc-35b4260fbec6",
@@ -6893,7 +6893,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "35cbd082-aba8-49f0-bd3f-edf77875a211"
+    "abilityGroupId": "eac356b3-8819-4017-8e91-924adeb323f5"
   },
   {
     "id": "b136bdbc-4b29-4517-bc5b-5d93b4d7ab94",
@@ -6911,7 +6911,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "725c6803-98cd-4eeb-bbf2-188f332954da"
+    "abilityGroupId": "e3d33262-9146-4c36-be58-7d47973b1312"
   },
   {
     "id": "b7c78bce-15f1-4aee-97d1-c8e700508568",
@@ -6929,7 +6929,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b8834398-07f3-4113-ac35-8c7342fb02ea"
+    "abilityGroupId": "e70429b0-218b-462f-8de6-bc60c8ff4df7"
   },
   {
     "id": "d2878b45-6e42-44d0-a4b5-e051b6e2b570",
@@ -6947,7 +6947,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "67c1b649-62ca-4afd-95bb-2ff9d0b86e8e"
+    "abilityGroupId": "eac38081-ea6e-4e54-a805-bd3115e9ec9e"
   },
   {
     "id": "8792684c-b77c-43ca-bb5f-155db122969e",
@@ -6965,10 +6965,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "4a23672e-8c5e-46f2-bfb3-bee0c156679a"
+    "abilityGroupId": "67992ca0-1cac-43a9-8836-d8204b5cefa0"
   },
   {
-    "id": "4427d243-bc74-41ef-8a14-17f6bd942043",
+    "id": "1e1fc688-4ad5-4749-b691-cd8befaa6f34",
     "name": "The Clammy Cowl",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -6983,7 +6983,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "06c7482e-0d14-4538-807e-70a9434c9644"
+    "abilityGroupId": "b5533e7f-dbe8-44a6-b891-68c235d10fc8"
   },
   {
     "id": "ff18b122-44b6-4f91-947d-82bb658607fa",
@@ -7001,7 +7001,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3a9c824f-66a5-4e07-817f-d6004afaf369"
+    "abilityGroupId": "d1d38416-ab7d-4183-8789-d60dfa9ab176"
   },
   {
     "id": "a9d61fc7-0fad-41a5-831d-ae481cf3eef0",
@@ -7019,7 +7019,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4c0c7aaa-d79b-4f1a-865f-9d41da1560eb"
+    "abilityGroupId": "e9b8a5e1-60e8-4db2-9c8a-a55842576a0a"
   },
   {
     "id": "5a1c95ba-6272-44b1-98bd-f88ede7f49de",
@@ -7037,7 +7037,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0e2374a9-f2ad-4b6a-924e-d31dc895ffee"
+    "abilityGroupId": "166cb858-1d0c-4dd4-aac9-9170bec06226"
   },
   {
     "id": "3b17ab92-d48c-4b2b-8032-b79708a19259",
@@ -7055,7 +7055,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f714c5b0-5c38-4609-8921-a67fadeb1616"
+    "abilityGroupId": "74218359-4071-4dc3-8dd3-1dbd70d149b0"
   },
   {
     "id": "6023f837-3048-4115-b011-06522fe3d8b3",
@@ -7073,7 +7073,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6794b8ff-984b-48fb-9aec-1fc0e22a40ce"
+    "abilityGroupId": "1d81ed7e-1305-4714-ac2b-76a798a9f0d6"
   },
   {
     "id": "62aceea8-1d8e-4067-8000-3dd0d10ab136",
@@ -7091,7 +7091,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9d165c0e-017f-4d7d-afbb-130e05d7800b"
+    "abilityGroupId": "4c0a8688-deaf-46f1-9afb-1e485c0aa3a0"
   },
   {
     "id": "0f6eadfb-a007-4477-9dbc-e2e4773274f0",
@@ -7109,10 +7109,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "76929063-1f3b-4094-833c-638aac9a9d3e"
+    "abilityGroupId": "ca44560b-06aa-45ff-9f86-6e3d03c98908"
   },
   {
-    "id": "c4424cdf-8acb-42e1-a416-6c13db8c7834",
+    "id": "087b23f5-71ab-4417-b95e-4c07d41a356e",
     "name": "Feeding Frenzy",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7127,7 +7127,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f3a04375-c9c8-4418-add9-dfea6566d506"
+    "abilityGroupId": "a6e9a9c9-b8c8-4831-9d08-a5d1400767ce"
   },
   {
     "id": "ce8aff54-bf82-4863-8d13-f32b67921677",
@@ -7145,7 +7145,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "013787e5-a464-430e-a7f6-7cbb93bb5722"
+    "abilityGroupId": "34e3ff14-bdce-4946-a9cf-3f8eb24bc9b6"
   },
   {
     "id": "e2458054-1855-4326-b8c2-e21c406e9938",
@@ -7163,7 +7163,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3acbee7b-6e3e-44b1-91b8-883e53c4f42c"
+    "abilityGroupId": "3d7de946-51d1-49f5-9d47-d7119ca0f37c"
   },
   {
     "id": "a64c5df9-1cb6-41a9-ade7-a7a83227f32b",
@@ -7181,7 +7181,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c3908fb2-c2c5-45f6-9eaf-ed7c3861fde8"
+    "abilityGroupId": "804cc123-b9a6-4f5e-b998-6bad7916cfda"
   },
   {
     "id": "1da99926-b9e0-47ff-a970-e26a379afb1b",
@@ -7199,7 +7199,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5d99a0e6-74fa-48ab-b767-963417622b5a"
+    "abilityGroupId": "1d63d4f8-489a-43f6-9730-645214781430"
   },
   {
     "id": "3fbfd967-2d93-4fe3-858b-3cbad405169c",
@@ -7217,7 +7217,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c1f8f3f9-cd7e-4029-bd88-355e30496ad8"
+    "abilityGroupId": "04064ac6-3849-4486-8453-46924eccb4a2"
   },
   {
     "id": "e1bef8c3-61fc-434b-b4d4-ea6eb59eb1a3",
@@ -7235,7 +7235,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "84c40e66-5a9c-4dcd-9e3f-e033517c9186"
+    "abilityGroupId": "7f5678d6-c860-476e-90db-7d50781b82ad"
   },
   {
     "id": "3d2ccd11-92ae-4764-a9cd-334bcd43b705",
@@ -7253,7 +7253,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "50ffa967-f5d7-4b79-8910-7e8a962eac1b"
+    "abilityGroupId": "f8404587-0cae-4c30-b8cc-06ca32b7e243"
   },
   {
     "id": "d8ae766c-9c9d-45a8-a680-0dcd520f6eb3",
@@ -7271,7 +7271,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6599745d-18f6-471c-8317-002fa5de055a"
+    "abilityGroupId": "09f9eea9-e79c-4306-956e-f6201421f31f"
   },
   {
     "id": "29ea4b45-bac3-4abd-ada9-1f197b18cd51",
@@ -7289,7 +7289,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "490dd9ae-0c7e-4b56-9c9c-d9c4a6dcaaf9"
+    "abilityGroupId": "87314d2b-cb81-488b-8645-b39eb99ac4a1"
   },
   {
     "id": "905f4448-213d-4a87-901c-4f83c3dc43e9",
@@ -7307,7 +7307,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "fc337b88-fc60-48b3-9e30-d74c899e2ab8"
+    "abilityGroupId": "77cc4f84-822d-462a-9e53-931e4ac8d4a3"
   },
   {
     "id": "f3f67e5c-c415-4c4c-b725-39c59a21a059",
@@ -7325,7 +7325,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "84402496-f435-47e6-a2fa-b3842d2be89c"
+    "abilityGroupId": "f1057714-9689-4b8b-acbe-e0c7d7b17cd3"
   },
   {
     "id": "85ed65ed-2dab-4d2f-ada9-06a2ab79efc5",
@@ -7343,10 +7343,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "21b6a2eb-44d4-46f8-8216-736c62441049"
+    "abilityGroupId": "d3b3eac5-a743-471c-aef6-5fe12e91f7db"
   },
   {
-    "id": "22d3c25c-59a7-401b-9b7d-d10cea59c0a0",
+    "id": "a2b2c9f0-b7de-4991-9703-89a1d506e06d",
     "name": "Seed of Rebirth",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -7361,7 +7361,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ab3660be-d1c5-4a90-8b9c-8dad8fd84967"
+    "abilityGroupId": "51fa6e1d-68b5-4ec9-bdc0-95b0e3707642"
   },
   {
     "id": "9fec2fb5-74c8-4d9e-aea3-714f0c645cca",
@@ -7379,7 +7379,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "1a6ee249-2b7f-42de-80a9-d681f60ce861"
+    "abilityGroupId": "43901985-6af9-445d-934d-7561891cf84d"
   },
   {
     "id": "90ee7e84-cc1d-496e-8a66-4dc86be26840",
@@ -7397,7 +7397,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5d99a0e6-74fa-48ab-b767-963417622b5a"
+    "abilityGroupId": "1d63d4f8-489a-43f6-9730-645214781430"
   },
   {
     "id": "a54e7795-1e46-45cf-a573-34ce8ce9f2e4",
@@ -7415,7 +7415,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "02783b5b-7077-4409-999b-008ce2528340"
+    "abilityGroupId": "5ae3e70b-a7d6-4dec-a3a0-7b96c9bcd220"
   },
   {
     "id": "1f3af8ac-46c0-4363-8ff7-04080ea58195",
@@ -7433,10 +7433,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0bf5a908-ce18-4f06-8198-134fe8941ddb"
+    "abilityGroupId": "5fcc65af-f28f-4675-959f-e65877d4982a"
   },
   {
-    "id": "0a5564f0-e5af-4ab1-ac54-e112ba06c519",
+    "id": "ea1fbd0d-52bf-4806-85af-538c8a713b4c",
     "name": "Masters of Destiny",
     "phaseDetails": "Once per Battle, Start of the First Battle Round",
     "phase": "startOfTurn",
@@ -7451,7 +7451,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "45cc1b91-c855-43ba-8898-aead5f407d01"
+    "abilityGroupId": "3273212d-21fa-42b7-95a1-f47c70f0055b"
   },
   {
     "id": "59fccb57-1f80-45a7-b0f4-42a1058af3a3",
@@ -7469,7 +7469,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "02783b5b-7077-4409-999b-008ce2528340"
+    "abilityGroupId": "5ae3e70b-a7d6-4dec-a3a0-7b96c9bcd220"
   },
   {
     "id": "62027693-88db-4d3c-9d40-13083568345c",
@@ -7487,7 +7487,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "84c40e66-5a9c-4dcd-9e3f-e033517c9186"
+    "abilityGroupId": "7f5678d6-c860-476e-90db-7d50781b82ad"
   },
   {
     "id": "d2bdabcd-67ca-497b-8626-3b5174b7da4c",
@@ -7505,7 +7505,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5766e291-124f-4035-86d7-efd37bd42222"
+    "abilityGroupId": "87290be1-13d7-4f2a-805c-6623402b2377"
   },
   {
     "id": "bb52f5d5-c9e4-4528-bcba-d501d577d7ef",
@@ -7523,10 +7523,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "21b6a2eb-44d4-46f8-8216-736c62441049"
+    "abilityGroupId": "d3b3eac5-a743-471c-aef6-5fe12e91f7db"
   },
   {
-    "id": "c97ac445-600e-4c2d-883e-5a3cc4faa315",
+    "id": "862edb68-1213-4786-9cbc-f64a977f17a8",
     "name": "Lightning Reactions",
     "phaseDetails": "Passive",
     "phase": "combatPhase",
@@ -7541,7 +7541,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "13c9f8c5-2dd0-49bb-a762-1229d44400f8"
+    "abilityGroupId": "217f44f5-e011-40cc-9111-5401e38fd7f3"
   },
   {
     "id": "74b8bfa8-f2dc-4753-9e04-11b98590c819",
@@ -7559,7 +7559,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e2f3472c-a93e-4011-a939-d25a9caf6f23"
+    "abilityGroupId": "8e46cfb5-bd56-452e-832e-f2d7e679f483"
   },
   {
     "id": "fee14060-6c17-429c-91a6-1c524435b697",
@@ -7577,7 +7577,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d4a74133-37e3-42ef-a634-a3c4109c3f3b"
+    "abilityGroupId": "31c986ee-83d0-4154-819e-5bff4b906e0c"
   },
   {
     "id": "8aa6fcc5-64fd-4923-b0b3-f7fa988a64b5",
@@ -7595,7 +7595,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "60797df5-2701-4075-9f3d-0dd7c2cf3cc1"
+    "abilityGroupId": "e931dd96-3dfb-4796-bf42-4c4619143517"
   },
   {
     "id": "fde3611d-adea-42bf-8e16-5ac3f7385b25",
@@ -7613,7 +7613,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6794b8ff-984b-48fb-9aec-1fc0e22a40ce"
+    "abilityGroupId": "1d81ed7e-1305-4714-ac2b-76a798a9f0d6"
   },
   {
     "id": "1eec91ae-734f-471f-a21f-16ce95165ca8",
@@ -7631,7 +7631,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6599745d-18f6-471c-8317-002fa5de055a"
+    "abilityGroupId": "09f9eea9-e79c-4306-956e-f6201421f31f"
   },
   {
     "id": "278ac8f9-aba1-46be-8e8f-3d4406ece10d",
@@ -7649,7 +7649,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "490dd9ae-0c7e-4b56-9c9c-d9c4a6dcaaf9"
+    "abilityGroupId": "87314d2b-cb81-488b-8645-b39eb99ac4a1"
   },
   {
     "id": "d0e8f86e-ffa6-410b-b23a-f835141e8171",
@@ -7667,7 +7667,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "fad133f1-985e-4509-a9b0-320d5042db1f"
+    "abilityGroupId": "f250aa23-02d7-44d6-b6de-1696cbc09370"
   },
   {
     "id": "a6fe7d29-2595-4d26-a545-eff44d3461a3",
@@ -7685,7 +7685,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "76929063-1f3b-4094-833c-638aac9a9d3e"
+    "abilityGroupId": "ca44560b-06aa-45ff-9f86-6e3d03c98908"
   },
   {
     "id": "0a4f7aea-f464-4685-a406-f041d8d05185",
@@ -7703,7 +7703,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "1f9188e5-fc75-453d-ac02-8ed4c0574c73"
+    "abilityGroupId": "5642c5cf-0148-4f62-8ce7-ddf447a01165"
   },
   {
     "id": "660a7ff4-2662-4914-a4f3-88bb6a444492",
@@ -7721,7 +7721,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5d99a0e6-74fa-48ab-b767-963417622b5a"
+    "abilityGroupId": "1d63d4f8-489a-43f6-9730-645214781430"
   },
   {
     "id": "1c3ec44c-4df0-4f93-adf7-9ccd2b044673",
@@ -7739,7 +7739,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "42f85f79-fb6f-4be0-bf8e-50856df2b3a6"
+    "abilityGroupId": "9c63a862-2759-45a0-93a1-a05d0b45fa89"
   },
   {
     "id": "2a3fe98e-5a90-469c-a1a5-f0e2e24f768c",
@@ -7757,7 +7757,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "34dd15c0-2132-42cd-9d83-4db573d38023"
+    "abilityGroupId": "173a03fb-5168-4124-8241-1fd581d4159a"
   },
   {
     "id": "71582bc2-6bfd-4e30-9c7e-09cd4c650aa8",
@@ -7775,7 +7775,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "59b70ad1-8e4f-4f0c-bc9d-01dd9bde7565"
+    "abilityGroupId": "52939748-4e99-46e6-9c3d-a34547f0f5d4"
   },
   {
     "id": "da83f2a9-8cff-4f6c-9e51-9cb3578b2c01",
@@ -7793,7 +7793,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "06c7482e-0d14-4538-807e-70a9434c9644"
+    "abilityGroupId": "b5533e7f-dbe8-44a6-b891-68c235d10fc8"
   },
   {
     "id": "c0befdf4-a5c8-403b-b007-dfbc1f35079d",
@@ -7811,7 +7811,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "725c6803-98cd-4eeb-bbf2-188f332954da"
+    "abilityGroupId": "e3d33262-9146-4c36-be58-7d47973b1312"
   },
   {
     "id": "cf1a2559-9e67-43ed-8230-15300d1d6a76",
@@ -7829,7 +7829,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": "You cannot use this ability if you went second in the previous battle round and chose to go first in the current battle round.",
     "reaction": false,
-    "abilityGroupId": "7f09ac6e-d47c-480b-8661-2d9fae74e9fa"
+    "abilityGroupId": "0c6ce3d9-afee-4447-8fb0-af097174aad9"
   },
   {
     "id": "820b71ee-de9b-4a4e-8d5a-4360dfd56736",
@@ -7847,7 +7847,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5eb485d8-9e70-444b-9030-9b4a47a1542b"
+    "abilityGroupId": "963524b7-838e-4e16-97f9-a03e7c9946fc"
   },
   {
     "id": "e53d67b6-53be-492a-8d4a-77939920b44a",
@@ -7865,7 +7865,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "68a0a362-26a6-48a1-85fa-214588254181"
+    "abilityGroupId": "8d6de2fa-26e8-49ee-a029-d504de2450ca"
   },
   {
     "id": "4e86e1ff-bc34-44b2-964e-a59add5e7ea1",
@@ -7883,7 +7883,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6599745d-18f6-471c-8317-002fa5de055a"
+    "abilityGroupId": "09f9eea9-e79c-4306-956e-f6201421f31f"
   },
   {
     "id": "24d25896-bcbd-4f8c-b995-939fbd3a8ed3",
@@ -7901,10 +7901,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a4a47c63-d8a5-4607-b8a2-4f07c43a6762"
+    "abilityGroupId": "0e7195cc-62e4-4d6f-9c8c-6515dfb0348c"
   },
   {
-    "id": "4b89fc7f-f72d-4755-98f6-52700a566de6",
+    "id": "559105bd-b248-4f34-81e0-b070cf15153d",
     "name": "Fight Another Day",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -7919,7 +7919,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8c6fcc65-ef96-451d-949c-e4e96e50873c"
+    "abilityGroupId": "d2e508a0-47a8-4088-a24d-703905831031"
   },
   {
     "id": "d4ffeb78-7000-49b0-acfc-d1f2461770c6",
@@ -7937,10 +7937,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "db98c2dd-4825-4775-972f-ff105a3a354d"
+    "abilityGroupId": "0d2a42c3-4a0c-4f00-a361-d1e190989908"
   },
   {
-    "id": "d1187d19-4c4b-4626-b5a6-19be1be79fdc",
+    "id": "c40d4b2d-3cb1-4383-ae37-792ac0c8c63c",
     "name": "Endless Legions",
     "phaseDetails": "Once Per Battle, Your Movement Phase",
     "phase": "movementPhase",
@@ -7955,10 +7955,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e0c49b88-d349-42cb-82e8-92f88cf4437d"
+    "abilityGroupId": "80cd2bfd-9c00-4528-9760-df55b80b9b04"
   },
   {
-    "id": "9a4b50ac-a4bc-45d6-928f-c1cc1d6dff38",
+    "id": "b784cda0-02c9-4234-a580-9c7dd3b8a437",
     "name": "Eye-biter Ash",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -7973,10 +7973,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ac5cb0b8-8fb7-4894-af67-48176a2fc958"
+    "abilityGroupId": "0da71ae8-e85d-4e82-a4ae-9d65fdec1450"
   },
   {
-    "id": "c28923fb-2887-494a-9a61-1813248ebc7a",
+    "id": "e331cbf0-9bfc-44cb-b26c-83439cc0f9ef",
     "name": "Ethereal",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -7991,7 +7991,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "641955e5-9bfe-456d-8b29-16819515a9f8"
+    "abilityGroupId": "e915a47a-2265-42e7-99f8-be9357094663"
   },
   {
     "id": "a36a871a-866b-42a8-89bb-994fd6508a5a",
@@ -8009,7 +8009,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8a761e34-ba8b-476d-a171-062bf0f35885"
+    "abilityGroupId": "baf93746-f13f-42da-82cf-d2f0f8aab624"
   },
   {
     "id": "2a092c69-2962-42ff-8d71-6a025668df90",
@@ -8027,7 +8027,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "59b70ad1-8e4f-4f0c-bc9d-01dd9bde7565"
+    "abilityGroupId": "52939748-4e99-46e6-9c3d-a34547f0f5d4"
   },
   {
     "id": "abb4fa1f-9043-487c-832a-1d7c2102ad57",
@@ -8045,10 +8045,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2f05c70f-c5c9-49c1-b693-9a40375d707e"
+    "abilityGroupId": "f5c95141-017a-4f6e-a73d-efddf8e2281a"
   },
   {
-    "id": "fd51cc50-4e7e-43cd-aff1-023bff34b493",
+    "id": "29e40005-3fcd-4c43-b30f-d9f1d5951bda",
     "name": "Murderlust",
     "phaseDetails": "Once Per Turn, Any Hero Phase",
     "phase": "heroPhase",
@@ -8063,7 +8063,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c07a8d4f-cbe4-4611-9543-a04c9ac1291b"
+    "abilityGroupId": "6f1e67a7-1824-4a7c-9255-d4d75df140a0"
   },
   {
     "id": "25d7d02a-92f2-469d-ba42-65c3e826dac8",
@@ -8081,7 +8081,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f29d576c-cdc5-4a00-bc36-5ead62cf35a5"
+    "abilityGroupId": "9125c3c5-3ff9-4e0a-9a56-38a7da277ed4"
   },
   {
     "id": "52157be5-96b9-45a4-af49-1dfe4dd624c9",
@@ -8099,7 +8099,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "69fb62d7-4e68-48ad-970a-fc56dff087b7"
+    "abilityGroupId": "cb4fec1e-58c4-4404-8047-7234ac6c2c2b"
   },
   {
     "id": "4ff6db32-2fbf-41e4-a435-ae3f2fbb235a",
@@ -8117,10 +8117,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d4abc71a-9d70-4533-87b2-d798d86d4a37"
+    "abilityGroupId": "ac0873ed-56fb-411d-b20f-74a30bf63995"
   },
   {
-    "id": "51cfd7e4-0fe1-4b81-a835-a280e7337870",
+    "id": "615318dd-8252-4286-8d35-95afd58a5030",
     "name": "Pendant of Slaanesh",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -8135,7 +8135,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "69b480b1-3cb4-48c1-a75b-419854d043fb"
+    "abilityGroupId": "67950fb0-b705-496b-b369-dd776c795842"
   },
   {
     "id": "10de1156-5bba-4152-b009-0148f49997da",
@@ -8153,10 +8153,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c754072a-9fdf-46f1-978f-dc59c66d0c47"
+    "abilityGroupId": "c275ca02-3e09-45cc-8687-6e5498151a39"
   },
   {
-    "id": "8df0dad4-6eff-4d29-b018-a19328ab139e",
+    "id": "28453b92-894f-4e2e-bf1b-33187e32cdeb",
     "name": "The Hunger",
     "phaseDetails": "Once Per Turn (Army), End of Any Turn",
     "phase": "endOfTurn",
@@ -8171,7 +8171,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "1d73dfca-68bf-44b6-82da-1af18eeebbf4"
+    "abilityGroupId": "99294de4-7bbd-4bf5-a38d-08eea010c820"
   },
   {
     "id": "1ed5022a-b618-4ced-8a16-2b910149cb21",
@@ -8189,7 +8189,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8c6fcc65-ef96-451d-949c-e4e96e50873c"
+    "abilityGroupId": "d2e508a0-47a8-4088-a24d-703905831031"
   },
   {
     "id": "e28b2a28-c8a0-4f28-958e-9be54b996d6e",
@@ -8207,7 +8207,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c3a27ab8-5482-4656-abb8-459eeb3ea038"
+    "abilityGroupId": "b4c9a524-f0d7-4287-aca9-a9aa7ce94676"
   },
   {
     "id": "04c5b2de-d596-4cfa-8e2c-854a3315a554",
@@ -8225,7 +8225,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e0c49b88-d349-42cb-82e8-92f88cf4437d"
+    "abilityGroupId": "80cd2bfd-9c00-4528-9760-df55b80b9b04"
   },
   {
     "id": "1a4fb196-1d9a-4110-8439-d2a67f9bdda9",
@@ -8243,7 +8243,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "1d73dfca-68bf-44b6-82da-1af18eeebbf4"
+    "abilityGroupId": "99294de4-7bbd-4bf5-a38d-08eea010c820"
   },
   {
     "id": "5189da64-e9b8-44e3-a03c-7919e0838e02",
@@ -8261,7 +8261,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "28a5610b-f8e2-416a-8916-0524db98604d"
+    "abilityGroupId": "21b891d1-548a-4a6f-bafe-47542b248c3a"
   },
   {
     "id": "aa797522-851e-4ce0-a279-20bb16118951",
@@ -8279,7 +8279,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a95f7ff2-488c-470a-a3a4-e99075c6a154"
+    "abilityGroupId": "0f068bb9-3db4-4889-928c-2d05b657a8c6"
   },
   {
     "id": "ed1366d0-868c-4c79-9888-2a77fc002278",
@@ -8297,7 +8297,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "bb42a556-d0b6-4e7b-817d-99a2490e4050"
+    "abilityGroupId": "7636d0de-82d1-44d1-9347-500b7c7e1d73"
   },
   {
     "id": "8ecdc920-a00b-4e55-8009-010bc81f6e9c",
@@ -8315,7 +8315,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "81eb7dfa-6262-4b84-8b3c-79fd2580349a"
+    "abilityGroupId": "6f156cfc-abb7-419d-b85f-528ea8d62564"
   },
   {
     "id": "16128e9a-2b71-4f7f-8f7b-da6ba37e59c5",
@@ -8333,7 +8333,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6815b335-45f5-4267-8964-1e7eacea4156"
+    "abilityGroupId": "4264aa9a-6bdf-467c-b21b-978e6a7f44a3"
   },
   {
     "id": "0b4fa2c1-fa17-400a-9779-021a5c545de6",
@@ -8351,7 +8351,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88543fa1-e02e-4d11-a618-a77edf6c38ff"
+    "abilityGroupId": "f029ff64-0a68-4e1f-8c51-2186963e6c31"
   },
   {
     "id": "2090b821-532f-43ea-9b3d-5354bcff3c76",
@@ -8369,7 +8369,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6f38f93e-8cc4-4ffc-803d-ca217738006c"
+    "abilityGroupId": "bfae17c1-893d-46bb-a3dc-34746a9205fb"
   },
   {
     "id": "2f3679f5-6327-4b90-8715-d8346eb54821",
@@ -8387,7 +8387,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88fed013-dc0d-4f41-b329-1b8ac83479c9"
+    "abilityGroupId": "534df034-d04b-490e-9d32-323b7f21ffed"
   },
   {
     "id": "d48e8263-abfb-44ce-a431-781dd9616d3e",
@@ -8405,10 +8405,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "600b73ea-db81-4cb6-bcd2-a05ce1c75205"
+    "abilityGroupId": "360411a4-ead5-44f9-8456-688096c91f9c"
   },
   {
-    "id": "88073a84-122e-4790-ac51-62a7f8c1a380",
+    "id": "ea03f15b-3c78-4845-a955-c0b12467ef65",
     "name": "Null Pendant",
     "phaseDetails": "Once Per Battle, End of Any Turn",
     "phase": "endOfTurn",
@@ -8423,7 +8423,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d1246d33-5db2-43c8-9ed0-3e119ae6b0da"
+    "abilityGroupId": "ba0d841b-886d-4c8a-9b1e-8d500ae04cbb"
   },
   {
     "id": "06464776-fd31-49ba-b18d-3debcccc5aa5",
@@ -8441,10 +8441,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4c0c7aaa-d79b-4f1a-865f-9d41da1560eb"
+    "abilityGroupId": "e9b8a5e1-60e8-4db2-9c8a-a55842576a0a"
   },
   {
-    "id": "fdcf3e13-1c3b-4601-9480-3e991796477b",
+    "id": "1e05bb68-302a-4180-a50c-a3a60a88bf4e",
     "name": "Scurry Away",
     "phaseDetails": "Any Combat Phase",
     "phase": "combatPhase",
@@ -8459,7 +8459,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f392f816-862f-4e8d-a842-8da4dc2d29eb"
+    "abilityGroupId": "3ae1a71f-7ae6-4935-8b95-b1a099c5bffe"
   },
   {
     "id": "b49202f1-e548-4478-b4cb-1632b6c366aa",
@@ -8477,7 +8477,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4086cc2d-fd40-4048-8742-7cee35f3d6fc"
+    "abilityGroupId": "6f20c21b-6964-419a-88d3-efd582a815dd"
   },
   {
     "id": "d4a499c8-dcfa-49a9-b1d3-070e987fd379",
@@ -8495,7 +8495,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88fb58b7-17f6-433a-ae0e-64cc3c5439d5"
+    "abilityGroupId": "1c7a4bbd-e430-4538-b8ca-a9ade56e6905"
   },
   {
     "id": "32f07119-7ace-40a1-90bb-2578e403cadc",
@@ -8513,7 +8513,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5eb485d8-9e70-444b-9030-9b4a47a1542b"
+    "abilityGroupId": "963524b7-838e-4e16-97f9-a03e7c9946fc"
   },
   {
     "id": "29f2a859-7be6-4384-88c8-964178e955b4",
@@ -8531,7 +8531,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8bbffb96-34aa-466b-b0b8-577179041348"
+    "abilityGroupId": "57f70285-7fd5-4b9f-8cb6-d50602226666"
   },
   {
     "id": "853a1d83-f397-4844-aa4d-d227b2b4f37a",
@@ -8549,7 +8549,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ddd7103b-a13a-4e26-b9ed-9fa3d69842a0"
+    "abilityGroupId": "05d2b71f-c0ea-4bff-a000-f41fb79f9423"
   },
   {
     "id": "ea3eea15-507b-4836-b4b6-f37a21aa95cf",
@@ -8567,7 +8567,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b477269d-742e-4cce-9c2c-1eb08f21bae9"
+    "abilityGroupId": "a887ce78-63a1-431d-b35f-16be300fdcfa"
   },
   {
     "id": "a9af475e-458a-4778-8e29-6ce712b36a80",
@@ -8585,7 +8585,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "407ad9ba-8621-44b8-ba56-96f7b06c67c5"
+    "abilityGroupId": "edc740c7-afe3-4cee-b113-ee3d89099aa1"
   },
   {
     "id": "770b5367-364d-4aa2-bc46-4cb862021300",
@@ -8603,7 +8603,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "18ca3cc5-d1bb-453d-9724-6fd9ccffd766"
+    "abilityGroupId": "eaeaa1b0-3fb6-46e7-bfae-f384d84500d0"
   },
   {
     "id": "55f7c350-7d68-472f-8a9e-4946aef1f3bb",
@@ -8621,10 +8621,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "68a0a362-26a6-48a1-85fa-214588254181"
+    "abilityGroupId": "8d6de2fa-26e8-49ee-a029-d504de2450ca"
   },
   {
-    "id": "fc901d25-9f15-4df3-9df0-4c558387af8c",
+    "id": "0bc11142-0187-4d2b-8f1d-487b5d146fe1",
     "name": "Wave of Terror",
     "phaseDetails": "Once Per Turn (Army), Your Charge Phase",
     "phase": "chargePhase",
@@ -8639,7 +8639,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "35cbd082-aba8-49f0-bd3f-edf77875a211"
+    "abilityGroupId": "eac356b3-8819-4017-8e91-924adeb323f5"
   },
   {
     "id": "e9822135-c3d9-4264-8fa8-effcaacdedbe",
@@ -8657,7 +8657,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5569c83a-ed17-4535-9897-b4287078586c"
+    "abilityGroupId": "aa6091f3-985f-4735-a9db-b87630102e45"
   },
   {
     "id": "5aa5a857-f56a-429b-81c2-b4ff3cd2d355",
@@ -8675,7 +8675,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0f4d6cc9-119c-41d3-8b4a-ec23f35b9e22"
+    "abilityGroupId": "84564bfa-97ad-49c4-8ecc-119df89ca449"
   },
   {
     "id": "6b864012-9b1e-4430-ba6d-760dc371dc48",
@@ -8693,7 +8693,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9f75d41b-9e3a-482f-a7dd-615864306d10"
+    "abilityGroupId": "d1d2b435-d560-4452-8b4b-a0b2b4b98324"
   },
   {
     "id": "15bd3807-b98f-41b0-80f7-cd45a975c243",
@@ -8711,7 +8711,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9f75d41b-9e3a-482f-a7dd-615864306d10"
+    "abilityGroupId": "d1d2b435-d560-4452-8b4b-a0b2b4b98324"
   },
   {
     "id": "4906d8e0-9e0c-48f6-952f-9b79d6e365a7",
@@ -8729,10 +8729,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c47c72c7-1275-4fc6-a44f-35309df1f3ac"
+    "abilityGroupId": "d947ca7e-9185-47ff-b7aa-6ed2067f40de"
   },
   {
-    "id": "aed6a4f6-cb84-424e-b817-2c48c7eb7f53",
+    "id": "e9cd238d-e1cf-433b-ac7c-372785bfa7c6",
     "name": "Brazier of Holy Flame",
     "phaseDetails": "End of Any Turn",
     "phase": "endOfTurn",
@@ -8747,7 +8747,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "42f85f79-fb6f-4be0-bf8e-50856df2b3a6"
+    "abilityGroupId": "9c63a862-2759-45a0-93a1-a05d0b45fa89"
   },
   {
     "id": "c7cb604d-de5e-447c-9ada-dbf4f0fe0563",
@@ -8765,7 +8765,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "cb17e29b-0e28-41a4-b716-892ac213e361"
+    "abilityGroupId": "e9b7a5d3-3834-46a2-9928-5eb4b75b5301"
   },
   {
     "id": "67517107-64aa-4d9a-9ef5-cde95b420a8c",
@@ -8783,7 +8783,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "467a38ed-fdd6-4679-ad53-f9ac3c28fac4"
+    "abilityGroupId": "02caeb4f-dfbd-48a4-99d7-d54a9b4a71a8"
   },
   {
     "id": "38855806-f808-453e-8a24-c2c8e522d8d6",
@@ -8801,7 +8801,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88e58571-68da-48d2-a19f-7c0258b7f26e"
+    "abilityGroupId": "b611eefc-3fcb-4d6f-8b80-3b2089c8d274"
   },
   {
     "id": "13fedf3b-6da1-475f-ba3d-a9acd7744ea5",
@@ -8819,7 +8819,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "72b8dcc2-bde4-4f04-9e44-a0189ba40b2e"
+    "abilityGroupId": "b25d40f3-7d97-4f5e-8792-f4f60a644aa7"
   },
   {
     "id": "c76073c5-32ca-47a2-9a1a-c8a9b3bd6fba",
@@ -8837,7 +8837,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "89a9cc93-d598-4290-9f7f-3fc695841109"
+    "abilityGroupId": "73ad4abf-2ba5-4183-93d7-ef87c02a071d"
   },
   {
     "id": "ed9f40e1-a678-4b05-a015-6082326f261b",
@@ -8855,7 +8855,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88fed013-dc0d-4f41-b329-1b8ac83479c9"
+    "abilityGroupId": "534df034-d04b-490e-9d32-323b7f21ffed"
   },
   {
     "id": "876c92d9-78d0-4ebe-a52c-fadff5a8f59e",
@@ -8873,7 +8873,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "59b70ad1-8e4f-4f0c-bc9d-01dd9bde7565"
+    "abilityGroupId": "52939748-4e99-46e6-9c3d-a34547f0f5d4"
   },
   {
     "id": "756d871f-5fee-4b2a-8534-abad76dd22d6",
@@ -8891,7 +8891,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c5f44957-b4b4-4f58-b3cc-606ce0177fde"
+    "abilityGroupId": "d00ac56e-345d-4822-a5f9-602c0e27bef5"
   },
   {
     "id": "f97965b7-b763-4e01-b7ef-d0807e05db50",
@@ -8909,7 +8909,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88fb58b7-17f6-433a-ae0e-64cc3c5439d5"
+    "abilityGroupId": "1c7a4bbd-e430-4538-b8ca-a9ade56e6905"
   },
   {
     "id": "d4c6be8f-d513-41f1-a8e5-4cb3ffc8e43a",
@@ -8927,7 +8927,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e57827f9-3f0f-4a4e-a7c3-84d9874bae24"
+    "abilityGroupId": "9a5eb069-e12a-47e8-9b1f-f85df968d623"
   },
   {
     "id": "60f426b1-afd5-471c-8428-937a3d3ba2fb",
@@ -8945,7 +8945,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "09890d39-e913-42d3-936e-fc66752c2e93"
+    "abilityGroupId": "285b1f42-4519-416c-b538-ffc1c292656d"
   },
   {
     "id": "b4829073-c9b4-4339-bccc-2415b6e32f3d",
@@ -8963,7 +8963,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2aaab827-9258-499a-b621-b5a138be7bdc"
+    "abilityGroupId": "f0acaeb3-f604-4397-9b7e-81fc3e0f6b82"
   },
   {
     "id": "6fbe9f24-2f9c-4a61-868a-450fa9becdeb",
@@ -8981,7 +8981,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d4195810-8cbf-47e6-99f6-e78b181a071f"
+    "abilityGroupId": "c94b8f0f-0936-4d6c-8106-7b57fad5e107"
   },
   {
     "id": "7cd5f2ff-4018-46b5-ba19-0334c4bb6e57",
@@ -8999,7 +8999,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3c2fd8c0-61d4-49e7-a319-ba7dea0e6a75"
+    "abilityGroupId": "7427c010-4074-4563-ac66-8c3e9e25f63c"
   },
   {
     "id": "049ef69b-eaec-4688-8b09-fcdb2ea4ea6c",
@@ -9017,7 +9017,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f392f816-862f-4e8d-a842-8da4dc2d29eb"
+    "abilityGroupId": "3ae1a71f-7ae6-4935-8b95-b1a099c5bffe"
   },
   {
     "id": "5792995e-62d9-4840-91ad-131f383295e6",
@@ -9035,7 +9035,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ab0e6df6-33bc-4901-ad23-27bc3d6cd66e"
+    "abilityGroupId": "c79203ba-0d95-4d36-b346-e4d50a051a30"
   },
   {
     "id": "7041cfcc-3955-4bab-8361-2da67151b676",
@@ -9053,7 +9053,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "e07b8b7d-9195-43b4-944b-5b2a0e31e525"
+    "abilityGroupId": "a2025a14-e7a4-41b4-99ea-76e114851767"
   },
   {
     "id": "a8ac36de-fa74-47d2-a53a-ed5b67a87c62",
@@ -9071,7 +9071,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "ba0cab67-6f25-466b-b9b8-65ae3f9d62ca"
+    "abilityGroupId": "7552e875-b9b0-4ca9-871b-a6896792df4d"
   },
   {
     "id": "a803684f-1ecf-43c0-bdd8-b4491b7a90ce",
@@ -9089,7 +9089,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "cf27c4d3-3398-444a-b248-dd952e56725d"
+    "abilityGroupId": "d789bc96-5087-44b5-8d76-92d9dbdbf300"
   },
   {
     "id": "634c7e30-c269-4733-90f7-bd7afa6f3a70",
@@ -9107,7 +9107,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "50d9a7ed-3e96-4bfb-a77d-831667862a98"
+    "abilityGroupId": "49d0ece4-5180-4b60-972e-7cdf658712d9"
   },
   {
     "id": "421a79b5-ddf0-4253-91be-406db4387e88",
@@ -9125,7 +9125,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d4a74133-37e3-42ef-a634-a3c4109c3f3b"
+    "abilityGroupId": "31c986ee-83d0-4154-819e-5bff4b906e0c"
   },
   {
     "id": "1ad6a6a3-34c3-4a72-a3b9-5384b4b69e38",
@@ -9143,7 +9143,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a48ec36f-bde9-427a-93c3-a3d3a386f17f"
+    "abilityGroupId": "08555c11-979e-4bdf-a00c-c39d4f3c1823"
   },
   {
     "id": "9029c953-6f3e-4c09-8f66-50496741d7dd",
@@ -9161,7 +9161,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c99f9f96-1b5e-4844-aa02-ead0fdbcd961"
+    "abilityGroupId": "87b8f5a7-9ba1-483d-ba7e-6776f2fbc4f3"
   },
   {
     "id": "b5bd712d-5c1d-4491-a20a-ce1990614f55",
@@ -9179,7 +9179,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "89a68d8e-023e-4c51-be80-5e182feb59d3"
+    "abilityGroupId": "fe02ad5f-5d2a-4f5c-b252-bb143501e0da"
   },
   {
     "id": "4c7c8702-8702-4f28-84ce-eaf1fe3ec290",
@@ -9197,7 +9197,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2679a6a8-a313-462b-82e9-81b32c9f8e73"
+    "abilityGroupId": "2a2212f8-ac1e-44f0-817f-6563279e0c9e"
   },
   {
     "id": "59b911ba-ad74-41ba-9647-b08c5b779d52",
@@ -9215,7 +9215,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c4291fb5-542d-4046-b60d-d1c703576ba2"
+    "abilityGroupId": "a522a32e-063e-4c2c-993e-7dd76113c702"
   },
   {
     "id": "67ac40fe-f586-4040-800f-453b6c6d11bb",
@@ -9233,7 +9233,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8df76f2f-d8b7-4901-8a5c-86a544dcd416"
+    "abilityGroupId": "556607f4-710e-4192-acda-792a960b365a"
   },
   {
     "id": "b24201b6-7fa9-41b3-90d3-edcd4dee1aee",
@@ -9251,7 +9251,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b30d758e-9d23-4127-8b5b-799feaf27a19"
+    "abilityGroupId": "9412a956-ec0b-4c7e-90b1-162d2967d8e4"
   },
   {
     "id": "f86072e6-7db8-4795-b2c0-dae130e828b4",
@@ -9269,7 +9269,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "02783b5b-7077-4409-999b-008ce2528340"
+    "abilityGroupId": "5ae3e70b-a7d6-4dec-a3a0-7b96c9bcd220"
   },
   {
     "id": "4c607323-be34-459c-aeb7-a730311d5b59",
@@ -9287,7 +9287,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88e58571-68da-48d2-a19f-7c0258b7f26e"
+    "abilityGroupId": "b611eefc-3fcb-4d6f-8b80-3b2089c8d274"
   },
   {
     "id": "95d4cb8c-f9f7-4dfc-a324-20932889774d",
@@ -9305,7 +9305,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2000bec5-d785-48c6-baa1-87a934ce6096"
+    "abilityGroupId": "0664d7bd-33e6-4536-807c-52bc83865230"
   },
   {
     "id": "fe39b1fa-f28b-4aa2-b70d-1a6c2894709c",
@@ -9323,7 +9323,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5d99a0e6-74fa-48ab-b767-963417622b5a"
+    "abilityGroupId": "1d63d4f8-489a-43f6-9730-645214781430"
   },
   {
     "id": "67344f90-6562-4df0-9b16-d00a1a2bfcde",
@@ -9341,7 +9341,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a5a386f6-9712-4b79-adce-187975d7f9ff"
+    "abilityGroupId": "e466b955-f098-43b8-a621-6ba30e5df3a4"
   },
   {
     "id": "ab36c3d6-6a4b-4e45-a80d-189ea5bfc027",
@@ -9359,7 +9359,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c99f9f96-1b5e-4844-aa02-ead0fdbcd961"
+    "abilityGroupId": "87b8f5a7-9ba1-483d-ba7e-6776f2fbc4f3"
   },
   {
     "id": "ec173e32-3ec3-49bb-b344-7c2c951a0ca6",
@@ -9377,7 +9377,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "24990f38-70c8-48e5-a09b-c9feeb2c6582"
+    "abilityGroupId": "adcfe37c-6897-46a8-9466-ef16a1326c13"
   },
   {
     "id": "d8c9a00e-41f3-4e69-9639-7df94498f4b5",
@@ -9395,7 +9395,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "50d9a7ed-3e96-4bfb-a77d-831667862a98"
+    "abilityGroupId": "49d0ece4-5180-4b60-972e-7cdf658712d9"
   },
   {
     "id": "bff742c9-7473-44d1-94dd-4edf7c67bb11",
@@ -9413,10 +9413,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0f4d6cc9-119c-41d3-8b4a-ec23f35b9e22"
+    "abilityGroupId": "84564bfa-97ad-49c4-8ecc-119df89ca449"
   },
   {
-    "id": "de99d014-c575-4649-9f58-265f5b6e1d62",
+    "id": "bb25ef36-0ab2-4e4e-a285-c1f11f0766fe",
     "name": "Under the Light of the Bad Moon",
     "phaseDetails": "Once Per Battle, Start of the First Battle Round",
     "phase": "startOfTurn",
@@ -9431,7 +9431,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f1401844-5d9e-4d5e-a8b2-62db0f53a176"
+    "abilityGroupId": "8afcf122-7ba1-4f7e-b5bd-d3b4dad90f06"
   },
   {
     "id": "3b2e6183-29b3-4c06-b6ba-5052689ff51a",
@@ -9449,7 +9449,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c754072a-9fdf-46f1-978f-dc59c66d0c47"
+    "abilityGroupId": "c275ca02-3e09-45cc-8687-6e5498151a39"
   },
   {
     "id": "b0a85538-34f4-4a76-bdb9-0e3643dc825e",
@@ -9467,7 +9467,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c3a27ab8-5482-4656-abb8-459eeb3ea038"
+    "abilityGroupId": "b4c9a524-f0d7-4287-aca9-a9aa7ce94676"
   },
   {
     "id": "ca52568c-67cd-41d1-b16f-e20e545ed1b1",
@@ -9485,7 +9485,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "17c01b4e-055e-4e89-9a24-1db614988d5a"
+    "abilityGroupId": "136c5234-f4d0-4150-8fc6-2ea887c8a385"
   },
   {
     "id": "095ffd38-d5ae-4d56-9334-f5da3c612032",
@@ -9503,7 +9503,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "cbb856bc-064e-45bd-8c39-8db6eaf55369"
+    "abilityGroupId": "ce2130ab-8b8a-4ff5-a0f6-f4a98015c85b"
   },
   {
     "id": "f51f590d-68ab-4377-8aec-ed741f8add1a",
@@ -9521,7 +9521,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8c96ddaa-00f7-45b6-8a5b-85d375e5ff4c"
+    "abilityGroupId": "c5a1efda-1adb-4d15-81aa-1fae36b3f2d0"
   },
   {
     "id": "5e06148b-6052-498c-afc2-ef0e9e28f07a",
@@ -9539,7 +9539,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0c25481f-0126-4f88-92a6-bf32a0df448f"
+    "abilityGroupId": "0074e83a-0174-462b-9469-37548ae526e7"
   },
   {
     "id": "428f613c-7062-468b-b2c9-4e07dba61fc7",
@@ -9557,7 +9557,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9ca8385f-4d45-4f6f-b391-9bf5f741cf61"
+    "abilityGroupId": "e97dcec3-cce3-4a9f-ad37-b239c82efead"
   },
   {
     "id": "75abe6c7-0c03-4bad-a4e9-1a6a3b70c239",
@@ -9575,7 +9575,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "09ea7e0f-f1e4-48d6-ae4c-7b4939e3fa15"
+    "abilityGroupId": "4c811d6d-6981-475d-ae9f-1043454b9c32"
   },
   {
     "id": "cb4c6491-4b95-41a3-b0f9-3969d1421d4f",
@@ -9593,10 +9593,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3acbee7b-6e3e-44b1-91b8-883e53c4f42c"
+    "abilityGroupId": "3d7de946-51d1-49f5-9d47-d7119ca0f37c"
   },
   {
-    "id": "52157be5-96b9-45a4-af49-1dfe4dd624c9",
+    "id": "f7fd6d2c-8a58-4852-a768-e7f623112432",
     "name": "Noisy Racket",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -9611,7 +9611,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88634d31-7799-4212-9707-3c62bf37ce65"
+    "abilityGroupId": "a5b83144-5c8d-48df-b0f7-07a15b7b6f4e"
   },
   {
     "id": "c43693f4-112b-45fe-ade9-a087ecfd557d",
@@ -9629,7 +9629,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2f00c45f-fab3-4511-a348-32b91c616cdb"
+    "abilityGroupId": "421304b6-7a80-4785-b049-0ce16ac76ecb"
   },
   {
     "id": "4554eb66-af2b-49e5-8a20-37be88b5a5f7",
@@ -9647,7 +9647,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "992d8d04-935b-4384-bab7-f73fefd87dc9"
+    "abilityGroupId": "43e03a52-978f-41bd-a556-a430010bf4be"
   },
   {
     "id": "d1c0d569-550b-4793-8d6d-91388190b6e8",
@@ -9665,7 +9665,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "69fb62d7-4e68-48ad-970a-fc56dff087b7"
+    "abilityGroupId": "cb4fec1e-58c4-4404-8047-7234ac6c2c2b"
   },
   {
     "id": "c9313e4a-b018-4c26-8528-e8cf6ad90ca6",
@@ -9683,7 +9683,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6599745d-18f6-471c-8317-002fa5de055a"
+    "abilityGroupId": "09f9eea9-e79c-4306-956e-f6201421f31f"
   },
   {
     "id": "fc41a6ec-89c4-4b83-9dd4-ffbe19126c3b",
@@ -9701,7 +9701,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0ac310f8-cf24-4ff6-938a-d9604de99431"
+    "abilityGroupId": "cdaec609-b0cd-4839-8014-0009ce10003e"
   },
   {
     "id": "5ccbbba8-6439-44f3-8326-0b13dac91fc7",
@@ -9719,7 +9719,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6f38f93e-8cc4-4ffc-803d-ca217738006c"
+    "abilityGroupId": "bfae17c1-893d-46bb-a3dc-34746a9205fb"
   },
   {
     "id": "40ea37f9-4c13-4cad-8b16-1ea702595563",
@@ -9737,7 +9737,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f3a04375-c9c8-4418-add9-dfea6566d506"
+    "abilityGroupId": "a6e9a9c9-b8c8-4831-9d08-a5d1400767ce"
   },
   {
     "id": "9a34d96c-6113-4f36-b900-837ccdb3bbec",
@@ -9755,10 +9755,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "013787e5-a464-430e-a7f6-7cbb93bb5722"
+    "abilityGroupId": "34e3ff14-bdce-4946-a9cf-3f8eb24bc9b6"
   },
   {
-    "id": "730ee948-89d8-44fd-a4a9-c8fed10f3099",
+    "id": "b6aef68d-3e27-4e94-be44-15ea105034ec",
     "name": "Waystone",
     "phaseDetails": "Once Per Battle, Your Movement Phase",
     "phase": "movementPhase",
@@ -9773,7 +9773,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3f66ff66-e229-41e2-9149-6cbb9cac5fa9"
+    "abilityGroupId": "d94ba937-bc39-45c5-9e47-3cf318d50567"
   },
   {
     "id": "e6534a28-8433-4ce7-b42a-20c894b22953",
@@ -9791,7 +9791,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2934cc47-5931-4630-80f6-9f93ea8a8f26"
+    "abilityGroupId": "78010647-f044-457e-9cbc-339f98452770"
   },
   {
     "id": "3215ad5c-3db2-4f96-a343-015709e79baf",
@@ -9809,10 +9809,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "600b73ea-db81-4cb6-bcd2-a05ce1c75205"
+    "abilityGroupId": "360411a4-ead5-44f9-8456-688096c91f9c"
   },
   {
-    "id": "0b1e0b19-11af-4cd1-8173-1c1bae6e59cd",
+    "id": "802447a8-1193-48dd-bb29-32804c7359f9",
     "name": "Marrowpact",
     "phaseDetails": "Once Per Battle, Any Combat Phase",
     "phase": "combatPhase",
@@ -9827,7 +9827,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "fc337b88-fc60-48b3-9e30-d74c899e2ab8"
+    "abilityGroupId": "77cc4f84-822d-462a-9e53-931e4ac8d4a3"
   },
   {
     "id": "bd29a197-2975-44ce-a784-ee04031052f3",
@@ -9845,7 +9845,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a5a386f6-9712-4b79-adce-187975d7f9ff"
+    "abilityGroupId": "e466b955-f098-43b8-a621-6ba30e5df3a4"
   },
   {
     "id": "4fc31b04-6490-4ef0-971d-69b7fdc5117b",
@@ -9863,7 +9863,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "7b70d11c-21bf-464f-baa6-68919e0d763c"
+    "abilityGroupId": "b54f902e-fd38-495c-ba4e-274aad1f4b47"
   },
   {
     "id": "4a796212-2982-4613-b16b-e3f4840025b2",
@@ -9881,7 +9881,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8df76f2f-d8b7-4901-8a5c-86a544dcd416"
+    "abilityGroupId": "556607f4-710e-4192-acda-792a960b365a"
   },
   {
     "id": "1d49e7bf-3ccc-40fe-82b5-042e2c3620f0",
@@ -9899,7 +9899,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3c2fd8c0-61d4-49e7-a319-ba7dea0e6a75"
+    "abilityGroupId": "7427c010-4074-4563-ac66-8c3e9e25f63c"
   },
   {
     "id": "3f7c147f-a574-4edd-b715-fa7684ce9d04",
@@ -9917,7 +9917,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "db3aef0d-9528-483c-9d96-2e58bd7c931a"
+    "abilityGroupId": "0f399fc3-9ae9-4999-9217-4f27c5a03779"
   },
   {
     "id": "437055c9-c8da-4c95-8786-ab89ab740578",
@@ -9935,7 +9935,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88fb58b7-17f6-433a-ae0e-64cc3c5439d5"
+    "abilityGroupId": "1c7a4bbd-e430-4538-b8ca-a9ade56e6905"
   },
   {
     "id": "46d8bd7b-1a9b-43ed-becc-afa28f984734",
@@ -9953,7 +9953,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b046539f-84b9-4013-84f7-a5f015683895"
+    "abilityGroupId": "a434183f-b0b4-4c04-9c86-bc51d0bc9efe"
   },
   {
     "id": "f40a1bff-3efe-47bd-b926-0ee7a24033ff",
@@ -9971,7 +9971,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "229d4bb6-f38f-4913-b0f5-abd6605dc130"
+    "abilityGroupId": "d65eba51-227d-45d6-806a-96aeae3fc4b5"
   },
   {
     "id": "efac7519-a843-4238-99a6-2694dadf92c9",
@@ -9989,7 +9989,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9ca8385f-4d45-4f6f-b391-9bf5f741cf61"
+    "abilityGroupId": "e97dcec3-cce3-4a9f-ad37-b239c82efead"
   },
   {
     "id": "045e1a0b-3f4b-4ab3-b20b-68724b27d556",
@@ -10007,7 +10007,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "15b00a25-49c9-4e28-877d-aa5d556ce718"
+    "abilityGroupId": "8958f417-efbf-4fca-9bbd-092328d373ae"
   },
   {
     "id": "0dde9755-f467-4abe-970e-0dbd6d4adbb4",
@@ -10025,7 +10025,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "88e58571-68da-48d2-a19f-7c0258b7f26e"
+    "abilityGroupId": "b611eefc-3fcb-4d6f-8b80-3b2089c8d274"
   },
   {
     "id": "04785614-d579-4f4f-a815-c0d3de3ae8a7",
@@ -10043,7 +10043,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4c0c7aaa-d79b-4f1a-865f-9d41da1560eb"
+    "abilityGroupId": "e9b8a5e1-60e8-4db2-9c8a-a55842576a0a"
   },
   {
     "id": "74d48082-64a2-48db-9ac5-57f84ebd123f",
@@ -10061,7 +10061,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "9d165c0e-017f-4d7d-afbb-130e05d7800b"
+    "abilityGroupId": "4c0a8688-deaf-46f1-9afb-1e485c0aa3a0"
   },
   {
     "id": "b599a75f-1ccf-4802-9763-f7c2bdab185d",
@@ -10079,7 +10079,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "35cbd082-aba8-49f0-bd3f-edf77875a211"
+    "abilityGroupId": "eac356b3-8819-4017-8e91-924adeb323f5"
   },
   {
     "id": "c4f20b88-0917-45e4-87bf-4d0a5500a8f7",
@@ -10097,7 +10097,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2679a6a8-a313-462b-82e9-81b32c9f8e73"
+    "abilityGroupId": "2a2212f8-ac1e-44f0-817f-6563279e0c9e"
   },
   {
     "id": "65e6c95a-b754-4f6f-8889-edbace13868b",
@@ -10115,7 +10115,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2377b903-6548-4e2f-867f-16bab2696363"
+    "abilityGroupId": "6d3bfd21-8191-4bd3-94bc-2d65211bcecc"
   },
   {
     "id": "62c7dd82-3312-4d0e-83fe-aca523c9ae76",
@@ -10133,7 +10133,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "cf27c4d3-3398-444a-b248-dd952e56725d"
+    "abilityGroupId": "d789bc96-5087-44b5-8d76-92d9dbdbf300"
   },
   {
     "id": "ec0e2bad-850a-4621-b0c5-80b79e897713",
@@ -10151,7 +10151,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a2410ba5-c3c1-4b31-8277-08a5a8127fa9"
+    "abilityGroupId": "3179f3e7-2213-4e3b-b908-da5b2bd95b6a"
   },
   {
     "id": "5e26511d-a5cf-43e0-a23a-dac379de8a16",
@@ -10169,7 +10169,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a2410ba5-c3c1-4b31-8277-08a5a8127fa9"
+    "abilityGroupId": "3179f3e7-2213-4e3b-b908-da5b2bd95b6a"
   },
   {
     "id": "75d8699c-f37b-4d58-babc-3f77b6fa0605",
@@ -10187,7 +10187,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "c3a27ab8-5482-4656-abb8-459eeb3ea038"
+    "abilityGroupId": "b4c9a524-f0d7-4287-aca9-a9aa7ce94676"
   },
   {
     "id": "38121c67-caf8-4f04-a62c-656a2d1d05c2",
@@ -10205,7 +10205,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "71d27fd1-a884-47a2-a56e-9d72f44563e0"
+    "abilityGroupId": "70e4a721-1c29-43d5-b641-529998396c56"
   },
   {
     "id": "e8730f2b-b766-40cd-aabf-0fd62f508ef7",
@@ -10223,7 +10223,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "dea97093-fe1c-480d-9da9-18e2cc5edf98"
+    "abilityGroupId": "7d567adf-e1f2-4d9e-8eba-39094cdc10db"
   },
   {
     "id": "92da814f-cc0a-4231-99ab-119ef353b938",
@@ -10241,7 +10241,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "01fa21b9-9e7a-47ad-98ed-bc7be0321629"
+    "abilityGroupId": "8a90c28d-4cb1-49ca-9c6d-76926f32e015"
   },
   {
     "id": "af76843f-4102-4723-91b0-78c3bac89817",
@@ -10259,7 +10259,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "2175bafc-2b50-4dc5-b6d6-2db2fbdf578d"
+    "abilityGroupId": "4acbbefb-0838-4c98-a2bf-11ee27230582"
   },
   {
     "id": "ac49163a-db46-4bc3-8658-cb2092ce75ac",
@@ -10277,7 +10277,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "ba0cab67-6f25-466b-b9b8-65ae3f9d62ca"
+    "abilityGroupId": "7552e875-b9b0-4ca9-871b-a6896792df4d"
   },
   {
     "id": "2d723b77-92af-4cbb-bd31-43e75bb7a3b0",
@@ -10295,7 +10295,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "69a21f38-308e-4c67-bfde-0237fea9d985"
+    "abilityGroupId": "1ab78339-0e25-4b3a-99bf-479ee1026f7b"
   },
   {
     "id": "d4b46a81-6da6-4916-84d5-fcb5ea3d8a1c",
@@ -10313,7 +10313,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "2d48fee6-4aa0-42c9-8623-c9598b6c3fa9"
+    "abilityGroupId": "cb12eb61-c6d0-48ae-80a0-8ad029f0fad5"
   },
   {
     "id": "3cec4fc0-5cdf-411f-8840-2bbe6fba8f46",
@@ -10331,7 +10331,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "467a38ed-fdd6-4679-ad53-f9ac3c28fac4"
+    "abilityGroupId": "02caeb4f-dfbd-48a4-99d7-d54a9b4a71a8"
   },
   {
     "id": "c3a0f1a6-4ad4-459d-9f8e-4f9b1ba0eb88",
@@ -10349,7 +10349,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "2247ad45-024c-4340-8cc7-cf9cf2d9a3bd"
+    "abilityGroupId": "e4ee812a-a1ec-42f3-a9fb-ba7518c0d4d7"
   },
   {
     "id": "62c6219b-03dc-4753-9430-316846fa0c81",
@@ -10367,7 +10367,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "95774047-35d1-4247-942b-03b63c448550"
+    "abilityGroupId": "f991ca66-2a43-40ed-ada7-4300bc8bdeae"
   },
   {
     "id": "4f95ae48-2fd8-4322-825e-777c27973f65",
@@ -10385,7 +10385,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "8941ad4e-8964-48f6-8ac3-dc344f339269"
+    "abilityGroupId": "cf123e58-ae54-48b6-b1a5-a344f7a495a9"
   },
   {
     "id": "fb4dacb3-a37b-44b2-b22f-50938d043e3c",
@@ -10403,10 +10403,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "424dc544-14a0-4879-a705-e3dff9dc6ee8"
+    "abilityGroupId": "c66cd180-6a7f-464b-b9f2-dff0143817e1"
   },
   {
-    "id": "62c6219b-03dc-4753-9430-316846fa0c81",
+    "id": "24738ed1-808d-49a4-92f6-d1b4b30654a0",
     "name": "Transport Skyfarers",
     "phaseDetails": "Reaction: You declared a non-Charge Move ability for a friendly Skyvessel",
     "phase": "movementPhase",
@@ -10421,7 +10421,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "2f05c70f-c5c9-49c1-b693-9a40375d707e"
+    "abilityGroupId": "f5c95141-017a-4f6e-a73d-efddf8e2281a"
   },
   {
     "id": "3bb497a8-4ee7-4def-a1bd-9fd2c4c01beb",
@@ -10439,7 +10439,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "4dfbc4f4-aca7-49df-8d91-f0d1cc0f5062"
+    "abilityGroupId": "a1ea480c-54c6-41aa-8178-f9cfc6cbbb96"
   },
   {
     "id": "46137a22-4b5f-4d7e-8473-dd241e1667e0",
@@ -10457,10 +10457,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "53b247d8-8700-4b0e-b18b-ddf037cbc620"
+    "abilityGroupId": "96e3a4b3-4bfd-487e-91ed-6666e60eb5a9"
   },
   {
-    "id": "1aff8e48-1c73-4e81-aeda-f7ec13c81617",
+    "id": "abafdc92-21f3-4a91-a3b0-675e697278f5",
     "name": "Mork's Eye Pebble",
     "phaseDetails": "Once Per Battle, Reaction: Opponent declared an Attack ability",
     "phase": "defensive",
@@ -10475,7 +10475,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "ac5cb0b8-8fb7-4894-af67-48176a2fc958"
+    "abilityGroupId": "0da71ae8-e85d-4e82-a4ae-9d65fdec1450"
   },
   {
     "id": "e628111b-c226-49a7-b366-c940edb86568",
@@ -10493,7 +10493,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "34dd15c0-2132-42cd-9d83-4db573d38023"
+    "abilityGroupId": "173a03fb-5168-4124-8241-1fd581d4159a"
   },
   {
     "id": "7a79ff0e-4b71-4f39-8b2b-029ef3244f37",
@@ -10511,7 +10511,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "c47c72c7-1275-4fc6-a44f-35309df1f3ac"
+    "abilityGroupId": "d947ca7e-9185-47ff-b7aa-6ed2067f40de"
   },
   {
     "id": "25d74a88-b0ea-45fc-adde-7b1bd270b4e9",
@@ -10529,7 +10529,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "9f75d41b-9e3a-482f-a7dd-615864306d10"
+    "abilityGroupId": "d1d2b435-d560-4452-8b4b-a0b2b4b98324"
   },
   {
     "id": "c30e0452-6f57-4c33-af76-fb55b71d012b",
@@ -10547,7 +10547,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "84c40e66-5a9c-4dcd-9e3f-e033517c9186"
+    "abilityGroupId": "7f5678d6-c860-476e-90db-7d50781b82ad"
   },
   {
     "id": "262cffcc-7723-44f2-a2dc-079ac273d992",
@@ -10565,7 +10565,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "3af4ae50-02a5-4778-a1bb-99b5a9d81e63"
+    "abilityGroupId": "23e6361a-d5be-4934-bcf7-2d5622ce3681"
   },
   {
     "id": "e02cf562-3d62-42ec-b755-a8c751d0173c",
@@ -10583,7 +10583,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "1f9188e5-fc75-453d-ac02-8ed4c0574c73"
+    "abilityGroupId": "5642c5cf-0148-4f62-8ce7-ddf447a01165"
   },
   {
     "id": "dad6eb6e-3c83-496a-8743-a062723ead71",
@@ -10601,7 +10601,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3d0db321-3273-4728-86f7-d1419b661def"
+    "abilityGroupId": "519a9d59-ef51-4cfe-804c-841539feea06"
   },
   {
     "id": "cb580ca0-c053-4646-8860-1b64c2c7fd6f",
@@ -10619,7 +10619,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "83e710c0-3132-4ea3-9547-e46794b80561"
+    "abilityGroupId": "662a23ed-343e-43d9-be7d-5172864aface"
   },
   {
     "id": "66841726-2e4c-4839-ae38-4198317494e6",
@@ -10637,10 +10637,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "b3a83a6d-c6ab-4d41-8c5b-112c14c8ac21"
+    "abilityGroupId": "3eb2cb74-831c-44f4-8877-4eef7072558a"
   },
   {
-    "id": "ddec4a45-ae14-4980-bbf5-0759ac0f2d8c",
+    "id": "75bccd44-50f1-48e7-b861-9334828234f6",
     "name": "Skilled Manipulator",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -10655,7 +10655,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f392f816-862f-4e8d-a842-8da4dc2d29eb"
+    "abilityGroupId": "3ae1a71f-7ae6-4935-8b95-b1a099c5bffe"
   },
   {
     "id": "84dd5ed0-4934-42da-b415-eebd61439a40",
@@ -10673,7 +10673,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8e7246bb-5e60-48ab-a65f-b717758fca8f"
+    "abilityGroupId": "0f6ffbc6-9966-4dcb-8910-2d976f534db2"
   },
   {
     "id": "a1c16cab-3f9c-4820-bbc9-90fa1e375c66",
@@ -10691,7 +10691,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "69fb62d7-4e68-48ad-970a-fc56dff087b7"
+    "abilityGroupId": "cb4fec1e-58c4-4404-8047-7234ac6c2c2b"
   },
   {
     "id": "bf1132f4-a4fb-4723-b9f9-5c8cb92f7098",
@@ -10709,10 +10709,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0c6a2885-021e-4ad6-8700-58869260ddc1"
+    "abilityGroupId": "6cf15b3c-02f7-4260-9a1b-4d07451b9266"
   },
   {
-    "id": "7cd5f2ff-4018-46b5-ba19-0334c4bb6e57",
+    "id": "61680b28-e97f-439c-91a7-7669c7002264",
     "name": "Eye of the Gods",
     "phaseDetails": "Once Per Turn, End of Any Turn",
     "phase": "endOfTurn",
@@ -10727,7 +10727,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "d3a51826-30ef-4daf-b6a5-8d3f93e5624e"
+    "abilityGroupId": "f1040ae2-86e6-48d8-af5b-67d950d82034"
   },
   {
     "id": "290b82cd-6696-473e-80db-b2ab95352608",
@@ -10745,7 +10745,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "40ef41de-d49b-4919-baf4-bdc725ed4f65"
+    "abilityGroupId": "22a6aa92-0e23-455f-b2f8-6cd30bc44230"
   },
   {
     "id": "13f0fa28-28de-4100-a9c2-1e8da22cd825",
@@ -10763,10 +10763,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "120de340-f63b-4b6c-850b-69b49cca0390"
+    "abilityGroupId": "6a920ccc-c7e3-4a14-ad19-599b8a4f55db"
   },
   {
-    "id": "9ab1e0f9-7696-4757-9ffd-7aec57933363",
+    "id": "28d8d30a-e55d-4ce7-9960-e45ee7c122d8",
     "name": "The Lurking Vermintide",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -10781,10 +10781,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3d0db321-3273-4728-86f7-d1419b661def"
+    "abilityGroupId": "519a9d59-ef51-4cfe-804c-841539feea06"
   },
   {
-    "id": "6111d907-b112-4d04-8f0b-9985df3a66e2",
+    "id": "4327d26c-4666-4f40-8dca-32c455c9455f",
     "name": "Always Three Clawsteps Ahead",
     "phaseDetails": "Once Per Turn (Army), Enemy Hero Phase",
     "phase": "heroPhase",
@@ -10799,7 +10799,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3d0db321-3273-4728-86f7-d1419b661def"
+    "abilityGroupId": "519a9d59-ef51-4cfe-804c-841539feea06"
   },
   {
     "id": "0d07584b-8b39-412a-8365-c139352f5147",
@@ -10817,10 +10817,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3d0db321-3273-4728-86f7-d1419b661def"
+    "abilityGroupId": "519a9d59-ef51-4cfe-804c-841539feea06"
   },
   {
-    "id": "7305605d-ecd5-4480-a500-0ce8b25c5b0f",
+    "id": "f10cff9b-ca8c-4023-ab18-f4ab9bf2bb8a",
     "name": "Gnawhole Ambush",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -10835,10 +10835,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3d0db321-3273-4728-86f7-d1419b661def"
+    "abilityGroupId": "519a9d59-ef51-4cfe-804c-841539feea06"
   },
   {
-    "id": "dad6eb6e-3c83-496a-8743-a062723ead71",
+    "id": "0816513c-ed1c-43a8-926e-be3793ffea46",
     "name": "Too Quick To Hit-hit",
     "phaseDetails": "Passive",
     "phase": "movementPhase",
@@ -10853,7 +10853,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "97baabc7-f3b9-4c89-9ca9-6be27101e054"
+    "abilityGroupId": "a9439b55-b1d9-45f7-b5bf-f83e00a84044"
   },
   {
     "id": "4f2d150e-2fa8-47e4-9b66-1ed457a82e99",
@@ -10871,7 +10871,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": true,
-    "abilityGroupId": "8ba9accf-e5c2-4498-9da9-7307ea8b4969"
+    "abilityGroupId": "29206868-322c-440a-88cc-867dbdde0f47"
   },
   {
     "id": "1ea7809b-dd17-4dda-a5e9-93e0fb92c3a0",
@@ -10889,7 +10889,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "856cf656-56f3-4b54-9a57-35968deb0a16"
+    "abilityGroupId": "fc51b159-6d56-4426-82d2-8327e69cfbcc"
   },
   {
     "id": "95086a11-134f-4dde-8c8c-fb5ce84ba161",
@@ -10907,7 +10907,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "856cf656-56f3-4b54-9a57-35968deb0a16"
+    "abilityGroupId": "fc51b159-6d56-4426-82d2-8327e69cfbcc"
   },
   {
     "id": "d200d4e1-5109-4033-b7f2-74d940e464f0",
@@ -10925,7 +10925,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5531af08-89e0-4558-9935-0311309bbd69"
+    "abilityGroupId": "638679c0-7dbd-461b-b440-98de6ec8ff4d"
   },
   {
     "id": "f9b94953-213c-486a-b387-420384251c6f",
@@ -10943,7 +10943,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "b2105843-eda1-429b-bc48-0c34beb1db1a"
+    "abilityGroupId": "d9ba6848-e3b3-4d14-a374-9780746fac1f"
   },
   {
     "id": "f5c33561-6a8a-410c-b00f-c6ae5ca3d37b",
@@ -10961,10 +10961,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c7373580-c07c-4513-8eac-89c35686c21c"
+    "abilityGroupId": "f1fdcd52-6392-4ae8-925d-5608a13adf9e"
   },
   {
-    "id": "6111d907-b112-4d04-8f0b-9985df3a66e2",
+    "id": "5581c59f-cea4-4705-ae0c-1cfcc6036711",
     "name": "Always Three Clawsteps Ahead",
     "phaseDetails": "Once Per Turn (Army), Enemy Hero Phase",
     "phase": "heroPhase",
@@ -10979,7 +10979,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3756c366-4149-4d81-a848-1dda3aec65f7"
+    "abilityGroupId": "a916292c-25a0-4800-b709-218fed0780b4"
   },
   {
     "id": "f42db693-b16e-4be0-a3bd-fd3909a838ee",
@@ -10997,7 +10997,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c7373580-c07c-4513-8eac-89c35686c21c"
+    "abilityGroupId": "f1fdcd52-6392-4ae8-925d-5608a13adf9e"
   },
   {
     "id": "5152e881-60e7-4ecb-a2ec-77908d32dfb1",
@@ -11015,7 +11015,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c7373580-c07c-4513-8eac-89c35686c21c"
+    "abilityGroupId": "f1fdcd52-6392-4ae8-925d-5608a13adf9e"
   },
   {
     "id": "2d3070d1-bd7e-4e2d-b971-f85098bfb7da",
@@ -11033,7 +11033,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3756c366-4149-4d81-a848-1dda3aec65f7"
+    "abilityGroupId": "a916292c-25a0-4800-b709-218fed0780b4"
   },
   {
     "id": "c0633fd1-13d5-4ca5-b0a6-6d0e528ce0bf",
@@ -11051,7 +11051,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "358ad59e-5165-4e19-9ded-4ea39779b38a"
+    "abilityGroupId": "6e684dff-3c14-4585-be97-3db0ce787762"
   },
   {
     "id": "790ef075-a053-4262-b692-166bc7d6f514",
@@ -11069,7 +11069,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "5ea469fe-fcbf-4c57-a8a3-87333eb865f4"
+    "abilityGroupId": "dfa6e497-dc9a-4113-9f55-13b55d435979"
   },
   {
     "id": "5fa13136-696e-4651-a040-ec254a46b2dc",
@@ -11087,7 +11087,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "2882924f-d922-4854-b401-05caca10706c"
+    "abilityGroupId": "e1726dff-9764-45a5-9f51-ea5bfb73dd2e"
   },
   {
     "id": "72186ed2-332b-4f87-b0f7-fdbbf9c94e03",
@@ -11105,7 +11105,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "3756c366-4149-4d81-a848-1dda3aec65f7"
+    "abilityGroupId": "a916292c-25a0-4800-b709-218fed0780b4"
   },
   {
     "id": "32847bc8-80c2-472b-a78c-3830b616b581",
@@ -11123,7 +11123,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "856cf656-56f3-4b54-9a57-35968deb0a16"
+    "abilityGroupId": "fc51b159-6d56-4426-82d2-8327e69cfbcc"
   },
   {
     "id": "bc32bed2-635c-4f40-ba9f-91f8344d978a",
@@ -11141,7 +11141,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f304cf39-1281-4171-99e6-b68c52694b46"
+    "abilityGroupId": "b5871a6a-0b15-4a7f-a17a-a19764bb7d23"
   },
   {
     "id": "2dbef034-d2f2-41c0-b1d3-9fe85ff4e535",
@@ -11159,7 +11159,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "77f3b507-60e5-475e-845a-dc86a87f15e7"
+    "abilityGroupId": "33ae1328-14ef-4f7c-abf6-833f517922b3"
   },
   {
     "id": "81334836-c1c1-442a-9ce4-c7492b1b0dd9",
@@ -11177,7 +11177,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a2410ba5-c3c1-4b31-8277-08a5a8127fa9"
+    "abilityGroupId": "3179f3e7-2213-4e3b-b908-da5b2bd95b6a"
   },
   {
     "id": "bfcf646e-3780-4741-804e-9bf3ec75e2dd",
@@ -11195,7 +11195,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "22e95235-241f-48ab-ab4d-6f2bbebaa0f0"
+    "abilityGroupId": "dfa595cd-e058-4ce5-a98b-8d38d428985f"
   },
   {
     "id": "5648e097-5809-48b9-ae34-e1e0d250b54d",
@@ -11213,10 +11213,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "22e95235-241f-48ab-ab4d-6f2bbebaa0f0"
+    "abilityGroupId": "dfa595cd-e058-4ce5-a98b-8d38d428985f"
   },
   {
-    "id": "3cec4fc0-5cdf-411f-8840-2bbe6fba8f46",
+    "id": "d465b004-fa0c-4f13-91ab-94f06854b151",
     "name": "Shining Company",
     "phaseDetails": "Start of Battle Round",
     "phase": "startOfTurn",
@@ -11231,7 +11231,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "13c9f8c5-2dd0-49bb-a762-1229d44400f8"
+    "abilityGroupId": "217f44f5-e011-40cc-9111-5401e38fd7f3"
   },
   {
     "id": "6d0117e9-4e25-4e38-b2b8-9608741c1722",
@@ -11249,7 +11249,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "41e4e619-c2e5-490f-82d1-33348f96dea4"
+    "abilityGroupId": "af4f4798-6791-4dfe-a3dd-48e6ce60c4be"
   },
   {
     "id": "71710e60-9b53-463a-8a3c-a148c4992353",
@@ -11267,7 +11267,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "98400fa5-b44b-449a-8468-dbfc9f9b235f"
+    "abilityGroupId": "b0d897d1-ae8f-4e21-bb63-66f287398ff9"
   },
   {
     "id": "f652a2ca-3bfb-420c-ad5c-6dcb1ab89ef7",
@@ -11285,7 +11285,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "48cb0724-50b8-4048-8c9b-6239f07e2544"
+    "abilityGroupId": "051bbb93-c06c-4610-8519-5301e19396fc"
   },
   {
     "id": "e9c7bc21-a94a-43d5-a608-d2a90cdd6a7b",
@@ -11303,7 +11303,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "02783b5b-7077-4409-999b-008ce2528340"
+    "abilityGroupId": "5ae3e70b-a7d6-4dec-a3a0-7b96c9bcd220"
   },
   {
     "id": "124c88e6-e251-4b44-a383-86fcc16f7e0f",
@@ -11321,7 +11321,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "660bcbfa-d216-4483-a952-c21b719c16be"
+    "abilityGroupId": "f66f315e-b7bb-4ad9-94f8-4be3aee72afc"
   },
   {
     "id": "77ff1096-ab47-49d6-a85b-2dc497510611",
@@ -11339,7 +11339,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "62777ec2-88c9-4c6b-b331-21c9fc564343"
+    "abilityGroupId": "42b68c41-7d7d-46d2-87a0-72a9907a2f79"
   },
   {
     "id": "2482edc0-52e1-4867-bfdc-66e153b28c2e",
@@ -11357,7 +11357,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "0c2ee9ef-f7dd-4f6f-98fa-7f92d503a0e7"
+    "abilityGroupId": "4a11f24d-91a5-413d-aab6-c8077bbe4f53"
   },
   {
     "id": "635bce61-a040-4380-bcd2-73949b956cae",
@@ -11375,7 +11375,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "358ad59e-5165-4e19-9ded-4ea39779b38a"
+    "abilityGroupId": "6e684dff-3c14-4585-be97-3db0ce787762"
   },
   {
     "id": "f0d5e583-50be-4860-9cdc-a14ed894d304",
@@ -11393,7 +11393,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "856cf656-56f3-4b54-9a57-35968deb0a16"
+    "abilityGroupId": "fc51b159-6d56-4426-82d2-8327e69cfbcc"
   },
   {
     "id": "c3ebfea7-1eab-4ea6-8825-b37c1f720fdb",
@@ -11411,7 +11411,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "33188de1-6d75-44bb-9812-c28a3c4faf99"
+    "abilityGroupId": "d97f5e2b-9610-49f7-a3c6-68f81b99c36d"
   },
   {
     "id": "931c6413-8655-4345-b41f-99ba04de1af0",
@@ -11429,7 +11429,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "33188de1-6d75-44bb-9812-c28a3c4faf99"
+    "abilityGroupId": "d97f5e2b-9610-49f7-a3c6-68f81b99c36d"
   },
   {
     "id": "fea41f73-4c51-4f16-aef0-345cf56885c4",
@@ -11447,7 +11447,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "41e4e619-c2e5-490f-82d1-33348f96dea4"
+    "abilityGroupId": "af4f4798-6791-4dfe-a3dd-48e6ce60c4be"
   },
   {
     "id": "63c354f9-8040-40c5-a8da-4f15ff3653ec",
@@ -11465,7 +11465,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "33188de1-6d75-44bb-9812-c28a3c4faf99"
+    "abilityGroupId": "d97f5e2b-9610-49f7-a3c6-68f81b99c36d"
   },
   {
     "id": "09276e8e-f344-4486-8ac2-ed59eb6cca30",
@@ -11483,10 +11483,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "8fd214d7-ffee-4148-84d0-a57ad377c759"
+    "abilityGroupId": "fc72058b-ed66-4a91-ad21-d41941f2eb25"
   },
   {
-    "id": "f7325eff-dbfb-4d5a-be94-25885305a8e3",
+    "id": "53f268d7-c9b3-43a8-8f08-de6345a05d79",
     "name": "Hallowed Scrolls",
     "phaseDetails": "Passive",
     "phase": "defensive",
@@ -11501,10 +11501,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "f0b15251-2f2c-4d48-85f7-eb38effde4d2"
+    "abilityGroupId": "6e5b75aa-fcc3-4676-b974-c5601b2223ad"
   },
   {
-    "id": "5a45bda2-b69c-48d4-9743-13050cbd2a52",
+    "id": "efcd298b-087f-48bc-88ee-cb235429dbd9",
     "name": "The Celestial Realm",
     "phaseDetails": "Deployment Phase",
     "phase": "startOfTurn",
@@ -11519,10 +11519,10 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "99932578-2139-412c-85b1-4ffc1613c4f1"
+    "abilityGroupId": "485c7379-cc54-4d84-ab08-574db50527c1"
   },
   {
-    "id": "246df19f-166f-4a27-b80e-d48f68b73adf",
+    "id": "2a0c9dd8-4641-40ac-9278-19fe127e824e",
     "name": "Scions of the Storm",
     "phaseDetails": "Your Movement Phase",
     "phase": "movementPhase",
@@ -11537,7 +11537,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "99932578-2139-412c-85b1-4ffc1613c4f1"
+    "abilityGroupId": "485c7379-cc54-4d84-ab08-574db50527c1"
   },
   {
     "id": "08c119e0-8b50-45ad-b1f8-d6b78eff8b0b",
@@ -11555,7 +11555,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "99932578-2139-412c-85b1-4ffc1613c4f1"
+    "abilityGroupId": "485c7379-cc54-4d84-ab08-574db50527c1"
   },
   {
     "id": "5dac1a45-5da3-40c1-959b-1b9b0d736e05",
@@ -11573,7 +11573,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "99932578-2139-412c-85b1-4ffc1613c4f1"
+    "abilityGroupId": "485c7379-cc54-4d84-ab08-574db50527c1"
   },
   {
     "id": "039c0800-5879-4593-bad7-e5e8ab3d6401",
@@ -11591,7 +11591,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "90d2c6d8-b3d9-493c-8290-cff9ea7aa61f"
+    "abilityGroupId": "85947cdc-debd-4386-9ca0-63d601d23c03"
   },
   {
     "id": "b0f1a7ce-6c47-42d7-877f-5b09b0171334",
@@ -11609,7 +11609,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "fb59360f-63f4-40b4-978d-c750a01ea53e"
+    "abilityGroupId": "c5ba1cbf-8257-488d-83f2-1d1b03270350"
   },
   {
     "id": "f65e9763-b7bd-4f75-9d57-508341e1051a",
@@ -11627,7 +11627,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "a37b00a6-7db7-4cb6-8bbf-5196067cdd81"
+    "abilityGroupId": "ed97ba8e-1592-4a3f-a340-e967e0bfadfe"
   },
   {
     "id": "ba773f0c-3a05-4d1e-a965-fb1604f81e38",
@@ -11645,7 +11645,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "4dea4f43-2d10-49fc-a90a-bda4f0b1fe4d"
+    "abilityGroupId": "4bb8e9f3-a739-408d-9915-30b02b5677a1"
   },
   {
     "id": "4abb34d0-f848-4ead-a3e2-dd2166dd22f6",
@@ -11663,7 +11663,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "6cde533e-3597-475a-8620-8b075ad5dec7"
+    "abilityGroupId": "e1b2e6c2-ffe9-46c8-8efd-6675e51868fd"
   },
   {
     "id": "d72e9454-c0ee-413d-adf4-57a4344de6d7",
@@ -11681,7 +11681,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "62777ec2-88c9-4c6b-b331-21c9fc564343"
+    "abilityGroupId": "42b68c41-7d7d-46d2-87a0-72a9907a2f79"
   },
   {
     "id": "b1b6eb82-5af1-471a-815e-1b883e196a39",
@@ -11699,7 +11699,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "33188de1-6d75-44bb-9812-c28a3c4faf99"
+    "abilityGroupId": "d97f5e2b-9610-49f7-a3c6-68f81b99c36d"
   },
   {
     "id": "d406aa4d-4be8-4d50-a3f1-7de4ae2f3797",
@@ -11717,7 +11717,7 @@ export const abilities : Ability[] = [
     "subsectionLore": null,
     "subsectionRulesText": null,
     "reaction": false,
-    "abilityGroupId": "c7373580-c07c-4513-8eac-89c35686c21c"
+    "abilityGroupId": "f1fdcd52-6392-4ae8-925d-5608a13adf9e"
   }
 ];
 

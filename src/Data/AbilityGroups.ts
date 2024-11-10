@@ -2,7 +2,7 @@ import AbilityGroup from "../Types/DataTypes/AbilityGroup";
 
 export const ability_groups : AbilityGroup[] = [
   {
-    "id": "3af4ae50-02a5-4778-a1bb-99b5a9d81e63",
+    "id": "23e6361a-d5be-4934-bcf7-2d5622ce3681",
     "name": "Unbind",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -17,7 +17,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c3a27ab8-5482-4656-abb8-459eeb3ea038",
+    "id": "b4c9a524-f0d7-4287-aca9-a9aa7ce94676",
     "name": "Alphabeast Instincts",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -32,7 +32,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "38c8696b-4ac1-476a-a8c8-6e9ed405e4ee",
+    "id": "d1d1c4c3-1195-4764-9b1a-b387aebcd7f4",
     "name": "Charge Phase Commands",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -47,7 +47,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "7414f389-4b1f-4d61-a7d6-fce8503c6beb",
+    "id": "3e3ae904-4ff7-4089-830b-5bdaad47bf28",
     "name": "Gifts of Morathi",
     "restrictionText": "(Hero only)",
     "abilityGroupType": "artefactsOfPower",
@@ -62,7 +62,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2eb61215-31aa-414d-89e0-b2eb8825d226",
+    "id": "52460dab-68a1-4f9c-8a90-6511075f1109",
     "name": "Wallsmasher Stomp Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -77,7 +77,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c47a9047-075f-4a1f-87dd-a174342f9d32",
+    "id": "2266b4c4-27a7-4f06-aa44-714e2b698682",
     "name": "Relics of Nature",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -92,7 +92,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "120de340-f63b-4b6c-850b-69b49cca0390",
+    "id": "6a920ccc-c7e3-4a14-ad19-599b8a4f55db",
     "name": "Guarded Hero",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -107,7 +107,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "4001897c-f6d7-445e-9290-6e8d4b6b5ee1",
+    "id": "33b042ac-eefd-49c0-be21-6ea831c3893f",
     "name": "Boss Bones and Other Gubbinz",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -122,7 +122,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "e771cc58-dcf0-4e5c-bc58-bcb60e07c0e4",
+    "id": "8dd6dbc6-a8cd-4b5d-b0b5-87c6d7127c72",
     "name": "The Roving Maw Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -137,7 +137,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "09ea7e0f-f1e4-48d6-ae4c-7b4939e3fa15",
+    "id": "4c811d6d-6981-475d-ae9f-1043454b9c32",
     "name": "Wallsmasher Stomp Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -152,7 +152,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "efb01c5d-517a-45f5-b0aa-2e6c1ba71ef5",
+    "id": "6e72752f-701f-49e4-98a5-877b6c27e8fc",
     "name": "Warpspark Clawpack Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -167,7 +167,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "95774047-35d1-4247-942b-03b63c448550",
+    "id": "f991ca66-2a43-40ed-ada7-4300bc8bdeae",
     "name": "Grundstok Expeditionary Force Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -182,7 +182,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "b8834398-07f3-4113-ac35-8c7342fb02ea",
+    "id": "e70429b0-218b-462f-8de6-bc60c8ff4df7",
     "name": "Elthwin's Thorns",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -197,7 +197,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "50ffa967-f5d7-4b79-8910-7e8a962eac1b",
+    "id": "f8404587-0cae-4c30-b8cc-06ca32b7e243",
     "name": "The Cursed Bloodlines",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -212,7 +212,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "34dd15c0-2132-42cd-9d83-4db573d38023",
+    "id": "173a03fb-5168-4124-8241-1fd581d4159a",
     "name": "Lofnir Drothkeepers Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -227,7 +227,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "01fa21b9-9e7a-47ad-98ed-bc7be0321629",
+    "id": "8a90c28d-4cb1-49ca-9c6d-76926f32e015",
     "name": "Blades of Khorne Battle Traits",
     "restrictionText": "Blades of Khorne armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -242,7 +242,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "a390a910-857f-4ef4-871f-7f1414a757c3",
+    "id": "f9322b1a-7583-4105-9f10-af286a268137",
     "name": "The Croneseer’s Pariahs Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -257,7 +257,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "600b73ea-db81-4cb6-bcd2-a05ce1c75205",
+    "id": "360411a4-ead5-44f9-8456-688096c91f9c",
     "name": "Traits of Endless Hunger",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -272,7 +272,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "9cbe38b4-bd3b-4757-9c6c-dfc4f6c45354",
+    "id": "273f29f6-4e11-4464-8fdf-db8e34d2db8b",
     "name": "Yndrasta's Spearhead Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -287,7 +287,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8ba9accf-e5c2-4498-9da9-7307ea8b4969",
+    "id": "29206868-322c-440a-88cc-867dbdde0f47",
     "name": "Gnawfeast Clawpack Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -302,7 +302,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "69b480b1-3cb4-48c1-a75b-419854d043fb",
+    "id": "67950fb0-b705-496b-b369-dd776c795842",
     "name": "Coveted Treasures",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -317,7 +317,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "5ea47868-afd2-4896-ac6e-684ae98f776a",
+    "id": "862f29ff-77ca-48b8-9ca1-b18014c24fcb",
     "name": "Soulraid Hunt Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -332,7 +332,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "84c40e66-5a9c-4dcd-9e3f-e033517c9186",
+    "id": "7f5678d6-c860-476e-90db-7d50781b82ad",
     "name": "Tyrant's Bellow Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -347,7 +347,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "ab3660be-d1c5-4a90-8b9c-8dad8fd84967",
+    "id": "51fa6e1d-68b5-4ec9-bdc0-95b0e3707642",
     "name": "Bitterbark Copse Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -362,7 +362,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0f4d6cc9-119c-41d3-8b4a-ec23f35b9e22",
+    "id": "84564bfa-97ad-49c4-8ecc-119df89ca449",
     "name": "Teachings of the Tithe-Reapers",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -377,7 +377,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c47c72c7-1275-4fc6-a44f-35309df1f3ac",
+    "id": "d947ca7e-9185-47ff-b7aa-6ed2067f40de",
     "name": "Lords of Brilliance",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -392,7 +392,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "6cde533e-3597-475a-8620-8b075ad5dec7",
+    "id": "e1b2e6c2-ffe9-46c8-8efd-6675e51868fd",
     "name": "Hedonites of Slaanesh Battle Traits",
     "restrictionText": "Hedonites of Slaanesh armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -407,7 +407,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "b7cbc9e6-3f3d-4330-902e-4f86c31a1ce7",
+    "id": "b825d78e-9dd3-4b38-a606-577d6b101ecc",
     "name": "Combat Phase Universal Abilities",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -422,7 +422,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "6add7e0d-801b-4948-b75a-7f1c157b2ff0",
+    "id": "73a06775-50aa-489d-baa4-b1e9bf2c4b1c",
     "name": "Soulraid Hunt Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -437,7 +437,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "3acbee7b-6e3e-44b1-91b8-883e53c4f42c",
+    "id": "3d7de946-51d1-49f5-9d47-d7119ca0f37c",
     "name": "Tyrant's Bellow Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -452,7 +452,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "f29d576c-cdc5-4a00-bc36-5ead62cf35a5",
+    "id": "9125c3c5-3ff9-4e0a-9a56-38a7da277ed4",
     "name": "Bloodbound Gore Pilgrims Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -467,7 +467,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "fad133f1-985e-4509-a9b0-320d5042db1f",
+    "id": "f250aa23-02d7-44d6-b6de-1696cbc09370",
     "name": "Bitterbark Copse Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -482,7 +482,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "76929063-1f3b-4094-833c-638aac9a9d3e",
+    "id": "ca44560b-06aa-45ff-9f86-6e3d03c98908",
     "name": "Seraphon Battle Traits",
     "restrictionText": "Seraphon armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -497,7 +497,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c2bdb429-0ba7-4dc9-af81-39bf83f5df1d",
+    "id": "b04ec298-1c71-4444-a377-0f6b139bc263",
     "name": "Universal Charge Phase Abilities",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -512,7 +512,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c9dcc8b2-a6ef-4cd0-8379-7739b8b7544b",
+    "id": "1cb494f9-689b-4e3a-a353-6ab728ba336f",
     "name": "The Evergreen Hunt Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -527,7 +527,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "028d1b7e-17bc-432c-85b9-af9514b61735",
+    "id": "754875b3-41d9-4510-8bc6-dd208a45131a",
     "name": "Carrion Retainers Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -542,7 +542,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "3f66ff66-e229-41e2-9149-6cbb9cac5fa9",
+    "id": "d94ba937-bc39-45c5-9e47-3cf318d50567",
     "name": "Heirlooms of Hysh",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -557,7 +557,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "467a38ed-fdd6-4679-ad53-f9ac3c28fac4",
+    "id": "02caeb4f-dfbd-48a4-99d7-d54a9b4a71a8",
     "name": "Glittering Phalanx Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -572,7 +572,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "3c2fd8c0-61d4-49e7-a319-ba7dea0e6a75",
+    "id": "7427c010-4074-4563-ac66-8c3e9e25f63c",
     "name": "Slaves to Darkness Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -587,7 +587,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "84402496-f435-47e6-a2fa-b3842d2be89c",
+    "id": "f1057714-9689-4b8b-acbe-e0c7d7b17cd3",
     "name": "Inventions of the Sky-Ports",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -602,7 +602,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "7c14dae0-d495-4396-87a9-2b54b0d82fcf",
+    "id": "eea78bb8-296c-4906-bff8-3c0a53cc7868",
     "name": "Bloodbound Gore Pilgrims Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -617,7 +617,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "b477269d-742e-4cce-9c2c-1eb08f21bae9",
+    "id": "a887ce78-63a1-431d-b35f-16be300fdcfa",
     "name": "Blades of the Lurid Dream Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -632,7 +632,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0726f5cf-46e3-4a8b-8aed-dc02cee6fa2c",
+    "id": "47b14ed2-ecca-4c9a-891e-5bace8d8f813",
     "name": "The Roving Maw Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -647,7 +647,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "a7ad1958-293a-43b9-a487-ae66efd133e8",
+    "id": "acc21770-cb67-49ad-9a53-b3757d582776",
     "name": "Sons of Behemat Battle Traits",
     "restrictionText": "Sons of Behemat armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -662,7 +662,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "40ef41de-d49b-4919-baf4-bdc725ed4f65",
+    "id": "22a6aa92-0e23-455f-b2f8-6cd30bc44230",
     "name": "Cities of Sigmar Battle Traits",
     "restrictionText": "Cities of Sigmar armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -677,7 +677,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "88e58571-68da-48d2-a19f-7c0258b7f26e",
+    "id": "b611eefc-3fcb-4d6f-8b80-3b2089c8d274",
     "name": "King Brodd's Stomp Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -692,7 +692,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "407ad9ba-8621-44b8-ba56-96f7b06c67c5",
+    "id": "edc740c7-afe3-4cee-b113-ee3d89099aa1",
     "name": "The Sorrowmourn Choir",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -707,7 +707,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "42f85f79-fb6f-4be0-bf8e-50856df2b3a6",
+    "id": "9c63a862-2759-45a0-93a1-a05d0b45fa89",
     "name": "Castelite Company Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -722,7 +722,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "48cb0724-50b8-4048-8c9b-6239f07e2544",
+    "id": "051bbb93-c06c-4610-8519-5301e19396fc",
     "name": "Ironjawz Battle Traits",
     "restrictionText": "Ironjawz armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -737,7 +737,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "148bebe0-39b8-47d1-8cc7-6d5bd7de71c4",
+    "id": "7f228e51-6c77-4dde-8716-d74952430e1e",
     "name": "Braggit's Bottle-Snatchaz",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -752,7 +752,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "1a6ee249-2b7f-42de-80a9-d681f60ce861",
+    "id": "43901985-6af9-445d-934d-7561891cf84d",
     "name": "Universal Movement Phase Abilities",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -767,7 +767,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "6599745d-18f6-471c-8317-002fa5de055a",
+    "id": "09f9eea9-e79c-4306-956e-f6201421f31f",
     "name": "Krazogg's Grunta Stampede Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -782,7 +782,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "d4a74133-37e3-42ef-a634-a3c4109c3f3b",
+    "id": "31c986ee-83d0-4154-819e-5bff4b906e0c",
     "name": "Relics of the Abyss",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -797,7 +797,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0bf5a908-ce18-4f06-8198-134fe8941ddb",
+    "id": "5fcc65af-f28f-4675-959f-e65877d4982a",
     "name": "Draconith Skywing Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -812,7 +812,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "3e00681b-ec10-4a0f-a4c2-73ba7759706d",
+    "id": "8ae7dac7-5c14-4619-b627-5536856ff59a",
     "name": "Starscale Warhost Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -827,7 +827,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "1f9188e5-fc75-453d-ac02-8ed4c0574c73",
+    "id": "5642c5cf-0148-4f62-8ce7-ddf447a01165",
     "name": "Vigilant Brotherhood Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -842,7 +842,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "88543fa1-e02e-4d11-a618-a77edf6c38ff",
+    "id": "f029ff64-0a68-4e1f-8c51-2186963e6c31",
     "name": "Fated Artefacts",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -857,7 +857,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "a3ebce4a-f9b6-4b1b-b230-8ae364ef2dd0",
+    "id": "8f9249ee-d884-48a0-9ec5-d83a28eceabc",
     "name": "Norgrimm's Rune Throng",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -872,7 +872,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "accf6c81-cf13-4ef9-b68d-ce6d00da82d2",
+    "id": "271f349c-ed9d-4abe-ba7d-8ca119822567",
     "name": "Activate Place of Power",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -887,7 +887,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "89a68d8e-023e-4c51-be80-5e182feb59d3",
+    "id": "fe02ad5f-5d2a-4f5c-b252-bb143501e0da",
     "name": "Castelite Company Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -902,7 +902,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "d6be0b46-92c8-46ee-a396-2eb84dd8a294",
+    "id": "cfd2dca9-c83f-4cd2-9b4b-99a7276eb3c0",
     "name": "King Brodd's Stomp Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -917,7 +917,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8941ad4e-8964-48f6-8ac3-dc344f339269",
+    "id": "cf123e58-ae54-48b6-b1a5-a344f7a495a9",
     "name": "Grundstok Expeditionary Force Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -932,7 +932,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "f3a04375-c9c8-4418-add9-dfea6566d506",
+    "id": "a6e9a9c9-b8c8-4831-9d08-a5d1400767ce",
     "name": "Flesh-eater Courts Battle Traits",
     "restrictionText": "Flesh-eater Courts armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -947,7 +947,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c754072a-9fdf-46f1-978f-dc59c66d0c47",
+    "id": "c275ca02-3e09-45cc-8687-6e5498151a39",
     "name": "Lords of the Sky-fleets",
     "restrictionText": "(Hero only)",
     "abilityGroupType": "heroicTraits",
@@ -962,7 +962,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "21b6a2eb-44d4-46f8-8216-736c62441049",
+    "id": "d3b3eac5-a743-471c-aef6-5fe12e91f7db",
     "name": "Carrion Retainers Regiment Abiities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -977,7 +977,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "5766e291-124f-4035-86d7-efd37bd42222",
+    "id": "87290be1-13d7-4f2a-805c-6623402b2377",
     "name": "The Swords of Chaos Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -992,7 +992,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "777ed49b-de9d-4af5-b5df-031bd6adb710",
+    "id": "2cf6ac14-6f32-45f3-a726-b67efe63f27d",
     "name": "Plunder of the Mawtribes",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1007,7 +1007,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "e32d4386-8543-4e05-9359-7ac03115edba",
+    "id": "79d45fe5-7af6-402c-a29e-0f74eed4e957",
     "name": "Gnawfeast Clawpack Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1022,7 +1022,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "ea945785-f6b6-4dc4-8304-0f61d6bb4e18",
+    "id": "0ea921fc-592c-427c-a923-ab0bf63946fe",
     "name": "Bleak Host Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -1037,7 +1037,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "83e710c0-3132-4ea3-9547-e46794b80561",
+    "id": "662a23ed-343e-43d9-be7d-5172864aface",
     "name": "Skyhammer Task Force Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1052,7 +1052,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "f304cf39-1281-4171-99e6-b68c52694b46",
+    "id": "b5871a6a-0b15-4a7f-a17a-a19764bb7d23",
     "name": "Banish Manifestation",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -1067,7 +1067,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "22e95235-241f-48ab-ab4d-6f2bbebaa0f0",
+    "id": "dfa595cd-e058-4ce5-a98b-8d38d428985f",
     "name": "Disciples of Tzeentch Battle Traits",
     "restrictionText": "Disciples of Tzeentch armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -1082,7 +1082,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "59b70ad1-8e4f-4f0c-bc9d-01dd9bde7565",
+    "id": "52939748-4e99-46e6-9c3d-a34547f0f5d4",
     "name": "Tithe-reaper Echelon Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -1097,7 +1097,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "18ca3cc5-d1bb-453d-9724-6fd9ccffd766",
+    "id": "eaeaa1b0-3fb6-46e7-bfae-f384d84500d0",
     "name": "Bloodcrave Hunt Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1112,7 +1112,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "06c7482e-0d14-4538-807e-70a9434c9644",
+    "id": "b5533e7f-dbe8-44a6-b891-68c235d10fc8",
     "name": "Troglodytic Treasures",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1127,7 +1127,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "f714c5b0-5c38-4609-8921-a67fadeb1616",
+    "id": "74218359-4071-4dc3-8dd3-1dbd70d149b0",
     "name": "Blessings of the Bad Moon",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1142,7 +1142,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2d48fee6-4aa0-42c9-8623-c9598b6c3fa9",
+    "id": "cb12eb61-c6d0-48ae-80a0-8ad029f0fad5",
     "name": "Defensive Commands",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -1157,7 +1157,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "ba0cab67-6f25-466b-b9b8-65ae3f9d62ca",
+    "id": "7552e875-b9b0-4ca9-871b-a6896792df4d",
     "name": "Brutal Warlords",
     "restrictionText": "Ironjawz Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1172,7 +1172,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "5569c83a-ed17-4535-9897-b4287078586c",
+    "id": "aa6091f3-985f-4735-a9db-b87630102e45",
     "name": "Daughters of Khaine Battle Traits",
     "restrictionText": "Daughters of Khaine armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -1187,7 +1187,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "6f38f93e-8cc4-4ffc-803d-ca217738006c",
+    "id": "bfae17c1-893d-46bb-a3dc-34746a9205fb",
     "name": "Bleak Host Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -1202,7 +1202,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "490dd9ae-0c7e-4b56-9c9c-d9c4a6dcaaf9",
+    "id": "87314d2b-cb81-488b-8645-b39eb99ac4a1",
     "name": "Scions of Nulahmia Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1217,7 +1217,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "431f57bf-90ca-4089-84ed-a837f4640174",
+    "id": "c1005464-3bc2-4b1b-a1af-3f1cc96d15b7",
     "name": "Castelite Company Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1232,7 +1232,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "60797df5-2701-4075-9f3d-0dd7c2cf3cc1",
+    "id": "e931dd96-3dfb-4796-bf42-4c4619143517",
     "name": "Saviours of Cinderfall",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -1247,7 +1247,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c5f44957-b4b4-4f58-b3cc-606ce0177fde",
+    "id": "d00ac56e-345d-4822-a5f9-602c0e27bef5",
     "name": "Warpspark Clawpack Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -1262,7 +1262,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0c6a2885-021e-4ad6-8700-58869260ddc1",
+    "id": "6cf15b3c-02f7-4260-9a1b-4d07451b9266",
     "name": "Saga Axeband Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1277,7 +1277,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "e5a57218-999a-4e33-b749-859d759a51ab",
+    "id": "357307d3-be3f-455d-835d-b64893e15077",
     "name": "Gotrek Gurnisson",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -1292,7 +1292,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "f392f816-862f-4e8d-a842-8da4dc2d29eb",
+    "id": "3ae1a71f-7ae6-4935-8b95-b1a099c5bffe",
     "name": "Devious Machinations",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1307,7 +1307,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "71d27fd1-a884-47a2-a56e-9d72f44563e0",
+    "id": "70e4a721-1c29-43d5-b641-529998396c56",
     "name": "Aspects of Renewal",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1322,7 +1322,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "24990f38-70c8-48e5-a09b-c9feeb2c6582",
+    "id": "adcfe37c-6897-46a8-9466-ef16a1326c13",
     "name": "Brand's Oathbound",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -1337,7 +1337,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "77f3b507-60e5-475e-845a-dc86a87f15e7",
+    "id": "33ae1328-14ef-4f7c-abf6-833f517922b3",
     "name": "Shooting Phase Commands",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -1352,7 +1352,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "81eb7dfa-6262-4b84-8b3c-79fd2580349a",
+    "id": "6f156cfc-abb7-419d-b85f-528ea8d62564",
     "name": "Beasts of Chaos Battle Traits",
     "restrictionText": "Beasts of Chaos armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -1367,7 +1367,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2f05c70f-c5c9-49c1-b693-9a40375d707e",
+    "id": "f5c95141-017a-4f6e-a73d-efddf8e2281a",
     "name": "Kharadron Overlords Battle Traits",
     "restrictionText": "Kharadron Overlords armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -1382,7 +1382,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "e0c49b88-d349-42cb-82e8-92f88cf4437d",
+    "id": "80cd2bfd-9c00-4528-9760-df55b80b9b04",
     "name": "Bloodcrave Hunt Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -1397,7 +1397,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "68a0a362-26a6-48a1-85fa-214588254181",
+    "id": "8d6de2fa-26e8-49ee-a029-d504de2450ca",
     "name": "Sentinels of Order",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1412,7 +1412,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "e07b8b7d-9195-43b4-944b-5b2a0e31e525",
+    "id": "a2025a14-e7a4-41b4-99ea-76e114851767",
     "name": "Lofnir Drothkeepers Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1427,7 +1427,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8c96ddaa-00f7-45b6-8a5b-85d375e5ff4c",
+    "id": "c5a1efda-1adb-4d15-81aa-1fae36b3f2d0",
     "name": "Paragons of Murder",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1442,7 +1442,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "5d99a0e6-74fa-48ab-b767-963417622b5a",
+    "id": "1d63d4f8-489a-43f6-9730-645214781430",
     "name": "The Evergreen Hunt Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1457,7 +1457,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "54ba6520-5d87-42f1-9e77-b4fbd68112e6",
+    "id": "f13432f4-1150-4704-8669-c308451c97bc",
     "name": "Champions of Destiny",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1472,7 +1472,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c07a8d4f-cbe4-4611-9543-a04c9ac1291b",
+    "id": "6f1e67a7-1824-4a7c-9255-d4d75df140a0",
     "name": "Bloodbound Gore Pilgrims Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1487,7 +1487,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "bb42a556-d0b6-4e7b-817d-99a2490e4050",
+    "id": "7636d0de-82d1-44d1-9347-500b7c7e1d73",
     "name": "Royal Traits",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1502,7 +1502,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "3a9c824f-66a5-4e07-817f-d6004afaf369",
+    "id": "d1d38416-ab7d-4183-8789-d60dfa9ab176",
     "name": "Big Personalities",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1517,7 +1517,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "72b8dcc2-bde4-4f04-9e44-a0189ba40b2e",
+    "id": "b25d40f3-7d97-4f5e-8792-f4f60a644aa7",
     "name": "Universal Shooting Phase Abilities",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -1532,7 +1532,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2377b903-6548-4e2f-867f-16bab2696363",
+    "id": "6d3bfd21-8191-4bd3-94bc-2d65211bcecc",
     "name": "Glittering Phalanx Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -1547,7 +1547,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "09890d39-e913-42d3-936e-fc66752c2e93",
+    "id": "285b1f42-4519-416c-b538-ffc1c292656d",
     "name": "The Croneseer’s Pariahs Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1562,7 +1562,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "89a9cc93-d598-4290-9f7f-3fc695841109",
+    "id": "73ad4abf-2ba5-4183-93d7-ef87c02a071d",
     "name": "Da Boss's Hoard",
     "restrictionText": "Ironjawz Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1577,7 +1577,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "721d48ba-3f94-4638-b985-8daf27c5b6aa",
+    "id": "e030e183-8a9b-4dcd-aa96-649245a0848e",
     "name": "Heartflayer Troupe Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -1592,7 +1592,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0ad23592-b81b-4ece-a4b7-a4ef1c44f734",
+    "id": "59960dae-a204-4f93-ad48-3df3c371dff5",
     "name": "Commanders of the Blood Legions",
     "restrictionText": "Hero only.",
     "abilityGroupType": "heroicTraits",
@@ -1607,7 +1607,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "88fb58b7-17f6-433a-ae0e-64cc3c5439d5",
+    "id": "1c7a4bbd-e430-4538-b8ca-a9ade56e6905",
     "name": "Fyreslayers Battle Traits",
     "restrictionText": "Fyreslayers armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -1622,7 +1622,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "17c01b4e-055e-4e89-9a24-1db614988d5a",
+    "id": "136c5234-f4d0-4150-8fc6-2ea887c8a385",
     "name": "Ruinous Overlords",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1637,7 +1637,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "9f75d41b-9e3a-482f-a7dd-615864306d10",
+    "id": "d1d2b435-d560-4452-8b4b-a0b2b4b98324",
     "name": "Tribes of the Snow Peaks Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1652,7 +1652,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "5eb485d8-9e70-444b-9030-9b4a47a1542b",
+    "id": "963524b7-838e-4e16-97f9-a03e7c9946fc",
     "name": "Bleak Host Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1667,7 +1667,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "6f5a99e9-d129-479e-94fe-2454e748dffd",
+    "id": "761a7725-3c49-4023-9d9b-8d3d90cdb5df",
     "name": "Relics of Ruin",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1682,7 +1682,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "9985d744-e85f-4d41-84c6-44049eaef2e1",
+    "id": "7b2bd216-5927-4aae-a6a8-cb316c8b9f83",
     "name": "Spearhead Core Abilities",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -1697,7 +1697,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8040c069-4fa2-4e0f-8f9e-15cb08980382",
+    "id": "1856cd3c-120e-445e-8671-9edeff7cf611",
     "name": "Bonesplitterz Battle Traits",
     "restrictionText": "Bonesplitterz armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -1712,7 +1712,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "6794b8ff-984b-48fb-9aec-1fc0e22a40ce",
+    "id": "1d81ed7e-1305-4714-ac2b-76a798a9f0d6",
     "name": "Fluxblade Coven Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -1727,7 +1727,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "cf27c4d3-3398-444a-b248-dd952e56725d",
+    "id": "d789bc96-5087-44b5-8d76-92d9dbdbf300",
     "name": "Kunnin' Warlords",
     "restrictionText": "Kruleboyz Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1742,7 +1742,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2679a6a8-a313-462b-82e9-81b32c9f8e73",
+    "id": "2a2212f8-ac1e-44f0-817f-6563279e0c9e",
     "name": "Bloodwind Legion Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -1757,7 +1757,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "ac5cb0b8-8fb7-4894-af67-48176a2fc958",
+    "id": "0da71ae8-e85d-4e82-a4ae-9d65fdec1450",
     "name": "Krule Artefacts",
     "restrictionText": "Kruleboyz Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1772,7 +1772,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "6815b335-45f5-4267-8964-1e7eacea4156",
+    "id": "4264aa9a-6bdf-467c-b21b-978e6a7f44a3",
     "name": "Idoneth Deepkin Battle Traits",
     "restrictionText": "Idoneth Deepkin armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -1787,7 +1787,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "424dc544-14a0-4879-a705-e3dff9dc6ee8",
+    "id": "c66cd180-6a7f-464b-b9f2-dff0143817e1",
     "name": "Hargax's Pit-Beasts",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -1802,7 +1802,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "229d4bb6-f38f-4913-b0f5-abd6605dc130",
+    "id": "d65eba51-227d-45d6-806a-96aeae3fc4b5",
     "name": "First Circle Titles",
     "restrictionText": "You can include up to 3 First Circle Title enhancements in your army. First Circle Titles can only be given to Varanguard units. The same unit cannot have more than 1 First Circle Title.",
     "abilityGroupType": "otherEnhancements",
@@ -1817,7 +1817,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": 1
   },
   {
-    "id": "d4195810-8cbf-47e6-99f6-e78b181a071f",
+    "id": "c94b8f0f-0936-4d6c-8106-7b57fad5e107",
     "name": "Bitterbark Copse Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -1832,7 +1832,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "249688f8-88a0-493e-bbd8-65fd4dd4e761",
+    "id": "ecc857f7-c4a4-4148-a572-d6ff1b3b9e4d",
     "name": "Skyhammer Task Force Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -1847,7 +1847,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "4a23672e-8c5e-46f2-bfb3-bee0c156679a",
+    "id": "67992ca0-1cac-43a9-8836-d8204b5cefa0",
     "name": "Relics of the Underworlds",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1862,7 +1862,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2247ad45-024c-4340-8cc7-cf9cf2d9a3bd",
+    "id": "e4ee812a-a1ec-42f3-a9fb-ba7518c0d4d7",
     "name": "Grundstok Expeditionary Force Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1877,7 +1877,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "d9edb2cd-a2d0-4028-873e-1d0aa7d52f0c",
+    "id": "ac63ebf9-6274-4064-a178-0c74e310c2fb",
     "name": "Tithe-reaper Echelon Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1892,7 +1892,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "a5a386f6-9712-4b79-adce-187975d7f9ff",
+    "id": "e466b955-f098-43b8-a621-6ba30e5df3a4",
     "name": "Trugg's Troggherd Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1907,7 +1907,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "40552a0f-8bee-4d3c-9d52-a4a6a3f24928",
+    "id": "1df74013-2bf4-4afd-9c6c-cc6214acae85",
     "name": "Trugg's Trogherd Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1922,7 +1922,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8be077b8-1a8a-477a-97d7-59971d02d8a4",
+    "id": "d5293177-d381-43df-a373-2aef370f3e3f",
     "name": "Krazogg's Grunta Stampede Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -1937,7 +1937,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "4c0c7aaa-d79b-4f1a-865f-9d41da1560eb",
+    "id": "e9b8a5e1-60e8-4db2-9c8a-a55842576a0a",
     "name": "The Croneseer’s Pariahs Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1952,7 +1952,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "9d165c0e-017f-4d7d-afbb-130e05d7800b",
+    "id": "4c0a8688-deaf-46f1-9afb-1e485c0aa3a0",
     "name": "Royal Treasury",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1967,7 +1967,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "f775861e-14d1-4141-a8b9-46a2fc7882ec",
+    "id": "e72bfa74-6eb0-4e81-84a2-c09b61dff976",
     "name": "Tyrant's Bellow Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -1982,7 +1982,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "992d8d04-935b-4384-bab7-f73fefd87dc9",
+    "id": "43e03a52-978f-41bd-a556-a430010bf4be",
     "name": "Scions of Nulahmia Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -1997,7 +1997,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "35cbd082-aba8-49f0-bd3f-edf77875a211",
+    "id": "eac356b3-8819-4017-8e91-924adeb323f5",
     "name": "Nighthaunt Battle Traits",
     "restrictionText": "Nighthaunt armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -2012,7 +2012,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "20286925-abb4-49a8-a72a-1dcc0733847a",
+    "id": "45acb8a7-0e9a-48ad-b807-b450d3617811",
     "name": "Bundo Whalebiter",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -2027,7 +2027,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "abdff600-a78c-43d9-9d00-bd0524f80f1b",
+    "id": "47144d43-9959-44da-9eff-2e07a2996c6a",
     "name": "The Blacktalons",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -2042,7 +2042,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "41e4e619-c2e5-490f-82d1-33348f96dea4",
+    "id": "af4f4798-6791-4dfe-a3dd-48e6ce60c4be",
     "name": "Maggotkin of Nurgle Battle Traits",
     "restrictionText": "Maggotkin of Nurgle armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -2057,7 +2057,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c1f8f3f9-cd7e-4029-bd88-355e30496ad8",
+    "id": "04064ac6-3849-4486-8453-46924eccb4a2",
     "name": "Champions of the Tides",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -2072,7 +2072,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "f3037ed9-da7b-425c-a034-a715037a17c7",
+    "id": "a2fd1155-8b65-4b6a-b2c2-7af421997d43",
     "name": "Universal Deployment Phase Abilities",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -2087,7 +2087,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0e2374a9-f2ad-4b6a-924e-d31dc895ffee",
+    "id": "166cb858-1d0c-4dd4-aac9-9170bec06226",
     "name": "Bloodwind Legion Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -2102,7 +2102,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "eede06f8-0bd6-4e5c-bca3-bb31083fc973",
+    "id": "1ddc4370-b3e5-4c80-8260-effe9ba71dd9",
     "name": "Warpspark Clawpack Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2117,7 +2117,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "736ab84e-34cc-45f8-ab48-8ab07675d1cd",
+    "id": "4e50196f-f858-4be2-aa2c-567f02347e9b",
     "name": "Fjori's Flamebearers",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -2132,7 +2132,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "4dfbc4f4-aca7-49df-8d91-f0d1cc0f5062",
+    "id": "a1ea480c-54c6-41aa-8178-f9cfc6cbbb96",
     "name": "King Brodd's Stomp Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -2147,7 +2147,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "d3a51826-30ef-4daf-b6a5-8d3f93e5624e",
+    "id": "f1040ae2-86e6-48d8-af5b-67d950d82034",
     "name": "Bloodwind Legion Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -2162,7 +2162,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0e4cbce7-3784-412d-80c3-2545401f121b",
+    "id": "b0d58710-b89e-4017-8c4b-ec611451585e",
     "name": "The Coven of Thryx",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -2177,7 +2177,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "7f09ac6e-d47c-480b-8661-2d9fae74e9fa",
+    "id": "0c6ce3d9-afee-4447-8fb0-af097174aad9",
     "name": "Tactical Gambit",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -2192,7 +2192,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "dea97093-fe1c-480d-9da9-18e2cc5edf98",
+    "id": "7d567adf-e1f2-4d9e-8eba-39094cdc10db",
     "name": "Avatars of Corruption",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -2207,7 +2207,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "9ca8385f-4d45-4f6f-b391-9bf5f741cf61",
+    "id": "e97dcec3-cce3-4a9f-ad37-b239c82efead",
     "name": "Murderous Artefacts",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -2222,7 +2222,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c99f9f96-1b5e-4844-aa02-ead0fdbcd961",
+    "id": "87b8f5a7-9ba1-483d-ba7e-6776f2fbc4f3",
     "name": "Fluxblade Coven Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2237,7 +2237,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "d4abc71a-9d70-4533-87b2-d798d86d4a37",
+    "id": "ac0873ed-56fb-411d-b20f-74a30bf63995",
     "name": "Yndrasta's Spearhead Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2252,7 +2252,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "69fb62d7-4e68-48ad-970a-fc56dff087b7",
+    "id": "cb4fec1e-58c4-4404-8047-7234ac6c2c2b",
     "name": "Kruleboyz Battle Traits",
     "restrictionText": "Kruleboyz armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -2267,7 +2267,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "db3aef0d-9528-483c-9d96-2e58bd7c931a",
+    "id": "0f399fc3-9ae9-4999-9217-4f27c5a03779",
     "name": "Gloomspite Gitz Battle Traits",
     "restrictionText": "Gloomspite Gitz armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -2282,7 +2282,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "90a069a8-96bb-4d97-97a6-2c772b698fea",
+    "id": "ecd7da03-a48d-4d0a-9e81-d43bc6ba0f1e",
     "name": "Skyhammer Task Force Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2297,7 +2297,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2000bec5-d785-48c6-baa1-87a934ce6096",
+    "id": "0664d7bd-33e6-4536-807c-52bc83865230",
     "name": "Tithe-reaper Echelon Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2312,7 +2312,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "4da09934-156d-4938-8d56-ccb188c60c25",
+    "id": "00e42815-d38b-41cc-b130-e6fec0c28ba2",
     "name": "Big Grikk's Kruleshots",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -2327,7 +2327,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "b046539f-84b9-4013-84f7-a5f015683895",
+    "id": "a434183f-b0b4-4c04-9c86-bc51d0bc9efe",
     "name": "Starscale Warhost Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -2342,7 +2342,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "ddd7103b-a13a-4e26-b9ed-9fa3d69842a0",
+    "id": "05d2b71f-c0ea-4bff-a000-f41fb79f9423",
     "name": "Inheritance of Grimnir",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -2357,7 +2357,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "97baabc7-f3b9-4c89-9ca9-6be27101e054",
+    "id": "a9439b55-b1d9-45f7-b5bf-f83e00a84044",
     "name": "Gnawfeast Clawpack Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2372,7 +2372,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c4291fb5-542d-4046-b60d-d1c703576ba2",
+    "id": "a522a32e-063e-4c2c-993e-7dd76113c702",
     "name": "Draconith Skywing Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -2387,7 +2387,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8bbffb96-34aa-466b-b0b8-577179041348",
+    "id": "57f70285-7fd5-4b9f-8cb6-d50602226666",
     "name": "Swamskulka Gang Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -2402,7 +2402,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "f1401844-5d9e-4d5e-a8b2-62db0f53a176",
+    "id": "8afcf122-7ba1-4f7e-b5bd-d3b4dad90f06",
     "name": "Bad Moon Madmob Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -2417,7 +2417,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "7848b8e0-6922-46b7-be9e-196489ef2cc8",
+    "id": "02bf30ee-edcf-4555-99c2-97e9b9dc3870",
     "name": "Scions of the Necropolis",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -2432,7 +2432,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2aaab827-9258-499a-b621-b5a138be7bdc",
+    "id": "f0acaeb3-f604-4397-9b7e-81fc3e0f6b82",
     "name": "Lofnir Drothkeepers Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -2447,7 +2447,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "b3a83a6d-c6ab-4d41-8c5b-112c14c8ac21",
+    "id": "3eb2cb74-831c-44f4-8877-4eef7072558a",
     "name": "Treasures of the Old Ones",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -2462,7 +2462,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0b08ebcc-c944-4028-9086-f75e7572ea04",
+    "id": "a148c5a7-dde0-4994-ae41-f291ca120d1a",
     "name": "The Evergreen Hunt Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -2477,7 +2477,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "02783b5b-7077-4409-999b-008ce2528340",
+    "id": "5ae3e70b-a7d6-4dec-a3a0-7b96c9bcd220",
     "name": "Titanic Trophies",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -2492,7 +2492,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "ee3b8dbe-3f7f-461b-8fdf-09424c33a47c",
+    "id": "7741ccf0-325d-4cf5-9275-b5dfad2a6e88",
     "name": "Treasures of the Cities",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -2507,7 +2507,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "725c6803-98cd-4eeb-bbf2-188f332954da",
+    "id": "e3d33262-9146-4c36-be58-7d47973b1312",
     "name": "Command Abilities",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -2522,7 +2522,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "660bcbfa-d216-4483-a952-c21b719c16be",
+    "id": "f66f315e-b7bb-4ad9-94f8-4be3aee72afc",
     "name": "Deathly Heirlooms",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -2537,7 +2537,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "9fd706eb-9305-4650-a6dc-8ae0ceb13012",
+    "id": "70f4ebef-42ad-4c02-83c4-f20e987741a0",
     "name": "Tribes of the Snow Peaks Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -2552,7 +2552,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "d1246d33-5db2-43c8-9ed0-3e119ae6b0da",
+    "id": "ba0d841b-886d-4c8a-9b1e-8d500ae04cbb",
     "name": "Vigilant Brotherhood Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -2567,7 +2567,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0ac310f8-cf24-4ff6-938a-d9604de99431",
+    "id": "cdaec609-b0cd-4839-8014-0009ce10003e",
     "name": "Sylvaneth Battle Traits",
     "restrictionText": "Sylvaneth armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -2582,7 +2582,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "a5cd0fe7-4ffd-43b8-817f-0931adb2eb28",
+    "id": "c801e4d6-5dd2-4277-850d-a3d8a95c29e5",
     "name": "Universal Ability - Fly",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -2597,7 +2597,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2e769f8b-0eb4-45c0-9adc-026a6543093a",
+    "id": "de179cdb-07b5-43f1-86bb-479d16742291",
     "name": "Odo Godswallow",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -2612,7 +2612,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8c6fcc65-ef96-451d-949c-e4e96e50873c",
+    "id": "d2e508a0-47a8-4088-a24d-703905831031",
     "name": "Bad Moon Madmob Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -2627,7 +2627,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "a48ec36f-bde9-427a-93c3-a3d3a386f17f",
+    "id": "08555c11-979e-4bdf-a00c-c39d4f3c1823",
     "name": "Slasher Host Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2642,7 +2642,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "88634d31-7799-4212-9707-3c62bf37ce65",
+    "id": "a5b83144-5c8d-48df-b0f7-07a15b7b6f4e",
     "name": "Swampskulka Gang Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2657,7 +2657,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c54178fc-790c-45ab-91ed-e17f60374b54",
+    "id": "bb8cc0b4-1d36-4afa-b092-abfd9f449327",
     "name": "Starscale Warhost Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -2672,7 +2672,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "e57827f9-3f0f-4a4e-a7c3-84d9874bae24",
+    "id": "9a5eb069-e12a-47e8-9b1f-f85df968d623",
     "name": "Blades of the Lurid Dream Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -2687,7 +2687,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "ab0e6df6-33bc-4901-ad23-27bc3d6cd66e",
+    "id": "c79203ba-0d95-4d36-b346-e4d50a051a30",
     "name": "Wallsmasher Stomp Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2702,7 +2702,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2934cc47-5931-4630-80f6-9f93ea8a8f26",
+    "id": "78010647-f044-457e-9cbc-339f98452770",
     "name": "The Liche's Hand",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -2717,7 +2717,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "28a5610b-f8e2-416a-8916-0524db98604d",
+    "id": "21b891d1-548a-4a6f-bafe-47542b248c3a",
     "name": "Scions of Nulahmia Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -2732,7 +2732,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "81efd9f8-9ea9-4c94-a60a-294db9ced378",
+    "id": "fe814a88-12dd-4460-ae7d-ee16d2f612b3",
     "name": "Heartflayer Troupe Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -2747,7 +2747,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "3c3c062f-0c4f-4f5b-ac02-9c66a7b9fff1",
+    "id": "f640da60-8d57-4ae7-b028-bfa07ddc1372",
     "name": "Movement Phase Commands",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -2762,7 +2762,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2e94b77f-6cc6-42af-97aa-98c7cb504b57",
+    "id": "c3d55f19-c01f-4078-ba02-61cc8e92960a",
     "name": "Anarchic Relics",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -2777,7 +2777,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "641955e5-9bfe-456d-8b29-16819515a9f8",
+    "id": "e915a47a-2265-42e7-99f8-be9357094663",
     "name": "Slasher Host Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -2792,7 +2792,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "15b00a25-49c9-4e28-877d-aa5d556ce718",
+    "id": "8958f417-efbf-4fca-9bbd-092328d373ae",
     "name": "Saga Axeband Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2807,7 +2807,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "69a21f38-308e-4c67-bfde-0237fea9d985",
+    "id": "1ab78339-0e25-4b3a-99bf-479ee1026f7b",
     "name": "Da Beast Wivin",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -2822,7 +2822,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "1d73dfca-68bf-44b6-82da-1af18eeebbf4",
+    "id": "99294de4-7bbd-4bf5-a38d-08eea010c820",
     "name": "Soulblight Gravelords",
     "restrictionText": "Soulblight Gravelords armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -2837,7 +2837,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "54fceb59-33f3-4dd8-8d81-0c451e8bdd12",
+    "id": "3c6217a1-1ef4-4d33-b36e-45e2e041acb7",
     "name": "Bad Moon Madmob Regiment Abilities",
     "restrictionText": "Pick 1 of the following regiment abilities.",
     "abilityGroupType": "regimentAbilities",
@@ -2852,7 +2852,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "cbb856bc-064e-45bd-8c39-8db6eaf55369",
+    "id": "ce2130ab-8b8a-4ff5-a0f6-f4a98015c85b",
     "name": "Infernal Treasures",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -2867,7 +2867,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8e7246bb-5e60-48ab-a65f-b717758fca8f",
+    "id": "0f6ffbc6-9966-4dcb-8910-2d976f534db2",
     "name": "End of Turn Commands",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -2882,7 +2882,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "4086cc2d-fd40-4048-8742-7cee35f3d6fc",
+    "id": "6f20c21b-6964-419a-88d3-efd582a815dd",
     "name": "The Summerking's Entourage",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -2897,7 +2897,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "9be5ea68-6adc-4d4a-9a8c-508cbfbb7ae8",
+    "id": "0525a999-c1a0-4058-a6c1-1514dbccf556",
     "name": "Slasher Host Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -2912,7 +2912,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2d46bd3d-ad81-445e-b8c2-5f24e6efe399",
+    "id": "a5df2109-90af-4f58-9ebf-3ea70053d0ad",
     "name": "Jerrion's Delegation",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -2927,7 +2927,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "cb802493-4eb6-4574-aef0-ab0ab3d6eae5",
+    "id": "0b16705b-42db-4422-9872-71757027878a",
     "name": "Ward Save",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -2942,7 +2942,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "5531af08-89e0-4558-9935-0311309bbd69",
+    "id": "638679c0-7dbd-461b-b440-98de6ec8ff4d",
     "name": "The Great-Grand Gnawhorde Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -2957,7 +2957,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "b2105843-eda1-429b-bc48-0c34beb1db1a",
+    "id": "d9ba6848-e3b3-4d14-a374-9780746fac1f",
     "name": "The Great-Grand Gnawhorde Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -2972,7 +2972,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c7373580-c07c-4513-8eac-89c35686c21c",
+    "id": "f1fdcd52-6392-4ae8-925d-5608a13adf9e",
     "name": "Thanquol's Mutated Menagerie Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -2987,7 +2987,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "3d0db321-3273-4728-86f7-d1419b661def",
+    "id": "519a9d59-ef51-4cfe-804c-841539feea06",
     "name": "Skaven Battle Traits",
     "restrictionText": "Skaven armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -3002,7 +3002,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8df76f2f-d8b7-4901-8a5c-86a544dcd416",
+    "id": "556607f4-710e-4192-acda-792a960b365a",
     "name": "Neferata's Royal Echelon",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -3017,7 +3017,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8a761e34-ba8b-476d-a171-062bf0f35885",
+    "id": "baf93746-f13f-42da-82cf-d2f0f8aab624",
     "name": "Swampskulka Gang Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -3032,7 +3032,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "45cc1b91-c855-43ba-8898-aead5f407d01",
+    "id": "3273212d-21fa-42b7-95a1-f47c70f0055b",
     "name": "Fluxblade Coven Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -3047,7 +3047,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "20a2d0ad-2d03-4661-a34f-83a4ceb7df59",
+    "id": "7320397e-2d45-4b5d-b597-c3467f94d670",
     "name": "Hero Phase Commands",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -3062,7 +3062,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "e8cf1830-f693-4b1f-abe0-cda16bb2e6c1",
+    "id": "f4c07438-c49a-41bd-b8a7-806da1447ffa",
     "name": "Draconith Skywing Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -3077,7 +3077,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "50d9a7ed-3e96-4bfb-a77d-831667862a98",
+    "id": "49d0ece4-5180-4b60-972e-7cdf658712d9",
     "name": "Boons of Nurgle",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -3092,7 +3092,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "c3908fb2-c2c5-45f6-9eaf-ed7c3861fde8",
+    "id": "804cc123-b9a6-4f5e-b998-6bad7916cfda",
     "name": "Ogor Mawtribes Battle Traits",
     "restrictionText": "Ogor Mawtribes armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -3107,7 +3107,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2f00c45f-fab3-4511-a348-32b91c616cdb",
+    "id": "421304b6-7a80-4785-b049-0ce16ac76ecb",
     "name": "Tribes of the Snow Peaks Artefact of Power",
     "restrictionText": null,
     "abilityGroupType": "artefactsOfPower",
@@ -3122,7 +3122,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "fc337b88-fc60-48b3-9e30-d74c899e2ab8",
+    "id": "77cc4f84-822d-462a-9e53-931e4ac8d4a3",
     "name": "Relics of the Empire",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -3137,7 +3137,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "7b70d11c-21bf-464f-baa6-68919e0d763c",
+    "id": "b54f902e-fd38-495c-ba4e-274aad1f4b47",
     "name": "Glittering Phalanx Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -3152,7 +3152,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "a4a47c63-d8a5-4607-b8a2-4f07c43a6762",
+    "id": "0e7195cc-62e4-4d6f-9c8c-6515dfb0348c",
     "name": "Ossiarch Bonereapers Battle Traits",
     "restrictionText": "Ossiarch Bonereapers armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -3167,7 +3167,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0c25481f-0126-4f88-92a6-bf32a0df448f",
+    "id": "0074e83a-0174-462b-9469-37548ae526e7",
     "name": "Trugg's Troggherd Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -3182,7 +3182,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "decbd1fd-592d-44f7-8d95-cc695306ab6c",
+    "id": "a140a8a2-092e-41c6-8229-fee864ea1ac6",
     "name": "Figureheads of the Dark Prince",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -3197,7 +3197,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2a266749-52e0-42eb-8c8a-3b89d926fb0e",
+    "id": "ce3edf5b-ef8f-4d7a-9c3a-3ca9e7675590",
     "name": "Yndrasta's Spearhead Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -3212,7 +3212,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "88fed013-dc0d-4f41-b329-1b8ac83479c9",
+    "id": "534df034-d04b-490e-9d32-323b7f21ffed",
     "name": "Celestial Disciplines",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -3227,7 +3227,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "b30d758e-9d23-4127-8b5b-799feaf27a19",
+    "id": "9412a956-ec0b-4c7e-90b1-162d2967d8e4",
     "name": "Carrion Retainers Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -3242,7 +3242,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "67c1b649-62ca-4afd-95bb-2ff9d0b86e8e",
+    "id": "eac38081-ea6e-4e54-a805-bd3115e9ec9e",
     "name": "Attacking (Shooting and Combat) Commands",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -3257,7 +3257,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "a95f7ff2-488c-470a-a3a4-e99075c6a154",
+    "id": "0f068bb9-3db4-4889-928c-2d05b657a8c6",
     "name": "Heirlooms of the Lodge",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -3272,7 +3272,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "53b247d8-8700-4b0e-b18b-ddf037cbc620",
+    "id": "96e3a4b3-4bfd-487e-91ed-6666e60eb5a9",
     "name": "Krazogg's Grunta Stampede Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -3287,7 +3287,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "98400fa5-b44b-449a-8468-dbfc9f9b235f",
+    "id": "b0d897d1-ae8f-4e21-bb63-66f287398ff9",
     "name": "Shades of Death",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -3302,7 +3302,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "7339a505-224d-4bd2-a9de-d7191d7134c7",
+    "id": "80e0e2a0-8e8f-4b47-8516-abd8c062739a",
     "name": "The Roving Maw Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -3317,7 +3317,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "013787e5-a464-430e-a7f6-7cbb93bb5722",
+    "id": "34e3ff14-bdce-4946-a9cf-3f8eb24bc9b6",
     "name": "Saga Axeband Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -3332,7 +3332,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "53efbf4a-9451-4e3c-9fe7-abc2f6fab583",
+    "id": "47cb90e1-f7de-4c91-bb19-a2b9102daa97",
     "name": "Big Drogg Fort-Kicka",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -3347,7 +3347,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0fc1b244-d07f-4cb2-8482-2318aceb3ccf",
+    "id": "09d9f3b3-8e4a-4ea9-bc46-5b0b856d8964",
     "name": "Veremord's Shamblers",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -3362,7 +3362,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "a2410ba5-c3c1-4b31-8277-08a5a8127fa9",
+    "id": "3179f3e7-2213-4e3b-b908-da5b2bd95b6a",
     "name": "Honour Guard",
     "restrictionText": null,
     "abilityGroupType": null,
@@ -3377,7 +3377,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2175bafc-2b50-4dc5-b6d6-2db2fbdf578d",
+    "id": "4acbbefb-0838-4c98-a2bf-11ee27230582",
     "name": "Bloodcrave Hunt Enhancements",
     "restrictionText": "Give your general 1 of the following enhancements.",
     "abilityGroupType": "spearheadEnhancements",
@@ -3392,7 +3392,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "e2f3472c-a93e-4011-a939-d25a9caf6f23",
+    "id": "8e46cfb5-bd56-452e-832e-f2d7e679f483",
     "name": "The Sternieste Garrison",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -3407,7 +3407,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0f9f6991-c384-4b1a-81ce-553f534a897b",
+    "id": "161a80cf-d35d-4dd3-b4ce-ab56b7ce82e9",
     "name": "Phulgoth's Shudderhood",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -3422,7 +3422,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "cb17e29b-0e28-41a4-b716-892ac213e361",
+    "id": "e9b7a5d3-3834-46a2-9928-5eb4b75b5301",
     "name": "One-eyed Grunnock",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -3437,7 +3437,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "64c78ae6-c58e-49f2-bb23-c5b5d2e6a739",
+    "id": "f0211390-af5b-4bb1-9ad5-f80bf602913a",
     "name": "Heartflayer Troupe Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -3452,7 +3452,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "7cedb974-cf1c-4df2-9d0a-f22413ebfc63",
+    "id": "d68da91c-303f-4ec1-b293-13650dda4a8f",
     "name": "Soulraid Hunt Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -3467,7 +3467,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "1b7ffaea-a6f2-471b-ae95-2f595ae03240",
+    "id": "e8f638de-e4b7-4f1d-ab7d-f1ed4caa73f5",
     "name": "Blades of the Lurid Dream Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -3482,7 +3482,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "5ea469fe-fcbf-4c57-a8a3-87333eb865f4",
+    "id": "dfa6e497-dc9a-4113-9f55-13b55d435979",
     "name": "Thanquol's Mutated Menagerie Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -3497,7 +3497,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "2882924f-d922-4854-b401-05caca10706c",
+    "id": "e1726dff-9764-45a5-9f51-ea5bfb73dd2e",
     "name": "Thanquol's Mutated Menagerie Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -3512,7 +3512,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "856cf656-56f3-4b54-9a57-35968deb0a16",
+    "id": "fc51b159-6d56-4426-82d2-8327e69cfbcc",
     "name": "The Great-Grand Gnawhorde Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -3527,7 +3527,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "13c9f8c5-2dd0-49bb-a762-1229d44400f8",
+    "id": "217f44f5-e011-40cc-9111-5401e38fd7f3",
     "name": "Lumineth Realm-lords Battle Traits",
     "restrictionText": "Lumineth Realm‑lords armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -3542,7 +3542,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "db98c2dd-4825-4775-972f-ff105a3a354d",
+    "id": "0d2a42c3-4a0c-4f00-a361-d1e190989908",
     "name": "Stormcast Eternals Battle Traits",
     "restrictionText": "Stormcast Eternals armies can use the following abilities:",
     "abilityGroupType": "battleTraits",
@@ -3557,7 +3557,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "62777ec2-88c9-4c6b-b331-21c9fc564343",
+    "id": "42b68c41-7d7d-46d2-87a0-72a9907a2f79",
     "name": "Aspects of Azyr",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -3572,7 +3572,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "0c2ee9ef-f7dd-4f6f-98fa-7f92d503a0e7",
+    "id": "4a11f24d-91a5-413d-aab6-c8077bbe4f53",
     "name": "Artefacts of the Tempest",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -3587,7 +3587,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "a37b00a6-7db7-4cb6-8bbf-5196067cdd81",
+    "id": "ed97ba8e-1592-4a3f-a340-e967e0bfadfe",
     "name": "The Horizon Seekers",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -3597,12 +3597,12 @@ export const ability_groups : AbilityGroup[] = [
     "altText": null,
     "regimentOfRenownPointsCost": 500,
     "factionId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "publicationId": "f67f176e-0521-4989-9974-748621bf3667",
+    "publicationId": "90a10c5b-f394-4309-9211-6fd42d97dd66",
     "rosterLevelLimit": null,
     "unitLevelLimit": null
   },
   {
-    "id": "33188de1-6d75-44bb-9812-c28a3c4faf99",
+    "id": "d97f5e2b-9610-49f7-a3c6-68f81b99c36d",
     "name": "Ruination Brotherhood Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -3617,7 +3617,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "8fd214d7-ffee-4148-84d0-a57ad377c759",
+    "id": "fc72058b-ed66-4a91-ad21-d41941f2eb25",
     "name": "Ruination Brotherhood Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -3632,7 +3632,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "f0b15251-2f2c-4d48-85f7-eb38effde4d2",
+    "id": "6e5b75aa-fcc3-4676-b974-c5601b2223ad",
     "name": "Ruination Brotherhood Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -3647,7 +3647,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "99932578-2139-412c-85b1-4ffc1613c4f1",
+    "id": "485c7379-cc54-4d84-ab08-574db50527c1",
     "name": "Heroes of the First-Forged Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -3662,7 +3662,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "90d2c6d8-b3d9-493c-8290-cff9ea7aa61f",
+    "id": "85947cdc-debd-4386-9ca0-63d601d23c03",
     "name": "Heroes of the First-Forged Heroic Trait",
     "restrictionText": "Hero only",
     "abilityGroupType": "heroicTraits",
@@ -3677,7 +3677,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "fb59360f-63f4-40b4-978d-c750a01ea53e",
+    "id": "c5ba1cbf-8257-488d-83f2-1d1b03270350",
     "name": "Heroes of the First-Forged Artefact of Power",
     "restrictionText": "Hero only",
     "abilityGroupType": "artefactsOfPower",
@@ -3692,7 +3692,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "4dea4f43-2d10-49fc-a90a-bda4f0b1fe4d",
+    "id": "4bb8e9f3-a739-408d-9915-30b02b5677a1",
     "name": "Valnir's Stormwing",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -3702,12 +3702,12 @@ export const ability_groups : AbilityGroup[] = [
     "altText": null,
     "regimentOfRenownPointsCost": 400,
     "factionId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "publicationId": "f67f176e-0521-4989-9974-748621bf3667",
+    "publicationId": "90a10c5b-f394-4309-9211-6fd42d97dd66",
     "rosterLevelLimit": null,
     "unitLevelLimit": null
   },
   {
-    "id": "358ad59e-5165-4e19-9ded-4ea39779b38a",
+    "id": "6e684dff-3c14-4585-be97-3db0ce787762",
     "name": "Volt-Klaw's Enginecoven",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -3717,12 +3717,12 @@ export const ability_groups : AbilityGroup[] = [
     "altText": null,
     "regimentOfRenownPointsCost": 460,
     "factionId": null,
-    "publicationId": "f67f176e-0521-4989-9974-748621bf3667",
+    "publicationId": "54a7b2cf-6183-4d8d-a5eb-f75a09631d51",
     "rosterLevelLimit": null,
     "unitLevelLimit": null
   },
   {
-    "id": "f1ca4813-4fc4-49c8-a0aa-fc5317964eed",
+    "id": "3442fa58-bf80-4455-bd43-071d00c5fe32",
     "name": "Vigilant Brotherhood Battle Traits",
     "restrictionText": null,
     "abilityGroupType": "battleTraits",
@@ -3737,7 +3737,7 @@ export const ability_groups : AbilityGroup[] = [
     "unitLevelLimit": null
   },
   {
-    "id": "3756c366-4149-4d81-a848-1dda3aec65f7",
+    "id": "a916292c-25a0-4800-b709-218fed0780b4",
     "name": "Krittok's Clawpack",
     "restrictionText": null,
     "abilityGroupType": "regimentOfRenown",
@@ -3747,8 +3747,10 @@ export const ability_groups : AbilityGroup[] = [
     "altText": null,
     "regimentOfRenownPointsCost": 450,
     "factionId": null,
-    "publicationId": "f67f176e-0521-4989-9974-748621bf3667",
+    "publicationId": "54a7b2cf-6183-4d8d-a5eb-f75a09631d51",
     "rosterLevelLimit": null,
     "unitLevelLimit": null
   }
 ];
+
+export default ability_groups;

@@ -420,7 +420,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "3c152a9a-8abb-4de8-bef8-ea1df87b866a",
+    "id": "13d4d06c-4d85-4544-944c-f7d476744ece",
     "name": "Kragnos, the End of Empires",
     "subname": null,
     "lore": "One of the most destructive races to have ever lived, the Drogrukh were centauroid warriors who built a great nation in the Realm of Beasts. From their number rose a champion so powerful that he ascended to godhood: Kragnos, the End of Empires. Having led his people in warfare against a draconic empire that left the Drogrukh all but extinct, Kragnos was sealed away for the protection of the realms – only to be freed centuries later. Though he currently wages a protracted war in the Realm of Life, Kragnos can still be drawn to battle by the most ferocious fighting, his arrival announced by the smashing of enemy lines and the crushing of foes under his thunderous hooves.\n\nAlready a natural disaster made manifest, Kragnos’s rampages are further augmented by his legendary armaments. The shield Tuskbreaker is said to have been cast aside by Gorkamorka himself, deity of the orruks and other brutish beings. The spells of enemy mages break instantly upon its surface, supposedly due to the residual divine essence that suffuses it. The Dread Mace, Kragnos’s massive studded club, is powerful enough to shatter walls of solid rock. Legends say that Kragnos retrieved the weapon’s head from an ancient geomantic nexus, and that it is infused with Ghur’s own destructive animus.",
@@ -1410,7 +1410,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "3cec4f98-53ce-4d0a-97aa-639a84f8b324",
+    "id": "4e49066f-602e-446b-9107-1adec25aa3ac",
     "name": "Kragnos, the End of Empires",
     "subname": null,
     "lore": "One of the most destructive races to have ever lived, the Drogrukh were centauroid warriors who built a great nation in the Realm of Beasts. From their number rose a champion so powerful that he ascended to godhood: Kragnos, the End of Empires. Having led his people in warfare against a draconic empire that left the Drogrukh all but extinct, Kragnos was sealed away for the protection of the realms – only to be freed centuries later. Though he currently wages a protracted war in the Realm of Life, Kragnos can still be drawn to battle by the most ferocious fighting, his arrival announced by the smashing of enemy lines and the crushing of foes under his thunderous hooves.\n\nAlready a natural disaster made manifest, Kragnos’s rampages are further augmented by his legendary armaments. The shield Tuskbreaker is said to have been cast aside by Gorkamorka himself, deity of the orruks and other brutish beings. The spells of enemy mages break instantly upon its surface, supposedly due to the residual divine essence that suffuses it. The Dread Mace, Kragnos’s massive studded club, is powerful enough to shatter walls of solid rock. Legends say that Kragnos retrieved the weapon’s head from an ancient geomantic nexus, and that it is infused with Ghur’s own destructive animus.",
@@ -3830,7 +3830,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "1df0fff7-ce17-42c9-ac86-c7785f37534f",
+    "id": "8108d657-35b7-46b6-87fc-96855286fa65",
     "name": "Kragnos, the End of Empires",
     "subname": null,
     "lore": "One of the most destructive races to have ever lived, the Drogrukh were centauroid warriors who built a great nation in the Realm of Beasts. From their number rose a champion so powerful that he ascended to godhood: Kragnos, the End of Empires. Having led his people in warfare against a draconic empire that left the Drogrukh all but extinct, Kragnos was sealed away for the protection of the realms – only to be freed centuries later. Though he currently wages a protracted war in the Realm of Life, Kragnos can still be drawn to battle by the most ferocious fighting, his arrival announced by the smashing of enemy lines and the crushing of foes under his thunderous hooves.\n\nAlready a natural disaster made manifest, Kragnos’s rampages are further augmented by his legendary armaments. The shield Tuskbreaker is said to have been cast aside by Gorkamorka himself, deity of the orruks and other brutish beings. The spells of enemy mages break instantly upon its surface, supposedly due to the residual divine essence that suffuses it. The Dread Mace, Kragnos’s massive studded club, is powerful enough to shatter walls of solid rock. Legends say that Kragnos retrieved the weapon’s head from an ancient geomantic nexus, and that it is infused with Ghur’s own destructive animus.",
@@ -6030,7 +6030,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "9c16ad20-f95d-49a2-9417-a3ff00bd4c56",
+    "id": "2155e43a-495c-4a25-b908-ccf904be6b75",
     "name": "Clanrats",
     "subname": null,
     "lore": "Clanrats form the verminous masses of Skavendom, an endless sea of filthy fangs, rusty blades and red eyes filled with malice. They are spite made manifest, seeking to advance their own position while leaving rivals – which is everyone – to a grisly fate. Clanrats are utterly expendable to their masters, herded forwards in chittering swarms to slow an enemy and die upon their blades. Yet though Clanrats are craven by nature, they can be overcome by a terrible frenzy in battle – and should one fall, there are always more where they came from…",
@@ -13026,7 +13026,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "28647412-df3c-4aaf-9519-3f7966ef367d",
+    "id": "0992ef28-02f3-4b03-a740-f818e1b3ff00",
     "name": "Kragnos, the End of Empires",
     "subname": null,
     "lore": "One of the most destructive races to have ever lived, the Drogrukh were centauroid warriors who built a great nation in the Realm of Beasts. From their number rose a champion so powerful that he ascended to godhood: Kragnos, the End of Empires. Having led his people in warfare against a draconic empire that left the Drogrukh all but extinct, Kragnos was sealed away for the protection of the realms – only to be freed centuries later. Though he currently wages a protracted war in the Realm of Life, Kragnos can still be drawn to battle by the most ferocious fighting, his arrival announced by the smashing of enemy lines and the crushing of foes under his thunderous hooves.\n\nAlready a natural disaster made manifest, Kragnos’s rampages are further augmented by his legendary armaments. The shield Tuskbreaker is said to have been cast aside by Gorkamorka himself, deity of the orruks and other brutish beings. The spells of enemy mages break instantly upon its surface, supposedly due to the residual divine essence that suffuses it. The Dread Mace, Kragnos’s massive studded club, is powerful enough to shatter walls of solid rock. Legends say that Kragnos retrieved the weapon’s head from an ancient geomantic nexus, and that it is infused with Ghur’s own destructive animus.",
@@ -14544,7 +14544,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "2fd062c2-1dca-4c54-b32c-0ee15e22dd31",
+    "id": "7c261ea1-465b-4994-acea-7f8d759f0f14",
     "name": "Nagash, Supreme Lord of the Undead",
     "subname": null,
     "lore": "All living beings dread the name of Nagash, the God of Undeath. Cruel and tyrannical, the overlord of Shyish intends to conquer the Mortal Realms and transform them into a lifeless Necrotopia, in which not a speck of dust moves unless it is by his will. Wielding Alakanash, the Staff of Power, the cursed blade Zefet-nebtar, and surrounded by the Nine Books of Nagash, the Great Necromancer commands the full, terrible power of Shyishan magic. With a contemptuous gesture, he tears the souls from the living, their last moments of agonising horror providing the fuel for his next arcane onslaught.\n\nWhen the Great Necromancer accompanies the Nighthaunt processions to war, the terror they bring to mortal lands is beyond comprehension. Gheists sweep forth in boiling tides, stirred to a frenzy of bitter rage by the presence of their master, while Nagash fills the skies with surging, crackling storms of amethyst arcana. Rare indeed are the mortals who would not flee in mindless panic at such a sight, throwing down their weapons and abandoning their vows – but this does not save their lives, for the living can never outrun death.",
@@ -15468,7 +15468,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "5d8fdb42-9e39-48e6-89f2-bad4ed8259ca",
+    "id": "2faf277c-6868-42bf-a055-e06c106d6322",
     "name": "Gaunt Summoner",
     "subname": null,
     "lore": "Gaunt Summoners are daemon monarchs of Tzeentch. There are nine of these dreaded sorcerers, and each is the lord of a Silver Tower – looming crystalline edifices that travel across time and space, disgorging hosts of daemons and Arcanites from their labyrinthine innards. Having been elevated to their station by Tzeentch himself, Gaunt Summoners are entrusted with schemes of immense complexity and import. They rule their Silver Towers as mad fiefdoms and delight in magically trapping rivals and adversaries within. These unfortunates are subjected to endless trials for the amusement of the Gaunt Summoners. Few ever escape; fewer still hold onto their sanity.\n\nOnce, the Gaunt Summoners were given freedom by Tzeentch to pursue the accumulation of magical power as they saw fit, but Archaon the Everchosen wished to possess the might of the Gaunt Summoners for his own. The Change God concluded that allowing Archaon to seemingly usurp dominion of the nine daemon sorcerers would better serve his own ends. So did the Everchosen win the true names of all the Gaunt Summoners, never realising the subtle aid from which he benefited. Ever since, the Gaunt Summoners have chafed beneath his rule, plotting to one day rebel and claim his throne.",
@@ -15732,7 +15732,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "ce4bcd98-3036-425b-9d6c-b3e227bc2545",
+    "id": "5197fab6-20c0-4ee0-af67-0239b5262dee",
     "name": "Nagash, Supreme Lord of the Undead",
     "subname": null,
     "lore": "All living beings dread the name of Nagash, the God of Undeath. Cruel and tyrannical, the overlord of Shyish intends to conquer the Mortal Realms and transform them into a lifeless Necrotopia, in which not a speck of dust moves unless it is by his will. Wielding Alakanash, the Staff of Power, the cursed blade Zefet-nebtar, and surrounded by the Nine Books of Nagash, the Great Necromancer commands the full, terrible power of Shyishan magic. With a contemptuous gesture, he tears the souls from the living, their last moments of agonising horror providing the fuel for his next arcane onslaught.\n\nNagash despises the unpredictable madness of the Flesh-eater Courts, which he sees as entirely antithetical to his own desire for sterile domination. In ages past, Ushoran drew Nagash’s ire with some great transgression, for which the Mortarch was punished terribly. In spite of this, many Flesh‑eaters – in their own deranged way – worship the Great Necromancer with disturbing fervour, envisioning him as a benevolent master of the underworlds. In his presence, they fight with unrestrained ferocity, believing that they honour him with every foe they rip into pieces and messily devour.",
@@ -15754,7 +15754,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "acb55d94-3827-45c4-8756-2c8b3a62d66c",
+    "id": "9b60ec8d-81b2-4818-bbb1-01b888070ad4",
     "name": "Nagash, Supreme Lord of the Undead",
     "subname": null,
     "lore": "All living beings dread the name of Nagash, the God of Undeath. Cruel and tyrannical, the overlord of Shyish intends to conquer the Mortal Realms and transform them into a lifeless Necrotopia, in which not a speck of dust moves unless it is by his will. Wielding Alakanash, the Staff of Power, the cursed blade Zefet-nebtar, and surrounded by the Nine Books of Nagash, the Great Necromancer commands the full, terrible power of Shyishan magic. With a contemptuous gesture, he tears the souls from the living, their last moments of agonising horror providing the fuel for his next arcane onslaught.\n\nTo the Ossiarchs, Nagash is a creator god of dark majesty, the being that will bring about a true golden age for undead across the Mortal Realms. In his presence, they fight all the harder, inspired by a sense of devotion that is no less intense than any mortal’s religious fervour. When combined with the martial excellence of the Ossiarch legions, Nagash’s magic can unmake any foe, leaving the lands littered with corpses. These precious resources are soon gathered and stripped of their soft and vulnerable flesh, refined into osseous fuel for further conquests.",
@@ -15798,7 +15798,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "2f5ce910-2283-48ca-b2a8-9ab50262cb9f",
+    "id": "096e15ac-06a5-4ef2-a9cf-21c72be02f1d",
     "name": "Nagash, Supreme Lord of the Undead",
     "subname": null,
     "lore": "All living beings dread the name of Nagash, the God of Undeath. Cruel and tyrannical, the overlord of Shyish intends to conquer the Mortal Realms and transform them into a lifeless Necrotopia, in which not a speck of dust moves unless it is by his will. Wielding Alakanash, the Staff of Power, the cursed blade Zefet-nebtar, and surrounded by the Nine Books of Nagash, the Great Necromancer commands the full, terrible power of Shyishan magic. With a contemptuous gesture, he tears the souls from the living, their last moments of agonising horror providing the fuel for his next arcane onslaught.\n\nSuspicious of the cunning and rebellious nature of vampirekind, Nagash will on occasion oversee things personally to ensure that his decrees are fulfilled. Even the Mortarchs bend the knee at such decisive moments, knowing that to challenge the Lord of Undeath is to invite permanent annihilation – or a punishment far worse. As Nagash summons necrotic soul-storms and whirlwinds of death to lay low the living, his Soulblight armies sweep forth to strike the final blow, desperate to please their pitiless master.",
@@ -16722,7 +16722,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "c7eb4898-9e61-4652-a539-53b69c92fc21",
+    "id": "786a967d-0559-4bfb-8953-6644543d59dd",
     "name": "Grey Seer",
     "subname": null,
     "lore": "Grey Seers are marked out from their minions not only by their pale fur and curling horns but also by their ability to wield the withering magics of the Great Horned Rat. They serve as the executors of their terrible god’s will amongst the clans – though this does not prevent them from pursuing their own schemes as a matter of course. Able to handle warpstone with greater ease than fellow ratmen, a Grey Seer will use all manner of relics to try and glean an advantage, all while using their sorcery and innate cunning to undermine and drag down enemies and rivals alike.",
@@ -19098,7 +19098,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "66a2046e-670c-4013-aad4-fedaa1a779ff",
+    "id": "80a7e85a-7a29-4ee7-a418-8a745a4a9149",
     "name": "Gaunt Summoner on Disc of Tzeentch",
     "subname": null,
     "lore": "Gaunt Summoners are daemon monarchs of Tzeentch. There are nine of these dreaded sorcerers, and each is the lord of a Silver Tower – looming crystalline edifices that travel across time and space, disgorging hosts of daemons and Arcanites from their labyrinthine innards. Having been elevated to their station by Tzeentch himself, Gaunt Summoners are entrusted with schemes of immense complexity and import. They rule their Silver Towers as mad fiefdoms and delight in magically trapping rivals and adversaries within. These unfortunates are subjected to endless trials for the amusement of the Gaunt Summoners. Few ever escape; fewer still hold onto their sanity.\n\nGaunt Summoners are masters of binding the daemons that infest their Silver Towers. Often they will transform a mindless Screamer into a Disc to ride upon, for the pride of the Summoners is such that walking upon the stagnant earth of the realms infuriates them. Surrounded by shoals of flying daemons or Discborne mortal acolytes, Gaunt Summoners observe the ebb and flow of battle with an obsessive curiosity. Any opportunity to unleash their arcane fires will be seized on with gusto, for the Summoners are always looking to outdo one another in seeking the favour of Tzeentch.",
@@ -20198,7 +20198,7 @@ export const warscrolls : Warscroll[] = [
     "isLegends": false
   },
   {
-    "id": "e13fcd1d-b044-4ff9-b0e8-7145ec437bf7",
+    "id": "37e37cf6-600c-41b7-b36a-384fed5df4c8",
     "name": "Kragnos, the End of Empires",
     "subname": null,
     "lore": "One of the most destructive races to have ever lived, the Drogrukh were centauroid warriors who built a great nation in the Realm of Beasts. From their number rose a champion so powerful that he ascended to godhood: Kragnos, the End of Empires. Having led his people in warfare against a draconic empire that le the Drogrukh all but extinct, Kragnos was sealed away for the protection of the realms – only to be freed centuries later.",
@@ -21364,4 +21364,5 @@ export const warscrolls : Warscroll[] = [
     "isLegends": true
   }
 ];
+
 export default warscrolls;
