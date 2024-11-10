@@ -8,7 +8,6 @@ import useFactions from "../Hooks/useFactions";
 import { useState } from "react";
 import WarscrollNameAutocomplete from "../Components/WarscrollNameAutocomplete";
 import KeywordAutocomplete from "../Components/KeywordAutocomplete";
-import keywords from "../Data/Keywords";
 import useKeywords from "../Hooks/useKeywords";
 
 const AbilityCatalogue: React.FC = () => {
