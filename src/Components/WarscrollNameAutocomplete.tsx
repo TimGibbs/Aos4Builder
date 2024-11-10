@@ -2,12 +2,12 @@ import React, { ChangeEvent, useEffect, useRef, useState } from 'react';
 import { FormControl, ListGroup } from 'react-bootstrap';
 import Warscroll from '../Types/DataTypes/Warscroll';
 
-interface WarscrollNameAutocomplete {
+interface WarscrollNameAutocompleteParams {
   suggestions: Warscroll[];
   setWarscrollId: (value: string | undefined) => void;
 }
 
-const WarscrollNameAutocomplete: React.FC<WarscrollNameAutocomplete> = ({
+const WarscrollNameAutocomplete: React.FC<WarscrollNameAutocompleteParams> = ({
   suggestions,
   setWarscrollId: setInputValue,
 }) => {
