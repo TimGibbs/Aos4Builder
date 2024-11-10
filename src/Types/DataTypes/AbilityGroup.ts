@@ -6,7 +6,6 @@ export interface AbilityGroup {
     subsectionName:                      null | string;
     subsectionLore:                      null | string;
     subsectionRulesText:                 null | string;
-    image:                               null | string;
     altText:                             null | string;
     regimentOfRenownPointsCost:          number | null;
     factionId:                           null | string;

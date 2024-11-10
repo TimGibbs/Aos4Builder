@@ -1,3 +1,3 @@
-export type Phase = "heroPhase" | "movementPhase" | "defensive" | "chargePhase" | "shootingPhase" | "endOfTurn" | "combatPhase" | "startOfTurn";
+export type Phase ="startOfTurn" | "heroPhase" | "movementPhase"| "shootingPhase" | "chargePhase" | "combatPhase"| "endOfTurn" | "defensive";
 
 export default Phase;

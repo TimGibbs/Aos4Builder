@@ -8,6 +8,8 @@ const Navigation : React.FC = () => <Navbar bg="light" expand="lg">
   <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="me-auto">
       <Nav.Link as={Link} to="/lists">Lists</Nav.Link>
+      <Nav.Link as={Link} to="/abilities">Abilities</Nav.Link>
+      
     </Nav>
   </Navbar.Collapse>
 </Container>

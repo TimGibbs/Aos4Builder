@@ -2292,26 +2292,6 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "optionText": "Any Skaven"
   },
   {
-    "id": "ba7d4e95-8ea1-4b5f-9ee0-ad354744160a",
-    "childQuantity": "zeroToOne",
-    "displayOrder": 1,
-    "requiredFactionKeywordId": null,
-    "requiredRosterFactionKeywordId": null,
-    "requiredWarscrollId": null,
-    "warscrollId": "418c7a31-53ba-4176-82de-ed99d1f8cc74",
-    "optionText": "0-1 Stormcast Exemplar"
-  },
-  {
-    "id": "2852fb29-04d7-43a5-b87e-b5ae86886fd1",
-    "childQuantity": "any",
-    "displayOrder": 2,
-    "requiredFactionKeywordId": null,
-    "requiredRosterFactionKeywordId": null,
-    "requiredWarscrollId": null,
-    "warscrollId": "418c7a31-53ba-4176-82de-ed99d1f8cc74",
-    "optionText": "Any Ruination Chamber"
-  },
-  {
     "id": "e17748b2-19d9-4a55-aac7-06ce2567be21",
     "childQuantity": "zeroToOne",
     "displayOrder": 1,
@@ -6950,6 +6930,116 @@ export const warscroll_regiment_options : WarscrollRegimentOption[] = [
     "requiredWarscrollId": null,
     "warscrollId": "ba136dca-e3b8-4bea-a92e-929dae11a011",
     "optionText": "Any Infantry"
+  },
+  {
+    "id": "3da4d1d2-8a5b-4998-8d60-a733a336fe63",
+    "childQuantity": "zeroToOne",
+    "displayOrder": 1,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": null,
+    "warscrollId": "8ca07d29-068e-48ae-a7c4-ed1abeafe6db",
+    "optionText": "0-1 Warrior Chamber"
+  },
+  {
+    "id": "6765102d-959c-4c6d-ad3d-8f70384a88fe",
+    "childQuantity": "any",
+    "displayOrder": 2,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": null,
+    "warscrollId": "8ca07d29-068e-48ae-a7c4-ed1abeafe6db",
+    "optionText": "Any Ruination Chamber"
+  },
+  {
+    "id": "8ee4363f-b8fd-4856-918c-a7b4df93a6f1",
+    "childQuantity": "any",
+    "displayOrder": 1,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": null,
+    "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0",
+    "optionText": "Any Ruination Chamber"
+  },
+  {
+    "id": "d5bbde7f-3e7e-435a-8496-377c7921c5db",
+    "childQuantity": "any",
+    "displayOrder": 2,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": null,
+    "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0",
+    "optionText": "Any Warrior Chamber"
+  },
+  {
+    "id": "ba7d4e95-8ea1-4b5f-9ee0-ad354744160a",
+    "childQuantity": "zeroToOne",
+    "displayOrder": 1,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": null,
+    "warscrollId": "418c7a31-53ba-4176-82de-ed99d1f8cc74",
+    "optionText": "0-1 Stormcast Exemplar"
+  },
+  {
+    "id": "40fd4e2a-6bb2-4e4a-990e-6c41239979e4",
+    "childQuantity": "zeroToOne",
+    "displayOrder": 2,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": "3f4aa91d-2a19-41a9-8132-0875c8bf876f",
+    "warscrollId": "418c7a31-53ba-4176-82de-ed99d1f8cc74",
+    "optionText": "0-1 Gryph-hounds"
+  },
+  {
+    "id": "2852fb29-04d7-43a5-b87e-b5ae86886fd1",
+    "childQuantity": "any",
+    "displayOrder": 3,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": null,
+    "warscrollId": "418c7a31-53ba-4176-82de-ed99d1f8cc74",
+    "optionText": "Any Ruination Chamber"
+  },
+  {
+    "id": "fc84ce1d-4ac9-4447-9682-05ee035c29d0",
+    "childQuantity": "any",
+    "displayOrder": 4,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": null,
+    "warscrollId": "418c7a31-53ba-4176-82de-ed99d1f8cc74",
+    "optionText": "Any Warrior Chamber"
+  },
+  {
+    "id": "9d3318b6-d17c-4fdd-9a3c-ca877322aca2",
+    "childQuantity": "any",
+    "displayOrder": 1,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": null,
+    "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad",
+    "optionText": "Any Ruination Chamber"
+  },
+  {
+    "id": "012339e2-15be-4ac4-9e1c-fee8cd763774",
+    "childQuantity": "any",
+    "displayOrder": 2,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": null,
+    "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad",
+    "optionText": "Any Warrior Chamber"
+  },
+  {
+    "id": "76f57519-1221-4463-aa83-4edc5af1e623",
+    "childQuantity": "any",
+    "displayOrder": 1,
+    "requiredFactionKeywordId": null,
+    "requiredRosterFactionKeywordId": null,
+    "requiredWarscrollId": null,
+    "warscrollId": "6fc894c6-c2f3-46bb-8904-ed8181888594",
+    "optionText": "Any Ruination Chamber"
   }
 ];
 

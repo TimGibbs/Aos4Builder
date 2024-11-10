@@ -6,6 +6,7 @@ import ListBuilder from './Pages/ListBuilder';
 import ListsSelector from './Pages/ListsSelector';
 import Home from './Pages/Home';
 import Navigation from './Components/NavBar';
+import AbilityCatalogue from './Pages/AbilityCatalogue';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/lists" element={<ListsSelector />} />
           <Route path="/edit/:id" element={<ListBuilder />} />
+          <Route path="/abilities" element={<AbilityCatalogue />} />
         </Routes>
       </Container>
     </Router>

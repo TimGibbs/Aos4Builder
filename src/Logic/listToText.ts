@@ -73,12 +73,6 @@ function listToText(list: List): string {
 function formatUnit(unit: Unit, isGeneral: boolean = false): string {
     const filteredWarscrolls =  warscrolls.filter(o=>!o.isSpearhead)
     const warscroll = filteredWarscrolls.find(w => w.id === unit.warscrollId);
-    let points = warscroll?.points ?? 0;
-
-    // Double points if unit is reinforced
-    if (unit.reinforced) {
-        points *= 2;
-    }
 
     const parts: string[] = [];
     parts.push(`<em><strong>${warscroll?.name}</strong></em> (${unitsCost(unit,filteredWarscrolls)} Points)`);

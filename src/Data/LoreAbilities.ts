@@ -72,20 +72,6 @@ export const lore_abilities : Ability[] = [
     "loreId": "20dde567-2295-4e06-a187-1af9b510e692"
   },
   {
-    "id": "9a7c747a-485d-4122-a0e9-aae9f9955176",
-    "name": "Lightning Blast",
-    "phaseDetails": "Your Hero Phase",
-    "phase": "heroPhase",
-    "abilityAndCommandIcon": "offensive",
-    "lore": "The wizard releases pent-up storm energy into the foe.",
-    "declare": "Pick a friendly Stormcast Eternals Wizard to cast this spell, then pick the closest visible enemy unit to them that has not been picked to be the target of this ability this turn to be the target. If 2 or more visible enemy units are tied to be the closest, you can pick which is the target. Then, make a casting roll of 2D6.",
-    "usedBy": null,
-    "effect": "Inflict D3 mortal damage on the target.",
-    "castingValue": 5,
-    "linkedWarscrollId": null,
-    "loreId": "616ac01e-6c1d-4777-89df-0a1e51f8fdb3"
-  },
-  {
     "id": "aa2febc1-4b24-4d17-976f-eb2099b9c621",
     "name": "Mystical Unforging",
     "phaseDetails": "Your Hero Phase",
@@ -352,20 +338,6 @@ export const lore_abilities : Ability[] = [
     "loreId": "a55a8331-68fe-40ba-a100-78f787c05ddb"
   },
   {
-    "id": "b79e1b3b-76b4-4d4b-bd20-fd8ae71862fe",
-    "name": "Translocation",
-    "phaseDetails": "Your Hero Phase",
-    "phase": "heroPhase",
-    "abilityAndCommandIcon": "movement",
-    "lore": "The priest summons bolts of lightning to transport nearby warriors across the battlefield.",
-    "declare": "Pick a friendly Stormcast Eternals Priest to chant this prayer, pick a visible friendly Stormcast Eternals unit wholly within 12\" of them to be the target, then make a chanting roll of D6.",
-    "usedBy": null,
-    "effect": "Remove the target from the battlefield and set it up again on the battlefield more than 9\" from all enemy units. In addition, if the chanting roll was 8+, subtract 1 from hit rolls for attacks that target that unit for the rest of the battle round.",
-    "castingValue": 4,
-    "linkedWarscrollId": null,
-    "loreId": "d3617429-0fc8-4e7f-b2cd-b5274c5674b0"
-  },
-  {
     "id": "fcfbd698-e0aa-4942-876f-315d34f896f6",
     "name": "Summon Celestian Vortex",
     "phaseDetails": "Your Hero Phase",
@@ -434,20 +406,6 @@ export const lore_abilities : Ability[] = [
     "castingValue": 7,
     "linkedWarscrollId": null,
     "loreId": "0f6181e0-ed38-4350-a6c0-3e90408fc3f3"
-  },
-  {
-    "id": "d1bdb857-e9bc-477b-a849-902bd5148803",
-    "name": "Summon Dais Arcanum",
-    "phaseDetails": "Your Hero Phase",
-    "phase": "heroPhase",
-    "abilityAndCommandIcon": "special",
-    "lore": "The wizard calls down a single bolt of lightning to strike the ground at their feet, leaving behind a perfect sigmarite disc for a chosen Stormcast to mount and be carried into the air.",
-    "declare": "If there is not a friendly Dais Arcanum on the battlefield, pick a friendly Stormcast Eternals Wizard to cast this spell, pick a friendly Stormcast Eternals Infantry Hero that does not have Fly and is wholly within 12\" of them to be the target, then make a casting roll of 2D6.",
-    "usedBy": null,
-    "effect": "Set up a Dais Arcanum within ½\" of the target, visible to the caster and not in combat. Then, remove the target from the battlefield and place it on the platform of that Dais Arcanum.",
-    "castingValue": 6,
-    "linkedWarscrollId": "48496b2b-b2f4-4428-b378-26eb06882443",
-    "loreId": "b6699fd9-6c7a-4b44-929d-8cf11b0ab1aa"
   },
   {
     "id": "29727840-ecb8-4082-94c1-e69efb206141",
@@ -814,20 +772,6 @@ export const lore_abilities : Ability[] = [
     "loreId": "ea83d97a-f3a6-443a-9b82-4fc4ffad5f6f"
   },
   {
-    "id": "7287de55-8a4d-4eba-957b-c18e22321d9b",
-    "name": "Starfall",
-    "phaseDetails": "Your Hero Phase",
-    "phase": "heroPhase",
-    "abilityAndCommandIcon": "movement",
-    "lore": "Gazing towards the heavens, the wizard hurls meteoric rain into the enemy’s path.",
-    "declare": "Pick a friendly Stormcast Eternals Wizard to cast this spell, pick a visible enemy Infantry or Cavalry unit within 18\" of them to be the target, then make a casting roll of 2D6.",
-    "usedBy": null,
-    "effect": "Until the start of your next turn, subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1.",
-    "castingValue": 7,
-    "linkedWarscrollId": null,
-    "loreId": "616ac01e-6c1d-4777-89df-0a1e51f8fdb3"
-  },
-  {
     "id": "eca3461e-6d2e-4604-9b25-ddd8bee36b5a",
     "name": "Summon Mortalis Terminexus",
     "phaseDetails": "Your Hero Phase",
@@ -994,20 +938,6 @@ export const lore_abilities : Ability[] = [
     "castingValue": 7,
     "linkedWarscrollId": null,
     "loreId": "276a3e94-7aa2-404d-96f0-5c60eafb3898"
-  },
-  {
-    "id": "d524c14a-467f-4907-994b-7aa1b7413102",
-    "name": "Healing Storm",
-    "phaseDetails": "Your Hero Phase",
-    "phase": "heroPhase",
-    "abilityAndCommandIcon": "defensive",
-    "lore": "The priest calls down cleansing bolts from the sky, their invigorating energies closing even the most grievous wounds.",
-    "declare": "Pick a friendly Stormcast Eternals Priest to chant this prayer, pick a visible friendly Stormcast Eternals unit wholly within 12\" of them to be the target, then make a chanting roll of D6.",
-    "usedBy": null,
-    "effect": "Heal (D3) the target. If the chanting roll was 8+, Heal (D3) each visible friendly Stormcast Eternals unit wholly within 12\" of the chanter instead.",
-    "castingValue": 4,
-    "linkedWarscrollId": null,
-    "loreId": "d3617429-0fc8-4e7f-b2cd-b5274c5674b0"
   },
   {
     "id": "ba4b6ce7-740c-486b-94a4-7846ed04c5a3",
@@ -1304,6 +1234,20 @@ export const lore_abilities : Ability[] = [
     "loreId": "4b84e541-02f3-4956-b8a3-19523c706884"
   },
   {
+    "id": "836481d6-6ee6-42f1-804c-0a3202308857",
+    "name": "Storm's Wrath",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "defensive",
+    "lore": "The mage calls down a barrage of colossal lightning blasts that boom across the battlefield, blasting to ash clusters of the foe.",
+    "declare": "Pick a friendly First-Forged Wizard to cast this spell, pick up to 3 visible enemy units within 9\" of them to be the targets, then make a casting roll of 2D6.",
+    "usedBy": null,
+    "effect": "Inflict D3 mortal damage on each target.",
+    "castingValue": 6,
+    "linkedWarscrollId": null,
+    "loreId": "d5f6b1b0-13e2-40c9-aa9c-1e4f688cb6cb"
+  },
+  {
     "id": "7c83ca09-4060-42af-8f25-3efe6f797c97",
     "name": "Summon Scrapskuttle’s Arachnacauldron",
     "phaseDetails": "Your Hero Phase",
@@ -1358,20 +1302,6 @@ export const lore_abilities : Ability[] = [
     "castingValue": 6,
     "linkedWarscrollId": null,
     "loreId": "8c5020a2-ada6-446e-917e-b901dd7b56fa"
-  },
-  {
-    "id": "c9dde6ba-a033-462f-ab31-a011b3ae15e1",
-    "name": "Summon Everblaze Comet",
-    "phaseDetails": "Your Hero Phase",
-    "phase": "heroPhase",
-    "abilityAndCommandIcon": "special",
-    "lore": "Reaching an arm to the heavens, the wizard calls down a pure comet of Azyrite energy that crashes into the foe’s ranks with devastating effect.",
-    "declare": "If there is not a friendly Everblaze Comet on the battlefield, pick a friendly Stormcast Eternals Wizard to cast this spell, then make a casting roll of 2D6.",
-    "usedBy": null,
-    "effect": "Set up an Everblaze Comet wholly within 18\" of the caster.",
-    "castingValue": 7,
-    "linkedWarscrollId": "c40ce2eb-1313-4f36-8b1a-c932b850a61f",
-    "loreId": "b6699fd9-6c7a-4b44-929d-8cf11b0ab1aa"
   },
   {
     "id": "4dfcae8e-664f-4a54-8e7b-e4b4540b002b",
@@ -1822,20 +1752,6 @@ export const lore_abilities : Ability[] = [
     "loreId": "57779ba4-da09-4fd7-a7f1-e7df200f1494"
   },
   {
-    "id": "3f424b77-d206-4eed-b238-79d3260214e1",
-    "name": "Thundershock",
-    "phaseDetails": "Your Hero Phase",
-    "phase": "heroPhase",
-    "abilityAndCommandIcon": "defensive",
-    "lore": "The wizard unleashes the power of Sigmar’s storm as a roiling wave of pure force.",
-    "declare": "Pick a friendly Stormcast Eternals Wizard to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6.",
-    "usedBy": null,
-    "effect": "Subtract 1 from wound rolls for the target’s attacks until the start of your next turn.",
-    "castingValue": 6,
-    "linkedWarscrollId": null,
-    "loreId": "616ac01e-6c1d-4777-89df-0a1e51f8fdb3"
-  },
-  {
     "id": "cc49d615-80dc-4c78-b605-9851400dc1f9",
     "name": "Viletide",
     "phaseDetails": "Your Hero Phase",
@@ -1960,20 +1876,6 @@ export const lore_abilities : Ability[] = [
     "castingValue": 7,
     "linkedWarscrollId": null,
     "loreId": "120d5c01-a275-428b-9116-e05951b8e2ac"
-  },
-  {
-    "id": "43925e04-8603-4f02-aa07-df67c32b8bc1",
-    "name": "Bless Weapon",
-    "phaseDetails": "Your Hero Phase",
-    "phase": "heroPhase",
-    "abilityAndCommandIcon": "offensive",
-    "lore": "The priest imbues weapons of those nearby with the pure essence of the storm.",
-    "declare": "Pick a friendly Stormcast Eternals Priest to chant this prayer, pick a visible friendly Stormcast Eternals Infantry unit wholly within 12\" of them to be the target, then make a chanting roll of D6.",
-    "usedBy": null,
-    "effect": "Add 1 to the Attacks characteristic of the target’s melee weapons until the start of your next turn. If the chanting roll was 12+, this ability affects all visible friendly Stormcast Eternals units wholly within 12\" of the chanter.",
-    "castingValue": 6,
-    "linkedWarscrollId": null,
-    "loreId": "d3617429-0fc8-4e7f-b2cd-b5274c5674b0"
   },
   {
     "id": "86c4a001-f712-417a-b869-4b98cb155e17",
@@ -2604,7 +2506,203 @@ export const lore_abilities : Ability[] = [
     "castingValue": 6,
     "linkedWarscrollId": null,
     "loreId": "8c5020a2-ada6-446e-917e-b901dd7b56fa"
+  },
+  {
+    "id": "9a7c747a-485d-4122-a0e9-aae9f9955176",
+    "name": "Lightning Blast",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "offensive",
+    "lore": "The wizard releases pent-up storm energy into the foe, the tang of ozone and the stench of charred flesh filling the air as their enemies are burned and blasted by crackling arcs of lightning.",
+    "declare": "Pick a friendly Stormcast Eternals Wizard to cast this spell, then pick the closest visible enemy unit to them that has not been picked to be the target of this ability this turn to be the target. If 2 or more visible enemy units are tied to be the closest, you can pick which is the target. Then, make a casting roll of 2D6.",
+    "usedBy": null,
+    "effect": "Inflict D3 mortal damage on the target.",
+    "castingValue": 5,
+    "linkedWarscrollId": null,
+    "loreId": "616ac01e-6c1d-4777-89df-0a1e51f8fdb3"
+  },
+  {
+    "id": "7287de55-8a4d-4eba-957b-c18e22321d9b",
+    "name": "Starfall",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "movement",
+    "lore": "Gazing towards the heavens, the wizard hurls meteoric rain into the enemy's path, forcing them to turn an aggressive push into a cautious advance.",
+    "declare": "Pick a friendly Stormcast Eternals Wizard to cast this spell, pick a visible enemy Infantry or Cavalry unit within 18\" of them to be the target, then make a casting roll of 2D6.",
+    "usedBy": null,
+    "effect": "Until the start of your next turn, subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1.",
+    "castingValue": 7,
+    "linkedWarscrollId": null,
+    "loreId": "616ac01e-6c1d-4777-89df-0a1e51f8fdb3"
+  },
+  {
+    "id": "3f424b77-d206-4eed-b238-79d3260214e1",
+    "name": "Thundershock",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "defensive",
+    "lore": "The wizard unleashes the power of Sigmar's storm as a wave of pure force, leaving the foe stunned and disoriented.",
+    "declare": "Pick a friendly Stormcast Eternals Wizard to cast this spell, pick a visible enemy unit within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "usedBy": null,
+    "effect": "Subtract 1 from wound rolls for the target’s attacks until the start of your next turn.",
+    "castingValue": 6,
+    "linkedWarscrollId": null,
+    "loreId": "616ac01e-6c1d-4777-89df-0a1e51f8fdb3"
+  },
+  {
+    "id": "7299642f-7ed5-4f2c-a954-af5f16a57d78",
+    "name": "Bless Weapons",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "offensive",
+    "lore": "The priest imbues the weapons of their brethren with the pure essence of the storm.",
+    "declare": "Pick a friendly Stormcast Eternals Priest to chant this prayer, pick a visible friendly Stormcast Eternals Infantry unit wholly within 12\" of them to be the target, then make a chanting roll of D6.",
+    "usedBy": null,
+    "effect": "Add 1 to the Attacks characteristic of the target’s melee weapons until the start of your next turn. If the chanting roll was 12+, this ability affects all visible friendly Stormcast Eternals units wholly within 12\" of the chanter.",
+    "castingValue": 6,
+    "linkedWarscrollId": null,
+    "loreId": "d3617429-0fc8-4e7f-b2cd-b5274c5674b0"
+  },
+  {
+    "id": "d524c14a-467f-4907-994b-7aa1b7413102",
+    "name": "Healing Storm",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "defensive",
+    "lore": "The priest calls down cleansing bolts from the sky, their invigorating energies closing even the most grievous wounds.",
+    "declare": "Pick a friendly Stormcast Eternals Priest to chant this prayer, pick a visible friendly Stormcast Eternals unit wholly within 12\" of them to be the target, then make a chanting roll of D6.",
+    "usedBy": null,
+    "effect": "Heal (D3) the target. If the chanting roll was 8+, Heal (D3) each visible friendly Stormcast Eternals unit wholly within 12\" of the chanter instead.",
+    "castingValue": 4,
+    "linkedWarscrollId": null,
+    "loreId": "d3617429-0fc8-4e7f-b2cd-b5274c5674b0"
+  },
+  {
+    "id": "b79e1b3b-76b4-4d4b-bd20-fd8ae71862fe",
+    "name": "Translocation",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "movement",
+    "lore": "The priest summons bolts of lightning to transport nearby warriors across the battlefield.",
+    "declare": "Pick a friendly Stormcast Eternals Priest to chant this prayer, pick a visible friendly Stormcast Eternals unit wholly within 12\" of them to be the target, then make a chanting roll of D6.",
+    "usedBy": null,
+    "effect": "Remove the target from the battlefield and set it up again on the battlefield more than 9\" from all enemy units. In addition, if the chanting roll was 8+, subtract 1 from hit rolls for attacks that target that unit for the rest of the battle round.",
+    "castingValue": 4,
+    "linkedWarscrollId": null,
+    "loreId": "d3617429-0fc8-4e7f-b2cd-b5274c5674b0"
+  },
+  {
+    "id": "c9dde6ba-a033-462f-ab31-a011b3ae15e1",
+    "name": "Summon Everblaze Comet",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "special",
+    "lore": "Reaching an arm to the heavens, the wizard calls down a pure comet of Azyrite energy that crashes into the foe’s ranks with devastating effect.",
+    "declare": "If there is not a friendly Everblaze Comet on the battlefield, pick a friendly Stormcast Eternals Wizard to cast this spell, then make a casting roll of 2D6.",
+    "usedBy": null,
+    "effect": "Set up an Everblaze Comet wholly within 18\" of the caster.",
+    "castingValue": 8,
+    "linkedWarscrollId": "c40ce2eb-1313-4f36-8b1a-c932b850a61f",
+    "loreId": "b6699fd9-6c7a-4b44-929d-8cf11b0ab1aa"
+  },
+  {
+    "id": "d46d6f07-2d23-48ed-960e-92a3972ffd67",
+    "name": "Morrda's Embrace",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "offensive",
+    "lore": "Sinister shadows converge above the priest's head before enveloping a foe in a deadly embrace.",
+    "declare": "Pick a friendly Ruination Brotherhood Priest to chant this prayer, pick a visible enemy unit within 18\" of them to be the target, then make a chanting roll of D6.",
+    "usedBy": null,
+    "effect": "Roll a dice. If the roll exceeds the target's Health characteristic, 1 model in the target unit is slain. If the chanting roll was 10+, roll 2D6 instead.",
+    "castingValue": 5,
+    "linkedWarscrollId": null,
+    "loreId": "73179f4e-3312-4698-bff9-4e5fee433822"
+  },
+  {
+    "id": "4f0f8869-6724-4ba4-817f-d7c43d6f40a2",
+    "name": "Murderous Flock",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "defensive",
+    "lore": "A flight of phantasmal ravens is summoned from the darkened skies, diving down into the enemy's ranks to peck out eyes and pierce throats.",
+    "declare": "Pick a friendly Ruination Brotherhood Priest to chant this prayer, pick a visible enemy unit within 12\" of them to be the target, then make a chanting roll of D6.",
+    "usedBy": null,
+    "effect": "Roll a dice for each model in the target unit. For each 5+, inflict 1 mortal damage on the target unit. If the chanting roll was 10+, inflict 1 mortal damage on the target unit for each 4+ instead.",
+    "castingValue": 4,
+    "linkedWarscrollId": null,
+    "loreId": "73179f4e-3312-4698-bff9-4e5fee433822"
+  },
+  {
+    "id": "6248d18e-c9f1-4309-8fd0-3cd3b910eac8",
+    "name": "Raven's Flight",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "movement",
+    "lore": "Wings of jet black frame the priest as they summon a chill wind that speeds their allies.",
+    "declare": "Pick a friendly Ruination Brotherhood Priest to chant this prayer, pick a visible friendly unit wholly within 12\" of them to be the target, then make a chanting roll of D6.",
+    "usedBy": null,
+    "effect": "Add 2\" to the target's Move characteristic. If the chanting roll was 8+, in addition, for the rest of the turn, the target can use Charge abilities even if they have used a Run ability in the same turn.",
+    "castingValue": 4,
+    "linkedWarscrollId": null,
+    "loreId": "73179f4e-3312-4698-bff9-4e5fee433822"
+  },
+  {
+    "id": "aadd5c4b-4f7e-4322-9cac-225f50088081",
+    "name": "Wreathed in the Storm",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "offensive",
+    "lore": "Lightning ripples across the armour of these warriors, delivering a lethal shock to enemies who approach them.",
+    "declare": "Pick a friendly First-Forged Wizard to cast this spell, pick a visible friendly Stormcast Eternals unit wholly within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "usedBy": null,
+    "effect": "For the rest of the turn, each time you make an unmodified save roll of 6 for a combat attack that targets the target unit, inflict 1 mortal damage on the attacking unit after the Fight ability has been resolved.",
+    "castingValue": 7,
+    "linkedWarscrollId": null,
+    "loreId": "d5f6b1b0-13e2-40c9-aa9c-1e4f688cb6cb"
+  },
+  {
+    "id": "f2997f3a-6a47-4bd6-bafe-94f549348c8a",
+    "name": "Speed of the Righteous",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "movement",
+    "lore": "The warrior-priest calls upon Sigmar to speed their brethren with the winds aetheric so that they might enact his judgement with greater haste.",
+    "declare": "Pick a friendly First-Forged Priest to chant this prayer, pick a visible friendly Stormcast Eternals unit wholly within 12\" of them to be a target, then make a chanting roll of D6.",
+    "usedBy": null,
+    "effect": "Add 2\" to the Move characteristic of the target for the rest of the turn. If the chanting roll was 6+, you can pick another eligible unit to be a second target.",
+    "castingValue": 4,
+    "linkedWarscrollId": null,
+    "loreId": "bfd4c524-a76b-4caf-a102-e10eaab73df4"
+  },
+  {
+    "id": "c9dde6ba-a033-462f-ab31-a011b3ae15e1",
+    "name": "Summon Everblaze Comet",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "special",
+    "lore": "Reaching an arm to the heavens, the wizard calls down a comet of pure Azyrite energy that crashes into the foe's ranks with devastating effect.",
+    "declare": "If there is not a friendly Everblaze Comet on the battlefield, pick a friendly First-Forged Wizard to cast this spell, then make a casting roll of 2D6.",
+    "usedBy": null,
+    "effect": "Set up an Everblaze Comet wholly within 18\" of the caster.",
+    "castingValue": 8,
+    "linkedWarscrollId": "c40ce2eb-1313-4f36-8b1a-c932b850a61f",
+    "loreId": "b92efce2-f15c-4cc7-8249-5b51e32f35ed"
+  },
+  {
+    "id": "d1bdb857-e9bc-477b-a849-902bd5148803",
+    "name": "Summon Dais Arcanum",
+    "phaseDetails": "Your Hero Phase",
+    "phase": "heroPhase",
+    "abilityAndCommandIcon": "special",
+    "lore": "The wizard calls down a single bolt of lightning to strike the ground at their feet, leaving behind a perfect sigmarite disc for a chosen Stormcast to mount and be carried into the air.",
+    "declare": "If there is not a friendly Dais Arcanum on the battlefield, pick a friendly Stormcast Eternals Wizard to cast this spell, pick a friendly Stormcast Eternals Infantry Hero that does not have Fly and is wholly within 12\" of them to be the target, then make a casting roll of 2D6.",
+    "usedBy": null,
+    "effect": "Set up a Dais Arcanum within ½\" of the target, visible to the caster and not in combat. Then, remove the target from the battlefield and place it on the platform of that Dais Arcanum.",
+    "castingValue": 6,
+    "linkedWarscrollId": "48496b2b-b2f4-4428-b378-26eb06882443",
+    "loreId": "b6699fd9-6c7a-4b44-929d-8cf11b0ab1aa"
   }
-]
+];
 
 export default lore_abilities;

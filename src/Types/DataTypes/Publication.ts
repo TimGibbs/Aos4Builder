@@ -5,7 +5,6 @@ export interface Publication {
     productId:          null | string;
     displayOrder:       number | null;
     factionKeywordId:   null | string;
-    publicationGroupId: null | string;
 }
 
 export default Publication;

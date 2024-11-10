@@ -1,0 +1,37 @@
+.abilityViewer .card-header {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.abilityViewer .card-header.startOfTurn {
+    background-color: black;
+}
+
+.abilityViewer .card-header.heroPhase {
+    background-color: rgb(118,96,43);
+}
+
+.abilityViewer .card-header.movementPhase {
+    background-color: rgb(96,99,98);
+}
+
+.abilityViewer .card-header.shootingPhase {
+    background-color: rgb(40,67,92);
+}
+
+.abilityViewer .card-header.chargePhase {
+    background-color: rgb(163,77,20);
+}
+
+.abilityViewer .card-header.combatPhase {
+    background-color: rgb(128,32,34);
+}
+
+.abilityViewer .card-header.defensive {
+    background-color: rgb(61,91,38);
+}
+
+.abilityViewer .card-header.endOfTurn {
+    background-color: rgb(94,74,121);
+}
