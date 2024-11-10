@@ -20,7 +20,7 @@ const AbilityCatalogue: React.FC = () => {
 
     const faction = factions.find(o => o.id === factionId);
     const groupAbilities: AbilityViewerParams[] = abilityGroups.filter(o => !factionId || o.factionId === factionId).flatMap(o => o.abilities.map(p => ({ ability: p, abilityGroup: o })));
-    ;
+    
     const filteredWarscrolls = warscrolls.filter(o => (!faction || faction.warscrolls.map(o => o.warscrollId).includes(o.id)))
     const warscrollAbilities: AbilityViewerParams[] = filteredWarscrolls.filter(o=> (!warscrollId ||o.id === warscrollId)).flatMap(o => o.abilities.map(p => ({ ability: p, warscroll: o })));
 

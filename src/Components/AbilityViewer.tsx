@@ -39,7 +39,7 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
 
     return <Card className={`abilityViewer`} >
         <Card.Header className={ability.phase}>
-            <img src={icon}/>
+            <img src={icon} alt={ability.abilityAndCommandIcon}/>
              {ability.phaseDetails}
         </Card.Header>
         <Card.Title>
