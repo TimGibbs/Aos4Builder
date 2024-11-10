@@ -18,7 +18,7 @@ export const useFactions = () => {
     const formations = useFormations();
     const lores = useLores();
     const abilityGroups = useAbilityGroups();
-    const memo = useMemo(()=>factions.map(o=>enrich(o, formations, lores, abilityGroups)),[formations, lores, abilityGroups])
+    const memo = useMemo(()=>factions.map(o=>enrich(o, formations, lores, abilityGroups)).sort((a, b) => a.name.localeCompare(b.name)),[formations, lores, abilityGroups])
     return memo;
 }
 
