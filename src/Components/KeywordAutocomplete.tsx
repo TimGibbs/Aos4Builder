@@ -1,17 +1,17 @@
 import React, { ChangeEvent, useEffect, useRef, useState } from 'react';
 import { FormControl, ListGroup } from 'react-bootstrap';
-import Warscroll from '../Types/DataTypes/Warscroll';
+import Keyword from '../Types/DataTypes/Keyword';
 
-interface WarscrollNameAutocomplete {
-  suggestions: Warscroll[];
-  setWarscrollId: (value: string | undefined) => void;
+interface KeywordAutocompleteParams {
+  suggestions: Keyword[];
+  setKeywordId: (value: string | undefined) => void;
 }
 
-const WarscrollNameAutocomplete: React.FC<WarscrollNameAutocomplete> = ({
+const KeywordAutocomplete: React.FC<KeywordAutocompleteParams> = ({
   suggestions,
-  setWarscrollId: setInputValue,
+  setKeywordId: setInputValue,
 }) => {
-  const [filteredSuggestions, setFilteredSuggestions] = React.useState<Warscroll[]>([]);
+  const [filteredSuggestions, setFilteredSuggestions] = React.useState<Keyword[]>([]);
   const [showSuggestions, setShowSuggestions] = React.useState<boolean>(false);
   const [text, setText] = useState<string>("");
 
@@ -33,7 +33,7 @@ const WarscrollNameAutocomplete: React.FC<WarscrollNameAutocomplete> = ({
     }
   };
 
-  const handleSuggestionClick = (suggestion: Warscroll) => {
+  const handleSuggestionClick = (suggestion: Keyword) => {
     setInputValue(suggestion.id);
     setText(suggestion.name);
     setShowSuggestions(false);
@@ -85,4 +85,4 @@ const WarscrollNameAutocomplete: React.FC<WarscrollNameAutocomplete> = ({
   );
 };
 
-export default WarscrollNameAutocomplete;
+export default KeywordAutocomplete;
