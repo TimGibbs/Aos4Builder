@@ -3,6 +3,7 @@ import { EnrichedWarscroll } from "../../Hooks/useWarscrolls"
 import { useState } from "react";
 import useKeywords from "../../Hooks/useKeywords";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
+import useWeaponAbilities from "../../Hooks/useWeaponAbilities";
 
 export interface WarscrollViewerParams {
     warscroll: EnrichedWarscroll,
@@ -11,6 +12,7 @@ export interface WarscrollViewerParams {
 export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll }) => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
     const { dictionary, common } = useKeywords();
+    const weaponAbilites = useWeaponAbilities();
 
     const filteredKeywords = warscroll.keywords.map(o => dictionary[o])
 
@@ -61,6 +63,7 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll }) 
                                     <th>Wound</th>
                                     <th>Rend</th>
                                     <th>Damage</th>
+                                    <th>Abilities</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -72,6 +75,7 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll }) 
                                     <td>{o.wound}</td>
                                     <td>{o.rend}</td>
                                     <td>{o.damage}</td>
+                                    <td>{o.weaponAbilities.map(p=>weaponAbilites[p].name).join("\n")}</td>
                                 </tr>)}
                             </tbody>
                         </Table>

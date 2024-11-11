@@ -6,14 +6,14 @@ import useWarscrollAbilities from "./useWarscrollAbilities";
 import { EnrichedAbility } from "../Types/DataTypes/Ability";
 import useKeywords from "./useKeywords";
 import useWarscrollRegimentOptions, { EnrichedWarscrollRegimentOptions } from "./useWarscrollRegimentOptions";
-import WarscrollWeapon, { EnrichedWarscrollWeapon } from "../Types/DataTypes/WarscrollWeapon";
+import { EnrichedWarscrollWeapon } from "../Types/DataTypes/WarscrollWeapon";
 import useWarscrollWeapons from "./useWarscrollWeapons";
 
 export interface EnrichedWarscroll extends Warscroll {
     keywords : string[]
     regimentOptions : EnrichedWarscrollRegimentOptions[]
     abilities : EnrichedAbility[]
-    weapons : WarscrollWeapon[]
+    weapons : EnrichedWarscrollWeapon[]
     isUnique : boolean
     isHero : boolean
     isTerrain : boolean
