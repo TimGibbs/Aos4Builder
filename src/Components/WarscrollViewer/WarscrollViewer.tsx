@@ -56,29 +56,29 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, in
                             </tbody>
                         </Table>
 
-                        {warscroll.weapons.length >0 && <Table>
+                        {warscroll.weapons.length >0 && <Table striped >
                             <thead>
                                 <tr>
                                     <th>Weapon</th>
                                     <th>Range</th>
-                                    <th>Attacks</th>
-                                    <th>Hit</th>
-                                    <th>Wound</th>
-                                    <th>Rend</th>
-                                    <th>Damage</th>
-                                    <th>Abilities</th>
+                                    <th>A</th>
+                                    <th>H</th>
+                                    <th>W</th>
+                                    <th>R</th>
+                                    <th>D</th>
+                                    <th style={{textAlign:"left"}}>Abilities</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 {warscroll.weapons.map(o=> <tr key={o.id}>
                                     <td>{o.name}</td>
-                                    <td>{o.range ?? "Melee"}</td>
+                                    <td>{o.range ?? "-"}</td>
                                     <td>{o.attacks}</td>
                                     <td>{o.hit}</td>
                                     <td>{o.wound}</td>
                                     <td>{o.rend}</td>
                                     <td>{o.damage}</td>
-                                    <td>{o.weaponAbilities.map(p=>weaponAbilites[p].name).join("\n")}</td>
+                                    <td style={{textAlign:"left"}}>{o.weaponAbilities.map(p=>weaponAbilites[p].name).join("\n")}</td>
                                 </tr>)}
                             </tbody>
                         </Table>}
