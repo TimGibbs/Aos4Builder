@@ -50,6 +50,31 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll }) 
                                 </tr>
                             </tbody>
                         </Table>
+
+                        <Table>
+                            <thead>
+                                <tr>
+                                    <th>Weapon</th>
+                                    <th>Range</th>
+                                    <th>Attacks</th>
+                                    <th>Hit</th>
+                                    <th>Wound</th>
+                                    <th>Rend</th>
+                                    <th>Damage</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {warscroll.weapons.map(o=>                              <tr>
+                                    <td>{o.name}</td>
+                                    <td>{o.range ?? "Melee"}</td>
+                                    <td>{o.attacks}</td>
+                                    <td>{o.hit}</td>
+                                    <td>{o.wound}</td>
+                                    <td>{o.rend}</td>
+                                    <td>{o.damage}</td>
+                                </tr>)}
+                            </tbody>
+                        </Table>
                     </Card.Body>
                     <Card.Footer className="text-muted">{filteredKeywords.join(" ")}</Card.Footer>
                 </>
