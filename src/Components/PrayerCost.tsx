@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { CSSProperties } from 'react';
 
-const PrayerCost: React.FC<{ number:number}>  = ({ number }) => {
+const PrayerCost: React.FC<{ number:number, style?: CSSProperties;}>  = ({ number, style }) => {
   return (
-    <svg style={{height:"2em", width:"2em"}} viewBox="0 0 100 100">
+    <svg style={style} viewBox="0 0 100 100">
       <polygon
         points="50,5 95,50 50,95 5,50"
         fill="black"

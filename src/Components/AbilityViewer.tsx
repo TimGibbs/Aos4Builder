@@ -20,6 +20,7 @@ import SpellCost from "./SpellCost";
 import PrayerCost from "./PrayerCost";
 import { useState } from "react";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
+import CpCost from "./CpCost";
 
 export interface AbilityViewerParams {
     ability: EnrichedAbility,
@@ -47,17 +48,21 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
         case ("battleDamaged"): icon = abDamaged; break;
     }
 
-    const Cost = !ability.castingValue ? <></>
+    const CastingCost = !ability.castingValue ? <></>
         : ability.keywords.includes(common.prayer)
-            ? <PrayerCost number={ability.castingValue} />
-            : <SpellCost number={ability.castingValue} />;
+            ? <PrayerCost number={ability.castingValue} style={{height:"2em", width:"2em", marginLeft:"5px", verticalAlign:"top"}}/>
+            : <SpellCost number={ability.castingValue} style={{height:"2em", width:"2em", marginLeft:"5px", verticalAlign:"top"}}/>;
+
+    const CpCostIcon = !ability.cpCost ? <></>
+    : <CpCost number={ability.cpCost} style={{height:"2em", width:"2em", marginLeft:"5px", verticalAlign:"top"}}/>
 
     return <Card className={`abilityViewer`} >
         <Card.Header className={`d-flex justify-content-between align-items-center ${ability.phase}`}>
             <img src={icon} alt={ability.abilityAndCommandIcon} />
-            <span className="flex-grow-1 text-center">
+            <span className="flex-grow-1 text-center" style={{height:"30px"}}>
                 <span style={{fontSize:20}}>{ability.name}</span>
-                {ability.castingValue && Cost}</span>
+                {ability.castingValue && CastingCost}
+                {CpCostIcon}</span>
             <Button style={{backgroundColor:"transparent", border:0}}
                 onClick={() => setIsOpen(!isOpen)}
                 aria-expanded={isOpen}
