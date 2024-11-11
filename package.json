@@ -4,6 +4,7 @@
   "homepage": "https://TimGibbs.github.io/Aos4Builder",
   "private": true,
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@babel/plugin-transform-private-property-in-object": "^7.25.9",
     "bootstrap": "^5.3.3",
     "jsqr": "^1.4.0",
