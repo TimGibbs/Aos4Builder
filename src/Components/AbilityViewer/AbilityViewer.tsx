@@ -22,6 +22,7 @@ import { useState } from "react";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
 import { GiLightningBranches } from "react-icons/gi";
 import CpCost from "./CpCost";
+import { WarscrollViewer } from "../WarscrollViewer/WarscrollViewer";
 
 export interface AbilityViewerParams {
     ability: EnrichedAbility,
@@ -60,7 +61,7 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
     const unlimited = ability.keywords.includes(common.unlimited) ? <GiLightningBranches /> : <></>
 
     return <Card className={`abilityViewer`} style={{ marginBottom: "5px" }}>
-        <Card.Header className={`d-flex justify-content-between align-items-center ${ability.phase}`} onClick={() => setIsOpen(!isOpen)}>
+        <Card.Header className={`d-flex justify-content-between align-items-center ${ability.phase} abilityViewerHeader`} onClick={() => setIsOpen(!isOpen)}>
             <img src={icon} alt={ability.abilityAndCommandIcon} />
             <span className="flex-grow-1 text-center" style={{ height: "30px" }}>
                 <span style={{ fontSize: 20 }}>{unlimited} {ability.name}</span>
@@ -82,9 +83,9 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
                         {lore?.name}
                     </Card.Subtitle>
                     <Card.Body style={{ whiteSpace: "pre-wrap" }}>
-                        {ability.declare && "Declare: " + ability.declare}
-                        <br />
+                        {ability.declare && <>{"Declare: " + ability.declare}<br /></>}
                         {"Effect: " + ability.effect}
+                        {ability.warscroll && <WarscrollViewer warscroll={ability.warscroll} includeAbilites={true}/>}
                     </Card.Body>
                     <Card.Footer className="text-muted">{filteredKeywords.join(" ")}</Card.Footer>
                 </>

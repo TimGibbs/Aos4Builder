@@ -14,9 +14,9 @@ export const useFormations = () => {
     return memo;
 }
 
-const enrich = (lore : Formation, formationAbilities: EnrichedAbility[]) : EnrichedFormation => {
-    const abilities = formationAbilities.filter(o=>o.loreId && o.loreId === lore.id);
-    return {...lore, abilities}
+const enrich = (formation : Formation, formationAbilities: EnrichedAbility[]) : EnrichedFormation => {
+    const abilities = formationAbilities.filter(o=>o.battleFormationId && o.battleFormationId === formation.id);
+    return {...formation, abilities}
 }
 
 export default useFormations;

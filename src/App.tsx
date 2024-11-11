@@ -8,6 +8,7 @@ import Home from './Pages/Home';
 import Navigation from './Components/NavBar';
 import AbilityCatalogue from './Pages/AbilityCatalogue';
 import WarscrollCatalogue from './Pages/WarscrollCatalogue';
+import ListDisplay from './Pages/ListDetails';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/edit/:id" element={<ListBuilder />} />
           <Route path="/abilities" element={<AbilityCatalogue />} />
           <Route path="/warscrolls" element={<WarscrollCatalogue />} />
+          <Route path="/display/:id" element={<ListDisplay />} />
         </Routes>
       </Container>
     </HashRouter>

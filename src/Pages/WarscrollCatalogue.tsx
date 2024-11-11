@@ -32,7 +32,7 @@ const WarscrollCatalogue: React.FC = () => {
         setFactionId(selectedId);
     };
 
-    const viewers = filteredWarscrolls.map(o=> <WarscrollViewer key={o.id} warscroll={o} />)
+    const viewers = filteredWarscrolls.map(o=> <WarscrollViewer key={o.id} warscroll={o} includeAbilites={true} />)
 
     return <Container>
         <Row>

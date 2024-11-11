@@ -1,3 +1,4 @@
+import { EnrichedWarscroll } from "../../Hooks/useWarscrolls";
 import AbilityAndCommandIcon from "./AbilityAndCommandIcon";
 import Phase from "./Phase";
 
@@ -28,6 +29,7 @@ export interface Ability {
 
 export interface EnrichedAbility extends Ability {
   keywords : string[]
+  warscroll?: EnrichedWarscroll | null
 } 
 
 export default Ability;

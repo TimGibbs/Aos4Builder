@@ -8,6 +8,7 @@ import DisplayListModal from "../Components/ListSelector/DisplayListModal";
 import { FaEye, FaPencilAlt, FaQrcode, FaTrash } from "react-icons/fa";
 import QrCodeModal from "../Components/ListSelector/QrCodeModal";
 import ImportListModal from "../Components/ListSelector/ImportListModal";
+import { GiDungeonGate } from "react-icons/gi";
 
 const ListsSelector : React.FC = ()=> {
     const { lists } = useSavedLists();
@@ -43,6 +44,11 @@ const DisplayList : React.FC<{list:List, display:()=>void, qr:()=>void}>  = ({li
         navigate(`/edit/${id}`);
       };
 
+
+    const goToDisplayPage = (id:string) => {
+    navigate(`/display/${id}`);
+    };
+
     return <Row>
         <Col>
             {list.name}
@@ -50,6 +56,7 @@ const DisplayList : React.FC<{list:List, display:()=>void, qr:()=>void}>  = ({li
         <Col>
             <Button onClick={()=>editList(list.id)}><FaPencilAlt /></Button>
             <Button variant="success" onClick={()=>display()}><FaEye /></Button>
+            <Button variant="success" onClick={()=>goToDisplayPage(list.id)}><GiDungeonGate /></Button>
             <Button variant="success" onClick={()=>qr()}><FaQrcode /></Button>
             <Button variant="danger" onClick={()=>deleteList(list)}><FaTrash /></Button>
         </Col>

@@ -23,22 +23,25 @@ const AbilityCatalogue: React.FC = () => {
     const {keywords} = useKeywords();
 
     const faction = factions.find(o => o.id === factionId);
-    const groupAbilities: AbilityViewerParams[] = abilityGroups.filter(o => !faction || o.factionId === factionId).flatMap(o => o.abilities.map(p => ({ ability: p, abilityGroup: o })));
-    
     const filteredWarscrolls = warscrolls.filter(o => (!faction || faction.warscrolls.map(o => o.warscrollId).includes(o.id)))
-    const warscrollAbilities: AbilityViewerParams[] = filteredWarscrolls.filter(o=> (!warscrollId ||o.id === warscrollId)).flatMap(o => o.abilities.map(p => ({ ability: p, warscroll: o })));
+    const filteredGroupAbilities = abilityGroups.filter(o => !faction || o.factionId === factionId)
+    const filteredFormations = formations.filter(o => !faction || o.factionId === factionId)
+    const filteredLores = lores.filter(o => !faction || o.factionId === factionId)
 
-    const formationAbilities: AbilityViewerParams[] = formations.filter(o => !faction || o.factionId === factionId).flatMap(o => o.abilities.map(p => ({ ability: p, formation: o })));
+    const finalFilter = (o: AbilityViewerParams): boolean => (!warscrollId || o.ability.warscrollId === warscrollId)
+        && (!keywordId || o.ability.keywords.includes(keywordId))
+        && (!abilityId || o.ability.id === abilityId);
 
-    const loreAbilities: AbilityViewerParams[] = lores.filter(o => !faction || o.factionId === factionId).flatMap(o => o.abilities.map(p => ({ ability: p, lore: o })));
 
+    const furtherFilteredWarscrolls = filteredWarscrolls.filter(o=> (!warscrollId ||o.id === warscrollId));
+    
+    const warscrollAbilities: AbilityViewerParams[] = furtherFilteredWarscrolls.flatMap(o => o.abilities.map(p => ({ ability: p, warscroll: o })));
+    const groupAbilities: AbilityViewerParams[] = filteredGroupAbilities.flatMap(o => o.abilities.map(p => ({ ability: p, abilityGroup: o })));
+    const formationAbilities: AbilityViewerParams[] = filteredFormations.flatMap(o => o.abilities.map(p => ({ ability: p, formation: o })));
+    const loreAbilities: AbilityViewerParams[] = filteredLores.flatMap(o => o.abilities.map(p => ({ ability: p, lore: o })));
     const allAbilites: AbilityViewerParams[] = [...groupAbilities, ...warscrollAbilities, ...formationAbilities, ...loreAbilities]
 
-    const viewers = allAbilites.filter(o=> 
-        (!warscrollId || o.ability.warscrollId === warscrollId) 
-    && (!keywordId || o.ability.keywords.includes(keywordId))
-    && (!abilityId || o.ability.id===abilityId)
-    ).map(o => {
+    const viewers = allAbilites.filter(finalFilter).map(o => {
         return <AbilityViewer key={o.ability.id} ability={o.ability} abilityGroup={o.abilityGroup} warscroll={o.warscroll} formation={o.formation} lore={o.lore} />
     })
 

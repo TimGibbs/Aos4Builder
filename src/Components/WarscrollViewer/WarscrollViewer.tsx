@@ -5,12 +5,14 @@ import useKeywords from "../../Hooks/useKeywords";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
 import useWeaponAbilities from "../../Hooks/useWeaponAbilities";
 import AbilityViewer from "../AbilityViewer/AbilityViewer";
+import './WarscrollViewer.css';
 
 export interface WarscrollViewerParams {
     warscroll: EnrichedWarscroll,
+    includeAbilites : boolean
 }
 
-export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll }) => {
+export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, includeAbilites }) => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
     const { dictionary, common } = useKeywords();
     const weaponAbilites = useWeaponAbilities();
@@ -23,7 +25,7 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll }) 
                 : warscroll.keywords.includes(common.ward6) ? "6+" : "-"
 
     return <Card className={`warscrollViewer`} style={{ marginBottom: "5px" }}>
-        <Card.Header className={`d-flex justify-content-between align-items-center`} onClick={() => setIsOpen(!isOpen)}>
+        <Card.Header className={`d-flex justify-content-between align-items-center warscrollViewerHeader`} onClick={() => setIsOpen(!isOpen)}>
             <span className="flex-grow-1 text-center" style={{ height: "30px" }}>
                 <span style={{ fontSize: 20 }}>{warscroll.name}</span>
             </span>
@@ -54,7 +56,7 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll }) 
                             </tbody>
                         </Table>
 
-                        <Table>
+                        {warscroll.weapons.length >0 && <Table>
                             <thead>
                                 <tr>
                                     <th>Weapon</th>
@@ -79,8 +81,8 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll }) 
                                     <td>{o.weaponAbilities.map(p=>weaponAbilites[p].name).join("\n")}</td>
                                 </tr>)}
                             </tbody>
-                        </Table>
-                        {warscroll.abilities.map(o=><AbilityViewer key={o.id} ability={o}/>)}
+                        </Table>}
+                        {includeAbilites && warscroll.abilities.map(o=><AbilityViewer key={o.id} ability={o}/>)}
                     </Card.Body>
                     <Card.Footer className="text-muted">{filteredKeywords.join(" ")}</Card.Footer>
                 </>
