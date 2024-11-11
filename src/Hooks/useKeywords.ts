@@ -12,6 +12,7 @@ interface UseKeywordsReturn {
         summon : string
         manifestation : string
         terrain : string
+        unlimited : string
     }
     dictionary : Record<string,string>
 
@@ -26,6 +27,7 @@ const useKeywords = () : UseKeywordsReturn => {
     let summon : string = ""
     let manifestation : string = "";
     let terrain : string = ""
+    let unlimited : string = ""
 
     const dictionary : Record<string, string> = {};
     keywords.forEach(o=>{
@@ -36,10 +38,11 @@ const useKeywords = () : UseKeywordsReturn => {
         if(o.name === "Unique") unique = o.id
         if(o.name === "Hero") hero = o.id
         if(o.name === "Faction Terrain") terrain = o.id
+        if(o.name === "Unlimited") unlimited = o.id
         dictionary[o.id] = o.name;
     })
     
-    return { keywords, common: { unique, hero, prayer, spell, summon, manifestation, terrain }, dictionary}
+    return { keywords, common: { unique, hero, prayer, spell, summon, manifestation, terrain, unlimited }, dictionary}
 }
 
 export default useKeywords;
