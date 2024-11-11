@@ -6,14 +6,14 @@ import useFormations from "../Hooks/useFormations";
 import useLores from "../Hooks/useLores";
 import useFactions from "../Hooks/useFactions";
 import { useState } from "react";
-import WarscrollNameAutocomplete from "../Components/WarscrollNameAutocomplete";
-import KeywordAutocomplete from "../Components/KeywordAutocomplete";
 import useKeywords from "../Hooks/useKeywords";
+import NameAndIdAutocomplete from "../Components/NameAndIdAutocomplete";
 
 const AbilityCatalogue: React.FC = () => {
     const [factionId, setFactionId] = useState<string | undefined>();
     const [warscrollId, setWarscrollId] = useState<string | undefined>();
     const [keywordId, setKeywordId] = useState<string | undefined>();
+    const [abilityId, setAbilityId] = useState<string | undefined>();
 
     const factions = useFactions();
     const abilityGroups = useAbilityGroups();
@@ -23,7 +23,6 @@ const AbilityCatalogue: React.FC = () => {
     const {keywords} = useKeywords();
 
     const faction = factions.find(o => o.id === factionId);
-    console.log(faction);
     const groupAbilities: AbilityViewerParams[] = abilityGroups.filter(o => !faction || o.factionId === factionId).flatMap(o => o.abilities.map(p => ({ ability: p, abilityGroup: o })));
     
     const filteredWarscrolls = warscrolls.filter(o => (!faction || faction.warscrolls.map(o => o.warscrollId).includes(o.id)))
@@ -35,8 +34,12 @@ const AbilityCatalogue: React.FC = () => {
 
     const allAbilites: AbilityViewerParams[] = [...groupAbilities, ...warscrollAbilities, ...formationAbilities, ...loreAbilities]
 
-    const viewers = allAbilites.filter(o=> (!warscrollId || o.ability.warscrollId === warscrollId) && (!keywordId || o.ability.keywords.includes(keywordId))).map(o => {
-        return <AbilityViewer key={o.ability.id + (o.lore?.id ?? "")} ability={o.ability} abilityGroup={o.abilityGroup} warscroll={o.warscroll} formation={o.formation} lore={o.lore} />
+    const viewers = allAbilites.filter(o=> 
+        (!warscrollId || o.ability.warscrollId === warscrollId) 
+    && (!keywordId || o.ability.keywords.includes(keywordId))
+    && (!abilityId || o.ability.id===abilityId)
+    ).map(o => {
+        return <AbilityViewer key={o.ability.id} ability={o.ability} abilityGroup={o.abilityGroup} warscroll={o.warscroll} formation={o.formation} lore={o.lore} />
     })
 
     const handleFactionChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
@@ -47,7 +50,6 @@ const AbilityCatalogue: React.FC = () => {
         }
         setFactionId(selectedId);
     };
-
 
     return <Container>
         <Row>
@@ -62,14 +64,20 @@ const AbilityCatalogue: React.FC = () => {
             </Col>
             <Col lg={3} sm={6} xs={12}>
                 <Form.Group className="mb-3">
+                    <Form.Label>Name</Form.Label>
+                    <NameAndIdAutocomplete suggestions={allAbilites.map(o=>o.ability)} setId={setAbilityId}/>
+                </Form.Group>
+            </Col>
+            <Col lg={3} sm={6} xs={12}>
+                <Form.Group className="mb-3">
                     <Form.Label>Warscroll</Form.Label>
-                    <WarscrollNameAutocomplete suggestions={filteredWarscrolls} setWarscrollId={setWarscrollId}/>
+                    <NameAndIdAutocomplete suggestions={filteredWarscrolls} setId={setWarscrollId}/>
                 </Form.Group>
             </Col>
             <Col lg={3} sm={6} xs={12}>
                 <Form.Group className="mb-3">
                     <Form.Label>Keyword</Form.Label>
-                    <KeywordAutocomplete suggestions={keywords} setKeywordId={setKeywordId}/>
+                    <NameAndIdAutocomplete suggestions={keywords} setId={setKeywordId}/>
                 </Form.Group>
             </Col>
         </Row>

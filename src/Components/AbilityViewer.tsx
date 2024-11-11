@@ -1,4 +1,4 @@
-import { Card } from "react-bootstrap";
+import { Accordion, Button, Card } from "react-bootstrap";
 import { EnrichedAbility } from "../Types/DataTypes/Ability";
 import AbilityGroup from "../Types/DataTypes/AbilityGroup";
 import Warscroll from "../Types/DataTypes/Warscroll";
@@ -18,6 +18,8 @@ import './AbilityViewer.css'
 import useKeywords from "../Hooks/useKeywords";
 import SpellCost from "./SpellCost";
 import PrayerCost from "./PrayerCost";
+import { useState } from "react";
+import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
 
 export interface AbilityViewerParams {
     ability: EnrichedAbility,
@@ -28,7 +30,7 @@ export interface AbilityViewerParams {
 }
 
 export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityGroup, warscroll, formation, lore }) => {
-
+    const [isOpen, setIsOpen] = useState<boolean>(false);
     const { dictionary, common } = useKeywords();
 
     const filteredKeywords = ability.keywords.map(o => dictionary[o])
@@ -45,30 +47,46 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
         case ("battleDamaged"): icon = abDamaged; break;
     }
 
-    const Cost = !ability.castingValue ? <></> 
-    : ability.keywords.includes(common.prayer) 
-        ? <PrayerCost number={ability.castingValue}/> 
-        : <SpellCost number={ability.castingValue} />;
+    const Cost = !ability.castingValue ? <></>
+        : ability.keywords.includes(common.prayer)
+            ? <PrayerCost number={ability.castingValue} />
+            : <SpellCost number={ability.castingValue} />;
 
     return <Card className={`abilityViewer`} >
-        <Card.Header className={ability.phase}>
+        <Card.Header className={`d-flex justify-content-between align-items-center ${ability.phase}`}>
             <img src={icon} alt={ability.abilityAndCommandIcon} />
-            {ability.phaseDetails}
-            {ability.castingValue && Cost}
+            <span className="flex-grow-1 text-center">
+                <span style={{fontSize:20}}>{ability.name}</span>
+                {ability.castingValue && Cost}</span>
+            <Button style={{backgroundColor:"transparent", border:0}}
+                onClick={() => setIsOpen(!isOpen)}
+                aria-expanded={isOpen}
+                className="p-0 ms-auto"
+            >
+                {isOpen ? <FaChevronCircleUp /> : <FaChevronCircleDown />}
+            </Button>
         </Card.Header>
-        <Card.Title>
-            {ability.name} {ability.cpCost ? `${ability.cpCost}cp` : ""}
+        <Card.Title style={{fontSize:18}}>
+            {ability.phaseDetails}
         </Card.Title>
-        <Card.Subtitle>
-            {abilityGroup?.name}
-            {warscroll?.name}
-            {formation?.name}
-            {lore?.name}
-        </Card.Subtitle>
-        <Card.Body style={{whiteSpace: "pre-wrap"}}>
-            {ability.effect}
-        </Card.Body>
-        <Card.Footer className="text-muted">{filteredKeywords.join(" ")}</Card.Footer>
+        <Accordion activeKey={isOpen ? '0' : undefined}>
+            <Accordion.Collapse eventKey="0">
+                <>
+                    <Card.Subtitle>
+                        {abilityGroup?.name}
+                        {warscroll?.name}
+                        {formation?.name}
+                        {lore?.name}
+                    </Card.Subtitle>
+                    <Card.Body style={{ whiteSpace: "pre-wrap" }}>
+                        {ability.declare && "Declare: " + ability.declare}
+                        <br />
+                        {"Effect: " + ability.effect}
+                    </Card.Body>
+                    <Card.Footer className="text-muted">{filteredKeywords.join(" ")}</Card.Footer>
+                </>
+            </Accordion.Collapse>
+        </Accordion>
     </Card>
 };
 

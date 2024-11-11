@@ -7,7 +7,6 @@ import Warscroll from '../Types/DataTypes/Warscroll';
 import Lore from '../Types/DataTypes/Lore';
 import Unit from '../Types/ListTypes/Unit';
 import Formation from '../Types/DataTypes/Formation';
-import listToText from '../Logic/listToText';
 import useSavedLists from './useSavedLists';
 import RegimentItem from '../Types/ListTypes/RegimentItem';
 import useWarscrolls, { EnrichedWarscroll } from './useWarscrolls';
@@ -50,7 +49,6 @@ interface ListContextType {
       ...list.regiments.flatMap(o=> o.regimentItems.flatMap(p=>p.units)), 
       ...list.regiments.filter(o => !!o.leader).map(o=>o.leader!) ]
       ,[list])
-    useEffect(()=>console.log(listToText(list)),[list, warscrolls])
 
     const allListWarscrollIds : string[] = useMemo(()=>[...new Set<string>(allListUnits.map(p=>p.id))],[allListUnits])
 
@@ -71,7 +69,6 @@ interface ListContextType {
     }
 
     const setFaction = (faction: Faction| null) => {
-      console.log(faction);
         updateListLocal({...defaultList(), name:list.name, id:list.id, factionId:faction?.id, auxiliaries:[] });
         const general = warscrolls.find(o=>o.id===faction?.rosterFactionKeywordRequiredGeneralWarscrollId);
         if(faction?.rosterFactionKeywordRequiredGeneralWarscrollId && general){

@@ -16,7 +16,6 @@ const useSavedLists = () : SavedListsType => {
     const createList = () => defaultList();
 
     const addList = (list:List) : List => {
-        console.log(list);
         setLists(x=>[...x,list]);
         return list;
     }

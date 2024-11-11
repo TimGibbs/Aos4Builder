@@ -21,9 +21,6 @@ const EnhancementSelector: React.FC<EnhancementSelectorParams> = ({ unit }) =>{
     const traitsLists = faction?.abilityGroups.filter(o=>o.abilityGroupType==="heroicTraits") ?? []
     const traits = traitsLists.flatMap(o=>o.abilities);
 
-    console.log(artifactLists)
-    console.log(artifacts)
-
     return <div>
       {(artifactFree || unit.artifactId ) && <Form.Group as={Row}>
           <Form.Label column sm={2}>Artifact</Form.Label> 

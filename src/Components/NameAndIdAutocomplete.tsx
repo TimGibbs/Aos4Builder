@@ -1,17 +1,20 @@
 import React, { ChangeEvent, useEffect, useRef, useState } from 'react';
 import { FormControl, ListGroup } from 'react-bootstrap';
-import Keyword from '../Types/DataTypes/Keyword';
-
-interface KeywordAutocompleteParams {
-  suggestions: Keyword[];
-  setKeywordId: (value: string | undefined) => void;
+interface HasNameAndId {
+    id: string;
+    name: string;
 }
 
-const KeywordAutocomplete: React.FC<KeywordAutocompleteParams> = ({
+interface NameAndIdAutocompleteParams {
+  suggestions: HasNameAndId[];
+  setId: (value: string | undefined) => void;
+}
+
+const NameAndIdAutocomplete: React.FC<NameAndIdAutocompleteParams> = ({
   suggestions,
-  setKeywordId: setInputValue,
+  setId: setInputValue,
 }) => {
-  const [filteredSuggestions, setFilteredSuggestions] = React.useState<Keyword[]>([]);
+  const [filteredSuggestions, setFilteredSuggestions] = React.useState<HasNameAndId[]>([]);
   const [showSuggestions, setShowSuggestions] = React.useState<boolean>(false);
   const [text, setText] = useState<string>("");
 
@@ -33,7 +36,7 @@ const KeywordAutocomplete: React.FC<KeywordAutocompleteParams> = ({
     }
   };
 
-  const handleSuggestionClick = (suggestion: Keyword) => {
+  const handleSuggestionClick = (suggestion: HasNameAndId) => {
     setInputValue(suggestion.id);
     setText(suggestion.name);
     setShowSuggestions(false);
@@ -85,4 +88,4 @@ const KeywordAutocomplete: React.FC<KeywordAutocompleteParams> = ({
   );
 };
 
-export default KeywordAutocomplete;
+export default NameAndIdAutocomplete;

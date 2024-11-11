@@ -17,7 +17,6 @@ export const ImportListModal: React.FC<{ show: boolean; onClose: () => void; }> 
     };
 
     const handleSave = (): void => {
-        console.log(content);
         if(content){
             addList(content);
             setContent(null);
@@ -27,7 +26,6 @@ export const ImportListModal: React.FC<{ show: boolean; onClose: () => void; }> 
 
     const setFn = useCallback((s:List | null)=>setContent(s),[setContent])
 
-    console.log(content);
     return <Modal show={show} onHide={handleClose}>
         <Modal.Header closeButton>
             <Modal.Title>Import List</Modal.Title>
