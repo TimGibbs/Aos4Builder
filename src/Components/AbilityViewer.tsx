@@ -1,4 +1,4 @@
-import { Accordion, Button, Card } from "react-bootstrap";
+import { Accordion, Card } from "react-bootstrap";
 import { EnrichedAbility } from "../Types/DataTypes/Ability";
 import AbilityGroup from "../Types/DataTypes/AbilityGroup";
 import Warscroll from "../Types/DataTypes/Warscroll";
@@ -57,19 +57,13 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
     : <CpCost number={ability.cpCost} style={{height:"2em", width:"2em", marginLeft:"5px", verticalAlign:"top"}}/>
 
     return <Card className={`abilityViewer`} >
-        <Card.Header className={`d-flex justify-content-between align-items-center ${ability.phase}`}>
+        <Card.Header className={`d-flex justify-content-between align-items-center ${ability.phase}`} onClick={() => setIsOpen(!isOpen)}>
             <img src={icon} alt={ability.abilityAndCommandIcon} />
             <span className="flex-grow-1 text-center" style={{height:"30px"}}>
                 <span style={{fontSize:20}}>{ability.name}</span>
                 {ability.castingValue && CastingCost}
                 {CpCostIcon}</span>
-            <Button style={{backgroundColor:"transparent", border:0}}
-                onClick={() => setIsOpen(!isOpen)}
-                aria-expanded={isOpen}
-                className="p-0 ms-auto"
-            >
-                {isOpen ? <FaChevronCircleUp /> : <FaChevronCircleDown />}
-            </Button>
+                {isOpen ? <FaChevronCircleUp className="p-0 ms-auto"/> : <FaChevronCircleDown className="p-0 ms-auto"/>}
         </Card.Header>
         <Card.Title style={{fontSize:18}}>
             {ability.phaseDetails}
