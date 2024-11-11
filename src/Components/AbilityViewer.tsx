@@ -57,7 +57,7 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
             {formation?.name}
             {lore?.name}
         </Card.Subtitle>
-        <Card.Body>
+        <Card.Body style={{whiteSpace: "pre-wrap"}}>
             {ability.effect}
         </Card.Body>
         <Card.Footer className="text-muted">{filteredKeywords.join(" ")}</Card.Footer>
