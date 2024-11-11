@@ -5,7 +5,7 @@ import Faction from '../Types/DataTypes/Faction';
 import Regiment from '../Types/ListTypes/Regiment';
 import Warscroll from '../Types/DataTypes/Warscroll';
 import Lore from '../Types/DataTypes/Lore';
-import Unit from '../Types/ListTypes/Unit';
+import Unit, { defaultUnit } from '../Types/ListTypes/Unit';
 import Formation from '../Types/DataTypes/Formation';
 import useSavedLists from './useSavedLists';
 import RegimentItem from '../Types/ListTypes/RegimentItem';
@@ -91,13 +91,7 @@ interface ListContextType {
     const setRegimentLeader = (regimentId: number, warscroll:EnrichedWarscroll, isFixed : boolean = false) => {
         const regiment = list.regiments[regimentId];
         const items : RegimentItem[] = warscroll.regimentOptions.map((o,i)=>({units:[], warscrollRegimentOptionId:o.id, id: uuidV4()}));
-        const unit : Unit = {
-          id: uuidV4(),
-          warscrollId: warscroll.id,
-          reinforced: false,
-          heroicTraitId: null,
-          artifactId: null
-        }
+        const unit : Unit = {...defaultUnit(), warscrollId:warscroll.id}
         setRegiment({...regiment, leader:unit, regimentItems: items, fixedLeader:isFixed})
       };
 
@@ -105,13 +99,7 @@ interface ListContextType {
         const regiment = list.regiments[regimentId];
         const item = regiment.regimentItems.find(o=>o.id=== regimentItemId)!;
         const temp = [...item.units];
-        const unit : Unit = {
-          id: uuidV4(),
-          warscrollId: warscroll.id,
-          reinforced: false,
-          heroicTraitId: null,
-          artifactId: null
-        }
+        const unit : Unit = {...defaultUnit(), warscrollId:warscroll.id}
         if(temp.length<= index){
             temp.push(unit);
         } else {

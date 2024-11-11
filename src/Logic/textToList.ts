@@ -71,13 +71,8 @@ const splitLine = (line:string, prefix: string) => line.split(prefix)[1]?.trim()
 
 const makeUnitFromName = (name: string) : Unit => {
     const i = warscrolls.find(o=>o.name===name);
-    return {
-        warscrollId: i?.id ?? "",
-        id: uuidV4(),
-        reinforced: false,
-        heroicTraitId: null,
-        artifactId: null
-    }}
+    return  {...defaultUnit(), warscrollId:i?.id ?? ""}
+  }
 
 // Helper Function: Parsing Basic Fields (name, faction, spells, etc.)
 const parseBasicFields = (line: string, list: List): boolean => {

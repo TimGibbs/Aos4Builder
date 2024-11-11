@@ -32,7 +32,7 @@ const UnitBuilder: React.FC<UnitBuilderParams> = ({unit, setUnit, warscrolls}) =
     </Form.Select>
   {warscroll && !warscroll?.cannotBeReinforced && unit && <Form.Check reverse label={`Reinforced`} className="fs-3" type='checkbox' checked={unit.reinforced} id={`checkbox-${unit.id}`} onChange={()=>setUnit({...unit, reinforced:!unit.reinforced})}/>}
   </div>
-  {warscroll && warscroll?.isHero && !warscroll?.isUnique && unit && <EnhancementSelector unit={unit} />}
+  {warscroll && !warscroll?.isUnique && unit && <EnhancementSelector unit={unit} warscroll={warscroll} setUnit={setUnit}/>}
   </>
 }
 

@@ -6,6 +6,9 @@ export type Unit = {
     reinforced: boolean
     heroicTraitId: string | null
     artifactId: string | null
+    otherEnhancements: {
+        [abilityGroupId: string]: string | null;
+      }
 };
 
 export const defaultUnit  = () : Unit => {
@@ -14,7 +17,8 @@ export const defaultUnit  = () : Unit => {
     warscrollId: null,
     reinforced: false,
     heroicTraitId: null,
-    artifactId: null
+    artifactId: null,
+    otherEnhancements: {}
 }}
 
 export default Unit;

@@ -89,6 +89,13 @@ function formatUnit(unit: Unit, isGeneral: boolean = false): string {
     if (unit.artifactId) {
         parts.push(`• ${abilities.find(o=>o.id===unit.artifactId)?.name}`);
     }
+    if(unit.otherEnhancements){
+        Object.entries(unit.otherEnhancements).forEach(([abilityGroupId, abilityId]: [string, string| null]) =>{
+            if(abilityId){
+                parts.push(`• ${abilities.find(o=>o.id===abilityId)?.name}`);
+            }
+        })
+    }
     return parts.join("\n"); // Return unit details with newline characters
 }
 
