@@ -4,6 +4,7 @@ import { useState } from "react";
 import useKeywords from "../../Hooks/useKeywords";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
 import useWeaponAbilities from "../../Hooks/useWeaponAbilities";
+import AbilityViewer from "../AbilityViewer/AbilityViewer";
 
 export interface WarscrollViewerParams {
     warscroll: EnrichedWarscroll,
@@ -79,6 +80,7 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll }) 
                                 </tr>)}
                             </tbody>
                         </Table>
+                        {warscroll.abilities.map(o=><AbilityViewer key={o.id} ability={o}/>)}
                     </Card.Body>
                     <Card.Footer className="text-muted">{filteredKeywords.join(" ")}</Card.Footer>
                 </>
