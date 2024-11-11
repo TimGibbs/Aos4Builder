@@ -1,7 +1,7 @@
 import './App.css';
 
 import {  Container } from 'react-bootstrap';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Routes, Route, HashRouter } from 'react-router-dom';
 import ListBuilder from './Pages/ListBuilder';
 import ListsSelector from './Pages/ListsSelector';
 import Home from './Pages/Home';
@@ -10,7 +10,7 @@ import AbilityCatalogue from './Pages/AbilityCatalogue';
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <Navigation />
       <Container className="App">
         <Routes>
@@ -20,7 +20,7 @@ function App() {
           <Route path="/abilities" element={<AbilityCatalogue />} />
         </Routes>
       </Container>
-    </Router>
+    </HashRouter>
   );
 }
 
