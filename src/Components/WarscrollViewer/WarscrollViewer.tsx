@@ -67,7 +67,7 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll }) 
                                 </tr>
                             </thead>
                             <tbody>
-                                {warscroll.weapons.map(o=>                              <tr>
+                                {warscroll.weapons.map(o=> <tr key={o.id}>
                                     <td>{o.name}</td>
                                     <td>{o.range ?? "Melee"}</td>
                                     <td>{o.attacks}</td>

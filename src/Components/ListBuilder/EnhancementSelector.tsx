@@ -25,10 +25,8 @@ const EnhancementSelector: React.FC<EnhancementSelectorParams> = ({ unit, warscr
     const traits = traitsLists.flatMap(o=>o.abilities);
     const otherList = faction?.abilityGroups.filter(o=>o.abilityGroupType==="otherEnhancements") ?? []
     
-
     const compatibleOthes = otherList.filter(o=>o.warscrollIds.includes(warscroll.id));
 
-    console.log(compatibleOthes);
     return <div>
       {(warscroll?.isHero && (artifactFree || unit.artifactId )) && <Form.Group as={Row}>
           <Form.Label column sm={2}>Artifact</Form.Label> 
