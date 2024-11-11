@@ -16,6 +16,8 @@ import abDamaged from "../Images/abDamage.png"
 
 import './AbilityViewer.css'
 import useKeywords from "../Hooks/useKeywords";
+import SpellCost from "./SpellCost";
+import PrayerCost from "./PrayerCost";
 
 export interface AbilityViewerParams {
     ability: EnrichedAbility,
@@ -27,7 +29,7 @@ export interface AbilityViewerParams {
 
 export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityGroup, warscroll, formation, lore }) => {
 
-    const { dictionary } = useKeywords();
+    const { dictionary, common } = useKeywords();
 
     const filteredKeywords = ability.keywords.map(o => dictionary[o])
     let icon: string = "";
@@ -43,10 +45,16 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
         case ("battleDamaged"): icon = abDamaged; break;
     }
 
+    const Cost = !ability.castingValue ? <></> 
+    : ability.keywords.includes(common.prayer) 
+        ? <PrayerCost number={ability.castingValue}/> 
+        : <SpellCost number={ability.castingValue} />;
+
     return <Card className={`abilityViewer`} >
         <Card.Header className={ability.phase}>
             <img src={icon} alt={ability.abilityAndCommandIcon} />
             {ability.phaseDetails}
+            {ability.castingValue && Cost}
         </Card.Header>
         <Card.Title>
             {ability.name} {ability.cpCost ? `${ability.cpCost}cp` : ""}
