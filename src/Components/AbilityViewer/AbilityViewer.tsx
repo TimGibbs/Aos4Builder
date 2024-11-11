@@ -1,21 +1,21 @@
 import { Accordion, Card } from "react-bootstrap";
-import { EnrichedAbility } from "../Types/DataTypes/Ability";
-import AbilityGroup from "../Types/DataTypes/AbilityGroup";
-import Warscroll from "../Types/DataTypes/Warscroll";
-import Formation from "../Types/DataTypes/Formation";
-import Lore from "../Types/DataTypes/Lore";
+import { EnrichedAbility } from "../../Types/DataTypes/Ability";
+import AbilityGroup from "../../Types/DataTypes/AbilityGroup";
+import Warscroll from "../../Types/DataTypes/Warscroll";
+import Formation from "../../Types/DataTypes/Formation";
+import Lore from "../../Types/DataTypes/Lore";
 
-import abControl from "../Images/abControl.png"
-import abDefensive from "../Images/abDefensive.png"
-import abMovement from "../Images/abMovement.png"
-import abOffensive from "../Images/abOffensive.png"
-import abRallying from "../Images/abRallying.png"
-import abShooting from "../Images/abShooting.png"
-import abSpecial from "../Images/abSpecial.png"
-import abDamaged from "../Images/abDamage.png"
+import abControl from "../../Images/abControl.png"
+import abDefensive from "../../Images/abDefensive.png"
+import abMovement from "../../Images/abMovement.png"
+import abOffensive from "../../Images/abOffensive.png"
+import abRallying from "../../Images/abRallying.png"
+import abShooting from "../../Images/abShooting.png"
+import abSpecial from "../../Images/abSpecial.png"
+import abDamaged from "../../Images/abDamage.png"
 
 import './AbilityViewer.css'
-import useKeywords from "../Hooks/useKeywords";
+import useKeywords from "../../Hooks/useKeywords";
 import SpellCost from "./SpellCost";
 import PrayerCost from "./PrayerCost";
 import { useState } from "react";

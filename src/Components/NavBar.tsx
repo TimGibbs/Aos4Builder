@@ -9,6 +9,7 @@ const Navigation : React.FC = () => <Navbar bg="light" expand="lg">
     <Nav className="me-auto">
       <Nav.Link as={Link} to="/lists">Lists</Nav.Link>
       <Nav.Link as={Link} to="/abilities">Abilities</Nav.Link>
+      <Nav.Link as={Link} to="/warscrolls">Warscrolls</Nav.Link>
       
     </Nav>
   </Navbar.Collapse>

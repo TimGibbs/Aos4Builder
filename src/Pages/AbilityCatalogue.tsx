@@ -1,5 +1,5 @@
 import { Col, Container, Form, Row } from "react-bootstrap";
-import AbilityViewer, { AbilityViewerParams } from "../Components/AbilityViewer";
+import AbilityViewer, { AbilityViewerParams } from "../Components/AbilityViewer/AbilityViewer";
 import useAbilityGroups from "../Hooks/useAbilityGroups";
 import useWarscrolls from "../Hooks/useWarscrolls";
 import useFormations from "../Hooks/useFormations";
