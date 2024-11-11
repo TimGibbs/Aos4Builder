@@ -56,7 +56,7 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
     const CpCostIcon = !ability.cpCost ? <></>
     : <CpCost number={ability.cpCost} style={{height:"2em", width:"2em", marginLeft:"5px", verticalAlign:"top"}}/>
 
-    return <Card className={`abilityViewer`} >
+    return <Card className={`abilityViewer`} style={{marginBottom:"5px"}}>
         <Card.Header className={`d-flex justify-content-between align-items-center ${ability.phase}`} onClick={() => setIsOpen(!isOpen)}>
             <img src={icon} alt={ability.abilityAndCommandIcon} />
             <span className="flex-grow-1 text-center" style={{height:"30px"}}>
