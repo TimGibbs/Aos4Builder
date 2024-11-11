@@ -114,10 +114,10 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, in
                                 </tr>)}
                             </tbody>
                         </Table>}
-                        {(isMobile && warscroll.weapons.length >0) && warscroll.weapons.map((o,i)=><div>{footnoteArray[i]}: {o.name}</div>)}
+                        {(isMobile && warscroll.weapons.length >0) && warscroll.weapons.map((o,i)=><div key={o.id}>{footnoteArray[i]} {o.name}</div>)}
                         {includeAbilites && warscroll.abilities.map(o=><AbilityViewer key={o.id} ability={o}/>)}
                     </Card.Body>
-                    <Card.Footer className="text-muted">{filteredKeywords.join(" ")}</Card.Footer>
+                    <Card.Footer className="text-muted">{warscroll.referenceKeywords}</Card.Footer>
                 </>
             </Accordion.Collapse>
         </Accordion>
