@@ -3,11 +3,11 @@ import React, { useEffect, useState } from "react";
 import List from "../../Types/ListTypes/List";
 import { listToQr } from "../../Logic/listToQr";
 
-export const QrCodeModal: React.FC<{ show: boolean; onClose: () => void; list:List|undefined}> = ({ show, onClose, list }) => {
+export const QrCodeModal: React.FC<{ show: boolean; onClose: () => void; list: List | undefined }> = ({ show, onClose, list }) => {
     const [qrCodeUrl, setQrCodeUrl] = useState<string>('');
 
     useEffect(() => {
-        if(!list) return;
+        if (!list) return;
         listToQr(list)
             .then(url => {
                 setQrCodeUrl(url); // Set the generated QR code image URL
@@ -16,8 +16,8 @@ export const QrCodeModal: React.FC<{ show: boolean; onClose: () => void; list:Li
                 console.error('Error generating QR code:', err);
             });
     }, [list]);
-    
-    if(!list) return <></>;
+
+    if (!list) return <></>;
 
     const handleClose = (): void => {
         onClose();

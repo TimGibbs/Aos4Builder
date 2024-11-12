@@ -3,19 +3,19 @@ import React, { useEffect, useState } from "react";
 import List from "../../Types/ListTypes/List";
 import listToText from '../../Logic/listToText';
 import { useCopyToClipboard } from "usehooks-ts";
-import { FaCheck, FaCopy  } from "react-icons/fa";
+import { FaCheck, FaCopy } from "react-icons/fa";
 import DisplayListAsText from "../DisplayListAsText";
 
-export const DisplayListModal: React.FC<{ show: boolean; onClose: () => void; list:List|undefined}> = ({ show, onClose, list }) => {
+export const DisplayListModal: React.FC<{ show: boolean; onClose: () => void; list: List | undefined }> = ({ show, onClose, list }) => {
     const [copiedText, copyToClipboard] = useCopyToClipboard();
     const [text, setText] = useState<string>('');
 
     useEffect(() => {
-        if(!list) return;
+        if (!list) return;
         setText(listToText(list))
     }, [list]);
-    
-    if(!list) return <></>;
+
+    if (!list) return <></>;
 
     const handleClose = (): void => {
         onClose();
@@ -28,7 +28,7 @@ export const DisplayListModal: React.FC<{ show: boolean; onClose: () => void; li
             <DisplayListAsText list={list} />
         </Modal.Body>
         <Modal.Footer>
-            <Button variant="primary" onClick={()=> copyToClipboard(text)}>
+            <Button variant="primary" onClick={() => copyToClipboard(text)}>
                 {copiedText === text && <FaCheck />}
                 {copiedText !== text && <FaCopy />}
             </Button>

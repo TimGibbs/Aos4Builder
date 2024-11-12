@@ -9,7 +9,7 @@ export const QrScanner: React.FC<{ setList: (s: List | null) => void; }> = ({ se
     const canvasRef = useRef<HTMLCanvasElement>(null);
     const [isScanning, setIsScanning] = useState<boolean>(false);
     const [videoActive, setVideoActive] = useState<boolean>(false);
-    const [errorMessage, setErrorMessage] = useState<string | null>(null); 
+    const [errorMessage, setErrorMessage] = useState<string | null>(null);
 
     useEffect(() => {
         if (qrCodeData) {

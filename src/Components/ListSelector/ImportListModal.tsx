@@ -17,14 +17,14 @@ export const ImportListModal: React.FC<{ show: boolean; onClose: () => void; }> 
     };
 
     const handleSave = (): void => {
-        if(content){
+        if (content) {
             addList(content);
             setContent(null);
-        }   
+        }
         onClose();
     };
 
-    const setFn = useCallback((s:List | null)=>setContent(s),[setContent])
+    const setFn = useCallback((s: List | null) => setContent(s), [setContent])
 
     return <Modal show={show} onHide={handleClose}>
         <Modal.Header closeButton>

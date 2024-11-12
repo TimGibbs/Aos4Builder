@@ -11,48 +11,48 @@ import RegimentItem, { defaultRegimentItem } from "../../Types/ListTypes/Regimen
 
 
 interface RegimentBuilderParams {
-    regiment : Regiment, 
-    setRegiment : (regiment: Regiment) => void
+    regiment: Regiment,
+    setRegiment: (regiment: Regiment) => void
 };
 
-const RegimentBuilder: React.FC<RegimentBuilderParams> = ({ regiment, setRegiment }) =>{
-    const {list} = useList();
+const RegimentBuilder: React.FC<RegimentBuilderParams> = ({ regiment, setRegiment }) => {
+    const { list } = useList();
     const factions = useFactions();
     const allWarscrolls = useWarscrolls();
 
-    const faction = factions.find(o=>o.id === list.factionId) 
-    const warscrollIds =  new Set<string>(faction?.warscrolls.map(o=>o.warscrollId))
-    const factionWarscrolls = allWarscrolls.filter(o=> warscrollIds.has(o.id));
+    const faction = factions.find(o => o.id === list.factionId)
+    const warscrollIds = new Set<string>(faction?.warscrolls.map(o => o.warscrollId))
+    const factionWarscrolls = allWarscrolls.filter(o => warscrollIds.has(o.id));
 
-    if(!faction) return <></>
+    if (!faction) return <></>
 
-    const general = factionWarscrolls.find(o=>o.id===faction?.rosterFactionKeywordRequiredGeneralWarscrollId);
-    const warscrolls = faction?.rosterFactionKeywordRequiredGeneralWarscrollId && regiment.isGeneral ? general ? [general] : [] : factionWarscrolls.filter(o=>o.isHero) ?? [];
-    const setLeader = (unit: Unit) : void => {
-        const warscroll = warscrolls.find(o=>o.id===unit.warscrollId);
-        const items = warscroll?.regimentOptions.map(o=>defaultRegimentItem(o.id)) ?? [];
-        setRegiment({...regiment, leader: unit, regimentItems: items})
+    const general = factionWarscrolls.find(o => o.id === faction?.rosterFactionKeywordRequiredGeneralWarscrollId);
+    const warscrolls = faction?.rosterFactionKeywordRequiredGeneralWarscrollId && regiment.isGeneral ? general ? [general] : [] : factionWarscrolls.filter(o => o.isHero) ?? [];
+    const setLeader = (unit: Unit): void => {
+        const warscroll = warscrolls.find(o => o.id === unit.warscrollId);
+        const items = warscroll?.regimentOptions.map(o => defaultRegimentItem(o.id)) ?? [];
+        setRegiment({ ...regiment, leader: unit, regimentItems: items })
     }
 
-    const setItem = (regimentItem: RegimentItem) : void => {
-        const i = regiment.regimentItems.findIndex(o=>o.id===regimentItem.id);
+    const setItem = (regimentItem: RegimentItem): void => {
+        const i = regiment.regimentItems.findIndex(o => o.id === regimentItem.id);
         const items = [...regiment.regimentItems]
         items[i] = regimentItem;
-        setRegiment({...regiment, regimentItems:items})
+        setRegiment({ ...regiment, regimentItems: items })
     }
 
     return <Card>
         <Card.Body>
             <h6>{regimentSum(regiment, allWarscrolls)}pts</h6>
             <h6>{regiment.isGeneral ? "General" : "Leader"}</h6>
-            <UnitBuilder unit={regiment.leader} setUnit={setLeader} warscrolls={warscrolls}/>
+            <UnitBuilder unit={regiment.leader} setUnit={setLeader} warscrolls={warscrolls} />
             {regiment.leader && <>
-                {regiment.regimentItems.map((o,i)=><RegimentItemBuilder key={o.id} item={o} setItem={setItem}  />)}
+                {regiment.regimentItems.map((o, i) => <RegimentItemBuilder key={o.id} item={o} setItem={setItem} />)}
             </>}
-        </Card.Body>    
+        </Card.Body>
     </Card>
 }
 
 
 
-  export default RegimentBuilder;
+export default RegimentBuilder;

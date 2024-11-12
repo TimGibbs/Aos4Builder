@@ -1,6 +1,6 @@
 import { Container } from "react-bootstrap";
 
-const Home : React.FC = ()=> {
+const Home: React.FC = () => {
     return <Container>
         Make Better
     </Container>

@@ -20,7 +20,7 @@ const AbilityCatalogue: React.FC = () => {
     const warscrolls = useWarscrolls();
     const formations = useFormations();
     const lores = useLores();
-    const {keywords} = useKeywords();
+    const { keywords } = useKeywords();
 
     const faction = factions.find(o => o.id === factionId);
     const filteredWarscrolls = warscrolls.filter(o => (!faction || faction.warscrolls.map(o => o.warscrollId).includes(o.id)))
@@ -33,8 +33,8 @@ const AbilityCatalogue: React.FC = () => {
         && (!abilityId || o.ability.id === abilityId);
 
 
-    const furtherFilteredWarscrolls = filteredWarscrolls.filter(o=> (!warscrollId ||o.id === warscrollId));
-    
+    const furtherFilteredWarscrolls = filteredWarscrolls.filter(o => (!warscrollId || o.id === warscrollId));
+
     const warscrollAbilities: AbilityViewerParams[] = furtherFilteredWarscrolls.flatMap(o => o.abilities.map(p => ({ ability: p, warscroll: o })));
     const groupAbilities: AbilityViewerParams[] = filteredGroupAbilities.flatMap(o => o.abilities.map(p => ({ ability: p, abilityGroup: o })));
     const formationAbilities: AbilityViewerParams[] = filteredFormations.flatMap(o => o.abilities.map(p => ({ ability: p, formation: o })));
@@ -48,7 +48,7 @@ const AbilityCatalogue: React.FC = () => {
     const handleFactionChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
 
         const selectedId = event.target.value;
-        if(selectedId==="-"){
+        if (selectedId === "-") {
             setFactionId(undefined);
         }
         setFactionId(selectedId);
@@ -68,19 +68,19 @@ const AbilityCatalogue: React.FC = () => {
             <Col lg={3} sm={6} xs={12}>
                 <Form.Group className="mb-3">
                     <Form.Label>Name</Form.Label>
-                    <NameAndIdAutocomplete suggestions={allAbilites.map(o=>o.ability)} setId={setAbilityId}/>
+                    <NameAndIdAutocomplete suggestions={allAbilites.map(o => o.ability)} setId={setAbilityId} />
                 </Form.Group>
             </Col>
             <Col lg={3} sm={6} xs={12}>
                 <Form.Group className="mb-3">
                     <Form.Label>Warscroll</Form.Label>
-                    <NameAndIdAutocomplete suggestions={filteredWarscrolls} setId={setWarscrollId}/>
+                    <NameAndIdAutocomplete suggestions={filteredWarscrolls} setId={setWarscrollId} />
                 </Form.Group>
             </Col>
             <Col lg={3} sm={6} xs={12}>
                 <Form.Group className="mb-3">
                     <Form.Label>Keyword</Form.Label>
-                    <NameAndIdAutocomplete suggestions={keywords} setId={setKeywordId}/>
+                    <NameAndIdAutocomplete suggestions={keywords} setId={setKeywordId} />
                 </Form.Group>
             </Col>
         </Row>

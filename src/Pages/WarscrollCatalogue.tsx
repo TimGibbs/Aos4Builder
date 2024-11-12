@@ -13,26 +13,26 @@ const WarscrollCatalogue: React.FC = () => {
 
     const factions = useFactions();
     const warscrolls = useWarscrolls();
-    const {keywords} = useKeywords();
+    const { keywords } = useKeywords();
 
     const faction = factions.find(o => o.id === factionId);
-   
+
     const filteredWarscrolls = warscrolls
-    .filter(o => (!faction || faction.warscrolls.map(o => o.warscrollId).includes(o.id))
-     && (!warscrollId || o.id === warscrollId)
-     && (!keywordId || o.keywords.includes(keywordId))
-    )
+        .filter(o => (!faction || faction.warscrolls.map(o => o.warscrollId).includes(o.id))
+            && (!warscrollId || o.id === warscrollId)
+            && (!keywordId || o.keywords.includes(keywordId))
+        )
 
     const handleFactionChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
 
         const selectedId = event.target.value;
-        if(selectedId==="-"){
+        if (selectedId === "-") {
             setFactionId(undefined);
         }
         setFactionId(selectedId);
     };
 
-    const viewers = filteredWarscrolls.map(o=> <WarscrollViewer key={o.id} warscroll={o} includeAbilites={true} />)
+    const viewers = filteredWarscrolls.map(o => <WarscrollViewer key={o.id} warscroll={o} includeAbilites={true} />)
 
     return <Container>
         <Row>
@@ -48,13 +48,13 @@ const WarscrollCatalogue: React.FC = () => {
             <Col lg={3} sm={6} xs={12}>
                 <Form.Group className="mb-3">
                     <Form.Label>Warscroll</Form.Label>
-                    <NameAndIdAutocomplete suggestions={filteredWarscrolls} setId={setWarscrollId}/>
+                    <NameAndIdAutocomplete suggestions={filteredWarscrolls} setId={setWarscrollId} />
                 </Form.Group>
             </Col>
             <Col lg={3} sm={6} xs={12}>
                 <Form.Group className="mb-3">
                     <Form.Label>Keyword</Form.Label>
-                    <NameAndIdAutocomplete suggestions={keywords} setId={setKeywordId}/>
+                    <NameAndIdAutocomplete suggestions={keywords} setId={setKeywordId} />
                 </Form.Group>
             </Col>
         </Row>

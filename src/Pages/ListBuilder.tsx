@@ -12,44 +12,44 @@ import useSavedLists from "../Hooks/useSavedLists";
 import { useState } from "react";
 import useWarscrolls from "../Hooks/useWarscrolls";
 
-const ListBuilder : React.FC = ()=> {
+const ListBuilder: React.FC = () => {
     const { id } = useParams<{ id: string }>();
     const { readList } = useSavedLists();
 
-    if(!id) return <div>Unrecognised Id</div>
+    if (!id) return <div>Unrecognised Id</div>
     const list = readList(id)
-    if(!list) return <div>List not found</div>
+    if (!list) return <div>List not found</div>
 
     return <ListProvider value={list}>
         <ListBuilderInternal />
     </ListProvider>
 }
 
-const ListBuilderInternal : React.FC = ()=> {
+const ListBuilderInternal: React.FC = () => {
     const warscolls = useWarscrolls();
-    const {list } = useList();
+    const { list } = useList();
     const { updateList } = useSavedLists();
     const [show, setShow] = useState(false);
-    if(!list) return <></>
+    if (!list) return <></>
     return <Container className="ListBuilder">
-        <Button onClick={()=>{updateList(list); setShow(true)}}>Save</Button>
-        <SavedDiaglog close={()=>setShow(false)} show={show}/>
-        <ListNameSelector/>
+        <Button onClick={() => { updateList(list); setShow(true) }}>Save</Button>
+        <SavedDiaglog close={() => setShow(false)} show={show} />
+        <ListNameSelector />
         <h5>{listSum(list, warscolls)}pts</h5>
-        <FactionSelector/>
-        { list.factionId && <FormationSelector/>}
-        { list.factionId && <LoreSelector/>}  
-        { list.factionId && <RegimentsSelector/>}
-        <TerrainSelector/>
+        <FactionSelector />
+        {list.factionId && <FormationSelector />}
+        {list.factionId && <LoreSelector />}
+        {list.factionId && <RegimentsSelector />}
+        <TerrainSelector />
     </Container>
 }
 
-const SavedDiaglog : React.FC<{show:boolean, close:()=>void}> = ({show, close}) => {
+const SavedDiaglog: React.FC<{ show: boolean, close: () => void }> = ({ show, close }) => {
     return <ToastContainer className="p-3" position="top-center" >
-    <Toast onClose={()=>close()} show={show} delay={3000} autohide>
-        <Toast.Body>Saved</Toast.Body>
-    </Toast>
-  </ToastContainer>
+        <Toast onClose={() => close()} show={show} delay={3000} autohide>
+            <Toast.Body>Saved</Toast.Body>
+        </Toast>
+    </ToastContainer>
 }
 
 export default ListBuilder;
