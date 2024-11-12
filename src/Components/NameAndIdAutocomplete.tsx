@@ -1,8 +1,8 @@
 import React, { ChangeEvent, useEffect, useRef, useState } from 'react';
 import { FormControl, ListGroup } from 'react-bootstrap';
 interface HasNameAndId {
-    id: string;
-    name: string;
+  id: string;
+  name: string;
 }
 
 interface NameAndIdAutocompleteParams {
@@ -56,7 +56,7 @@ const NameAndIdAutocomplete: React.FC<NameAndIdAutocompleteParams> = ({
   }, []);
 
   return (
-    <div ref={wrapperRef}  style={{ position: 'relative' }}>
+    <div ref={wrapperRef} style={{ position: 'relative' }}>
       <FormControl
         type="text"
         placeholder="Type to search..."

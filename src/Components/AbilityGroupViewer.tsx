@@ -23,9 +23,9 @@ export const AbilityGroupViewer: React.FC<AbilityGroupViewerParams> = ({ ability
         </Card.Header>
         <Accordion activeKey={isOpen ? '0' : undefined}>
             <Accordion.Collapse eventKey="0">
-                    <Card.Body>
-                        {abilityGroup.abilities.map(o=> <AbilityViewer key={o.id} ability={o} />)}
-                    </Card.Body>
+                <Card.Body>
+                    {abilityGroup.abilities.map(o => <AbilityViewer key={o.id} ability={o} />)}
+                </Card.Body>
             </Accordion.Collapse>
         </Accordion>
     </Card>

@@ -1,6 +1,6 @@
 import React, { CSSProperties } from 'react';
 
-const PrayerCost: React.FC<{ number:number, style?: CSSProperties;}>  = ({ number, style }) => {
+const PrayerCost: React.FC<{ number: number, style?: CSSProperties; }> = ({ number, style }) => {
   return (
     <svg style={style} viewBox="0 0 100 100">
       <polygon
@@ -9,7 +9,7 @@ const PrayerCost: React.FC<{ number:number, style?: CSSProperties;}>  = ({ numbe
         stroke="white"
         strokeWidth="5"
       />
-      
+
       <text
         x="50%"
         y="50%"

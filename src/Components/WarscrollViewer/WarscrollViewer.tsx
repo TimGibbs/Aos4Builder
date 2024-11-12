@@ -11,20 +11,18 @@ import { GiPocketBow } from "react-icons/gi";
 
 export interface WarscrollViewerParams {
     warscroll: EnrichedWarscroll,
-    includeAbilites : boolean
+    includeAbilites: boolean
 }
 
 export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, includeAbilites }) => {
     const isMobile = useIsMobile();
     const [isOpen, setIsOpen] = useState<boolean>(false);
-    const { dictionary, common } = useKeywords();
+    const { common } = useKeywords();
     const weaponAbilites = useWeaponAbilities();
 
-    const filteredKeywords = warscroll.keywords.map(o => dictionary[o])
-
     const ward = warscroll.keywords.includes(common.ward3) ? "3+"
-                : warscroll.keywords.includes(common.ward4) ? "4+"
-                : warscroll.keywords.includes(common.ward5) ? "5+"
+        : warscroll.keywords.includes(common.ward4) ? "4+"
+            : warscroll.keywords.includes(common.ward5) ? "5+"
                 : warscroll.keywords.includes(common.ward6) ? "6+" : "-"
 
 
@@ -62,7 +60,7 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, in
                             </tbody>
                         </Table>
 
-                        {!isMobile && warscroll.weapons.length >0 && <Table striped >
+                        {!isMobile && warscroll.weapons.length > 0 && <Table striped >
                             <thead>
                                 <tr>
                                     <th>Weapon</th>
@@ -72,11 +70,11 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, in
                                     <th>Wound</th>
                                     <th>Rend</th>
                                     <th>Damage</th>
-                                    <th style={{textAlign:"left"}}>Abilities</th>
+                                    <th style={{ textAlign: "left" }}>Abilities</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                {warscroll.weapons.map(o=> <tr key={o.id}>
+                                {warscroll.weapons.map(o => <tr key={o.id}>
                                     <td>{o.name}</td>
                                     <td>{o.range ?? "Melee"}</td>
                                     <td>{o.attacks}</td>
@@ -84,11 +82,11 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, in
                                     <td>{o.wound}</td>
                                     <td>{o.rend}</td>
                                     <td>{o.damage}</td>
-                                    <td style={{textAlign:"left"}}>{o.weaponAbilities.map(p=>weaponAbilites[p].name).join("\n")}</td>
+                                    <td style={{ textAlign: "left" }}>{o.weaponAbilities.map(p => weaponAbilites[p].name).join("\n")}</td>
                                 </tr>)}
                             </tbody>
                         </Table>}
-                        {(isMobile && warscroll.weapons.length >0) && <Table striped >
+                        {(isMobile && warscroll.weapons.length > 0) && <Table striped >
                             <thead>
                                 <tr>
                                     <th></th>
@@ -98,11 +96,11 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, in
                                     <th>W</th>
                                     <th>R</th>
                                     <th>D</th>
-                                    <th style={{textAlign:"left"}}>Abilities</th>
+                                    <th style={{ textAlign: "left" }}>Abilities</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                {warscroll.weapons.map((o,i)=> <tr key={o.id}>
+                                {warscroll.weapons.map((o, i) => <tr key={o.id}>
                                     <td>{footnoteArray[i]}</td>
                                     <td>{o.range ?? "-"}</td>
                                     <td>{o.attacks}</td>
@@ -110,12 +108,12 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, in
                                     <td>{o.wound}</td>
                                     <td>{o.rend}</td>
                                     <td>{o.damage}</td>
-                                    <td style={{textAlign:"left"}}>{o.weaponAbilities.map(p=>weaponAbilites[p].name).join("\n")}</td>
+                                    <td style={{ textAlign: "left" }}>{o.weaponAbilities.map(p => weaponAbilites[p].name).join("\n")}</td>
                                 </tr>)}
                             </tbody>
                         </Table>}
-                        {(isMobile && warscroll.weapons.length >0) && warscroll.weapons.map((o,i)=><div key={o.id}>{footnoteArray[i]} {o.name}</div>)}
-                        {includeAbilites && warscroll.abilities.map(o=><AbilityViewer key={o.id} ability={o}/>)}
+                        {(isMobile && warscroll.weapons.length > 0) && <div className="weaponsNames">{warscroll.weapons.map((o, i) => <div key={o.id}>{footnoteArray[i]} {o.name}</div>)}</div>}
+                        {includeAbilites && warscroll.abilities.map(o => <AbilityViewer key={o.id} ability={o} />)}
                     </Card.Body>
                     <Card.Footer className="text-muted">{warscroll.referenceKeywords}</Card.Footer>
                 </>

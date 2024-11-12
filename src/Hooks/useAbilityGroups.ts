@@ -7,20 +7,20 @@ import AbilityGroupRequiredWarscroll from "../Types/DataTypes/AbilityGroupRequir
 import ability_group_required_warscrolls from "../Data/AbilityGroupRequiredWarscroll";
 
 export interface EnrichedAbilityGroup extends AbilityGroup {
-    abilities : EnrichedAbility[]
-    warscrollIds : string[]
-} 
+    abilities: EnrichedAbility[]
+    warscrollIds: string[]
+}
 
 export const useAbilityGroups = () => {
     const abilities = useAbilities()
-    const memo = useMemo(()=>ability_groups.map(o=>enrich(o, abilities, ability_group_required_warscrolls)),[abilities])
+    const memo = useMemo(() => ability_groups.map(o => enrich(o, abilities, ability_group_required_warscrolls)), [abilities])
     return memo;
 }
 
-const enrich = (abilityGroup : AbilityGroup, abilitiesArray: EnrichedAbility[], abilityGroupRequiredWarscrolls: AbilityGroupRequiredWarscroll[]) : EnrichedAbilityGroup => {
-    const abilities = abilitiesArray.filter(o=>o.abilityGroupId && o.abilityGroupId === abilityGroup.id);
-    const warscrollIds = abilityGroupRequiredWarscrolls.filter(o=>o.abilityGroupId===abilityGroup.id).map(o=>o.warscrollId);
-    return {...abilityGroup, abilities, warscrollIds}
+const enrich = (abilityGroup: AbilityGroup, abilitiesArray: EnrichedAbility[], abilityGroupRequiredWarscrolls: AbilityGroupRequiredWarscroll[]): EnrichedAbilityGroup => {
+    const abilities = abilitiesArray.filter(o => o.abilityGroupId && o.abilityGroupId === abilityGroup.id);
+    const warscrollIds = abilityGroupRequiredWarscrolls.filter(o => o.abilityGroupId === abilityGroup.id).map(o => o.warscrollId);
+    return { ...abilityGroup, abilities, warscrollIds }
 }
 
 export default useAbilityGroups;

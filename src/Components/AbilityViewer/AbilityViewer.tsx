@@ -85,7 +85,7 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
                     <Card.Body style={{ whiteSpace: "pre-wrap" }}>
                         {ability.declare && <>{"Declare: " + ability.declare}<br /></>}
                         {"Effect: " + ability.effect}
-                        {ability.warscroll && <WarscrollViewer warscroll={ability.warscroll} includeAbilites={true}/>}
+                        {ability.warscroll && <WarscrollViewer warscroll={ability.warscroll} includeAbilites={true} />}
                     </Card.Body>
                     <Card.Footer className="text-muted">{filteredKeywords.join(" ")}</Card.Footer>
                 </>
