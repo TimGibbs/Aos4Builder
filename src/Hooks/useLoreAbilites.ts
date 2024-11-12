@@ -5,7 +5,7 @@ import lore_ability_keywords from "../Data/LoreAbilityKeywords";
 import useWarscrolls, { EnrichedWarscroll } from "./useWarscrolls";
 
 export const useLoreAbilities = () => {
-    const {warscrolls} = useWarscrolls();
+    const warscrolls = useWarscrolls();
     const memo = useMemo(()=>lore_abilities.map(o=>enrich(o, warscrolls)),[warscrolls])
     return memo;
 }

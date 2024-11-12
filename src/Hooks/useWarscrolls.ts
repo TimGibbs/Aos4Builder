@@ -1,5 +1,6 @@
 import { useMemo } from "react";
 import warscroll_keywords from "../Data/WarscrollKeywords";
+import warscrolls from "../Data/Warscrolls";
 import Warscroll from "../Types/DataTypes/Warscroll";
 import useWarscrollAbilities from "./useWarscrollAbilities";
 import { EnrichedAbility } from "../Types/DataTypes/Ability";
@@ -7,7 +8,6 @@ import useKeywords from "./useKeywords";
 import useWarscrollRegimentOptions, { EnrichedWarscrollRegimentOptions } from "./useWarscrollRegimentOptions";
 import { EnrichedWarscrollWeapon } from "../Types/DataTypes/WarscrollWeapon";
 import useWarscrollWeapons from "./useWarscrollWeapons";
-import warscrolls from "../Data/Warscrolls";
 
 export interface EnrichedWarscroll extends Warscroll {
     keywords : string[]
@@ -20,29 +20,12 @@ export interface EnrichedWarscroll extends Warscroll {
     isManifestation : boolean
 } 
 
-interface UseWarscrollReturn {
-    warscrolls : EnrichedWarscroll[]
-    spearhead : EnrichedWarscroll[]
-    dictionary : Record<string, EnrichedWarscroll>
-}
-
-export const useWarscrolls = () : UseWarscrollReturn => {
+export const useWarscrolls = () => {
     const abilities = useWarscrollAbilities();
     const regimentOptions = useWarscrollRegimentOptions();
     const warscrollWeapons = useWarscrollWeapons();
     const { common }  = useKeywords();
-    const memo = useMemo(()=>{
-        const returnWarscrolls : EnrichedWarscroll[] =[]
-        const spearhead : EnrichedWarscroll[] = []
-        const dictionary : Record<string, EnrichedWarscroll> = {}
-        warscrolls.forEach(o=>{
-            const x = enrich(o, abilities, regimentOptions, warscrollWeapons, common.unique, common.hero, common.terrain, common.manifestation)
-            if(x.isSpearhead) spearhead.push(x);
-            if(!x.isSpearhead) warscrolls.push(x);
-            dictionary[x.id] = x
-        })
-        return { warscrolls : returnWarscrolls, spearhead, dictionary} 
-    },
+    const memo = useMemo(()=>warscrolls.filter(o=>!o.isSpearhead).map(o=>enrich(o, abilities, regimentOptions, warscrollWeapons, common.unique, common.hero, common.terrain, common.manifestation)),
     [abilities, regimentOptions, warscrollWeapons, common])
     return memo;
 }

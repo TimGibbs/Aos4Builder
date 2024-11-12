@@ -34,7 +34,7 @@ const ListContext = createContext<ListContextType | undefined>(undefined);
 export const ListProvider: React.FC<{ children: ReactNode, value: List }> = ({ children, value }) => {
   const { updateList } = useSavedLists();
   const [list, setListState] = useState<List>(value);
-  const {warscrolls} = useWarscrolls();
+  const warscrolls = useWarscrolls();
 
   useEffect(() => console.log(list), [list]);
 

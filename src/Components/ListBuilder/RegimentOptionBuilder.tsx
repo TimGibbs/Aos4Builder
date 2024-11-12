@@ -16,10 +16,9 @@ interface RegimentItemParams {
 const RegimentItemBuilder: React.FC<RegimentItemParams> = ({ item, setItem }) => {
     const { list } = useList();
     const options = useWarscrollRegimentOptions();
-    const {dictionary} = useWarscrolls()
+    const allWarscrolls: EnrichedWarscroll[] = useWarscrolls()
     const factions = useFactions()
     const faction = factions.find(o => o.id === list.factionId);
-    const factionWarscrolls = faction?.warscrolls.map(o=>dictionary[o.warscrollId]) ?? [];
     const factionIds = new Set<string>(faction?.warscrolls.map(o => o.warscrollId))
     const option = options.find(o => o.id === item.warscrollRegimentOptionId)
 
@@ -30,7 +29,7 @@ const RegimentItemBuilder: React.FC<RegimentItemParams> = ({ item, setItem }) =>
     const filter = (warscroll: EnrichedWarscroll) => factionIds.has(warscroll.id) && !warscroll.isTerrain && !warscroll.isManifestation && (isRequiredWarscroll(warscroll) ||
         (hasIncludedKeywords(warscroll) && doesntHaveExcludedKeywords(warscroll)));
 
-    const warscolls = factionWarscrolls.filter(o => filter(o))
+    const warscolls = allWarscrolls.filter(o => filter(o))
 
     const setUnit = (unit: Unit): void => {
         const i = item.units.findIndex(o => o.id === unit.id);
@@ -40,7 +39,7 @@ const RegimentItemBuilder: React.FC<RegimentItemParams> = ({ item, setItem }) =>
     }
     if (warscolls.length === 0) return <></>
     return <>
-        <h6>{option?.optionText} {regimentItemSum(item, factionWarscrolls)}pts</h6>
+        <h6>{option?.optionText} {regimentItemSum(item, allWarscrolls)}pts</h6>
         {item.units.map(o => <UnitBuilder
             key={o.id}
             unit={o}

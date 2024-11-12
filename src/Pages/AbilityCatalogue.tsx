@@ -16,8 +16,8 @@ const AbilityCatalogue: React.FC = () => {
     const [abilityId, setAbilityId] = useState<string | undefined>();
 
     const factions = useFactions();
-    const { abilityGroups } = useAbilityGroups();
-    const { warscrolls } = useWarscrolls();
+    const {abilityGroups} = useAbilityGroups();
+    const warscrolls = useWarscrolls();
     const formations = useFormations();
     const lores = useLores();
     const { keywords } = useKeywords();

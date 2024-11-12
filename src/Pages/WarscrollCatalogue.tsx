@@ -4,7 +4,7 @@ import useFactions from "../Hooks/useFactions";
 import { useState } from "react";
 import useKeywords from "../Hooks/useKeywords";
 import NameAndIdAutocomplete from "../Components/NameAndIdAutocomplete";
-import WarscrollGroupViewer from "../Components/WarscrollGroupViewer";
+import { WarscrollViewer } from "../Components/WarscrollViewer/WarscrollViewer";
 
 const WarscrollCatalogue: React.FC = () => {
     const [factionId, setFactionId] = useState<string | undefined>();
@@ -12,15 +12,16 @@ const WarscrollCatalogue: React.FC = () => {
     const [keywordId, setKeywordId] = useState<string | undefined>();
 
     const factions = useFactions();
-    const { dictionary} = useWarscrolls();
+    const warscrolls = useWarscrolls();
     const { keywords } = useKeywords();
 
-    const filteredFactions = factions.filter(o=>!factionId || o.id === factionId)
+    const faction = factions.find(o => o.id === factionId);
 
-    const warscrollGroups = filteredFactions.map(o=> {
-        return {id:o.id, name: o.name, warscrolls:o.warscrolls.map(p=>dictionary[p.warscrollId]).filter(p=>(!warscrollId || p.id === warscrollId)
-            && (!keywordId || p.keywords.includes(keywordId))) };
-    }).filter(o=>o.warscrolls.length > 0);
+    const filteredWarscrolls = warscrolls
+        .filter(o => (!faction || faction.warscrolls.map(o => o.warscrollId).includes(o.id))
+            && (!warscrollId || o.id === warscrollId)
+            && (!keywordId || o.keywords.includes(keywordId))
+        )
 
     const handleFactionChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
 
@@ -31,7 +32,7 @@ const WarscrollCatalogue: React.FC = () => {
         setFactionId(selectedId);
     };
 
-    const viewers = warscrollGroups.map(o => <WarscrollGroupViewer key={o.id} warscrollGroup={o} includeAbilities={true}/>)
+    const viewers = filteredWarscrolls.map(o => <WarscrollViewer key={o.id} warscroll={o} includeAbilites={true} />)
 
     return <Container>
         <Row>
@@ -47,7 +48,7 @@ const WarscrollCatalogue: React.FC = () => {
             <Col lg={3} sm={6} xs={12}>
                 <Form.Group className="mb-3">
                     <Form.Label>Warscroll</Form.Label>
-                    <NameAndIdAutocomplete suggestions={warscrollGroups.flatMap(o=>o.warscrolls)} setId={setWarscrollId} />
+                    <NameAndIdAutocomplete suggestions={filteredWarscrolls} setId={setWarscrollId} />
                 </Form.Group>
             </Col>
             <Col lg={3} sm={6} xs={12}>
