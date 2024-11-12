@@ -25,7 +25,7 @@ const ListDisplay: React.FC = () => {
 
 const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
     const factions = useFactions();
-    const warscrolls = useWarscrolls();
+    const {dictionary} = useWarscrolls();
     const lores = useLores();
     const {common} = useAbilityGroups();
     const [showBasic, setShowBasic] = useState<boolean>(false)
@@ -41,9 +41,8 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
     }
 
     const warscrollids: string[] = units.filter(o => o.warscrollId !== null).map(o => o.warscrollId ?? "")
-    const warscrollIdSet = new Set<string>(warscrollids)
-
-    const filteredWarscrolls = warscrolls.filter(o => warscrollIdSet.has(o.id)).sort(warscrollSort);
+    const uniqueWarscrollIds = new Set<string>(warscrollids);
+    const filteredWarscrolls = [...uniqueWarscrollIds].map(o=>dictionary[o]).sort(warscrollSort);
 
     const battleTraits = faction?.abilityGroups.find(o => o.abilityGroupType === "battleTraits")
 

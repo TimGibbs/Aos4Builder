@@ -9,12 +9,11 @@ import { defaultUnit } from "../../Types/ListTypes/Unit";
 const TerrainSelector: React.FC = () => {
     const { list, setTerrain } = useList();
     const factions = useFactions();
-    const warscrolls = useWarscrolls()
+    const {dictionary} = useWarscrolls()
     if (!list.factionId) return <></>
 
     const faction = factions.find(o => o.id === list.factionId)
-    const warscrollIds = new Set<string>(faction?.warscrolls.map(o => o.warscrollId))
-    const factionTerrain = warscrolls.filter(o => warscrollIds.has(o.id) && o.isTerrain);
+    const factionTerrain = faction?.warscrolls.map(o=>dictionary[o.warscrollId]).filter(o=>o.isTerrain);
 
     if (!factionTerrain || factionTerrain.length === 0) return <></>
     return <Card>

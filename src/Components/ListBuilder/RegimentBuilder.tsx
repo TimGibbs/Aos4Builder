@@ -18,11 +18,10 @@ interface RegimentBuilderParams {
 const RegimentBuilder: React.FC<RegimentBuilderParams> = ({ regiment, setRegiment }) => {
     const { list } = useList();
     const factions = useFactions();
-    const allWarscrolls = useWarscrolls();
+    const {dictionary} = useWarscrolls();
 
     const faction = factions.find(o => o.id === list.factionId)
-    const warscrollIds = new Set<string>(faction?.warscrolls.map(o => o.warscrollId))
-    const factionWarscrolls = allWarscrolls.filter(o => warscrollIds.has(o.id));
+    const factionWarscrolls = faction?.warscrolls.map(o=>dictionary[o.warscrollId]) ?? [];
 
     if (!faction) return <></>
 
@@ -43,7 +42,7 @@ const RegimentBuilder: React.FC<RegimentBuilderParams> = ({ regiment, setRegimen
 
     return <Card>
         <Card.Body>
-            <h6>{regimentSum(regiment, allWarscrolls)}pts</h6>
+            <h6>{regimentSum(regiment, factionWarscrolls)}pts</h6>
             <h6>{regiment.isGeneral ? "General" : "Leader"}</h6>
             <UnitBuilder unit={regiment.leader} setUnit={setLeader} warscrolls={warscrolls} />
             {regiment.leader && <>
