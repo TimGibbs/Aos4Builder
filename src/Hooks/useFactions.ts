@@ -17,8 +17,8 @@ export interface EnrichedFaction extends Faction {
 export const useFactions = () => {
     const formations = useFormations();
     const lores = useLores();
-    const abilityGroups = useAbilityGroups();
-    const memo = useMemo(() => factions.map(o => enrich(o, formations, lores, abilityGroups)).sort((a, b) => a.name.localeCompare(b.name)), [formations, lores, abilityGroups])
+    const {factionDictionary} = useAbilityGroups();
+    const memo = useMemo(() => factions.map(o => enrich(o, formations, lores, factionDictionary[o.id]??[])).sort((a, b) => a.name.localeCompare(b.name)), [formations, lores, factionDictionary])
     return memo;
 }
 

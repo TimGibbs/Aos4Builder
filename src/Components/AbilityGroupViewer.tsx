@@ -14,6 +14,8 @@ export interface AbilityGroupViewerParams {
 export const AbilityGroupViewer: React.FC<AbilityGroupViewerParams> = ({ abilityGroup }) => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
 
+    if(abilityGroup.abilities.length === 1) return <AbilityViewer ability={abilityGroup.abilities[0]}  subtitle={abilityGroup.name}/>
+
     return <Card className={`abilityGroupViewer`} style={{ marginBottom: "5px" }}>
         <Card.Header className={`d-flex justify-content-between align-items-center`} onClick={() => setIsOpen(!isOpen)}>
             <span className="flex-grow-1 text-center" style={{ height: "30px" }}>

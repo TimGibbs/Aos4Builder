@@ -1,13 +1,16 @@
-import { Container } from "react-bootstrap";
+import { Container, Form } from "react-bootstrap";
 import useFactions from "../Hooks/useFactions";
 import useLores from "../Hooks/useLores";
 import useWarscrolls from "../Hooks/useWarscrolls";
 import List from "../Types/ListTypes/List";
 import { WarscrollViewer } from "../Components/WarscrollViewer/WarscrollViewer";
-import AbilityViewer, { AbilityViewerParams } from "../Components/AbilityViewer/AbilityViewer";
 import { useParams } from "react-router-dom";
 import useSavedLists from "../Hooks/useSavedLists";
 import AbilityGroupViewer from "../Components/AbilityGroupViewer";
+import { useState } from "react";
+import warscrollSort from "../Logic/warscrollSortingLogic";
+import useAbilityGroups, { EnrichedAbilityGroup } from "../Hooks/useAbilityGroups";
+import notNull from "../Logic/notNull";
 
 const ListDisplay: React.FC = () => {
     const { id } = useParams<{ id: string }>();
@@ -24,6 +27,8 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
     const factions = useFactions();
     const warscrolls = useWarscrolls();
     const lores = useLores();
+    const {common} = useAbilityGroups();
+    const [showBasic, setShowBasic] = useState<boolean>(false)
     const faction = factions.find(o => o.id === list.factionId)
     const formation = faction?.formations.find(o => o.id === list.formationId);
     const spells = lores.find(o => o.id === list.spellLoreId);
@@ -38,41 +43,25 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
     const warscrollids: string[] = units.filter(o => o.warscrollId !== null).map(o => o.warscrollId ?? "")
     const warscrollIdSet = new Set<string>(warscrollids)
 
-    const filteredWarscrolls = warscrolls.filter(o => warscrollIdSet.has(o.id)).sort((a, b) => {
-        if (a.isHero && !b.isHero) {
-            return -1;
-        }
-        if (b.isHero && !a.isHero) {
-            return 1;
-        }
-        if (a.isManifestation && !b.isManifestation) {
-            return 1;
-        }
-        if (b.isManifestation && !a.isManifestation) {
-            return -1;
-        }
-        if (a.isTerrain && !b.isTerrain) {
-            return 1;
-        }
-        if (b.isTerrain && !a.isTerrain) {
-            return -1;
-        }
-        return a.name.localeCompare(b.name);
-    });
+    const filteredWarscrolls = warscrolls.filter(o => warscrollIdSet.has(o.id)).sort(warscrollSort);
 
     const battleTraits = faction?.abilityGroups.find(o => o.abilityGroupType === "battleTraits")
 
-    const artifact: string[] = units.filter(o => o.artifactId !== null).map(o => o.artifactId ?? "");
-    const heroicTrait: string[] = units.filter(o => o.heroicTraitId).map(o => o.heroicTraitId ?? "");
-    const others: string[] = units.filter(o => o.otherEnhancements).flatMap(o => Object.values(o.otherEnhancements).map(p => p ?? ""));
+    const enhancementIds : string[] = units.flatMap((o)=>[o.artifactId, o.heroicTraitId, ...(o.otherEnhancements ? Object.values(o.otherEnhancements):[])].filter(notNull))
 
-    const artifacts: AbilityViewerParams[] = faction?.abilityGroups.filter(o => o.abilityGroupType === "artefactsOfPower")?.flatMap(o => o.abilities.filter(p => artifact.includes(p.id)).map(p => ({ ability: p, abilityGroup: o }))) ?? [];
-    const heroicTraits: AbilityViewerParams[] = faction?.abilityGroups.filter(o => o.abilityGroupType === "heroicTraits")?.flatMap(o => o.abilities.filter(p => heroicTrait.includes(p.id)).map(p => ({ ability: p, abilityGroup: o }))) ?? [];
-    const otherEnhancements: AbilityViewerParams[] = faction?.abilityGroups.filter(o => o.abilityGroupType === "otherEnhancements")?.flatMap(o => o.abilities.filter(p => others.includes(p.id)).map(p => ({ ability: p, abilityGroup: o }))) ?? [];
-
-    const abilities = [...artifacts, ...heroicTraits, ...otherEnhancements];
+    const enhancements : EnrichedAbilityGroup[] = faction?.abilityGroups?.map(o=>{
+        const abilities = o.abilities.filter(p => enhancementIds.includes(p.id))
+        return {...o, abilities}
+    }).filter(o=>o.abilities.length >0) ?? []
 
     return <Container>
+        <Form.Check style={{ textAlign: "left" }}
+            type="switch"
+            id="basic-ability-switch"
+            label="Include basic abilities"
+            checked={showBasic}
+            onChange={()=>setShowBasic(s=>!s)}
+        />
         <h2>Units</h2>
         {filteredWarscrolls.map(o => <WarscrollViewer key={o.id} warscroll={o} includeAbilites={true} />)}
         {(spells || prayers || manifestations) && <>
@@ -89,9 +78,14 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
             <h2>Formation</h2>
             <AbilityGroupViewer abilityGroup={formation} />
         </>}
-        <h2>Enhancements</h2>
-        {abilities.map(o => <AbilityViewer key={o.ability.id} ability={o.ability} abilityGroup={o.abilityGroup} warscroll={o.warscroll} formation={o.formation} lore={o.lore} />)}
-
+        {enhancements.length >0 && <>
+            <h2>Enhancements</h2>
+            {enhancements.map(o=> <AbilityGroupViewer key={o.id} abilityGroup={o} />)}
+        </>}
+        {showBasic && <>
+            <h2>Basic</h2>
+            {common.map(o=> <AbilityGroupViewer key={o.id} abilityGroup={o} />)}
+        </>}
     </Container>
 }
 

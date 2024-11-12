@@ -16,7 +16,7 @@ const AbilityCatalogue: React.FC = () => {
     const [abilityId, setAbilityId] = useState<string | undefined>();
 
     const factions = useFactions();
-    const abilityGroups = useAbilityGroups();
+    const {abilityGroups} = useAbilityGroups();
     const warscrolls = useWarscrolls();
     const formations = useFormations();
     const lores = useLores();
@@ -35,14 +35,14 @@ const AbilityCatalogue: React.FC = () => {
 
     const furtherFilteredWarscrolls = filteredWarscrolls.filter(o => (!warscrollId || o.id === warscrollId));
 
-    const warscrollAbilities: AbilityViewerParams[] = furtherFilteredWarscrolls.flatMap(o => o.abilities.map(p => ({ ability: p, warscroll: o })));
-    const groupAbilities: AbilityViewerParams[] = filteredGroupAbilities.flatMap(o => o.abilities.map(p => ({ ability: p, abilityGroup: o })));
-    const formationAbilities: AbilityViewerParams[] = filteredFormations.flatMap(o => o.abilities.map(p => ({ ability: p, formation: o })));
-    const loreAbilities: AbilityViewerParams[] = filteredLores.flatMap(o => o.abilities.map(p => ({ ability: p, lore: o })));
+    const warscrollAbilities: AbilityViewerParams[] = furtherFilteredWarscrolls.flatMap(o => o.abilities.map(p => ({ ability: p, subtitle: o.name })));
+    const groupAbilities: AbilityViewerParams[] = filteredGroupAbilities.flatMap(o => o.abilities.map(p => ({ ability: p, subtitle: o.name })));
+    const formationAbilities: AbilityViewerParams[] = filteredFormations.flatMap(o => o.abilities.map(p => ({ ability: p, subtitle: o.name })));
+    const loreAbilities: AbilityViewerParams[] = filteredLores.flatMap(o => o.abilities.map(p => ({ ability: p, subtitle: o.name })));
     const allAbilites: AbilityViewerParams[] = [...groupAbilities, ...warscrollAbilities, ...formationAbilities, ...loreAbilities]
 
     const viewers = allAbilites.filter(finalFilter).map(o => {
-        return <AbilityViewer key={o.ability.id} ability={o.ability} abilityGroup={o.abilityGroup} warscroll={o.warscroll} formation={o.formation} lore={o.lore} />
+        return <AbilityViewer key={o.ability.id} ability={o.ability} subtitle={o.subtitle} />
     })
 
     const handleFactionChange = (event: React.ChangeEvent<HTMLSelectElement>) => {

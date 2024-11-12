@@ -1,9 +1,5 @@
 import { Accordion, Card } from "react-bootstrap";
 import { EnrichedAbility } from "../../Types/DataTypes/Ability";
-import AbilityGroup from "../../Types/DataTypes/AbilityGroup";
-import Warscroll from "../../Types/DataTypes/Warscroll";
-import Formation from "../../Types/DataTypes/Formation";
-import Lore from "../../Types/DataTypes/Lore";
 
 import abControl from "../../Images/abControl.png"
 import abDefensive from "../../Images/abDefensive.png"
@@ -26,13 +22,10 @@ import { WarscrollViewer } from "../WarscrollViewer/WarscrollViewer";
 
 export interface AbilityViewerParams {
     ability: EnrichedAbility,
-    abilityGroup?: AbilityGroup | undefined,
-    warscroll?: Warscroll | undefined
-    formation?: Formation | undefined
-    lore?: Lore | undefined
+    subtitle?: string
 }
 
-export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityGroup, warscroll, formation, lore }) => {
+export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, subtitle }) => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
     const { dictionary, common } = useKeywords();
 
@@ -76,12 +69,9 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, abilityG
         <Accordion activeKey={isOpen ? '0' : undefined}>
             <Accordion.Collapse eventKey="0">
                 <>
-                    <Card.Subtitle>
-                        {abilityGroup?.name}
-                        {warscroll?.name}
-                        {formation?.name}
-                        {lore?.name}
-                    </Card.Subtitle>
+                    {subtitle && <Card.Subtitle>
+                        {subtitle}
+                    </Card.Subtitle>}
                     <Card.Body style={{ whiteSpace: "pre-wrap" }}>
                         {ability.declare && <>{"Declare: " + ability.declare}<br /></>}
                         {"Effect: " + ability.effect}
