@@ -55,6 +55,7 @@ interface DataContextReturn {
   abilities: Record<string, EnrichedAbility>
   abilityGroups: Record<string, EnrichedAbilityGroup>
   factions: Record<string, EnrichedFaction>
+  keywords: Record<string, string>
 }
 
 // Create a default context
@@ -62,7 +63,7 @@ const DataContext = createContext<DataContextReturn | undefined>(undefined);
 
 export const DataProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
 
-  const { common } = useKeywords();
+  const { common, dictionary } = useKeywords();
 
   const warscrollAbilities = convertArrayToRecord(warscroll_abilities.map(o => enrichWarscrollAbility(o, warscroll_ability_keywords)));
   const warscrollWeapons = convertArrayToRecord(warscroll_weapons.map(o => enrichWarscrollWeapon(o, warscroll_weapon_weapon_abilities)));
@@ -94,7 +95,8 @@ export const DataProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
       formations: formationsa,
       abilities: abilitiesa,
       abilityGroups, 
-      factions : factionsa
+      factions : factionsa,
+      keywords : dictionary,
     }}>
       {children}
     </DataContext.Provider>
