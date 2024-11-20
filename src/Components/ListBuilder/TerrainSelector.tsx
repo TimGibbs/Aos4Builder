@@ -13,7 +13,7 @@ const TerrainSelector: React.FC = () => {
     if (!list.factionId) return <></>
 
     const faction = factions.find(o => o.id === list.factionId)
-    const warscrollIds = new Set<string>(faction?.warscrolls.map(o => o.warscrollId))
+    const warscrollIds = new Set<string>(faction?.warscrolls?.map(o => o.warscrollId))
     const factionTerrain = warscrolls.filter(o => warscrollIds.has(o.id) && o.isTerrain);
 
     if (!factionTerrain || factionTerrain.length === 0) return <></>

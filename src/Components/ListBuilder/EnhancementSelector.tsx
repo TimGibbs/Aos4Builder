@@ -19,11 +19,11 @@ const EnhancementSelector: React.FC<EnhancementSelectorParams> = ({ unit, warscr
   const artifactFree = allListUnits.filter(o => o.artifactId).length === 0;
   const traitFree = allListUnits.filter(o => o.heroicTraitId).length === 0;
 
-  const artifactLists = faction?.abilityGroups.filter(o => o.abilityGroupType === "artefactsOfPower") ?? []
-  const artifacts = artifactLists.flatMap(o => o.abilities);
-  const traitsLists = faction?.abilityGroups.filter(o => o.abilityGroupType === "heroicTraits") ?? []
-  const traits = traitsLists.flatMap(o => o.abilities);
-  const otherList = faction?.abilityGroups.filter(o => o.abilityGroupType === "otherEnhancements") ?? []
+  const artifactLists = faction?.abilityGroups?.filter(o => o.abilityGroupType === "artefactsOfPower") ?? []
+  const artifacts = artifactLists.flatMap(o => o.abilities ?? []);
+  const traitsLists = faction?.abilityGroups?.filter(o => o.abilityGroupType === "heroicTraits") ?? []
+  const traits = traitsLists.flatMap(o => o.abilities ?? []);
+  const otherList = faction?.abilityGroups?.filter(o => o.abilityGroupType === "otherEnhancements") ?? []
 
   const compatibleOthes = otherList.filter(o => o.warscrollIds.includes(warscroll.id));
 
@@ -61,7 +61,7 @@ const EnhancementSelector: React.FC<EnhancementSelectorParams> = ({ unit, warscr
             setUnit({ ...unit, otherEnhancements: x })
           }}>
           <option value={undefined}>-</option>
-          {o.abilities.map(x => (<option key={x.id} value={x.id}>{x.name}</option>))}
+          {o.abilities?.map(x => (<option key={x.id} value={x.id}>{x.name}</option>))}
         </Form.Select>
       </Col>
     </Form.Group>)}

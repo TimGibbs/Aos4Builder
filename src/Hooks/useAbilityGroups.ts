@@ -1,7 +1,7 @@
 import { useMemo } from "react";
 import { ability_groups } from "../Data/AbilityGroups";
 import { EnrichedAbility } from "../Types/DataTypes/Ability";
-import AbilityGroup from "../Types/DataTypes/AbilityGroup";
+import AbilityGroup, { EnrichedAbilityGroup } from "../Types/DataTypes/AbilityGroup";
 import useAbilities from "./useAbilities";
 import AbilityGroupRequiredWarscroll from "../Types/DataTypes/AbilityGroupRequiredWarscroll";
 import ability_group_required_warscrolls from "../Data/AbilityGroupRequiredWarscroll";
@@ -14,10 +14,7 @@ interface UseAbilityGroupsReturn {
     factionDictionary: Record<string, EnrichedAbilityGroup[]>
 }
 
-export interface EnrichedAbilityGroup extends AbilityGroup {
-    abilities: EnrichedAbility[]
-    warscrollIds: string[]
-}
+
 
 export const useAbilityGroups = () : UseAbilityGroupsReturn => {
     const abilities = useAbilities()
@@ -42,7 +39,7 @@ export const useAbilityGroups = () : UseAbilityGroupsReturn => {
 const enrich = (abilityGroup: AbilityGroup, abilitiesArray: EnrichedAbility[], abilityGroupRequiredWarscrolls: AbilityGroupRequiredWarscroll[]): EnrichedAbilityGroup => {
     const abilities = abilitiesArray.filter(o => o.abilityGroupId && o.abilityGroupId === abilityGroup.id);
     const warscrollIds = abilityGroupRequiredWarscrolls.filter(o => o.abilityGroupId === abilityGroup.id).map(o => o.warscrollId);
-    return { ...abilityGroup, abilities, warscrollIds }
+    return { ...abilityGroup, abilities, abilityIds:abilities.map(o=>o.id), warscrollIds }
 }
 
 export default useAbilityGroups;

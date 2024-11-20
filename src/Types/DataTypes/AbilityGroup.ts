@@ -1,3 +1,5 @@
+import { EnrichedAbility } from "./Ability";
+
 export interface AbilityGroup {
     id:                                  string;
     name:                                string;
@@ -15,5 +17,11 @@ export interface AbilityGroup {
 }
 
 export type AbilityGroupType = "heroicTraits" | "artefactsOfPower" | "battleTraits" | "spearheadEnhancements" | "regimentOfRenown" | "regimentAbilities" | "otherEnhancements";
+
+export interface EnrichedAbilityGroup extends AbilityGroup {
+    abilities?: EnrichedAbility[]
+    abilityIds: string[]
+    warscrollIds: string[]
+}
 
 export default AbilityGroup;

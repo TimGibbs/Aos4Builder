@@ -9,8 +9,9 @@ import useSavedLists from "../Hooks/useSavedLists";
 import AbilityGroupViewer from "../Components/AbilityGroupViewer";
 import { useState } from "react";
 import warscrollSort from "../Logic/warscrollSortingLogic";
-import useAbilityGroups, { EnrichedAbilityGroup } from "../Hooks/useAbilityGroups";
+import useAbilityGroups from "../Hooks/useAbilityGroups";
 import notNull from "../Logic/notNull";
+import { EnrichedAbilityGroup } from "../Types/DataTypes/AbilityGroup";
 
 const ListDisplay: React.FC = () => {
     const { id } = useParams<{ id: string }>();
@@ -30,7 +31,7 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
     const {common} = useAbilityGroups();
     const [showBasic, setShowBasic] = useState<boolean>(false)
     const faction = factions.find(o => o.id === list.factionId)
-    const formation = faction?.formations.find(o => o.id === list.formationId);
+    const formation = faction?.formations?.find(o => o.id === list.formationId);
     const spells = lores.find(o => o.id === list.spellLoreId);
     const prayers = lores.find(o => o.id === list.prayerLoreId);
     const manifestations = lores.find(o => o.id === list.manifestationLoreId);
@@ -45,12 +46,12 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
 
     const filteredWarscrolls = warscrolls.filter(o => warscrollIdSet.has(o.id)).sort(warscrollSort);
 
-    const battleTraits = faction?.abilityGroups.find(o => o.abilityGroupType === "battleTraits")
+    const battleTraits = faction?.abilityGroups?.find(o => o.abilityGroupType === "battleTraits")
 
     const enhancementIds : string[] = units.flatMap((o)=>[o.artifactId, o.heroicTraitId, ...(o.otherEnhancements ? Object.values(o.otherEnhancements):[])].filter(notNull))
 
     const enhancements : EnrichedAbilityGroup[] = faction?.abilityGroups?.map(o=>{
-        const abilities = o.abilities.filter(p => enhancementIds.includes(p.id))
+        const abilities = o.abilities?.filter(p => enhancementIds.includes(p.id)) ?? []
         return {...o, abilities}
     }).filter(o=>o.abilities.length >0) ?? []
 

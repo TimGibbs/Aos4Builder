@@ -18,7 +18,7 @@ const WarscrollCatalogue: React.FC = () => {
     const faction = factions.find(o => o.id === factionId);
 
     const filteredWarscrolls = warscrolls
-        .filter(o => (!faction || faction.warscrolls.map(o => o.warscrollId).includes(o.id))
+        .filter(o => (!faction || faction.warscrolls?.map(o => o.warscrollId).includes(o.id))
             && (!warscrollId || o.id === warscrollId)
             && (!keywordId || o.keywords.includes(keywordId))
         )

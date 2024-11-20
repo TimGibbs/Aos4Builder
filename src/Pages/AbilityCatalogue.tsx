@@ -23,7 +23,7 @@ const AbilityCatalogue: React.FC = () => {
     const { keywords } = useKeywords();
 
     const faction = factions.find(o => o.id === factionId);
-    const filteredWarscrolls = warscrolls.filter(o => (!faction || faction.warscrolls.map(o => o.warscrollId).includes(o.id)))
+    const filteredWarscrolls = warscrolls.filter(o => (!faction || faction.warscrolls?.map(o => o.warscrollId).includes(o.id)))
     const filteredGroupAbilities = abilityGroups.filter(o => !faction || o.factionId === factionId)
     const filteredFormations = formations.filter(o => !faction || o.factionId === factionId)
     const filteredLores = lores.filter(o => !faction || o.factionId === factionId)
@@ -36,8 +36,8 @@ const AbilityCatalogue: React.FC = () => {
     const furtherFilteredWarscrolls = filteredWarscrolls.filter(o => (!warscrollId || o.id === warscrollId));
 
     const warscrollAbilities: AbilityViewerParams[] = furtherFilteredWarscrolls.flatMap(o => o.abilities?.map(p => ({ ability: p, subtitle: o.name })) ?? []);
-    const groupAbilities: AbilityViewerParams[] = filteredGroupAbilities.flatMap(o => o.abilities.map(p => ({ ability: p, subtitle: o.name })));
-    const formationAbilities: AbilityViewerParams[] = filteredFormations.flatMap(o => o.abilities.map(p => ({ ability: p, subtitle: o.name })));
+    const groupAbilities: AbilityViewerParams[] = filteredGroupAbilities.flatMap(o => o.abilities?.map(p => ({ ability: p, subtitle: o.name })) ?? []);
+    const formationAbilities: AbilityViewerParams[] = filteredFormations.flatMap(o => o.abilities?.map(p => ({ ability: p, subtitle: o.name }))?? []) ;
     const loreAbilities: AbilityViewerParams[] = filteredLores.flatMap(o => o.abilities?.map(p => ({ ability: p, subtitle: o.name }))?? [] );
     const allAbilites: AbilityViewerParams[] = [...groupAbilities, ...warscrollAbilities, ...formationAbilities, ...loreAbilities]
 

@@ -25,6 +25,22 @@ import lore_abilities from '../Data/LoreAbilities';
 import lore_ability_keywords from '../Data/LoreAbilityKeywords';
 import Lore, { EnrichedLore, LoreType } from '../Types/DataTypes/Lore';
 import lores from '../Data/Lores';
+import FormationAbilityKeyword from '../Types/DataTypes/FormationAbilityKeyword';
+import formation_abilities from '../Data/FormationAbilities';
+import formation_ability_keywords from '../Data/FormationAbilityKeywords';
+import Formation, { EnrichedFormation } from '../Types/DataTypes/Formation';
+import formations from '../Data/Formations';
+import AbilityKeyword from '../Types/DataTypes/AbilityKeyword';
+import abilities from '../Data/Abilities';
+import ability_keywords from '../Data/AbilityKeywords';
+import AbilityGroupRequiredWarscroll from "../Types/DataTypes/AbilityGroupRequiredWarscroll";
+import AbilityGroup, { EnrichedAbilityGroup } from '../Types/DataTypes/AbilityGroup';
+import ability_groups from '../Data/AbilityGroups';
+import ability_group_required_warscrolls from '../Data/AbilityGroupRequiredWarscroll';
+import warscroll_faction_keywords from '../Data/WarscrollFactionKeywords';
+import Faction, { EnrichedFaction } from '../Types/DataTypes/Faction';
+import WarscrollFactionKeyword from '../Types/DataTypes/WarcrollFactionKeyword';
+import factions from '../Data/Factions';
 
 interface DataContextReturn {
   warscrollAbilities: Record<string, EnrichedAbility>
@@ -34,6 +50,11 @@ interface DataContextReturn {
   weaponAbilities: Record<string, Rule>
   loreAbilities: Record<string, EnrichedAbility>
   lores : Record<string,EnrichedLore>
+  formationAbilities : Record<string,EnrichedAbility>
+  formations : Record<string,EnrichedFormation>
+  abilities: Record<string, EnrichedAbility>
+  abilityGroups: Record<string, EnrichedAbilityGroup>
+  factions: Record<string, EnrichedFaction>
 }
 
 // Create a default context
@@ -50,7 +71,16 @@ export const DataProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
   const weaponAbilities = convertArrayToRecord(weapon_abilities);
 
   const loreAbilities = convertArrayToRecord(lore_abilities.map(o => enrichLoreAbility(o, lore_ability_keywords)));
-  const loresa = convertArrayToRecord(lores.map(o=>enrichLore(o, Object.values(loreAbilities), common.prayer, common.spell, common.summon)))
+  const loresa = convertArrayToRecord(lores.map(o=>enrichLore(o, Object.values(loreAbilities), common.prayer, common.spell, common.summon)));
+
+  const formationAbilities = convertArrayToRecord(formation_abilities.map(o => enrichFormationAbility(o, formation_ability_keywords)));
+  const formationsa = convertArrayToRecord(formations.map(o => enrichFormation(o, formation_abilities)));
+
+  const abilitiesa = convertArrayToRecord(abilities.map(o=>enrichAbility(o,ability_keywords)));
+  const abilityGroups = convertArrayToRecord(ability_groups.map(o=>enrichAbilityGroup(o,abilities,ability_group_required_warscrolls)));
+
+  const factionsa = convertArrayToRecord(factions.map(o=>enrichFaction(o, formations, warscroll_faction_keywords, lores, ability_groups)));
+
   return (
     <DataContext.Provider value={{
       warscrollAbilities,
@@ -59,7 +89,12 @@ export const DataProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
       warscrolls: warscollsa,
       weaponAbilities,
       loreAbilities,
-      lores:loresa
+      lores: loresa,
+      formationAbilities,
+      formations: formationsa,
+      abilities: abilitiesa,
+      abilityGroups, 
+      factions : factionsa
     }}>
       {children}
     </DataContext.Provider>
@@ -77,14 +112,12 @@ const enrichWarscrollWeapon = (warscrollWeapon: WarscrollWeapon, warscroll_weapo
 }
 
 const enrichWarscrollRegiment = (regimentOption: WarscrollRegimentOption, warscroll_regiment_option_excluded_keywords: WarscrollKeywordRequirement[], warscroll_regiment_option_required_keywords: WarscrollKeywordRequirement[]): EnrichedWarscrollRegimentOptions => {
-
   const excluded = warscroll_regiment_option_excluded_keywords.filter(o => o.warscrollRegimentOptionId === regimentOption.id).map(o => o.keywordId);
   const required = warscroll_regiment_option_required_keywords.filter(o => o.warscrollRegimentOptionId === regimentOption.id).map(o => o.keywordId);
   return { ...regimentOption, excluded, required }
 }
 
 const enrichWarscroll = (warscroll: Warscroll, abilitiesArray: Ability[], options: WarscrollRegimentOption[], weaponsArray: WarscrollWeapon[], uniqueKey: string, heroKey: string, terrainKey: string, manifestationKey: string): EnrichedWarscroll => {
-
   const unitKeywords = warscroll_keywords.filter(o => o.warscrollId === warscroll.id).map(o => o.keywordId);
   const regimentOptionIds = options.filter(o => o.warscrollId === warscroll.id).map(o => o.id);
   const abilityIds = abilitiesArray.filter(o => o.warscrollId && o.warscrollId === warscroll.id).map(o => o.id);
@@ -108,6 +141,36 @@ const enrichLore = (lore : Lore, loreAbilities: EnrichedAbility[], prayerKey : s
   : abilities.every(o=>o.keywords.includes(spellKey)) ? "spell" : null;
   return {...lore, abilityIds: abilities.map(o=>o.id), loreType}
 }
+
+const enrichFormationAbility = (formationAbility: Ability, formation_ability_keywords : FormationAbilityKeyword []): EnrichedAbility => {
+  const keywords = formation_ability_keywords.filter(o => o.battleFormationRuleId === formationAbility.id).map(o => o.keywordId);
+  return { ...formationAbility, keywords }
+}
+
+const enrichFormation = (formation: Formation, formationAbilities: Ability[]): EnrichedFormation => {
+  const abilityIds = formationAbilities.filter(o => o.battleFormationId && o.battleFormationId === formation.id).map(o=>o.id);
+  return { ...formation, abilityIds }
+}
+
+const enrichAbility = (ability: Ability, ability_keywords: AbilityKeyword[]): EnrichedAbility => {
+  const keywords = ability_keywords.filter(o => o.abilityId === ability.id).map(o => o.keywordId);
+  return { ...ability, keywords }
+}
+
+const enrichAbilityGroup = (abilityGroup: AbilityGroup, abilitiesArray: Ability[], abilityGroupRequiredWarscrolls: AbilityGroupRequiredWarscroll[]): EnrichedAbilityGroup => {
+  const abilityIds = abilitiesArray.filter(o => o.abilityGroupId && o.abilityGroupId === abilityGroup.id).map(o=>o.id);
+  const warscrollIds = abilityGroupRequiredWarscrolls.filter(o => o.abilityGroupId === abilityGroup.id).map(o => o.warscrollId);
+  return { ...abilityGroup, abilityIds, warscrollIds }
+}
+
+const enrichFaction = (faction: Faction, formations: Formation[], warscroll_faction_keywords : WarscrollFactionKeyword[], lores: Lore[], ability_groups: AbilityGroup[]): EnrichedFaction => {
+  const formationIds = formations.filter(o => o.factionId && o.factionId === faction.id).map(o=>o.id);
+  const warscrollIds = warscroll_faction_keywords.filter(o => o.factionKeywordId === faction.id).map(o=>o.warscrollId)
+  const loreIds = lores.filter(o => o.factionId && o.factionId === faction.id).map(o=>o.id);
+  const abilityGroupIds = ability_groups.filter(o => o.factionId === faction.id).map(o=>o.id);
+  return { ...faction, formationIds, warscrollIds, loreIds, abilityGroupIds }
+}
+
 export const useData = (): DataContextReturn => {
   const context = useContext(DataContext);
   if (!context) {

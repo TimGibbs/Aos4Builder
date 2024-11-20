@@ -21,7 +21,7 @@ const RegimentBuilder: React.FC<RegimentBuilderParams> = ({ regiment, setRegimen
     const allWarscrolls = useWarscrolls();
 
     const faction = factions.find(o => o.id === list.factionId)
-    const warscrollIds = new Set<string>(faction?.warscrolls.map(o => o.warscrollId))
+    const warscrollIds = new Set<string>(faction?.warscrolls?.map(o => o.warscrollId))
     const factionWarscrolls = allWarscrolls.filter(o => warscrollIds.has(o.id));
 
     if (!faction) return <></>

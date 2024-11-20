@@ -1,19 +1,14 @@
 import { useMemo } from "react";
 import factions from "../Data/Factions";
-import Faction from "../Types/DataTypes/Faction";
-import WarscrollFactionKeyword from "../Types/DataTypes/WarcrollFactionKeyword";
-import useFormations, { EnrichedFormation } from "./useFormations";
+import Faction, { EnrichedFaction } from "../Types/DataTypes/Faction";
+import useFormations from "./useFormations";
 import warscroll_faction_keywords from "../Data/WarscrollFactionKeywords";
 import useLores from "./useLores";
-import useAbilityGroups, { EnrichedAbilityGroup } from "./useAbilityGroups";
+import useAbilityGroups from "./useAbilityGroups";
 import { EnrichedLore } from "../Types/DataTypes/Lore";
+import { EnrichedFormation } from "../Types/DataTypes/Formation";
+import { EnrichedAbilityGroup } from "../Types/DataTypes/AbilityGroup";
 
-export interface EnrichedFaction extends Faction {
-    formations: EnrichedFormation[]
-    warscrolls: WarscrollFactionKeyword[]
-    lores: EnrichedLore[]
-    abilityGroups: EnrichedAbilityGroup[]
-}
 
 export const useFactions = () => {
     const formations = useFormations();
@@ -28,7 +23,7 @@ const enrich = (faction: Faction, formationsArray: EnrichedFormation[], loresArr
     const warscrolls = warscroll_faction_keywords.filter(o => o.factionKeywordId === faction.id)
     const lores = loresArray.filter(o => o.factionId && o.factionId === faction.id);
     const abilityGroups = abilityGroupsArray.filter(o => o.factionId === faction.id);
-    return { ...faction, formations, warscrolls, lores, abilityGroups }
+    return { ...faction, formations, formationIds:formations.map(o=>o.id), warscrolls, warscrollIds: warscrolls.map(o=>o.warscrollId), lores, loreIds: lores.map(o=>o.id), abilityGroups, abilityGroupIds: abilityGroups.map(o=>o.id) }
 }
 
 export default useFactions;

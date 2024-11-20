@@ -1,12 +1,10 @@
 import { useMemo } from "react";
 import formations from "../Data/Formations";
 import { EnrichedAbility } from "../Types/DataTypes/Ability";
-import Formation from "../Types/DataTypes/Formation";
+import Formation, { EnrichedFormation } from "../Types/DataTypes/Formation";
 import useFormationAbilities from "./useFormationAbilities";
 
-export interface EnrichedFormation extends Formation {
-    abilities: EnrichedAbility[]
-}
+
 
 export const useFormations = () => {
     const formationAbilities = useFormationAbilities()
@@ -16,7 +14,7 @@ export const useFormations = () => {
 
 const enrich = (formation: Formation, formationAbilities: EnrichedAbility[]): EnrichedFormation => {
     const abilities = formationAbilities.filter(o => o.battleFormationId && o.battleFormationId === formation.id);
-    return { ...formation, abilities }
+    return { ...formation, abilities, abilityIds: abilities.map(o=>o.id) }
 }
 
 export default useFormations;

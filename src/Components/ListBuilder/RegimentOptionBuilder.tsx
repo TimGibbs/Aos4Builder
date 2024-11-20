@@ -20,7 +20,7 @@ const RegimentItemBuilder: React.FC<RegimentItemParams> = ({ item, setItem }) =>
     const allWarscrolls: EnrichedWarscroll[] = useWarscrolls()
     const factions = useFactions()
     const faction = factions.find(o => o.id === list.factionId);
-    const factionIds = new Set<string>(faction?.warscrolls.map(o => o.warscrollId))
+    const factionIds = new Set<string>(faction?.warscrolls?.map(o => o.warscrollId))
     const option = options.find(o => o.id === item.warscrollRegimentOptionId)
 
     const max = option?.childQuantity !== "any" ? 1 : 1000;
