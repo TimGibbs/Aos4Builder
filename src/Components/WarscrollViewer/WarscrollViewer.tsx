@@ -1,5 +1,4 @@
 import { Accordion, Card } from "react-bootstrap"
-import { EnrichedWarscroll } from "../../Hooks/useWarscrolls"
 import { useState } from "react";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
 import useWeaponAbilities from "../../Hooks/useWeaponAbilities";
@@ -9,6 +8,7 @@ import useIsMobile from "../../Hooks/useIsMobile";
 import MobileWeaponsSection from "./MobileWeaponsSection";
 import DesktopWeaponsSection from "./DesktopWeaponsSection";
 import WarscrollStatsSection from "./WarscrollStatsSection";
+import { EnrichedWarscroll } from "../../Types/DataTypes/Warscroll";
 
 export interface WarscrollViewerParams {
     warscroll: EnrichedWarscroll,
@@ -32,9 +32,9 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, in
                 <>
                     <Card.Body style={{ whiteSpace: "pre-wrap" }}>
                         <WarscrollStatsSection warscroll={warscroll} />
-                        {!isMobile && warscroll.weapons.length > 0 && <DesktopWeaponsSection weapons={warscroll.weapons} weaponAbilites={weaponAbilites} />}
-                        {isMobile && warscroll.weapons.length > 0 && <MobileWeaponsSection weapons={warscroll.weapons} weaponAbilites={weaponAbilites} />}
-                        {includeAbilites && warscroll.abilities.map(o => <AbilityViewer key={o.id} ability={o} />)}
+                        {!isMobile && warscroll.weapons && warscroll.weapons?.length > 0 && <DesktopWeaponsSection weapons={warscroll.weapons} weaponAbilites={weaponAbilites} />}
+                        {isMobile && warscroll.weapons && warscroll.weapons?.length > 0 && <MobileWeaponsSection weapons={warscroll.weapons} weaponAbilites={weaponAbilites} />}
+                        {includeAbilites && warscroll.abilities?.map(o => <AbilityViewer key={o.id} ability={o} />)}
                     </Card.Body>
                     <Card.Footer className="text-muted">{warscroll.referenceKeywords}</Card.Footer>
                 </>

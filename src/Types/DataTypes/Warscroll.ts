@@ -1,4 +1,7 @@
+import { EnrichedWarscrollRegimentOptions } from "../../Hooks/useWarscrollRegimentOptions";
+import { EnrichedAbility } from "./Ability";
 import Save from "./Save";
+import { EnrichedWarscrollWeapon } from "./WarscrollWeapon";
 
 export interface Warscroll {
     id:                             string;
@@ -22,5 +25,19 @@ export interface Warscroll {
     requiredPrimaryHeroWarscrollId: null | string;
     isLegends:                      boolean;
 }
+
+export interface EnrichedWarscroll extends Warscroll {
+    keywords : string[]
+    regimentOptions? : EnrichedWarscrollRegimentOptions[]
+    regimentOptionIds : string[]
+    abilities? : EnrichedAbility[]
+    abilityIds : string[]
+    weapons? : EnrichedWarscrollWeapon[]
+    weaponIds : string[]
+    isUnique : boolean
+    isHero : boolean
+    isTerrain : boolean
+    isManifestation : boolean
+} 
 
 export default Warscroll;

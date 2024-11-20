@@ -1,16 +1,9 @@
 import { useMemo } from "react";
-import Lore from "../Types/DataTypes/Lore";
+import Lore, { EnrichedLore, LoreType } from "../Types/DataTypes/Lore";
 import lores from "../Data/Lores";
 import useLoreAbilities from "./useLoreAbilites";
 import { EnrichedAbility } from "../Types/DataTypes/Ability";
 import useKeywords from "./useKeywords";
-
-export type LoreType = "prayer" | "spell" | "summon" | null
-
-export interface EnrichedLore extends Lore {
-    abilities : EnrichedAbility[]
-    loreType : LoreType
-} 
 
 export const useLores = () => {
     const lore_abilities = useLoreAbilities()
@@ -24,7 +17,7 @@ const enrich = (lore : Lore, loreAbilities: EnrichedAbility[], prayerKey : strin
     const loreType : LoreType = abilities.every(o=>o.keywords.includes(summonKey)) ? "summon" 
     : abilities.every(o=>o.keywords.includes(prayerKey)) ? "prayer"
     : abilities.every(o=>o.keywords.includes(spellKey)) ? "spell" : null;
-    return {...lore, abilities, loreType}
+    return {...lore, abilities, abilityIds: abilities.map(o=>o.id), loreType}
 }
 
 export default useLores;

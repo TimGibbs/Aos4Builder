@@ -2,7 +2,8 @@ import { useMemo } from "react";
 import Ability, { EnrichedAbility } from "../Types/DataTypes/Ability";
 import lore_abilities from "../Data/LoreAbilities";
 import lore_ability_keywords from "../Data/LoreAbilityKeywords";
-import useWarscrolls, { EnrichedWarscroll } from "./useWarscrolls";
+import useWarscrolls from "./useWarscrolls";
+import { EnrichedWarscroll } from "../Types/DataTypes/Warscroll";
 
 export const useLoreAbilities = () => {
     const warscrolls = useWarscrolls();

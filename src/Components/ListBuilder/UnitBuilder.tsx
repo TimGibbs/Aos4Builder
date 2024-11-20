@@ -1,8 +1,8 @@
 import { Form } from "react-bootstrap"
-import { EnrichedWarscroll } from "../../Hooks/useWarscrolls"
 import Unit from "../../Types/ListTypes/Unit"
 import EnhancementSelector from "./EnhancementSelector"
 import { useList } from "../../Hooks/useList"
+import { EnrichedWarscroll } from "../../Types/DataTypes/Warscroll"
 
 interface UnitBuilderParams {
   unit: Unit

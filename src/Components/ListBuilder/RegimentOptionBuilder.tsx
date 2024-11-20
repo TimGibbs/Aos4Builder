@@ -1,12 +1,13 @@
 import { Button } from "react-bootstrap";
 import useWarscrollRegimentOptions from "../../Hooks/useWarscrollRegimentOptions"
-import useWarscrolls, { EnrichedWarscroll } from "../../Hooks/useWarscrolls";
+import useWarscrolls from "../../Hooks/useWarscrolls";
 import { regimentItemSum } from "../../Logic/pointSums";
 import RegimentItem from "../../Types/ListTypes/RegimentItem"
 import Unit, { defaultUnit } from "../../Types/ListTypes/Unit";
 import UnitBuilder from "./UnitBuilder";
 import useFactions from "../../Hooks/useFactions";
 import { useList } from "../../Hooks/useList";
+import { EnrichedWarscroll } from "../../Types/DataTypes/Warscroll";
 
 interface RegimentItemParams {
     item: RegimentItem

@@ -6,13 +6,15 @@ import { EnrichedAbility } from "../Types/DataTypes/Ability";
 
 export interface AbilityGroupViewerParams {
     abilityGroup: {
-        abilities: EnrichedAbility[]
+        abilities?: EnrichedAbility[]
         name: string
     }
 }
 
 export const AbilityGroupViewer: React.FC<AbilityGroupViewerParams> = ({ abilityGroup }) => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
+    
+    if(!abilityGroup.abilities) return <>dont use abilities</>
 
     if(abilityGroup.abilities.length === 1) return <AbilityViewer ability={abilityGroup.abilities[0]}  subtitle={abilityGroup.name}/>
 

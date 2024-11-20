@@ -1,6 +1,6 @@
-import { EnrichedWarscroll } from "../../Hooks/useWarscrolls";
 import AbilityAndCommandIcon from "./AbilityAndCommandIcon";
 import Phase from "./Phase";
+import { EnrichedWarscroll } from "./Warscroll";
 
 export interface Ability {
   id:                    string;

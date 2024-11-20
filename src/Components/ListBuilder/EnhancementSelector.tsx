@@ -2,7 +2,7 @@ import { useList } from "../../Hooks/useList";
 import { Col, Form, Row } from "react-bootstrap";
 import Unit from "../../Types/ListTypes/Unit";
 import useFactions from "../../Hooks/useFactions";
-import { EnrichedWarscroll } from "../../Hooks/useWarscrolls";
+import { EnrichedWarscroll } from "../../Types/DataTypes/Warscroll";
 
 interface EnhancementSelectorParams {
   unit: Unit | null;

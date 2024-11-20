@@ -1,6 +1,6 @@
 import { Table } from "react-bootstrap";
 import useKeywords from "../../Hooks/useKeywords";
-import { EnrichedWarscroll } from "../../Hooks/useWarscrolls";
+import { EnrichedWarscroll } from "../../Types/DataTypes/Warscroll";
 
 const WarscrollStatsSection: React.FC<{ warscroll: EnrichedWarscroll }> = ({ warscroll }) => {
     const { common } = useKeywords();

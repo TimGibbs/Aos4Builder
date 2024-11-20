@@ -8,7 +8,8 @@ import Unit, { defaultUnit } from '../Types/ListTypes/Unit';
 import Formation from '../Types/DataTypes/Formation';
 import useSavedLists from './useSavedLists';
 import RegimentItem from '../Types/ListTypes/RegimentItem';
-import useWarscrolls, { EnrichedWarscroll } from './useWarscrolls';
+import useWarscrolls from './useWarscrolls';
+import { EnrichedWarscroll } from '../Types/DataTypes/Warscroll';
 
 interface ListContextType {
   list: List
@@ -83,7 +84,7 @@ export const ListProvider: React.FC<{ children: ReactNode, value: List }> = ({ c
 
   const setRegimentLeader = (regimentId: number, warscroll: EnrichedWarscroll, isFixed: boolean = false) => {
     const regiment = list.regiments[regimentId];
-    const items: RegimentItem[] = warscroll.regimentOptions.map((o, i) => ({ units: [], warscrollRegimentOptionId: o.id, id: uuidV4() }));
+    const items: RegimentItem[] = warscroll.regimentOptions?.map((o, i) => ({ units: [], warscrollRegimentOptionId: o.id, id: uuidV4() })) ?? [];
     const unit: Unit = { ...defaultUnit(), warscrollId: warscroll.id }
     setRegiment({ ...regiment, leader: unit, regimentItems: items, fixedLeader: isFixed })
   };

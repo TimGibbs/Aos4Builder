@@ -4,8 +4,9 @@ import Faction from "../Types/DataTypes/Faction";
 import WarscrollFactionKeyword from "../Types/DataTypes/WarcrollFactionKeyword";
 import useFormations, { EnrichedFormation } from "./useFormations";
 import warscroll_faction_keywords from "../Data/WarscrollFactionKeywords";
-import useLores, { EnrichedLore } from "./useLores";
+import useLores from "./useLores";
 import useAbilityGroups, { EnrichedAbilityGroup } from "./useAbilityGroups";
+import { EnrichedLore } from "../Types/DataTypes/Lore";
 
 export interface EnrichedFaction extends Faction {
     formations: EnrichedFormation[]

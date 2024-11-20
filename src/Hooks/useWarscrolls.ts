@@ -1,24 +1,13 @@
 import { useMemo } from "react";
 import warscroll_keywords from "../Data/WarscrollKeywords";
 import warscrolls from "../Data/Warscrolls";
-import Warscroll from "../Types/DataTypes/Warscroll";
+import Warscroll, { EnrichedWarscroll } from "../Types/DataTypes/Warscroll";
 import useWarscrollAbilities from "./useWarscrollAbilities";
 import { EnrichedAbility } from "../Types/DataTypes/Ability";
 import useKeywords from "./useKeywords";
 import useWarscrollRegimentOptions, { EnrichedWarscrollRegimentOptions } from "./useWarscrollRegimentOptions";
 import { EnrichedWarscrollWeapon } from "../Types/DataTypes/WarscrollWeapon";
 import useWarscrollWeapons from "./useWarscrollWeapons";
-
-export interface EnrichedWarscroll extends Warscroll {
-    keywords : string[]
-    regimentOptions : EnrichedWarscrollRegimentOptions[]
-    abilities : EnrichedAbility[]
-    weapons : EnrichedWarscrollWeapon[]
-    isUnique : boolean
-    isHero : boolean
-    isTerrain : boolean
-    isManifestation : boolean
-} 
 
 export const useWarscrolls = () => {
     const abilities = useWarscrollAbilities();
@@ -40,7 +29,7 @@ const enrich = (warscroll : Warscroll, abilitiesArray : EnrichedAbility[], optio
     const isHero = unitKeywords.includes(heroKey);
     const isTerrain = unitKeywords.includes(terrainKey);
     const isManifestation = unitKeywords.includes(manifestationKey);
-    return {...warscroll, keywords: unitKeywords, regimentOptions, abilities, weapons, isUnique, isHero, isTerrain, isManifestation }
+    return {...warscroll, keywords: unitKeywords, regimentOptions, regimentOptionIds: regimentOptions.map(o=>o.id), abilities, abilityIds:abilities.map(o=>o.id), weapons, weaponIds:weapons.map(o=>o.id), isUnique, isHero, isTerrain, isManifestation }
 
 }
 

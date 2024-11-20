@@ -35,10 +35,10 @@ const AbilityCatalogue: React.FC = () => {
 
     const furtherFilteredWarscrolls = filteredWarscrolls.filter(o => (!warscrollId || o.id === warscrollId));
 
-    const warscrollAbilities: AbilityViewerParams[] = furtherFilteredWarscrolls.flatMap(o => o.abilities.map(p => ({ ability: p, subtitle: o.name })));
+    const warscrollAbilities: AbilityViewerParams[] = furtherFilteredWarscrolls.flatMap(o => o.abilities?.map(p => ({ ability: p, subtitle: o.name })) ?? []);
     const groupAbilities: AbilityViewerParams[] = filteredGroupAbilities.flatMap(o => o.abilities.map(p => ({ ability: p, subtitle: o.name })));
     const formationAbilities: AbilityViewerParams[] = filteredFormations.flatMap(o => o.abilities.map(p => ({ ability: p, subtitle: o.name })));
-    const loreAbilities: AbilityViewerParams[] = filteredLores.flatMap(o => o.abilities.map(p => ({ ability: p, subtitle: o.name })));
+    const loreAbilities: AbilityViewerParams[] = filteredLores.flatMap(o => o.abilities?.map(p => ({ ability: p, subtitle: o.name }))?? [] );
     const allAbilites: AbilityViewerParams[] = [...groupAbilities, ...warscrollAbilities, ...formationAbilities, ...loreAbilities]
 
     const viewers = allAbilites.filter(finalFilter).map(o => {

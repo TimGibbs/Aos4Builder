@@ -1,4 +1,4 @@
-import { EnrichedWarscroll } from "../Hooks/useWarscrolls";
+import { EnrichedWarscroll } from "../Types/DataTypes/Warscroll";
 
 const warscrollSort = (a : EnrichedWarscroll, b: EnrichedWarscroll) => {
     if (a.isHero && !b.isHero) {
