@@ -1,7 +1,5 @@
 import { Col, Container, Form, Row } from "react-bootstrap";
 import AbilityViewer, { AbilityViewerParams } from "../Components/AbilityViewer/AbilityViewer";
-import useWarscrolls from "../Hooks/useWarscrolls";
-import useFactions from "../Hooks/useFactions";
 import { useState } from "react";
 import useKeywords from "../Hooks/useKeywords";
 import NameAndIdAutocomplete from "../Components/NameAndIdAutocomplete";
@@ -13,14 +11,17 @@ const AbilityCatalogue: React.FC = () => {
     const [keywordId, setKeywordId] = useState<string | undefined>();
     const [abilityId, setAbilityId] = useState<string | undefined>();
 
-    const factions = useFactions();
-    const warscrolls = useWarscrolls();
     const { keywords } = useKeywords();
 
     const data = useData();
+    const factions = Object.values(data.factions);
 
-    const faction = factions.find(o => o.id === factionId);
-    const filteredWarscrolls = warscrolls.filter(o => (!faction || faction.warscrolls?.map(o => o.warscrollId).includes(o.id)))
+    const faction = factionId ? data.factions[factionId] : null;
+
+    const warscrolls = faction 
+        ? faction.warscrollIds.map(o=>data.warscrolls[o]) 
+        : Object.values(data.warscrolls) 
+
 
     const finalFilter = (o: AbilityViewerParams): boolean => (!abilityId || o.abilityId === abilityId);
 
@@ -62,7 +63,7 @@ const AbilityCatalogue: React.FC = () => {
             <Col lg={3} sm={6} xs={12}>
                 <Form.Group className="mb-3">
                     <Form.Label>Warscroll</Form.Label>
-                    <NameAndIdAutocomplete suggestions={filteredWarscrolls} setId={setWarscrollId} />
+                    <NameAndIdAutocomplete suggestions={warscrolls} setId={setWarscrollId} />
                 </Form.Group>
             </Col>
             <Col lg={3} sm={6} xs={12}>

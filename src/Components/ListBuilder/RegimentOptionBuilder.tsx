@@ -1,10 +1,8 @@
 import { Button } from "react-bootstrap";
-import useWarscrolls from "../../Hooks/useWarscrolls";
 import { regimentItemSum } from "../../Logic/pointSums";
 import RegimentItem from "../../Types/ListTypes/RegimentItem"
 import Unit, { defaultUnit } from "../../Types/ListTypes/Unit";
 import UnitBuilder from "./UnitBuilder";
-import useFactions from "../../Hooks/useFactions";
 import { useList } from "../../Hooks/useList";
 import { EnrichedWarscroll } from "../../Types/DataTypes/Warscroll";
 import { useData } from "../../Hooks/useData";
@@ -18,10 +16,8 @@ const RegimentItemBuilder: React.FC<RegimentItemParams> = ({ item, setItem }) =>
     const { list } = useList();
 
     const data = useData();
-
-    const allWarscrolls: EnrichedWarscroll[] = useWarscrolls()
-    const factions = useFactions()
-    const faction = factions.find(o => o.id === list.factionId);
+    const allWarscrolls = Object.values(data.warscrolls);
+    const faction = list.factionId ? data.factions[list.factionId] : null;
     const factionIds = new Set<string>(faction?.warscrolls?.map(o => o.warscrollId))
     const option = data.warscrollRegimentOptions[item.warscrollRegimentOptionId];
 

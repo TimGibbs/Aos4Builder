@@ -10,7 +10,7 @@ import ListNameSelector from "../Components/ListBuilder/ListNameSelector";
 import { useParams } from "react-router";
 import useSavedLists from "../Hooks/useSavedLists";
 import { useState } from "react";
-import useWarscrolls from "../Hooks/useWarscrolls";
+import { useData } from "../Hooks/useData";
 
 const ListBuilder: React.FC = () => {
     const { id } = useParams<{ id: string }>();
@@ -26,8 +26,8 @@ const ListBuilder: React.FC = () => {
 }
 
 const ListBuilderInternal: React.FC = () => {
-    const warscolls = useWarscrolls();
     const { list } = useList();
+    const data = useData();
     const { updateList } = useSavedLists();
     const [show, setShow] = useState(false);
     if (!list) return <></>
@@ -35,7 +35,7 @@ const ListBuilderInternal: React.FC = () => {
         <Button onClick={() => { updateList(list); setShow(true) }}>Save</Button>
         <SavedDiaglog close={() => setShow(false)} show={show} />
         <ListNameSelector />
-        <h5>{listSum(list, warscolls)}pts</h5>
+        <h5>{listSum(list, Object.values(data.warscrolls))}pts</h5>
         <FactionSelector />
         {list.factionId && <FormationSelector />}
         {list.factionId && <LoreSelector />}

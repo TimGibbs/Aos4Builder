@@ -2,10 +2,11 @@ import { useState } from "react";
 import { Card, Form } from "react-bootstrap";
 import Faction from "../../Types/DataTypes/Faction";
 import { useList } from "../../Hooks/useList";
-import useFactions from "../../Hooks/useFactions";
+import { useData } from "../../Hooks/useData";
 
 const FactionSelector: React.FC = () => {
-  const factions = useFactions();
+  const data = useData();
+  const factions = Object.values(data.factions);
   factions.sort((a, b) => a.name.localeCompare(b.name))
   return <Card>
     <Card.Title>
@@ -24,7 +25,10 @@ interface FactionSelectorParams {
 const InternalFactionSelector: React.FC<FactionSelectorParams> = ({ factions }) => {
   const { list, setFaction } = useList();
   const [fact, setFact] = useState<Faction | null>();
-  const allFactions = useFactions();
+
+  const data = useData();
+  const allFactions = Object.values(data.factions);
+
   const handleSelectChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     const selectedId = event.target.value;
     const selectedFaction = factions.find(x => x.id === selectedId) || null;

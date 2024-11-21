@@ -1,8 +1,8 @@
 import { useList } from "../../Hooks/useList";
 import { Col, Form, Row } from "react-bootstrap";
 import Unit from "../../Types/ListTypes/Unit";
-import useFactions from "../../Hooks/useFactions";
 import { EnrichedWarscroll } from "../../Types/DataTypes/Warscroll";
+import { useData } from "../../Hooks/useData";
 
 interface EnhancementSelectorParams {
   unit: Unit | null;
@@ -13,9 +13,9 @@ interface EnhancementSelectorParams {
 
 const EnhancementSelector: React.FC<EnhancementSelectorParams> = ({ unit, warscroll, setUnit }) => {
   const { list, allListUnits } = useList();
-  const factions = useFactions();
+  const data = useData();
   if (!list.factionId || !unit) return <></>
-  const faction = factions.find(o => o.id === list.factionId);
+  const faction = data.factions[list.factionId];
   const artifactFree = allListUnits.filter(o => o.artifactId).length === 0;
   const traitFree = allListUnits.filter(o => o.heroicTraitId).length === 0;
 

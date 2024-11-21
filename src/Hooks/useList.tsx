@@ -8,8 +8,8 @@ import Unit, { defaultUnit } from '../Types/ListTypes/Unit';
 import Formation from '../Types/DataTypes/Formation';
 import useSavedLists from './useSavedLists';
 import RegimentItem from '../Types/ListTypes/RegimentItem';
-import useWarscrolls from './useWarscrolls';
 import { EnrichedWarscroll } from '../Types/DataTypes/Warscroll';
+import { useData } from './useData';
 
 interface ListContextType {
   list: List
@@ -35,7 +35,7 @@ const ListContext = createContext<ListContextType | undefined>(undefined);
 export const ListProvider: React.FC<{ children: ReactNode, value: List }> = ({ children, value }) => {
   const { updateList } = useSavedLists();
   const [list, setListState] = useState<List>(value);
-  const warscrolls = useWarscrolls();
+  const data = useData();
 
   useEffect(() => console.log(list), [list]);
 
@@ -64,9 +64,9 @@ export const ListProvider: React.FC<{ children: ReactNode, value: List }> = ({ c
 
   const setFaction = (faction: Faction | null) => {
     updateListLocal({ ...defaultList(), name: list.name, id: list.id, factionId: faction?.id, auxiliaries: [] });
-    const general = warscrolls.find(o => o.id === faction?.rosterFactionKeywordRequiredGeneralWarscrollId);
-    if (faction?.rosterFactionKeywordRequiredGeneralWarscrollId && general) {
-      setRegimentLeader(0, general, true);
+    if (faction?.rosterFactionKeywordRequiredGeneralWarscrollId) {
+    const general = data.warscrolls[faction?.rosterFactionKeywordRequiredGeneralWarscrollId];
+    setRegimentLeader(0, general, true);
     }
   };
 

@@ -1,11 +1,13 @@
 import { Card, Form } from "react-bootstrap";
 import { useList } from "../../Hooks/useList";
-import useFormations from "../../Hooks/useFormations";
+import { useData } from "../../Hooks/useData";
 
 const FormationSelector: React.FC = () => {
   const { list, setFormation } = useList()
-  const allFormations = useFormations()
-  const formations = allFormations.filter(o => o.factionId === list.factionId);
+  const data = useData();
+
+  const faction = list.factionId ? data.factions[list.factionId] : null;
+  const formations = faction?.formationIds.map(o=>data.formations[o]);
   const handleSelectChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     const selectedId = event.target.value;
     const selectedFormation = formations?.find(x => x.id === selectedId) || null;

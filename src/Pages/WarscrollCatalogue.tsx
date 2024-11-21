@@ -1,22 +1,20 @@
 import { Col, Container, Form, Row } from "react-bootstrap";
-import useWarscrolls from "../Hooks/useWarscrolls";
-import useFactions from "../Hooks/useFactions";
 import { useState } from "react";
 import useKeywords from "../Hooks/useKeywords";
 import NameAndIdAutocomplete from "../Components/NameAndIdAutocomplete";
 import { WarscrollViewer } from "../Components/WarscrollViewer/WarscrollViewer";
+import { useData } from "../Hooks/useData";
 
 const WarscrollCatalogue: React.FC = () => {
     const [factionId, setFactionId] = useState<string | undefined>();
     const [warscrollId, setWarscrollId] = useState<string | undefined>();
     const [keywordId, setKeywordId] = useState<string | undefined>();
 
-    const factions = useFactions();
-    const warscrolls = useWarscrolls();
     const { keywords } = useKeywords();
-
-    const faction = factions.find(o => o.id === factionId);
-
+    const data = useData();
+    const factions = Object.values(data.factions);
+    const faction = factionId ? data.factions[factionId] : null;
+    const warscrolls = Object.values(data.warscrolls);
     const filteredWarscrolls = warscrolls
         .filter(o => (!faction || faction.warscrolls?.map(o => o.warscrollId).includes(o.id))
             && (!warscrollId || o.id === warscrollId)
@@ -32,7 +30,7 @@ const WarscrollCatalogue: React.FC = () => {
         setFactionId(selectedId);
     };
 
-    const viewers = filteredWarscrolls.map(o => <WarscrollViewer key={o.id} warscroll={o} includeAbilites={true} />)
+    const viewers = filteredWarscrolls.map(o => <WarscrollViewer key={o.id} warscrollId={o.id} includeAbilites={true} />)
 
     return <Container>
         <Row>

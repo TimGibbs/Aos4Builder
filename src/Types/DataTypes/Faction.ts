@@ -19,7 +19,6 @@ export interface EnrichedFaction extends Faction {
     formationIds: string[]
     warscrolls?: WarscrollFactionKeyword[]
     warscrollIds: string[]
-    lores?: EnrichedLore[]
     loreIds: string[]
     abilityGroups?: EnrichedAbilityGroup[]
     abilityGroupIds: string[]

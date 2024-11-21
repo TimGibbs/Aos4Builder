@@ -1,4 +1,4 @@
-import React, { createContext, useContext, ReactNode } from 'react';
+import React, { createContext, useContext, ReactNode, useMemo } from 'react';
 import Ability, { EnrichedAbility } from '../Types/DataTypes/Ability';
 import WarscrollAbilityKeyword from '../Types/DataTypes/WarscrollAbilityKeyword';
 import warscroll_abilities from '../Data/WarscrollAbilities';
@@ -53,6 +53,7 @@ interface DataContextReturn {
   formations : Record<string,EnrichedFormation>
   abilities: Record<string, EnrichedAbility>
   abilityGroups: Record<string, EnrichedAbilityGroup>
+  commonAbilityGroups: EnrichedAbilityGroup[]
   factions: Record<string, EnrichedFaction>
   keywords: Record<string, string>
   allAbilities : Record<string,EnrichedAbility>
@@ -65,25 +66,25 @@ export const DataProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
 
   const { common, dictionary } = useKeywords();
 
-  const warscrollAbilities = convertArrayToRecord(warscroll_abilities.map(o => enrichWarscrollAbility(o, warscroll_ability_keywords)));
-  const warscrollWeapons = convertArrayToRecord(warscroll_weapons.map(o => enrichWarscrollWeapon(o, warscroll_weapon_weapon_abilities)));
-  const warscrollregimentOptions = convertArrayToRecord(warscroll_regiment_options.map(o => enrichWarscrollRegiment(o, warscroll_regiment_option_excluded_keywords, warscroll_regiment_option_required_keywords)));
-  const warscollsa = convertArrayToRecord(warscrolls.map(o => enrichWarscroll(o, warscroll_abilities, warscroll_regiment_options, warscroll_weapons, common.unique, common.hero, common.terrain, common.manifestation)));
-  const weaponAbilities = convertArrayToRecord(weapon_abilities);
+  const value = useMemo(()=>{
+    const warscrollAbilities = convertArrayToRecord(warscroll_abilities.map(o => enrichWarscrollAbility(o, warscroll_ability_keywords)));
+    const warscrollWeapons = convertArrayToRecord(warscroll_weapons.map(o => enrichWarscrollWeapon(o, warscroll_weapon_weapon_abilities)));
+    const warscrollregimentOptions = convertArrayToRecord(warscroll_regiment_options.map(o => enrichWarscrollRegiment(o, warscroll_regiment_option_excluded_keywords, warscroll_regiment_option_required_keywords)));
+    const warscollsa = convertArrayToRecord(warscrolls.map(o => enrichWarscroll(o, warscroll_abilities, warscroll_regiment_options, warscroll_weapons, common.unique, common.hero, common.terrain, common.manifestation)));
+    const weaponAbilities = convertArrayToRecord(weapon_abilities);
+  
+    const loreAbilities = convertArrayToRecord(lore_abilities.map(o => enrichLoreAbility(o, lore_ability_keywords)));
+    const loresa = convertArrayToRecord(lores.map(o=>enrichLore(o, Object.values(loreAbilities), common.prayer, common.spell, common.summon)));
+  
+    const formationAbilities = convertArrayToRecord(formation_abilities.map(o => enrichFormationAbility(o, formation_ability_keywords)));
+    const formationsa = convertArrayToRecord(formations.map(o => enrichFormation(o, formation_abilities)));
+  
+    const abilitiesa = convertArrayToRecord(abilities.map(o=>enrichAbility(o,ability_keywords)));
+    const abilityGroups = convertArrayToRecord(ability_groups.map(o=>enrichAbilityGroup(o,abilities,ability_group_required_warscrolls)));
+    const commonAbilityGroups = Object.values(abilityGroups).filter(g=>!g.abilityGroupType && g.factionId===null && g.name!=="Spearhead Core Abilities")
+    const factionsa = convertArrayToRecord(factions.map(o=>enrichFaction(o, formations, warscroll_faction_keywords, lores, ability_groups)));
 
-  const loreAbilities = convertArrayToRecord(lore_abilities.map(o => enrichLoreAbility(o, lore_ability_keywords)));
-  const loresa = convertArrayToRecord(lores.map(o=>enrichLore(o, Object.values(loreAbilities), common.prayer, common.spell, common.summon)));
-
-  const formationAbilities = convertArrayToRecord(formation_abilities.map(o => enrichFormationAbility(o, formation_ability_keywords)));
-  const formationsa = convertArrayToRecord(formations.map(o => enrichFormation(o, formation_abilities)));
-
-  const abilitiesa = convertArrayToRecord(abilities.map(o=>enrichAbility(o,ability_keywords)));
-  const abilityGroups = convertArrayToRecord(ability_groups.map(o=>enrichAbilityGroup(o,abilities,ability_group_required_warscrolls)));
-
-  const factionsa = convertArrayToRecord(factions.map(o=>enrichFaction(o, formations, warscroll_faction_keywords, lores, ability_groups)));
-
-  return (
-    <DataContext.Provider value={{
+    return {
       warscrollAbilities,
       warscrollWeapons,
       warscrollRegimentOptions: warscrollregimentOptions,
@@ -95,10 +96,17 @@ export const DataProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
       formations: formationsa,
       abilities: abilitiesa,
       abilityGroups, 
+      commonAbilityGroups,
       factions : factionsa,
       keywords : dictionary,
       allAbilities : {...warscrollAbilities, ...loreAbilities, ...formationAbilities, ...abilitiesa}
-    }}>
+    }
+  }, [common, dictionary]);
+
+
+
+  return (
+    <DataContext.Provider value={value}>
       {children}
     </DataContext.Provider>
   );

@@ -1,13 +1,12 @@
 import { useList } from "../../Hooks/useList";
 import { Card } from "react-bootstrap";
 import { regimentSum } from "../../Logic/pointSums";
-import useFactions from "../../Hooks/useFactions";
-import useWarscrolls from "../../Hooks/useWarscrolls";
 import UnitBuilder from "./UnitBuilder";
 import Regiment from "../../Types/ListTypes/Regiment";
 import Unit from "../../Types/ListTypes/Unit";
 import RegimentItemBuilder from "./RegimentOptionBuilder";
 import RegimentItem, { defaultRegimentItem } from "../../Types/ListTypes/RegimentItem";
+import { useData } from "../../Hooks/useData";
 
 
 interface RegimentBuilderParams {
@@ -17,12 +16,12 @@ interface RegimentBuilderParams {
 
 const RegimentBuilder: React.FC<RegimentBuilderParams> = ({ regiment, setRegiment }) => {
     const { list } = useList();
-    const factions = useFactions();
-    const allWarscrolls = useWarscrolls();
 
-    const faction = factions.find(o => o.id === list.factionId)
-    const warscrollIds = new Set<string>(faction?.warscrolls?.map(o => o.warscrollId))
-    const factionWarscrolls = allWarscrolls.filter(o => warscrollIds.has(o.id));
+    const data = useData();
+
+    const faction = list.factionId ? data.factions[list.factionId] : null;
+    const warscrollIds = [...new Set<string>(faction?.warscrollIds)]
+    const factionWarscrolls =  warscrollIds.map(o=>data.warscrolls[o]);
 
     if (!faction) return <></>
 
@@ -43,7 +42,7 @@ const RegimentBuilder: React.FC<RegimentBuilderParams> = ({ regiment, setRegimen
 
     return <Card>
         <Card.Body>
-            <h6>{regimentSum(regiment, allWarscrolls)}pts</h6>
+            <h6>{regimentSum(regiment, factionWarscrolls)}pts</h6>
             <h6>{regiment.isGeneral ? "General" : "Leader"}</h6>
             <UnitBuilder unit={regiment.leader} setUnit={setLeader} warscrolls={warscrolls} />
             {regiment.leader && <>

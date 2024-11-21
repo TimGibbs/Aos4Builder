@@ -1,7 +1,4 @@
 import { Container, Form } from "react-bootstrap";
-import useFactions from "../Hooks/useFactions";
-import useLores from "../Hooks/useLores";
-import useWarscrolls from "../Hooks/useWarscrolls";
 import List from "../Types/ListTypes/List";
 import { WarscrollViewer } from "../Components/WarscrollViewer/WarscrollViewer";
 import { useParams } from "react-router-dom";
@@ -9,9 +6,9 @@ import useSavedLists from "../Hooks/useSavedLists";
 import AbilityGroupViewer from "../Components/AbilityGroupViewer";
 import { useState } from "react";
 import warscrollSort from "../Logic/warscrollSortingLogic";
-import useAbilityGroups from "../Hooks/useAbilityGroups";
 import notNull from "../Logic/notNull";
 import { EnrichedAbilityGroup } from "../Types/DataTypes/AbilityGroup";
+import { useData } from "../Hooks/useData";
 
 const ListDisplay: React.FC = () => {
     const { id } = useParams<{ id: string }>();
@@ -25,16 +22,13 @@ const ListDisplay: React.FC = () => {
 }
 
 const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
-    const factions = useFactions();
-    const warscrolls = useWarscrolls();
-    const lores = useLores();
-    const {common} = useAbilityGroups();
+    const data = useData();
     const [showBasic, setShowBasic] = useState<boolean>(false)
-    const faction = factions.find(o => o.id === list.factionId)
+    const faction = list.factionId ? data.factions[list.factionId] : null;
     const formation = faction?.formations?.find(o => o.id === list.formationId);
-    const spells = lores.find(o => o.id === list.spellLoreId);
-    const prayers = lores.find(o => o.id === list.prayerLoreId);
-    const manifestations = lores.find(o => o.id === list.manifestationLoreId);
+    const spells = list.spellLoreId ? data.lores[list.spellLoreId] : null;
+    const prayers = list.prayerLoreId ? data.lores[list.prayerLoreId] : null;
+    const manifestations = list.manifestationLoreId ? data.lores[list.manifestationLoreId] : null;
     const units = [...list.regiments.flatMap(o => [o.leader, ...o.regimentItems.flatMap(p => p.units)]), ...list.auxiliaries]
 
     if (list.terrain) {
@@ -42,9 +36,9 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
     }
 
     const warscrollids: string[] = units.filter(o => o.warscrollId !== null).map(o => o.warscrollId ?? "")
-    const warscrollIdSet = new Set<string>(warscrollids)
+    const warscrollIdSet = [...new Set<string>(warscrollids)]
 
-    const filteredWarscrolls = warscrolls.filter(o => warscrollIdSet.has(o.id)).sort(warscrollSort);
+    const filteredWarscrolls = warscrollIdSet.map(o=>data.warscrolls[o]).sort(warscrollSort);
 
     const battleTraits = faction?.abilityGroups?.find(o => o.abilityGroupType === "battleTraits")
 
@@ -64,7 +58,7 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
             onChange={()=>setShowBasic(s=>!s)}
         />
         <h2>Units</h2>
-        {filteredWarscrolls.map(o => <WarscrollViewer key={o.id} warscroll={o} includeAbilites={true} />)}
+        {filteredWarscrolls.map(o => <WarscrollViewer key={o.id} warscrollId={o.id} includeAbilites={true} />)}
         {(spells || prayers || manifestations) && <>
             <h2>Lores</h2>
             {spells && <AbilityGroupViewer abilityGroup={spells} />}
@@ -85,7 +79,7 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
         </>}
         {showBasic && <>
             <h2>Basic</h2>
-            {common.map(o=> <AbilityGroupViewer key={o.id} abilityGroup={o} />)}
+            {data.commonAbilityGroups.map(o=> <AbilityGroupViewer key={o.id} abilityGroup={o} />)}
         </>}
     </Container>
 }

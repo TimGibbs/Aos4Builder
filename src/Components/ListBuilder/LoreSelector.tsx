@@ -2,11 +2,12 @@ import { useList } from "../../Hooks/useList";
 import { Card, Col, Form, Row } from "react-bootstrap";
 import Lore from "../../Types/DataTypes/Lore";
 import { useEffect, useMemo, useState } from "react";
-import useLores from "../../Hooks/useLores";
+import { useData } from "../../Hooks/useData";
 
 const LoreSelector: React.FC = () => {
   const { list, setPrayerLore, setSpellLore, setManifestationLore } = useList();
-  const allLores = useLores()
+  const data = useData();
+  const allLores = Object.values(data.lores);
 
   const lores = useMemo(() => {
     const filtered = allLores.filter(o => o.factionId === null || o.factionId === list.factionId) ?? [];

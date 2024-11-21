@@ -7,17 +7,18 @@ import useIsMobile from "../../Hooks/useIsMobile";
 import MobileWeaponsSection from "./MobileWeaponsSection";
 import DesktopWeaponsSection from "./DesktopWeaponsSection";
 import WarscrollStatsSection from "./WarscrollStatsSection";
-import { EnrichedWarscroll } from "../../Types/DataTypes/Warscroll";
+import { useData } from "../../Hooks/useData";
 
 export interface WarscrollViewerParams {
-    warscroll: EnrichedWarscroll,
+    warscrollId: string,
     includeAbilites: boolean
 }
 
-export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, includeAbilites }) => {
+export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscrollId, includeAbilites }) => {
     const isMobile = useIsMobile();
+    const data = useData();
     const [isOpen, setIsOpen] = useState<boolean>(false);
-
+    const warscroll = data.warscrolls[warscrollId];
     return <Card className={`warscrollViewer`} style={{ marginBottom: "5px" }}>
         <Card.Header className={`d-flex justify-content-between align-items-center warscrollViewerHeader`} onClick={() => setIsOpen(!isOpen)}>
             <span className="flex-grow-1 text-center" style={{ height: "30px" }}>
