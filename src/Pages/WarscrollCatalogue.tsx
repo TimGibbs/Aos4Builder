@@ -15,11 +15,9 @@ const WarscrollCatalogue: React.FC = () => {
     const factions = Object.values(data.factions);
     const faction = factionId ? data.factions[factionId] : null;
     const warscrolls = Object.values(data.warscrolls);
-    const filteredWarscrolls = warscrolls
-        .filter(o => (!faction || faction.warscrolls?.map(o => o.warscrollId).includes(o.id))
-            && (!warscrollId || o.id === warscrollId)
-            && (!keywordId || o.keywords.includes(keywordId))
-        )
+    const filteredWarscrolls = (faction ? faction.warscrollIds.map(o=> data.warscrolls[o]) : warscrolls)
+    .filter(o => (!warscrollId || o.id === warscrollId)
+    && (!keywordId || o.keywords.includes(keywordId)))
 
     const handleFactionChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
 

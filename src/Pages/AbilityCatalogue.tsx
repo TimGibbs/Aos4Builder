@@ -6,8 +6,8 @@ import { useData } from "../Hooks/useData";
 
 const AbilityCatalogue: React.FC = () => {
     const [factionId, setFactionId] = useState<string | undefined>();
-    const [warscrollId, setWarscrollId] = useState<string | undefined>();
-    const [keywordId, setKeywordId] = useState<string | undefined>();
+    const [, setWarscrollId] = useState<string | undefined>();
+    const [, setKeywordId] = useState<string | undefined>();
     const [abilityId, setAbilityId] = useState<string | undefined>();
 
     const data = useData();
@@ -21,7 +21,7 @@ const AbilityCatalogue: React.FC = () => {
         ? faction.warscrollIds.map(o=>data.warscrolls[o]) 
         : Object.values(data.warscrolls) 
 
-
+    
     const finalFilter = (o: AbilityViewerParams): boolean => (!abilityId || o.abilityId === abilityId);
 
     const allAbilites = Object.values(data.allAbilities)
