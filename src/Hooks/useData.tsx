@@ -8,8 +8,7 @@ import WarscrollWeaponWeaponAbility from '../Types/DataTypes/WarscrollWeaponWeap
 import warscroll_weapons from '../Data/WarscrollWeapons';
 import warscroll_weapon_weapon_abilities from '../Data/WarscrollWeaponWeaponAbilities';
 import { WarscrollKeywordRequirement } from '../Types/DataTypes/WarscrollKeywordRequirement';
-import WarscrollRegimentOption from '../Types/DataTypes/WarscrollRegimentOptions';
-import { EnrichedWarscrollRegimentOptions } from './useWarscrollRegimentOptions';
+import WarscrollRegimentOption, { EnrichedWarscrollRegimentOptions } from '../Types/DataTypes/WarscrollRegimentOptions';
 import warscroll_regiment_options from '../Data/WarscrollRegimentOptions';
 import warscroll_regiment_option_excluded_keywords from '../Data/WarscrollRegimentOptionExcludedKeyword';
 import warscroll_regiment_option_required_keywords from '../Data/WarscrollRegimentOptionRequiredKeyword';
@@ -45,7 +44,7 @@ import factions from '../Data/Factions';
 interface DataContextReturn {
   warscrollAbilities: Record<string, EnrichedAbility>
   warscrollWeapons: Record<string, EnrichedWarscrollWeapon>
-  warscrollregimentOptions: Record<string, EnrichedWarscrollRegimentOptions>
+  warscrollRegimentOptions: Record<string, EnrichedWarscrollRegimentOptions>
   warscrolls: Record<string, EnrichedWarscroll>
   weaponAbilities: Record<string, Rule>
   loreAbilities: Record<string, EnrichedAbility>
@@ -56,10 +55,11 @@ interface DataContextReturn {
   abilityGroups: Record<string, EnrichedAbilityGroup>
   factions: Record<string, EnrichedFaction>
   keywords: Record<string, string>
+  allAbilities : Record<string,EnrichedAbility>
 }
 
 // Create a default context
-const DataContext = createContext<DataContextReturn | undefined>(undefined);
+export const DataContext = createContext<DataContextReturn | undefined>(undefined);
 
 export const DataProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
 
@@ -86,7 +86,7 @@ export const DataProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
     <DataContext.Provider value={{
       warscrollAbilities,
       warscrollWeapons,
-      warscrollregimentOptions,
+      warscrollRegimentOptions: warscrollregimentOptions,
       warscrolls: warscollsa,
       weaponAbilities,
       loreAbilities,
@@ -97,6 +97,7 @@ export const DataProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
       abilityGroups, 
       factions : factionsa,
       keywords : dictionary,
+      allAbilities : {...warscrollAbilities, ...loreAbilities, ...formationAbilities, ...abilitiesa}
     }}>
       {children}
     </DataContext.Provider>

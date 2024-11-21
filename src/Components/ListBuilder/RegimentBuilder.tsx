@@ -30,7 +30,7 @@ const RegimentBuilder: React.FC<RegimentBuilderParams> = ({ regiment, setRegimen
     const warscrolls = faction?.rosterFactionKeywordRequiredGeneralWarscrollId && regiment.isGeneral ? general ? [general] : [] : factionWarscrolls.filter(o => o.isHero) ?? [];
     const setLeader = (unit: Unit): void => {
         const warscroll = warscrolls.find(o => o.id === unit.warscrollId);
-        const items = warscroll?.regimentOptions?.map(o => defaultRegimentItem(o.id)) ?? [];
+        const items = warscroll?.regimentOptionIds?.map(o => defaultRegimentItem(o)) ?? [];
         setRegiment({ ...regiment, leader: unit, regimentItems: items })
     }
 

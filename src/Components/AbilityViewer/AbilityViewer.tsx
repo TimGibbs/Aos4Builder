@@ -1,6 +1,4 @@
 import { Accordion, Card } from "react-bootstrap";
-import { EnrichedAbility } from "../../Types/DataTypes/Ability";
-
 import abControl from "../../Images/abControl.png"
 import abDefensive from "../../Images/abDefensive.png"
 import abMovement from "../../Images/abMovement.png"
@@ -19,14 +17,18 @@ import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
 import { GiLightningBranches } from "react-icons/gi";
 import CpCost from "./CpCost";
 import { WarscrollViewer } from "../WarscrollViewer/WarscrollViewer";
+import { useData } from "../../Hooks/useData";
 
 export interface AbilityViewerParams {
-    ability: EnrichedAbility,
+    abilityId: string,
     subtitle?: string
 }
 
-export const AbilityViewer: React.FC<AbilityViewerParams> = ({ ability, subtitle }) => {
+export const AbilityViewer: React.FC<AbilityViewerParams> = ({ abilityId, subtitle }) => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
+
+    const data = useData();
+    const ability = data.allAbilities[abilityId];
     const { dictionary, common } = useKeywords();
 
     const filteredKeywords = ability.keywords.map(o => dictionary[o])

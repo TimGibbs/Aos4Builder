@@ -1,7 +1,6 @@
 import { Accordion, Card } from "react-bootstrap"
 import { useState } from "react";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
-import useWeaponAbilities from "../../Hooks/useWeaponAbilities";
 import AbilityViewer from "../AbilityViewer/AbilityViewer";
 import './WarscrollViewer.css';
 import useIsMobile from "../../Hooks/useIsMobile";
@@ -18,7 +17,6 @@ export interface WarscrollViewerParams {
 export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, includeAbilites }) => {
     const isMobile = useIsMobile();
     const [isOpen, setIsOpen] = useState<boolean>(false);
-    const weaponAbilites = useWeaponAbilities();
 
     return <Card className={`warscrollViewer`} style={{ marginBottom: "5px" }}>
         <Card.Header className={`d-flex justify-content-between align-items-center warscrollViewerHeader`} onClick={() => setIsOpen(!isOpen)}>
@@ -32,9 +30,9 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscroll, in
                 <>
                     <Card.Body style={{ whiteSpace: "pre-wrap" }}>
                         <WarscrollStatsSection warscroll={warscroll} />
-                        {!isMobile && warscroll.weapons && warscroll.weapons?.length > 0 && <DesktopWeaponsSection weapons={warscroll.weapons} weaponAbilites={weaponAbilites} />}
-                        {isMobile && warscroll.weapons && warscroll.weapons?.length > 0 && <MobileWeaponsSection weapons={warscroll.weapons} weaponAbilites={weaponAbilites} />}
-                        {includeAbilites && warscroll.abilities?.map(o => <AbilityViewer key={o.id} ability={o} />)}
+                        {!isMobile && warscroll.weaponIds && warscroll.weaponIds?.length > 0 && <DesktopWeaponsSection weaponIds={warscroll.weaponIds} />}
+                        {isMobile && warscroll.weaponIds && warscroll.weaponIds?.length > 0 && <MobileWeaponsSection weaponIds={warscroll.weaponIds} />}
+                        {includeAbilites && warscroll.abilityIds?.map(o => <AbilityViewer key={o} abilityId={o} />)}
                     </Card.Body>
                     <Card.Footer className="text-muted">{warscroll.referenceKeywords}</Card.Footer>
                 </>

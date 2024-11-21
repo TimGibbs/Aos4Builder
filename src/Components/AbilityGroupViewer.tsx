@@ -16,7 +16,7 @@ export const AbilityGroupViewer: React.FC<AbilityGroupViewerParams> = ({ ability
     
     if(!abilityGroup.abilities) return <>dont use abilities</>
 
-    if(abilityGroup.abilities.length === 1) return <AbilityViewer ability={abilityGroup.abilities[0]}  subtitle={abilityGroup.name}/>
+    if(abilityGroup.abilities.length === 1) return <AbilityViewer abilityId={abilityGroup.abilities[0].id}  subtitle={abilityGroup.name}/>
 
     return <Card className={`abilityGroupViewer`} style={{ marginBottom: "5px" }}>
         <Card.Header className={`d-flex justify-content-between align-items-center`} onClick={() => setIsOpen(!isOpen)}>
@@ -28,7 +28,7 @@ export const AbilityGroupViewer: React.FC<AbilityGroupViewerParams> = ({ ability
         <Accordion activeKey={isOpen ? '0' : undefined}>
             <Accordion.Collapse eventKey="0">
                 <Card.Body>
-                    {abilityGroup.abilities.map(o => <AbilityViewer key={o.id} ability={o} />)}
+                    {abilityGroup.abilities.map(o => <AbilityViewer key={o.id} abilityId={o.id} />)}
                 </Card.Body>
             </Accordion.Collapse>
         </Accordion>

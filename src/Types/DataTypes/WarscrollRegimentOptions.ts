@@ -11,4 +11,9 @@ export interface WarscrollRegimentOption {
     optionText:                     string;
 }
 
+export interface EnrichedWarscrollRegimentOptions extends WarscrollRegimentOption {
+    required : string[]
+    excluded : string[]
+}
+
 export default WarscrollRegimentOption;

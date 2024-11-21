@@ -1,9 +1,12 @@
 import { Table } from "react-bootstrap";
 import { GiPocketBow } from "react-icons/gi";
-import Rule from "../../Types/DataTypes/Rule";
-import { EnrichedWarscrollWeapon } from "../../Types/DataTypes/WarscrollWeapon";
+import { useData } from "../../Hooks/useData";
 
-const MobileWeaponsSection: React.FC<{ weapons: EnrichedWarscrollWeapon[], weaponAbilites: Record<string, Rule> }> = ({ weapons, weaponAbilites }) => {
+const MobileWeaponsSection: React.FC<{ weaponIds: string[] }> = ({ weaponIds }) => {
+
+    const data = useData();
+    const weapons = weaponIds.map(o=>data.warscrollWeapons[o]);
+    
     const footnoteArray = ['†', '‡', '§', 'ǁ', '¤', '¢']
     return <>
         <Table striped >
@@ -28,7 +31,7 @@ const MobileWeaponsSection: React.FC<{ weapons: EnrichedWarscrollWeapon[], weapo
                     <td>{o.wound}</td>
                     <td>{o.rend}</td>
                     <td>{o.damage}</td>
-                    <td style={{ textAlign: "left" }}>{o.weaponAbilities.map(p => weaponAbilites[p].name).join("\n")}</td>
+                    <td style={{ textAlign: "left" }}>{o.weaponAbilities.map(p => data.weaponAbilities[p].name).join("\n")}</td>
                 </tr>)}
             </tbody>
         </Table>

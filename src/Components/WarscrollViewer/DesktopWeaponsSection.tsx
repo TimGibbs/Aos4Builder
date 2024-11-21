@@ -1,8 +1,10 @@
 import { Table } from "react-bootstrap";
-import Rule from "../../Types/DataTypes/Rule";
-import { EnrichedWarscrollWeapon } from "../../Types/DataTypes/WarscrollWeapon";
+import { useData } from "../../Hooks/useData";
 
-const DesktopWeaponsSection: React.FC<{ weapons: EnrichedWarscrollWeapon[], weaponAbilites: Record<string, Rule> }> = ({ weapons, weaponAbilites }) => {
+const DesktopWeaponsSection: React.FC<{ weaponIds: string[] }> = ({ weaponIds }) => {
+
+    const data = useData();
+    const weapons = weaponIds.map(o=>data.warscrollWeapons[o]);
     return <Table striped >
         <thead>
             <tr>
@@ -25,7 +27,7 @@ const DesktopWeaponsSection: React.FC<{ weapons: EnrichedWarscrollWeapon[], weap
                 <td>{o.wound}</td>
                 <td>{o.rend}</td>
                 <td>{o.damage}</td>
-                <td style={{ textAlign: "left" }}>{o.weaponAbilities.map(p => weaponAbilites[p].name).join("\n")}</td>
+                <td style={{ textAlign: "left" }}>{o.weaponAbilities.map(p => data.weaponAbilities[p].name).join("\n")}</td>
             </tr>)}
         </tbody>
     </Table>

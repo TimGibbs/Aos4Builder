@@ -84,7 +84,7 @@ export const ListProvider: React.FC<{ children: ReactNode, value: List }> = ({ c
 
   const setRegimentLeader = (regimentId: number, warscroll: EnrichedWarscroll, isFixed: boolean = false) => {
     const regiment = list.regiments[regimentId];
-    const items: RegimentItem[] = warscroll.regimentOptions?.map((o, i) => ({ units: [], warscrollRegimentOptionId: o.id, id: uuidV4() })) ?? [];
+    const items: RegimentItem[] = warscroll.regimentOptionIds?.map((o, i) => ({ units: [], warscrollRegimentOptionId: o, id: uuidV4() })) ?? [];
     const unit: Unit = { ...defaultUnit(), warscrollId: warscroll.id }
     setRegiment({ ...regiment, leader: unit, regimentItems: items, fixedLeader: isFixed })
   };
