@@ -1,6 +1,5 @@
 import { Col, Container, Form, Row } from "react-bootstrap";
 import { useState } from "react";
-import useKeywords from "../Hooks/useKeywords";
 import NameAndIdAutocomplete from "../Components/NameAndIdAutocomplete";
 import { WarscrollViewer } from "../Components/WarscrollViewer/WarscrollViewer";
 import { useData } from "../Hooks/useData";
@@ -10,8 +9,9 @@ const WarscrollCatalogue: React.FC = () => {
     const [warscrollId, setWarscrollId] = useState<string | undefined>();
     const [keywordId, setKeywordId] = useState<string | undefined>();
 
-    const { keywords } = useKeywords();
     const data = useData();
+    const keywords = Object.values(data.keywords)
+
     const factions = Object.values(data.factions);
     const faction = factionId ? data.factions[factionId] : null;
     const warscrolls = Object.values(data.warscrolls);

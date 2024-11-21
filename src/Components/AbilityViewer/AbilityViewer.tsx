@@ -9,7 +9,6 @@ import abSpecial from "../../Images/abSpecial.png"
 import abDamaged from "../../Images/abDamage.png"
 
 import './AbilityViewer.css'
-import useKeywords from "../../Hooks/useKeywords";
 import SpellCost from "./SpellCost";
 import PrayerCost from "./PrayerCost";
 import { useState } from "react";
@@ -29,9 +28,8 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ abilityId, subtit
 
     const data = useData();
     const ability = data.allAbilities[abilityId];
-    const { dictionary, common } = useKeywords();
-
-    const filteredKeywords = ability.keywords.map(o => dictionary[o])
+    const common = data.commonKeywords;
+    const filteredKeywords = ability.keywords.map(o => data.keywords[o].name)
     let icon: string = "";
 
     switch (ability.abilityAndCommandIcon) {

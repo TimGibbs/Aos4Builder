@@ -1,7 +1,6 @@
 import { Col, Container, Form, Row } from "react-bootstrap";
 import AbilityViewer, { AbilityViewerParams } from "../Components/AbilityViewer/AbilityViewer";
 import { useState } from "react";
-import useKeywords from "../Hooks/useKeywords";
 import NameAndIdAutocomplete from "../Components/NameAndIdAutocomplete";
 import { useData } from "../Hooks/useData";
 
@@ -11,9 +10,9 @@ const AbilityCatalogue: React.FC = () => {
     const [keywordId, setKeywordId] = useState<string | undefined>();
     const [abilityId, setAbilityId] = useState<string | undefined>();
 
-    const { keywords } = useKeywords();
-
     const data = useData();
+    const keywords = Object.values(data.keywords)
+
     const factions = Object.values(data.factions);
 
     const faction = factionId ? data.factions[factionId] : null;
