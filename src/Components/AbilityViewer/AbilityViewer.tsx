@@ -1,22 +1,15 @@
+import { useState } from "react";
 import { Accordion, Card } from "react-bootstrap";
-import abControl from "../../Images/abControl.png"
-import abDefensive from "../../Images/abDefensive.png"
-import abMovement from "../../Images/abMovement.png"
-import abOffensive from "../../Images/abOffensive.png"
-import abRallying from "../../Images/abRallying.png"
-import abShooting from "../../Images/abShooting.png"
-import abSpecial from "../../Images/abSpecial.png"
-import abDamaged from "../../Images/abDamage.png"
 
 import './AbilityViewer.css'
 import SpellCost from "./SpellCost";
 import PrayerCost from "./PrayerCost";
-import { useState } from "react";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
 import { GiLightningBranches } from "react-icons/gi";
 import CpCost from "./CpCost";
-import { WarscrollViewer } from "../WarscrollViewer/WarscrollViewer";
+import WarscrollViewer from "../WarscrollViewer/WarscrollViewer";
 import { useData } from "../../Hooks/useData";
+import { abControl, abDamaged, abDefensive, abMovement, abOffensive, abRallying, abShooting, abSpecial } from "../../Images/abIcons";
 
 export interface AbilityViewerParams {
     abilityId: string,

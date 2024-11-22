@@ -1,9 +1,4 @@
-import abilities from "../Data/Abilities";
-import factions from "../Data/Factions";
-import formations from "../Data/Formations";
-import lores from "../Data/Lores";
-import warscroll_regiment_options from "../Data/WarscrollRegimentOptions";
-import warscrolls from "../Data/Warscrolls";
+import { abilities, factions, formations, lores, warscroll_regiment_options, warscrolls } from "../Data/AllData";
 import List from "../Types/ListTypes/List";
 import Regiment from "../Types/ListTypes/Regiment";
 import Unit, { defaultUnit } from "../Types/ListTypes/Unit";

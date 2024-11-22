@@ -1,15 +1,12 @@
 import React, { createContext, useContext, useState, ReactNode, useEffect, useMemo } from 'react';
 import List, { defaultList } from '../Types/ListTypes/List';
 import { v4 as uuidV4 } from 'uuid'
-import Faction from '../Types/DataTypes/Faction';
 import Regiment from '../Types/ListTypes/Regiment';
-import Lore from '../Types/DataTypes/Lore';
 import Unit, { defaultUnit } from '../Types/ListTypes/Unit';
-import Formation from '../Types/DataTypes/Formation';
 import useSavedLists from './useSavedLists';
 import RegimentItem from '../Types/ListTypes/RegimentItem';
-import { EnrichedWarscroll } from '../Types/DataTypes/Warscroll';
 import { useData } from './useData';
+import { EnrichedWarscroll, Faction, Formation, Lore } from '../Types/DataTypes/AllDataTypes';
 
 interface ListContextType {
   list: List

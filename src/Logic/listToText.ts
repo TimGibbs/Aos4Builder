@@ -1,8 +1,5 @@
-import abilities from "../Data/Abilities";
-import factions from "../Data/Factions";
-import formations from "../Data/Formations";
-import lores from "../Data/Lores";
-import warscrolls from "../Data/Warscrolls";
+
+import { abilities, factions, formations, lores, warscrolls } from "../Data/AllData";
 import List from "../Types/ListTypes/List";
 import Unit from "../Types/ListTypes/Unit";
 import { listSum, unitsCost } from "./pointSums";
