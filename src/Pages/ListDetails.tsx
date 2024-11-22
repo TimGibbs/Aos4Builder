@@ -50,7 +50,6 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
         const abilityIds = o.abilityIds.filter(p => enhancementIds.includes(p)) ?? []
         return {...o, abilityIds}
     }).filter(o=>o.abilityIds.length >0) ?? []
-    console.log(enhancements);
 
     return <Container>
         <Form.Check style={{ textAlign: "left" }}
