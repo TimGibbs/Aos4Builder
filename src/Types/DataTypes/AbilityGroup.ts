@@ -19,7 +19,6 @@ export interface AbilityGroup {
 export type AbilityGroupType = "heroicTraits" | "artefactsOfPower" | "battleTraits" | "spearheadEnhancements" | "regimentOfRenown" | "regimentAbilities" | "otherEnhancements";
 
 export interface EnrichedAbilityGroup extends AbilityGroup {
-    abilities?: EnrichedAbility[]
     abilityIds: string[]
     warscrollIds: string[]
 }

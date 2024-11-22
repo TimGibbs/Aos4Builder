@@ -18,7 +18,7 @@ const RegimentItemBuilder: React.FC<RegimentItemParams> = ({ item, setItem }) =>
     const data = useData();
     const allWarscrolls = Object.values(data.warscrolls);
     const faction = list.factionId ? data.factions[list.factionId] : null;
-    const factionIds = new Set<string>(faction?.warscrolls?.map(o => o.warscrollId))
+    const factionIds = new Set<string>(faction?.warscrollIds)
     const option = data.warscrollRegimentOptions[item.warscrollRegimentOptionId];
 
     const max = option?.childQuantity !== "any" ? 1 : 1000;

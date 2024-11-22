@@ -2,21 +2,18 @@ import { useState } from "react";
 import { Accordion, Card } from "react-bootstrap";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
 import AbilityViewer from "./AbilityViewer/AbilityViewer";
-import { EnrichedAbility } from "../Types/DataTypes/Ability";
 
 export interface AbilityGroupViewerParams {
     abilityGroup: {
-        abilities?: EnrichedAbility[]
+        abilityIds: string[]
         name: string
     }
 }
 
 export const AbilityGroupViewer: React.FC<AbilityGroupViewerParams> = ({ abilityGroup }) => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
-    
-    if(!abilityGroup.abilities) return <>dont use abilities</>
 
-    if(abilityGroup.abilities.length === 1) return <AbilityViewer abilityId={abilityGroup.abilities[0].id}  subtitle={abilityGroup.name}/>
+    if(abilityGroup.abilityIds.length === 1) return <AbilityViewer abilityId={abilityGroup.abilityIds[0]}  subtitle={abilityGroup.name}/>
 
     return <Card className={`abilityGroupViewer`} style={{ marginBottom: "5px" }}>
         <Card.Header className={`d-flex justify-content-between align-items-center`} onClick={() => setIsOpen(!isOpen)}>
@@ -28,7 +25,7 @@ export const AbilityGroupViewer: React.FC<AbilityGroupViewerParams> = ({ ability
         <Accordion activeKey={isOpen ? '0' : undefined}>
             <Accordion.Collapse eventKey="0">
                 <Card.Body>
-                    {abilityGroup.abilities.map(o => <AbilityViewer key={o.id} abilityId={o.id} />)}
+                    {abilityGroup.abilityIds.map(o => <AbilityViewer key={o} abilityId={o} />)}
                 </Card.Body>
             </Accordion.Collapse>
         </Accordion>

@@ -25,7 +25,7 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
     const data = useData();
     const [showBasic, setShowBasic] = useState<boolean>(false)
     const faction = list.factionId ? data.factions[list.factionId] : null;
-    const formation = faction?.formations?.find(o => o.id === list.formationId);
+    const formation = list.formationId ? data.formations[list.formationId] : null; 
     const spells = list.spellLoreId ? data.lores[list.spellLoreId] : null;
     const prayers = list.prayerLoreId ? data.lores[list.prayerLoreId] : null;
     const manifestations = list.manifestationLoreId ? data.lores[list.manifestationLoreId] : null;
@@ -40,14 +40,17 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
 
     const filteredWarscrolls = warscrollIdSet.map(o=>data.warscrolls[o]).sort(warscrollSort);
 
-    const battleTraits = faction?.abilityGroups?.find(o => o.abilityGroupType === "battleTraits")
+    const abilityGroups = faction?.abilityGroupIds.map(o=>data.abilityGroups[o]);
+
+    const battleTraits = abilityGroups?.find(o => o.abilityGroupType === "battleTraits")
 
     const enhancementIds : string[] = units.flatMap((o)=>[o.artifactId, o.heroicTraitId, ...(o.otherEnhancements ? Object.values(o.otherEnhancements):[])].filter(notNull))
 
-    const enhancements : EnrichedAbilityGroup[] = faction?.abilityGroups?.map(o=>{
-        const abilities = o.abilities?.filter(p => enhancementIds.includes(p.id)) ?? []
-        return {...o, abilities}
-    }).filter(o=>o.abilities.length >0) ?? []
+    const enhancements : EnrichedAbilityGroup[] = abilityGroups?.map(o=>{
+        const abilityIds = o.abilityIds.filter(p => enhancementIds.includes(p)) ?? []
+        return {...o, abilityIds}
+    }).filter(o=>o.abilityIds.length >0) ?? []
+    console.log(enhancements);
 
     return <Container>
         <Form.Check style={{ textAlign: "left" }}
