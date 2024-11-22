@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Accordion, Card } from "react-bootstrap";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
-import AbilityViewer from "./AbilityViewer/AbilityViewer";
+import MemoizedAbilityViewer from "./AbilityViewer/MemoizedAbilityViewer";
 
 export interface AbilityGroupViewerParams {
     abilityGroup: {
@@ -13,7 +13,7 @@ export interface AbilityGroupViewerParams {
 export const AbilityGroupViewer: React.FC<AbilityGroupViewerParams> = ({ abilityGroup }) => {
     const [isOpen, setIsOpen] = useState<boolean>(false);
 
-    if(abilityGroup.abilityIds.length === 1) return <AbilityViewer abilityId={abilityGroup.abilityIds[0]}  subtitle={abilityGroup.name}/>
+    if(abilityGroup.abilityIds.length === 1) return <MemoizedAbilityViewer abilityId={abilityGroup.abilityIds[0]}  subtitle={abilityGroup.name}/>
 
     return <Card className={`abilityGroupViewer`} style={{ marginBottom: "5px" }}>
         <Card.Header className={`d-flex justify-content-between align-items-center`} onClick={() => setIsOpen(!isOpen)}>
@@ -25,7 +25,7 @@ export const AbilityGroupViewer: React.FC<AbilityGroupViewerParams> = ({ ability
         <Accordion activeKey={isOpen ? '0' : undefined}>
             <Accordion.Collapse eventKey="0">
                 <Card.Body>
-                    {abilityGroup.abilityIds.map(o => <AbilityViewer key={o} abilityId={o} />)}
+                    {abilityGroup.abilityIds.map(o => <MemoizedAbilityViewer key={o} abilityId={o} />)}
                 </Card.Body>
             </Accordion.Collapse>
         </Accordion>

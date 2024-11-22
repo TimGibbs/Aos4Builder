@@ -1,8 +1,9 @@
 import { Col, Container, Form, Row } from "react-bootstrap";
-import AbilityViewer, { AbilityViewerParams } from "../Components/AbilityViewer/AbilityViewer";
+import { AbilityViewerParams } from "../Components/AbilityViewer/AbilityViewer";
 import { useState } from "react";
 import NameAndIdAutocomplete from "../Components/NameAndIdAutocomplete";
 import { useData } from "../Hooks/useData";
+import MemoizedAbilityViewer from "../Components/AbilityViewer/MemoizedAbilityViewer";
 
 const AbilityCatalogue: React.FC = () => {
     const [factionId, setFactionId] = useState<string | undefined>();
@@ -30,7 +31,7 @@ const AbilityCatalogue: React.FC = () => {
 
 
     const viewers = allIds.filter(finalFilter).map(o => {
-        return <AbilityViewer key={o.abilityId} abilityId={o.abilityId} subtitle={o.subtitle} />
+        return <MemoizedAbilityViewer key={o.abilityId} abilityId={o.abilityId} subtitle={o.subtitle} />
     })
 
     const handleFactionChange = (event: React.ChangeEvent<HTMLSelectElement>) => {

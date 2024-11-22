@@ -1,15 +1,14 @@
 import { useState } from "react";
 import { Accordion, Card } from "react-bootstrap";
-
-import './AbilityViewer.css'
 import SpellCost from "./SpellCost";
 import PrayerCost from "./PrayerCost";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
 import { GiLightningBranches } from "react-icons/gi";
 import CpCost from "./CpCost";
-import WarscrollViewer from "../WarscrollViewer/WarscrollViewer";
 import { useData } from "../../Hooks/useData";
 import { abControl, abDamaged, abDefensive, abMovement, abOffensive, abRallying, abShooting, abSpecial } from "../../Images/abIcons";
+import MemoizedWarscrollViewer from "../WarscrollViewer/MemoizedWarscrollViewer";
+import './AbilityViewer.css'
 
 export interface AbilityViewerParams {
     abilityId: string,
@@ -68,7 +67,7 @@ export const AbilityViewer: React.FC<AbilityViewerParams> = ({ abilityId, subtit
                     <Card.Body style={{ whiteSpace: "pre-wrap" }}>
                         {ability.declare && <>{"Declare: " + ability.declare}<br /></>}
                         {"Effect: " + ability.effect}
-                        {ability.linkedWarscrollId && <WarscrollViewer warscrollId={ability.linkedWarscrollId} includeAbilites={true} />}
+                        {ability.linkedWarscrollId && <MemoizedWarscrollViewer warscrollId={ability.linkedWarscrollId} includeAbilites={true} />}
                     </Card.Body>
                     <Card.Footer className="text-muted">{filteredKeywords.join(" ")}</Card.Footer>
                 </>

@@ -1,6 +1,5 @@
 import { Container, Form } from "react-bootstrap";
 import List from "../Types/ListTypes/List";
-import { WarscrollViewer } from "../Components/WarscrollViewer/WarscrollViewer";
 import { useParams } from "react-router-dom";
 import useSavedLists from "../Hooks/useSavedLists";
 import AbilityGroupViewer from "../Components/AbilityGroupViewer";
@@ -9,6 +8,7 @@ import warscrollSort from "../Logic/warscrollSortingLogic";
 import notNull from "../Logic/notNull";
 import { EnrichedAbilityGroup } from "../Types/DataTypes/AbilityGroup";
 import { useData } from "../Hooks/useData";
+import MemoizedWarscrollViewer from "../Components/WarscrollViewer/MemoizedWarscrollViewer";
 
 const ListDisplay: React.FC = () => {
     const { id } = useParams<{ id: string }>();
@@ -60,7 +60,7 @@ const WarscrollAndAbilitiesDisplay: React.FC<{ list: List }> = ({ list }) => {
             onChange={()=>setShowBasic(s=>!s)}
         />
         <h2>Units</h2>
-        {filteredWarscrolls.map(o => <WarscrollViewer key={o.id} warscrollId={o.id} includeAbilites={true} />)}
+        {filteredWarscrolls.map(o => <MemoizedWarscrollViewer key={o.id} warscrollId={o.id} includeAbilites={true} />)}
         {(spells || prayers || manifestations) && <>
             <h2>Lores</h2>
             {spells && <AbilityGroupViewer abilityGroup={spells} />}

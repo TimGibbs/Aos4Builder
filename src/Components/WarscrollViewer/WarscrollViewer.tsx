@@ -1,13 +1,13 @@
 import { Accordion, Card } from "react-bootstrap"
 import { useState } from "react";
 import { FaChevronCircleDown, FaChevronCircleUp } from "react-icons/fa";
-import AbilityViewer from "../AbilityViewer/AbilityViewer";
 import './WarscrollViewer.css';
 import useIsMobile from "../../Hooks/useIsMobile";
 import MobileWeaponsSection from "./MobileWeaponsSection";
 import DesktopWeaponsSection from "./DesktopWeaponsSection";
 import WarscrollStatsSection from "./WarscrollStatsSection";
 import { useData } from "../../Hooks/useData";
+import MemoizedAbilityViewer from "../AbilityViewer/MemoizedAbilityViewer";
 
 export interface WarscrollViewerParams {
     warscrollId: string,
@@ -33,7 +33,7 @@ export const WarscrollViewer: React.FC<WarscrollViewerParams> = ({ warscrollId, 
                         <WarscrollStatsSection warscroll={warscroll} />
                         {!isMobile && warscroll.weaponIds && warscroll.weaponIds?.length > 0 && <DesktopWeaponsSection weaponIds={warscroll.weaponIds} />}
                         {isMobile && warscroll.weaponIds && warscroll.weaponIds?.length > 0 && <MobileWeaponsSection weaponIds={warscroll.weaponIds} />}
-                        {includeAbilites && warscroll.abilityIds?.map(o => <AbilityViewer key={o} abilityId={o} />)}
+                        {includeAbilites && warscroll.abilityIds?.map(o => <MemoizedAbilityViewer key={o} abilityId={o} />)}
                     </Card.Body>
                     <Card.Footer className="text-muted">{warscroll.referenceKeywords}</Card.Footer>
                 </>
