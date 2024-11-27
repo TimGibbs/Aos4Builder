@@ -54,10 +54,6 @@ export const keywords : Keyword[] = [
     "name": "Reinforcements"
   },
   {
-    "id": "c0cab2ed-0c29-4667-8b6b-c786d1c09552",
-    "name": "Coven Matriarch"
-  },
-  {
     "id": "aba623e6-1b54-4b06-a16b-35069c5561c9",
     "name": "Akhelian"
   },
@@ -68,10 +64,6 @@ export const keywords : Keyword[] = [
   {
     "id": "6ac0f320-9346-48e7-bed2-ee88f9055639",
     "name": "Standard Bearer"
-  },
-  {
-    "id": "e1c9deb8-f0b7-4ffb-9cf6-69492bbd4475",
-    "name": "Oathsworn"
   },
   {
     "id": "d45c0809-bf31-472f-ba9e-e1028994e833",
@@ -104,10 +96,6 @@ export const keywords : Keyword[] = [
   {
     "id": "22c9a07b-daab-4b18-bc5b-05b61e6e9384",
     "name": "Namarti"
-  },
-  {
-    "id": "850f864f-17f7-4243-9533-68d4db44c756",
-    "name": "Akhelian Raidmaster"
   },
   {
     "id": "ab5ac0a0-9256-48cd-bd6f-f9ed065989cb",
@@ -148,10 +136,6 @@ export const keywords : Keyword[] = [
   {
     "id": "a5e54252-1b9d-42a7-afa6-98b8599437da",
     "name": "Maw‑grunta"
-  },
-  {
-    "id": "969b89e4-7db8-46bc-9007-b9da5cd923d9",
-    "name": "Slaaneshi Beguiler or Dark Egotist"
   },
   {
     "id": "0fbbc5b3-0b77-45cc-bcd4-9bdae04a3e7e",
@@ -198,28 +182,12 @@ export const keywords : Keyword[] = [
     "name": "Khinerai"
   },
   {
-    "id": "b004dcae-9c25-49ea-bc0c-84e64ddf19d2",
-    "name": "Stormcast Exemplar"
-  },
-  {
     "id": "7feb005a-0116-4d0b-8404-ab1b3d9b0090",
     "name": "Priest"
   },
   {
-    "id": "94c09266-08a2-420a-820a-f808d46e1521",
-    "name": "Skink Starpriest or Favoured Spawning"
-  },
-  {
-    "id": "2fc8d4c8-e30c-4c91-b142-3a5fc0555b86",
-    "name": "Akhelian Raidmaster or Isharann Emissary"
-  },
-  {
     "id": "ccde5d07-5d77-4247-8586-2e5aec56755e",
     "name": "Prayer"
-  },
-  {
-    "id": "9d52a4b5-5b7f-4da9-acca-536f6ff4abf5",
-    "name": "Favoured Spawning"
   },
   {
     "id": "f0f5a2fa-c5a0-4ead-99a7-9632f40f2ce3",
@@ -262,10 +230,6 @@ export const keywords : Keyword[] = [
     "name": "Musician"
   },
   {
-    "id": "79049940-8589-4afa-9930-67ae4c79d352",
-    "name": "Moonclan Agitator"
-  },
-  {
     "id": "fbf74ee9-052e-4f0a-98ed-0f9cdc3bf049",
     "name": "Spell"
   },
@@ -278,20 +242,12 @@ export const keywords : Keyword[] = [
     "name": "Saurus"
   },
   {
-    "id": "bd5128a7-dc33-4264-851e-5f3bd1e28c48",
-    "name": "Bloodbound Warmonger"
-  },
-  {
     "id": "365dd227-12e3-4564-acbb-f86cc3cf16ab",
     "name": "Troggoth"
   },
   {
     "id": "aea22b3b-fc72-4582-81a9-f666c30760aa",
     "name": "Alarith"
-  },
-  {
-    "id": "ef634e9e-b204-458e-a0a8-c4d76761aed2",
-    "name": "Lumineth Paragon"
   },
   {
     "id": "34665e44-16d5-4555-a0f1-b38337c18de6",
@@ -304,10 +260,6 @@ export const keywords : Keyword[] = [
   {
     "id": "0920ce83-d3c2-4710-ace8-2c60ff4c1e1a",
     "name": "Hurakan"
-  },
-  {
-    "id": "f9eca102-031e-4327-b60e-d77982abe4f5",
-    "name": "Dark Egotist"
   },
   {
     "id": "49d1639d-d7fb-460a-88ab-62d1283e51b1",
@@ -326,10 +278,6 @@ export const keywords : Keyword[] = [
     "name": "Beast"
   },
   {
-    "id": "f214f7b1-3376-4fb5-ab01-bdc87a06cbfd",
-    "name": "Cursed Soul"
-  },
-  {
     "id": "bf03b355-0278-4bae-ae6b-4ab4c4dd3195",
     "name": "Arachnarok"
   },
@@ -340,10 +288,6 @@ export const keywords : Keyword[] = [
   {
     "id": "71cdc0fa-c3e4-46f5-ab8f-eeb5aaca62f4",
     "name": "Aura of Dread"
-  },
-  {
-    "id": "80ae2c7e-53bd-4c49-8c86-9696254898f0",
-    "name": "Isharann Emissary"
   },
   {
     "id": "80591aa6-74a8-4caf-8536-36538a33c168",
@@ -362,14 +306,6 @@ export const keywords : Keyword[] = [
     "name": "Slaanesh"
   },
   {
-    "id": "cbd62068-7c32-46ea-90c5-6c7b14fd878d",
-    "name": "Flesh-eater Noble"
-  },
-  {
-    "id": "2fbcbe74-9f21-467a-888c-a738bb5184af",
-    "name": "Skaven Overclaw"
-  },
-  {
     "id": "aad474f4-18bc-431a-9e2b-8b86ff9e8537",
     "name": "Khorne"
   },
@@ -378,16 +314,8 @@ export const keywords : Keyword[] = [
     "name": "Vanguard-Palladors"
   },
   {
-    "id": "ee9b53a8-7826-4cb6-a161-5d0634c7e127",
-    "name": "Rotbringer Lord"
-  },
-  {
     "id": "1731a641-275a-4c74-acb3-1bdc94502481",
     "name": "Deploy Terrain"
-  },
-  {
-    "id": "8368b609-2bb8-484b-9f8a-d9e25414c76d",
-    "name": "Slaaneshi Beguiler"
   },
   {
     "id": "6d544b22-507b-4f16-8a97-4ef993ef05d3",
@@ -402,16 +330,8 @@ export const keywords : Keyword[] = [
     "name": "Relentless Discipline"
   },
   {
-    "id": "0cb48ee2-fd56-47a3-b709-159a5b63f817",
-    "name": "Guild Officer"
-  },
-  {
     "id": "6ba150f1-91c6-4c1e-8bbd-24d1ebb0bdf9",
     "name": "Manifestation"
-  },
-  {
-    "id": "bbe22164-f336-4c0d-b064-714e4cb3a5c8",
-    "name": "Dexcessa or Slaaneshi Beguiler"
   },
   {
     "id": "e9f4513a-4dc9-41be-9de2-86bb1044bfd5",
@@ -430,20 +350,64 @@ export const keywords : Keyword[] = [
     "name": "Kroxigor"
   },
   {
+    "id": "850f864f-17f7-4243-9533-68d4db44c756",
+    "name": "Akhelian Raidmaster"
+  },
+  {
+    "id": "80ae2c7e-53bd-4c49-8c86-9696254898f0",
+    "name": "Isharann Emissary"
+  },
+  {
+    "id": "0cb48ee2-fd56-47a3-b709-159a5b63f817",
+    "name": "Guild Officer"
+  },
+  {
+    "id": "ef634e9e-b204-458e-a0a8-c4d76761aed2",
+    "name": "Lumineth Paragon"
+  },
+  {
+    "id": "9d52a4b5-5b7f-4da9-acca-536f6ff4abf5",
+    "name": "Favoured Spawning"
+  },
+  {
+    "id": "b004dcae-9c25-49ea-bc0c-84e64ddf19d2",
+    "name": "Stormcast Exemplar"
+  },
+  {
+    "id": "bd5128a7-dc33-4264-851e-5f3bd1e28c48",
+    "name": "Bloodbound Warmonger"
+  },
+  {
+    "id": "8368b609-2bb8-484b-9f8a-d9e25414c76d",
+    "name": "Slaaneshi Beguiler"
+  },
+  {
+    "id": "f9eca102-031e-4327-b60e-d77982abe4f5",
+    "name": "Dark Egotist"
+  },
+  {
+    "id": "ee9b53a8-7826-4cb6-a161-5d0634c7e127",
+    "name": "Rotbringer Lord"
+  },
+  {
+    "id": "2fbcbe74-9f21-467a-888c-a738bb5184af",
+    "name": "Skaven Overclaw"
+  },
+  {
+    "id": "e1c9deb8-f0b7-4ffb-9cf6-69492bbd4475",
+    "name": "Oathsworn"
+  },
+  {
+    "id": "f214f7b1-3376-4fb5-ab01-bdc87a06cbfd",
+    "name": "Cursed Soul"
+  },
+  {
+    "id": "79049940-8589-4afa-9930-67ae4c79d352",
+    "name": "Moonclan Agitator"
+  },
+  {
     "id": "e8874b6e-8019-4644-ba02-403e5422f6ca",
     "name": "Magmadroth"
-  },
-  {
-    "id": "3e2ae207-1355-4597-95db-7beb4f3c9e95",
-    "name": "Eager Lout"
-  },
-  {
-    "id": "589331ab-fa66-45ea-8025-c1f56b1b2b24",
-    "name": "Freeguild Veteran"
-  },
-  {
-    "id": "27e2744a-b46c-454d-b6d1-5d8398d6c3c4",
-    "name": "Arcanite Cabalist"
   },
   {
     "id": "5b565984-40c9-4bf6-a960-10d212272efe",
@@ -460,10 +424,6 @@ export const keywords : Keyword[] = [
   {
     "id": "81353b62-ee2c-48a1-8ef9-5909df8f5553",
     "name": "Mortisan"
-  },
-  {
-    "id": "dfa48695-e1ca-4b68-adc8-4d026baed187",
-    "name": "Slaughter Seeker"
   },
   {
     "id": "4c199e76-58cf-4257-8e24-032d3d62e174",
@@ -500,10 +460,6 @@ export const keywords : Keyword[] = [
   {
     "id": "e9e11560-e787-4672-aaa0-70f1daaf76bb",
     "name": "Courtier"
-  },
-  {
-    "id": "2fefbb29-8d28-4313-b8a8-a4efe727515f",
-    "name": "Vyrkos Retainer"
   },
   {
     "id": "bbb3d894-f0c6-4353-9ba8-d3e074b1e284",
@@ -550,10 +506,6 @@ export const keywords : Keyword[] = [
     "name": "Gorechosen"
   },
   {
-    "id": "f4883a8a-84f1-40a0-a49a-a3891a018d60",
-    "name": "Mob Wrangler"
-  },
-  {
     "id": "6a221c8e-9db7-4d5b-8e08-253da7c5425c",
     "name": "Duardin"
   },
@@ -562,32 +514,12 @@ export const keywords : Keyword[] = [
     "name": "Scinari"
   },
   {
-    "id": "b8b8344b-150a-4f66-ad95-e9f241f1d622",
-    "name": "Shadow Agent"
-  },
-  {
-    "id": "55d9e552-d77f-48b3-8438-49dc27994dd6",
-    "name": "Headstompa"
-  },
-  {
     "id": "f65fff36-dda7-4acb-9aaf-f0c74160298d",
     "name": "Ydrilan"
   },
   {
     "id": "734044d1-ebbf-4a8e-a3d5-a28be5ae21e5",
     "name": "Cauldron of Blood"
-  },
-  {
-    "id": "e886f052-1554-4bd9-9dde-449225bbad81",
-    "name": "Forest Sentinel"
-  },
-  {
-    "id": "4f299059-e9c3-4f3c-b86e-f8cefa6e822b",
-    "name": "Ruinous Champion"
-  },
-  {
-    "id": "3cc91cd7-4879-46ba-a74d-3e7bdd991b96",
-    "name": "Synessa or Slaaneshi Beguiler"
   },
   {
     "id": "31863834-cf58-4460-af74-c6dce490a7a8",
@@ -630,16 +562,8 @@ export const keywords : Keyword[] = [
     "name": "Brayherd"
   },
   {
-    "id": "c01793ee-244a-4515-97df-7c0f7c8bf3dc",
-    "name": "Eternus or Ruinous Champion"
-  },
-  {
     "id": "9f8ab4f3-5ad0-4759-95b4-f6b210ab1e47",
     "name": "Exquisite Plot"
-  },
-  {
-    "id": "153f1132-9761-46d6-b813-019424de23a7",
-    "name": "Legion Subcommander"
   },
   {
     "id": "32cfe984-12c7-4e8e-8f01-804691cda575",
@@ -662,14 +586,6 @@ export const keywords : Keyword[] = [
     "name": "Warmaster"
   },
   {
-    "id": "6e7bda70-bef2-4945-aa62-842327d366d1",
-    "name": "Grimnir’s Chosen"
-  },
-  {
-    "id": "2d0c1b35-dcc6-440f-981f-8906adf8f81f",
-    "name": "Tzeentchian Deceiver"
-  },
-  {
     "id": "060980f4-2fe8-4025-9b57-65eda86c3dfc",
     "name": "Arcanite"
   },
@@ -690,12 +606,96 @@ export const keywords : Keyword[] = [
     "name": "Incarnate"
   },
   {
+    "id": "d1aae6ca-d554-4d32-89db-93643c4c74ab",
+    "name": "Warpshatter Throes"
+  },
+  {
+    "id": "b8b8344b-150a-4f66-ad95-e9f241f1d622",
+    "name": "Shadow Agent"
+  },
+  {
+    "id": "589331ab-fa66-45ea-8025-c1f56b1b2b24",
+    "name": "Freeguild Veteran"
+  },
+  {
+    "id": "3cc91cd7-4879-46ba-a74d-3e7bdd991b96",
+    "name": "Synessa or Slaaneshi Beguiler"
+  },
+  {
+    "id": "c0cab2ed-0c29-4667-8b6b-c786d1c09552",
+    "name": "Coven Matriarch"
+  },
+  {
+    "id": "6e7bda70-bef2-4945-aa62-842327d366d1",
+    "name": "Grimnir’s Chosen"
+  },
+  {
+    "id": "2fc8d4c8-e30c-4c91-b142-3a5fc0555b86",
+    "name": "Akhelian Raidmaster or Isharann Emissary"
+  },
+  {
+    "id": "f4883a8a-84f1-40a0-a49a-a3891a018d60",
+    "name": "Mob Wrangler"
+  },
+  {
+    "id": "94c09266-08a2-420a-820a-f808d46e1521",
+    "name": "Skink Starpriest or Favoured Spawning"
+  },
+  {
+    "id": "e886f052-1554-4bd9-9dde-449225bbad81",
+    "name": "Forest Sentinel"
+  },
+  {
+    "id": "dfa48695-e1ca-4b68-adc8-4d026baed187",
+    "name": "Slaughter Seeker"
+  },
+  {
+    "id": "2d0c1b35-dcc6-440f-981f-8906adf8f81f",
+    "name": "Tzeentchian Deceiver"
+  },
+  {
+    "id": "27e2744a-b46c-454d-b6d1-5d8398d6c3c4",
+    "name": "Arcanite Cabalist"
+  },
+  {
+    "id": "969b89e4-7db8-46bc-9007-b9da5cd923d9",
+    "name": "Slaaneshi Beguiler or Dark Egotist"
+  },
+  {
     "id": "87ae3eb0-e2c5-4141-a1c4-e10a1f973673",
     "name": "Plague Scion"
   },
   {
-    "id": "d1aae6ca-d554-4d32-89db-93643c4c74ab",
-    "name": "Warpshatter Throes"
+    "id": "4f299059-e9c3-4f3c-b86e-f8cefa6e822b",
+    "name": "Ruinous Champion"
+  },
+  {
+    "id": "cbd62068-7c32-46ea-90c5-6c7b14fd878d",
+    "name": "Flesh-eater Noble"
+  },
+  {
+    "id": "153f1132-9761-46d6-b813-019424de23a7",
+    "name": "Legion Subcommander"
+  },
+  {
+    "id": "2fefbb29-8d28-4313-b8a8-a4efe727515f",
+    "name": "Vyrkos Retainer"
+  },
+  {
+    "id": "55d9e552-d77f-48b3-8438-49dc27994dd6",
+    "name": "Headstompa"
+  },
+  {
+    "id": "3e2ae207-1355-4597-95db-7beb4f3c9e95",
+    "name": "Eager Lout"
+  },
+  {
+    "id": "c01793ee-244a-4515-97df-7c0f7c8bf3dc",
+    "name": "Eternus or Ruinous Champion"
+  },
+  {
+    "id": "bbe22164-f336-4c0d-b064-714e4cb3a5c8",
+    "name": "Dexcessa or Slaaneshi Beguiler"
   }
 ];
 

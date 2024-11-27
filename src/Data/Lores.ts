@@ -170,12 +170,6 @@ export const lores : Lore[] = [
     "publicationId": "fe750629-3cae-475a-bf3d-b4739c2dc891"
   },
   {
-    "id": "f6963c6c-5f7c-4432-942c-ddd8ea7ae98b",
-    "name": "Cthonic Sorceries",
-    "factionId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
-    "publicationId": "f64f8ff6-9ce6-44ad-8d8b-2a8510ae9392"
-  },
-  {
     "id": "e832daae-c4bd-4fa7-b93e-7c1fee81cb97",
     "name": "Judgements of Khorne",
     "factionId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
@@ -408,6 +402,12 @@ export const lores : Lore[] = [
     "name": "Manifestations of the Storm",
     "factionId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "publicationId": "9a78370d-a54c-4045-b845-aa7d79848149"
+  },
+  {
+    "id": "7bb4ce3a-2562-4370-bedc-74a1c66f5de3",
+    "name": "Chthonic Sorceries",
+    "factionId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
+    "publicationId": "f64f8ff6-9ce6-44ad-8d8b-2a8510ae9392"
   },
   {
     "id": "616ac01e-6c1d-4777-89df-0a1e51f8fdb3",

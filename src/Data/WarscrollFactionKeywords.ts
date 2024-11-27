@@ -87,26 +87,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "3e3dfc26-0405-4b44-8800-8eb80d21311b",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "3e3dfc26-0405-4b44-8800-8eb80d21311b",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "7f3ef8d7-e3bd-4984-b285-f5268b0c7b83",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "7f3ef8d7-e3bd-4984-b285-f5268b0c7b83",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "ae1cd990-b481-443f-962d-06f989761e93",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
@@ -117,14 +97,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "2016cc88-226c-4e6f-ade7-2f889439cfb5",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
+    "warscrollId": "779d66ea-e414-407f-a67f-84254fde9c03",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "2016cc88-226c-4e6f-ade7-2f889439cfb5",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "779d66ea-e414-407f-a67f-84254fde9c03",
+    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
+    "displayOrder": 2
   },
   {
     "warscrollId": "09054ec3-eb6e-44a6-bc8c-04cd251c207d",
@@ -135,16 +115,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "09054ec3-eb6e-44a6-bc8c-04cd251c207d",
     "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "06cac41e-66d9-4688-88f6-7330f6b4cdb9",
-    "factionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "06cac41e-66d9-4688-88f6-7330f6b4cdb9",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
   },
   {
     "warscrollId": "e5a093e1-0b62-4b98-8c88-efc63528f263",
@@ -157,14 +127,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "9d0f516d-7f58-45f1-9736-86b0afa9e0ec",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
+    "warscrollId": "d3cafef2-532e-446c-9258-028a444782c7",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "9d0f516d-7f58-45f1-9736-86b0afa9e0ec",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "d3cafef2-532e-446c-9258-028a444782c7",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "c01f5685-3704-4b3f-942f-e59d6ad8b9ef",
@@ -187,13 +157,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "e9e685ea-35f5-45b7-96b9-ac0a16813888",
+    "warscrollId": "f5199166-4357-4209-a865-b615881e8a14",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "e9e685ea-35f5-45b7-96b9-ac0a16813888",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "warscrollId": "f5199166-4357-4209-a865-b615881e8a14",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
@@ -217,9 +187,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 3
   },
   {
-    "warscrollId": "adecff8e-767e-4c87-9284-cf79fed6f87f",
-    "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
-    "displayOrder": 2
+    "warscrollId": "b27de225-a148-47b0-8522-b63f1bc00ba8",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
     "warscrollId": "db06d425-2e53-4bc0-8ad9-dfdba0aea076",
@@ -247,7 +217,7 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "3ce65ad5-a414-400f-80ae-f36bb082506d",
+    "warscrollId": "dc73f092-0fca-4845-9c67-15c268be5a57",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
@@ -312,24 +282,19 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 3
   },
   {
-    "warscrollId": "c2741f86-3219-427a-b3c1-61e6569ae812",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "c2741f86-3219-427a-b3c1-61e6569ae812",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "3ce65ad5-a414-400f-80ae-f36bb082506d",
+    "warscrollId": "dc73f092-0fca-4845-9c67-15c268be5a57",
     "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
   },
   {
-    "warscrollId": "9676d3f9-a44b-4126-8ded-e5087281bbb2",
+    "warscrollId": "64d997dd-3041-410a-b72f-d29642608b63",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
+  },
+  {
+    "warscrollId": "64d997dd-3041-410a-b72f-d29642608b63",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "25e8b7b8-7f52-4729-bd97-d9def08279fc",
@@ -352,19 +317,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "f3d7efad-563f-4932-93b0-e240fd9fe162",
-    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "f3d7efad-563f-4932-93b0-e240fd9fe162",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "f3d7efad-563f-4932-93b0-e240fd9fe162",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "4f17c264-fc47-4a04-a985-6ff2c27d3231",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
+  },
+  {
+    "warscrollId": "4f17c264-fc47-4a04-a985-6ff2c27d3231",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "fa15d6ec-bdaf-4b45-a6b8-35f4b299484c",
@@ -387,9 +347,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "adecff8e-767e-4c87-9284-cf79fed6f87f",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
+    "warscrollId": "b27de225-a148-47b0-8522-b63f1bc00ba8",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "a58a8b9b-947b-49e3-86f1-c87924685cf0",
@@ -417,19 +377,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "4eb07dac-62fd-4a34-be09-05aebf6a1f5c",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "4eb07dac-62fd-4a34-be09-05aebf6a1f5c",
-    "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "7aacedac-3ffa-4946-bf4d-12cacfac7ec0",
     "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
     "displayOrder": 4
+  },
+  {
+    "warscrollId": "70cf61fb-f8c4-4d30-bb19-6511b3c21cea",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
   },
   {
     "warscrollId": "a6c03fd2-c4ca-4102-9137-0736d8caada2",
@@ -452,64 +407,44 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
+    "warscrollId": "70cf61fb-f8c4-4d30-bb19-6511b3c21cea",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "70cf61fb-f8c4-4d30-bb19-6511b3c21cea",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
     "warscrollId": "332d8ee9-eac7-4f52-b537-e72065813700",
     "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
     "displayOrder": 1
   },
   {
-    "warscrollId": "9676d3f9-a44b-4126-8ded-e5087281bbb2",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "warscrollId": "49668d5f-3d42-42e6-b3dc-72a45e82f68e",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
   },
   {
-    "warscrollId": "e1d21279-137d-417c-bfd0-0ca4d7e58e55",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "6a96056e-9cbd-4dcc-b9cf-cd01e473de93",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "6a96056e-9cbd-4dcc-b9cf-cd01e473de93",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "779d66ea-e414-407f-a67f-84254fde9c03",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "779d66ea-e414-407f-a67f-84254fde9c03",
-    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "91a23b9e-2d9d-42c7-b9cb-f6827b7d9b8e",
-    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "91a23b9e-2d9d-42c7-b9cb-f6827b7d9b8e",
+    "warscrollId": "49668d5f-3d42-42e6-b3dc-72a45e82f68e",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "697a2212-23cd-4acf-9859-357cdf7ef1d3",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "warscrollId": "6a96056e-9cbd-4dcc-b9cf-cd01e473de93",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "60dcc9cd-0b08-4579-a849-4d16684e6970",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "60dcc9cd-0b08-4579-a849-4d16684e6970",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "warscrollId": "6a96056e-9cbd-4dcc-b9cf-cd01e473de93",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
+  },
+  {
+    "warscrollId": "49668d5f-3d42-42e6-b3dc-72a45e82f68e",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
   },
   {
     "warscrollId": "0d577066-0b05-4a7f-8440-60042ca2a4ff",
@@ -529,16 +464,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   {
     "warscrollId": "6ff0cea8-1cc4-44a6-a81e-4f750499e783",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "e1d21279-137d-417c-bfd0-0ca4d7e58e55",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "5dea2612-ccd5-48e4-9548-758a30a41f92",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
@@ -562,59 +487,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "780daaa4-923d-4851-8bad-2b343ac3cc6d",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "780daaa4-923d-4851-8bad-2b343ac3cc6d",
-    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "780daaa4-923d-4851-8bad-2b343ac3cc6d",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61",
+    "warscrollId": "27d4d186-994a-4e97-93af-3b782cc0cce7",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61",
-    "factionKeywordId": "1ac47c51-cc93-4142-b160-0de91fe8eb82",
-    "displayOrder": 4
-  },
-  {
-    "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61",
+    "warscrollId": "27d4d186-994a-4e97-93af-3b782cc0cce7",
     "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "56358663-0f7f-42ce-a67e-fd218d479c3f",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "56358663-0f7f-42ce-a67e-fd218d479c3f",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "b300ec1d-6211-4909-9d61-f08ef840177f",
-    "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "b300ec1d-6211-4909-9d61-f08ef840177f",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
   },
   {
     "warscrollId": "de41d910-4324-4275-811f-fbe461963634",
@@ -637,28 +517,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "074b6728-9ed2-4a73-a1f5-4a6e034f9525",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "warscrollId": "ade98faa-c4ed-482d-9259-af0389b4617c",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "074b6728-9ed2-4a73-a1f5-4a6e034f9525",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
   },
   {
     "warscrollId": "a27cc05d-c05d-4f7c-a262-9ab8ed95b236",
     "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "6d49c3a6-ed75-4f44-9933-12c87d4faec3",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "6d49c3a6-ed75-4f44-9933-12c87d4faec3",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
   },
   {
@@ -777,14 +642,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "0dc93eac-320d-4fe2-ba54-2872a1faf1ba",
+    "warscrollId": "ade98faa-c4ed-482d-9259-af0389b4617c",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "0dc93eac-320d-4fe2-ba54-2872a1faf1ba",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
-    "displayOrder": 2
+    "warscrollId": "ade98faa-c4ed-482d-9259-af0389b4617c",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
   },
   {
     "warscrollId": "785d282c-60f0-43ea-860c-c6558e13fdb0",
@@ -822,14 +687,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "358a2c45-0895-48ca-aa7c-eaad45d0c45d",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "6df85232-6dce-4946-a69b-fe1611cf844a",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "358a2c45-0895-48ca-aa7c-eaad45d0c45d",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
-    "displayOrder": 2
+    "warscrollId": "6df85232-6dce-4946-a69b-fe1611cf844a",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
     "warscrollId": "26fd4164-313e-4af7-b085-fabce55c88bc",
@@ -842,12 +707,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "ffd2791d-c10b-4c65-b3de-2907d46ae474",
+    "warscrollId": "a25b4787-23ce-4374-b4c8-373737297b0b",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "ffd2791d-c10b-4c65-b3de-2907d46ae474",
+    "warscrollId": "a25b4787-23ce-4374-b4c8-373737297b0b",
     "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
@@ -897,9 +762,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "b31ffa62-7cc1-4ef2-87b7-b583667ab7c3",
-    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
-    "displayOrder": 1
+    "warscrollId": "3e330358-f275-4078-aa3f-2a91528dd91d",
+    "factionKeywordId": "18969f7b-ba19-4e42-9bce-9b425739242b",
+    "displayOrder": 3
   },
   {
     "warscrollId": "9e173f98-a411-4bda-9253-e7b315de7ca5",
@@ -927,33 +792,33 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "5d4ddcec-096b-467a-8a7a-8dcb182427c6",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
+    "warscrollId": "6df85232-6dce-4946-a69b-fe1611cf844a",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
     "displayOrder": 3
   },
   {
-    "warscrollId": "5d4ddcec-096b-467a-8a7a-8dcb182427c6",
+    "warscrollId": "6f1f444e-3a5e-4b36-acd5-bb7f22c18a24",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "5d4ddcec-096b-467a-8a7a-8dcb182427c6",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "warscrollId": "6f1f444e-3a5e-4b36-acd5-bb7f22c18a24",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
   },
   {
-    "warscrollId": "a04e937a-26ee-434e-84e6-58cd6eb064b7",
-    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
-    "displayOrder": 3
+    "warscrollId": "5dea2612-ccd5-48e4-9548-758a30a41f92",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "a04e937a-26ee-434e-84e6-58cd6eb064b7",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "warscrollId": "5dea2612-ccd5-48e4-9548-758a30a41f92",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
   },
   {
-    "warscrollId": "a04e937a-26ee-434e-84e6-58cd6eb064b7",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "aaff4f9f-3b04-406b-942c-0b627c76fc25",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
@@ -972,8 +837,8 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "b31ffa62-7cc1-4ef2-87b7-b583667ab7c3",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "warscrollId": "3e330358-f275-4078-aa3f-2a91528dd91d",
+    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
     "displayOrder": 2
   },
   {
@@ -1027,21 +892,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "75eca768-c25a-40df-9805-0ad818f5982b",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "75eca768-c25a-40df-9805-0ad818f5982b",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "75eca768-c25a-40df-9805-0ad818f5982b",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "f2e6ff8c-b03b-4aa9-9c06-3f4cd99c4693",
     "factionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
     "displayOrder": 2
@@ -1052,12 +902,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "5dea2612-ccd5-48e4-9548-758a30a41f92",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
-    "displayOrder": 2
+    "warscrollId": "3e330358-f275-4078-aa3f-2a91528dd91d",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "6f1f444e-3a5e-4b36-acd5-bb7f22c18a24",
+    "warscrollId": "1cf61a9b-1f49-4704-a3b2-53c47ef6f123",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
@@ -1092,6 +942,16 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
+    "warscrollId": "aaff4f9f-3b04-406b-942c-0b627c76fc25",
+    "factionKeywordId": "1ac47c51-cc93-4142-b160-0de91fe8eb82",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "aaff4f9f-3b04-406b-942c-0b627c76fc25",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
     "warscrollId": "0a69e736-1ab1-4bb5-9547-f69b4cb3e2b0",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
@@ -1102,8 +962,8 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "6f1f444e-3a5e-4b36-acd5-bb7f22c18a24",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "warscrollId": "1cf61a9b-1f49-4704-a3b2-53c47ef6f123",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
     "displayOrder": 2
   },
   {
@@ -1132,24 +992,49 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "ef34403b-bf7c-45f9-9dad-9d66d358c93c",
-    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "warscrollId": "90065c7b-196e-400e-baa1-5ba85e2806da",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "dcfdebd9-ca18-4910-bf17-caf0a6bb9b88",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "warscrollId": "90065c7b-196e-400e-baa1-5ba85e2806da",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "dcfdebd9-ca18-4910-bf17-caf0a6bb9b88",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
   },
   {
     "warscrollId": "bd5a853a-c9e0-4d87-aebc-e00698434c22",
     "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "displayOrder": 2
+  },
+  {
+    "warscrollId": "05c274fa-ecc8-4b59-8723-f5c8060db0b4",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "05c274fa-ecc8-4b59-8723-f5c8060db0b4",
+    "factionKeywordId": "da05f3bd-dfa7-4ff5-91af-96b38a206d25",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "05c274fa-ecc8-4b59-8723-f5c8060db0b4",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "dce1facb-86d3-42a3-a75f-e1516d346b34",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "dce1facb-86d3-42a3-a75f-e1516d346b34",
+    "factionKeywordId": "da05f3bd-dfa7-4ff5-91af-96b38a206d25",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "dce1facb-86d3-42a3-a75f-e1516d346b34",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
   },
   {
     "warscrollId": "bd5a853a-c9e0-4d87-aebc-e00698434c22",
@@ -1177,16 +1062,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "ef34403b-bf7c-45f9-9dad-9d66d358c93c",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "ef34403b-bf7c-45f9-9dad-9d66d358c93c",
-    "factionKeywordId": "5a28dd59-70cf-43b1-8657-128b2f6a21a8",
-    "displayOrder": 3
-  },
-  {
     "warscrollId": "b4f92c0a-a4b3-4853-9b4b-310967e433ca",
     "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "displayOrder": 2
@@ -1210,16 +1085,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "6056b681-023b-4402-8564-b1fbc4dd8169",
     "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
     "displayOrder": 1
-  },
-  {
-    "warscrollId": "a25b4787-23ce-4374-b4c8-373737297b0b",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a25b4787-23ce-4374-b4c8-373737297b0b",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
   },
   {
     "warscrollId": "264d35cf-c95f-43f7-97e8-5b53c76f9427",
@@ -1267,16 +1132,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "aaa6205b-6886-4ae2-85c2-96ba2e5c515a",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "aaa6205b-6886-4ae2-85c2-96ba2e5c515a",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "267e5d41-8881-469b-b044-0776a938e119",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
@@ -1312,13 +1167,8 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "d4867263-475d-4bb1-97d7-4e84625bee25",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "d4867263-475d-4bb1-97d7-4e84625bee25",
-    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
+    "warscrollId": "cac575fe-ed53-4bee-aa29-0bd993cb1130",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
     "displayOrder": 2
   },
   {
@@ -1332,16 +1182,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "f4454a2e-9e10-4e8b-8465-58b0f22f5aed",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "f4454a2e-9e10-4e8b-8465-58b0f22f5aed",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "78c7de99-816b-4a6f-876b-430d9f2903cb",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
@@ -1349,26 +1189,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   {
     "warscrollId": "78c7de99-816b-4a6f-876b-430d9f2903cb",
     "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "b6975e1d-400e-43ff-a462-6a9b1891d07e",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "b6975e1d-400e-43ff-a462-6a9b1891d07e",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "b5e5ac37-000a-435e-9a90-3d945e56c1f5",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "b5e5ac37-000a-435e-9a90-3d945e56c1f5",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
     "displayOrder": 2
   },
   {
@@ -1437,14 +1257,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "d3cafef2-532e-446c-9258-028a444782c7",
+    "warscrollId": "cac575fe-ed53-4bee-aa29-0bd993cb1130",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "d3cafef2-532e-446c-9258-028a444782c7",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
+    "warscrollId": "cac575fe-ed53-4bee-aa29-0bd993cb1130",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
   },
   {
     "warscrollId": "369dcbc7-a47f-4ffa-924d-22ce375b2402",
@@ -1452,14 +1272,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "1609ecd0-fe6b-4aa7-8611-e5b6fc53d92d",
-    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
-    "displayOrder": 2
+    "warscrollId": "5fd6cc77-d4d0-4cf2-87c9-eff32f2cd116",
+    "factionKeywordId": "1ebc11ee-4774-4743-9aa5-2cf8579cf4cb",
+    "displayOrder": 3
   },
   {
-    "warscrollId": "1609ecd0-fe6b-4aa7-8611-e5b6fc53d92d",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
+    "warscrollId": "5fd6cc77-d4d0-4cf2-87c9-eff32f2cd116",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
   },
   {
     "warscrollId": "a0df1407-9863-45e5-a62e-bd99d320747f",
@@ -1467,13 +1287,28 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "da308fad-d975-48bc-b53f-6a895c5d1f92",
+    "warscrollId": "5fd6cc77-d4d0-4cf2-87c9-eff32f2cd116",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "da308fad-d975-48bc-b53f-6a895c5d1f92",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
+    "warscrollId": "eff8700d-594e-44ad-9b22-ea96284d49ce",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "eff8700d-594e-44ad-9b22-ea96284d49ce",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "2dd49d46-87e5-4e9e-9da2-ca1b4af72131",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "2dd49d46-87e5-4e9e-9da2-ca1b4af72131",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
@@ -1497,22 +1332,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "1d470cd8-4470-499c-8c83-5341d0a560c3",
-    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "warscrollId": "91a23b9e-2d9d-42c7-b9cb-f6827b7d9b8e",
+    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
     "displayOrder": 2
   },
   {
-    "warscrollId": "1d470cd8-4470-499c-8c83-5341d0a560c3",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "667c734c-c58e-47cc-a278-a21d9ab2ccf5",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "667c734c-c58e-47cc-a278-a21d9ab2ccf5",
+    "warscrollId": "91a23b9e-2d9d-42c7-b9cb-f6827b7d9b8e",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
@@ -1527,16 +1352,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "e43966c7-990d-45e7-a8c8-ffca27db6926",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "e43966c7-990d-45e7-a8c8-ffca27db6926",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "6370126c-8010-4623-bff2-e78b8378a0f6",
     "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
     "displayOrder": 2
@@ -1547,16 +1362,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "1bd35367-92db-4fdc-8438-14065af828fb",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "1bd35367-92db-4fdc-8438-14065af828fb",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "26cfe8d7-5ece-4190-a640-67d85d65519f",
     "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
     "displayOrder": 2
@@ -1564,16 +1369,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   {
     "warscrollId": "26cfe8d7-5ece-4190-a640-67d85d65519f",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "f3442df9-1235-4234-9f07-2dd3dbb52faa",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "f3442df9-1235-4234-9f07-2dd3dbb52faa",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
@@ -1592,16 +1387,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "30432f9c-db7c-49ca-be1b-83f7a676e78b",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "30432f9c-db7c-49ca-be1b-83f7a676e78b",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "ba2bce56-1746-4a09-893a-871a37c40fa0",
     "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
     "displayOrder": 2
@@ -1609,16 +1394,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   {
     "warscrollId": "ba2bce56-1746-4a09-893a-871a37c40fa0",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "43e9de70-e68d-4549-ae80-4242ecc8bf7d",
-    "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "43e9de70-e68d-4549-ae80-4242ecc8bf7d",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
   },
   {
@@ -1722,8 +1497,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "481cb116-a321-4961-9456-8da6a8b0e1e9",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "warscrollId": "2b52e4ad-7d82-42cc-94b8-b39130c192ee",
+    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "2b52e4ad-7d82-42cc-94b8-b39130c192ee",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
   },
   {
@@ -1737,13 +1517,8 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "56934c98-f378-4d53-9d60-910e622667ee",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "56934c98-f378-4d53-9d60-910e622667ee",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "8eda4612-9521-4c00-8119-2ab89ab0557b",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
     "displayOrder": 1
   },
   {
@@ -1784,21 +1559,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   {
     "warscrollId": "ab71275b-ceae-4628-b262-b643547a65ec",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f",
-    "factionKeywordId": "0c5a7f03-c1a3-4491-a7cf-71de0b4427c0",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f",
-    "factionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
     "displayOrder": 1
   },
   {
@@ -1967,16 +1727,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "0483c074-045a-430d-8adf-7801c493889c",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "0483c074-045a-430d-8adf-7801c493889c",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "f52dbbc4-b942-46cb-a4ac-53018e73c35e",
     "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
     "displayOrder": 3
@@ -1992,39 +1742,34 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "63d77f79-ecd6-481a-a9a5-81a9a52fb8c2",
+    "warscrollId": "8eda4612-9521-4c00-8119-2ab89ab0557b",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "63d77f79-ecd6-481a-a9a5-81a9a52fb8c2",
-    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
     "displayOrder": 2
   },
   {
-    "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15",
-    "factionKeywordId": "0c5a7f03-c1a3-4491-a7cf-71de0b4427c0",
+    "warscrollId": "8eda4612-9521-4c00-8119-2ab89ab0557b",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
     "displayOrder": 3
   },
   {
-    "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15",
-    "factionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
+    "warscrollId": "a901d3e1-b08d-4448-bbad-99d2b875db40",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
   },
   {
-    "warscrollId": "b926133b-e421-4f8b-8046-6297db1e1568",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "a901d3e1-b08d-4448-bbad-99d2b875db40",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "b926133b-e421-4f8b-8046-6297db1e1568",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "warscrollId": "a4a79f59-d9ab-4fe7-8932-fb0527f3fc92",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
+  },
+  {
+    "warscrollId": "df17a053-435e-48c5-9905-88ebe2557e8b",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 1
   },
   {
     "warscrollId": "26afa746-060b-4cd6-a4c4-c1f2ee7a7b0e",
@@ -2102,16 +1847,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "70f255de-79f6-4bc8-b61c-37e795a369bc",
-    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "70f255de-79f6-4bc8-b61c-37e795a369bc",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "f2a8a114-d702-45bf-9c6d-757d096706ba",
     "factionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
     "displayOrder": 2
@@ -2124,26 +1859,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   {
     "warscrollId": "033d2d1e-7806-4661-88ae-71172ba394b5",
     "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "2d3dc0dc-2578-4bd2-8e9c-5aadfbbcbd24",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "2d3dc0dc-2578-4bd2-8e9c-5aadfbbcbd24",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "083d8e07-03c6-4c81-82f6-0d199b4b63e9",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "083d8e07-03c6-4c81-82f6-0d199b4b63e9",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
@@ -2197,16 +1912,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "a787f0f4-9a69-4761-bb32-f7c6c63b52e6",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a787f0f4-9a69-4761-bb32-f7c6c63b52e6",
-    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "3f57d938-a9be-4061-b74a-7683085041ce",
     "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
     "displayOrder": 2
@@ -2242,6 +1947,46 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
+    "warscrollId": "a4a79f59-d9ab-4fe7-8932-fb0527f3fc92",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "71719674-5e37-4667-b3f8-0a1b5eb88f1b",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "71719674-5e37-4667-b3f8-0a1b5eb88f1b",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "71719674-5e37-4667-b3f8-0a1b5eb88f1b",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "4021ef68-f0ec-40b7-b007-83bfec0410ec",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "4021ef68-f0ec-40b7-b007-83bfec0410ec",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "4021ef68-f0ec-40b7-b007-83bfec0410ec",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "dd5e3f42-1a6c-46e6-9336-ffaac336a4d8",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
     "warscrollId": "dd1f9d92-c70b-4cec-b48b-17b6f6cacee0",
     "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
     "displayOrder": 2
@@ -2252,34 +1997,44 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "7c4f6105-7f1e-4d7c-b4c8-cbca714c0904",
-    "factionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "7c4f6105-7f1e-4d7c-b4c8-cbca714c0904",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "warscrollId": "6c426b44-18f6-4a70-8214-7d13cf836435",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "48bbd51d-5f22-4b5e-85e1-60985c2eb214",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "48bbd51d-5f22-4b5e-85e1-60985c2eb214",
-    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
+    "warscrollId": "df17a053-435e-48c5-9905-88ebe2557e8b",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 2
   },
   {
-    "warscrollId": "e678f2db-4db3-4685-bed8-75a0b8e4ac41",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "warscrollId": "2d3dc0dc-2578-4bd2-8e9c-5aadfbbcbd24",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "e678f2db-4db3-4685-bed8-75a0b8e4ac41",
-    "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
+    "warscrollId": "2d3dc0dc-2578-4bd2-8e9c-5aadfbbcbd24",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
     "displayOrder": 2
+  },
+  {
+    "warscrollId": "df17a053-435e-48c5-9905-88ebe2557e8b",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "008ca1b6-c4e2-4a58-b1ec-84ed4f32a759",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "008ca1b6-c4e2-4a58-b1ec-84ed4f32a759",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "4cc747bb-89ad-42ca-99d0-5307752d6a97",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
     "warscrollId": "d47c2cb7-c8eb-4d93-a741-c6db1fdfb3a7",
@@ -2292,9 +2047,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "9b0f3d50-308c-4833-91a8-57a3cb378265",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
-    "displayOrder": 1
+    "warscrollId": "4cc747bb-89ad-42ca-99d0-5307752d6a97",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "b51b1157-e036-4698-a060-1bde181f3442",
@@ -2377,16 +2132,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "0ce5f7bf-a936-4ac2-b7a0-9bf378133e87",
-    "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "0ce5f7bf-a936-4ac2-b7a0-9bf378133e87",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "feafaace-e885-4a87-bc43-974f5637a55d",
     "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
     "displayOrder": 1
@@ -2397,13 +2142,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "7c58a04a-dcb8-44e0-afb3-474321fd15c3",
+    "warscrollId": "7f3ef8d7-e3bd-4984-b285-f5268b0c7b83",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "7c58a04a-dcb8-44e0-afb3-474321fd15c3",
-    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
+    "warscrollId": "7f3ef8d7-e3bd-4984-b285-f5268b0c7b83",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
@@ -2457,14 +2202,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "2f655f08-850e-4461-99ed-9b5237d3b0be",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
+    "warscrollId": "b926133b-e421-4f8b-8046-6297db1e1568",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "2f655f08-850e-4461-99ed-9b5237d3b0be",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "b926133b-e421-4f8b-8046-6297db1e1568",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "97a97882-730b-44b9-9eb9-8bd3cb91e9c3",
@@ -2517,47 +2262,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "8f54d2d0-c9e4-4da2-97ad-4fa6afa25c7b",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "8f54d2d0-c9e4-4da2-97ad-4fa6afa25c7b",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "8f54d2d0-c9e4-4da2-97ad-4fa6afa25c7b",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
     "warscrollId": "f63f5685-9404-4c21-b5e2-6b616c8d2882",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
     "warscrollId": "f63f5685-9404-4c21-b5e2-6b616c8d2882",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "e08a53ad-541e-4e23-893a-5c324913bd07",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "e08a53ad-541e-4e23-893a-5c324913bd07",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "2e5a2d2d-4ead-432e-8275-8259dd4061c8",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "2e5a2d2d-4ead-432e-8275-8259dd4061c8",
     "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
@@ -2577,21 +2287,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640",
-    "factionKeywordId": "1ac47c51-cc93-4142-b160-0de91fe8eb82",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "7104c2c8-b3f4-44ad-a06e-7817ece9134a",
     "factionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
     "displayOrder": 2
@@ -2602,14 +2297,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "f34f8ea4-13e1-4512-8b5f-0b931ec2667f",
-    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
-    "displayOrder": 2
+    "warscrollId": "64e22b93-0add-409c-977c-effe16b4bce0",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "f34f8ea4-13e1-4512-8b5f-0b931ec2667f",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
+    "warscrollId": "64e22b93-0add-409c-977c-effe16b4bce0",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 2
   },
   {
     "warscrollId": "8108d657-35b7-46b6-87fc-96855286fa65",
@@ -2622,14 +2317,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "fecbbf66-705b-47b0-b401-08e9c1234482",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "0ff40368-54ff-4e2c-aff4-3c8dca56a2e0",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "fecbbf66-705b-47b0-b401-08e9c1234482",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
-    "displayOrder": 2
+    "warscrollId": "0ff40368-54ff-4e2c-aff4-3c8dca56a2e0",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
     "warscrollId": "67ffbd49-51a4-45a1-9e53-0e5f0e5b0e90",
@@ -2697,19 +2392,19 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "128b3331-a6b6-4c1e-9f1f-ee522dad3d0b",
-    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "128b3331-a6b6-4c1e-9f1f-ee522dad3d0b",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "warscrollId": "0bc74feb-b7fb-4abd-9581-7d12e905d0f6",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
     "displayOrder": 2
   },
   {
-    "warscrollId": "128b3331-a6b6-4c1e-9f1f-ee522dad3d0b",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "0bc74feb-b7fb-4abd-9581-7d12e905d0f6",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
+  },
+  {
+    "warscrollId": "6eed1e2d-77c1-4254-a7ad-cb6c786f2346",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
   },
   {
     "warscrollId": "5f609dc8-f3d8-4c31-8722-d3262f3dd077",
@@ -2717,13 +2412,18 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "897cba49-7ea1-44c0-8c65-020250914f94",
-    "factionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
+    "warscrollId": "6eed1e2d-77c1-4254-a7ad-cb6c786f2346",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "7211239d-c563-4091-a4c1-0607e821f41e",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
     "displayOrder": 2
   },
   {
-    "warscrollId": "897cba49-7ea1-44c0-8c65-020250914f94",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "warscrollId": "7211239d-c563-4091-a4c1-0607e821f41e",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
@@ -2757,34 +2457,34 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "23d60979-1890-40db-a8ca-b83380f64b84",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "23d60979-1890-40db-a8ca-b83380f64b84",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "warscrollId": "529b128b-dc22-49e3-a427-04dc2f009c09",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
     "displayOrder": 2
   },
   {
-    "warscrollId": "03f7a4f0-cf00-4cf3-a267-62923a00c845",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "03f7a4f0-cf00-4cf3-a267-62923a00c845",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "warscrollId": "529b128b-dc22-49e3-a427-04dc2f009c09",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "0ff40368-54ff-4e2c-aff4-3c8dca56a2e0",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "warscrollId": "62e41155-fb20-4e92-b0f8-5cf2adf45bc9",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
     "displayOrder": 2
   },
   {
-    "warscrollId": "0ff40368-54ff-4e2c-aff4-3c8dca56a2e0",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "62e41155-fb20-4e92-b0f8-5cf2adf45bc9",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
+  },
+  {
+    "warscrollId": "43973acb-7890-4efa-8f1f-2650bd30fca5",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "43973acb-7890-4efa-8f1f-2650bd30fca5",
+    "factionKeywordId": "b68bccc4-d729-485b-9eee-47a91022d601",
+    "displayOrder": 3
   },
   {
     "warscrollId": "9adebd33-7890-40ae-929a-e85f6a82757f",
@@ -2797,18 +2497,8 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597",
-    "factionKeywordId": "0c5a7f03-c1a3-4491-a7cf-71de0b4427c0",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597",
-    "factionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
+    "warscrollId": "43973acb-7890-4efa-8f1f-2650bd30fca5",
+    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
     "displayOrder": 2
   },
   {
@@ -2827,19 +2517,79 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
+    "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61",
+    "factionKeywordId": "1ac47c51-cc93-4142-b160-0de91fe8eb82",
+    "displayOrder": 4
+  },
+  {
+    "warscrollId": "50da2aa4-24fb-45b5-bea3-d16431afda61",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "dd5e3f42-1a6c-46e6-9336-ffaac336a4d8",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "dd5e3f42-1a6c-46e6-9336-ffaac336a4d8",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "fba01e8a-093c-4500-8658-a8c44372e379",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "fba01e8a-093c-4500-8658-a8c44372e379",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "fba01e8a-093c-4500-8658-a8c44372e379",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "170a66b6-f8ed-414b-8f3e-55e5a3a09c6c",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "170a66b6-f8ed-414b-8f3e-55e5a3a09c6c",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "170a66b6-f8ed-414b-8f3e-55e5a3a09c6c",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
     "warscrollId": "ed88fbef-975b-48c3-b411-1af096c8cf0d",
     "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
     "displayOrder": 2
   },
   {
-    "warscrollId": "bea93bc3-f923-4def-986a-e1100495798a",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
+    "warscrollId": "82b1fbe8-8864-4e65-9cd0-91512d3254f7",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "bea93bc3-f923-4def-986a-e1100495798a",
-    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
-    "displayOrder": 2
+    "warscrollId": "82b1fbe8-8864-4e65-9cd0-91512d3254f7",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
   },
   {
     "warscrollId": "2a80e4a8-efc7-47b8-a4f2-1977b8cdfc6f",
@@ -2847,19 +2597,19 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "89562fe2-8685-43de-9830-ed9d5c364f84",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "warscrollId": "6c426b44-18f6-4a70-8214-7d13cf836435",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
-    "warscrollId": "89562fe2-8685-43de-9830-ed9d5c364f84",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "f0ed01a0-a398-4e76-8d83-2de2f0730b30",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "6153e3e4-8423-4ebd-bb3b-f9fc731d240d",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 1
+    "warscrollId": "f0ed01a0-a398-4e76-8d83-2de2f0730b30",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "7bae36d7-9d2e-4ff5-95f8-43f79dae52dd",
@@ -2877,19 +2627,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 3
   },
   {
-    "warscrollId": "64d997dd-3041-410a-b72f-d29642608b63",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "64d997dd-3041-410a-b72f-d29642608b63",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "95a1be8b-a98a-4bae-9758-ea90f03119c9",
+    "warscrollId": "f0ed01a0-a398-4e76-8d83-2de2f0730b30",
     "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
     "displayOrder": 3
+  },
+  {
+    "warscrollId": "f06eb6b9-bc29-4b13-8a69-50dac1881ac6",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
   },
   {
     "warscrollId": "a5eacd7e-78fd-4426-9edd-906448ac4337",
@@ -2927,14 +2672,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "7211239d-c563-4091-a4c1-0607e821f41e",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
+    "warscrollId": "75ea0c6a-b825-49a0-82f9-1da283f05c75",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "7211239d-c563-4091-a4c1-0607e821f41e",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "75ea0c6a-b825-49a0-82f9-1da283f05c75",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 2
   },
   {
     "warscrollId": "4d8b1c80-9f01-4ded-802e-a531bef7ef8c",
@@ -2955,16 +2700,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "0808c144-52f7-4f87-9184-de603131cb0b",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
-  },
-  {
-    "warscrollId": "95a1be8b-a98a-4bae-9758-ea90f03119c9",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "95a1be8b-a98a-4bae-9758-ea90f03119c9",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
   },
   {
     "warscrollId": "16eb3837-3152-495f-a000-354d8c6f89ce",
@@ -3042,34 +2777,29 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "53fc8a9c-13ed-46a1-a154-542e98260d76",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "53fc8a9c-13ed-46a1-a154-542e98260d76",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "warscrollId": "ef34403b-bf7c-45f9-9dad-9d66d358c93c",
+    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
     "displayOrder": 1
   },
   {
-    "warscrollId": "60bbfe85-47c6-4d15-b420-cbe3bae13385",
+    "warscrollId": "ef34403b-bf7c-45f9-9dad-9d66d358c93c",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "ef34403b-bf7c-45f9-9dad-9d66d358c93c",
+    "factionKeywordId": "5a28dd59-70cf-43b1-8657-128b2f6a21a8",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "be110262-0a0a-432a-8173-0bf9ac519413",
+    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "f06eb6b9-bc29-4b13-8a69-50dac1881ac6",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
-  },
-  {
-    "warscrollId": "60bbfe85-47c6-4d15-b420-cbe3bae13385",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "8440b84e-6936-4bd8-8496-793d14c557c2",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "8440b84e-6936-4bd8-8496-793d14c557c2",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
   },
   {
     "warscrollId": "872bee76-9e3e-41f4-a80f-71542bf24f39",
@@ -3092,24 +2822,19 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "fd9faa8c-c4ab-4c39-b96a-561eef254baf",
+    "warscrollId": "b0a79daf-673b-4b8f-b764-0d152860fcc4",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "fd9faa8c-c4ab-4c39-b96a-561eef254baf",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "warscrollId": "083d8e07-03c6-4c81-82f6-0d199b4b63e9",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
     "displayOrder": 2
   },
   {
-    "warscrollId": "78f35a5c-3350-49bc-a6e5-5768874e3ce7",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "083d8e07-03c6-4c81-82f6-0d199b4b63e9",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
-  },
-  {
-    "warscrollId": "78f35a5c-3350-49bc-a6e5-5768874e3ce7",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
-    "displayOrder": 2
   },
   {
     "warscrollId": "97bf492f-d53c-4b8a-8211-f0904c24694f",
@@ -3120,16 +2845,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "97bf492f-d53c-4b8a-8211-f0904c24694f",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
-  },
-  {
-    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
   },
   {
     "warscrollId": "ffbee7c5-051d-4adb-90e3-e2e6a645bb70",
@@ -3157,14 +2872,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 3
   },
   {
-    "warscrollId": "181fa314-5759-4e16-b1c2-feee048adbe8",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "421aba80-8d60-4d79-a167-be2a20b07ffd",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "181fa314-5759-4e16-b1c2-feee048adbe8",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
-    "displayOrder": 2
+    "warscrollId": "421aba80-8d60-4d79-a167-be2a20b07ffd",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
   },
   {
     "warscrollId": "9f7d32fe-eb7a-4552-95d5-baf827102456",
@@ -3252,14 +2967,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "4112a17e-1bde-49a3-a35c-3749f35b5ebb",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "b0a79daf-673b-4b8f-b764-0d152860fcc4",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "4112a17e-1bde-49a3-a35c-3749f35b5ebb",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
-    "displayOrder": 2
+    "warscrollId": "be110262-0a0a-432a-8173-0bf9ac519413",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
   },
   {
     "warscrollId": "8abf7633-9c6e-4781-9352-4721b5151a56",
@@ -3277,12 +2992,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "421aba80-8d60-4d79-a167-be2a20b07ffd",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "warscrollId": "12ce4b08-591a-4808-8963-28efa99c51f9",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
     "displayOrder": 2
   },
   {
-    "warscrollId": "421aba80-8d60-4d79-a167-be2a20b07ffd",
+    "warscrollId": "12ce4b08-591a-4808-8963-28efa99c51f9",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
@@ -3315,16 +3030,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "251cfbf7-2bb3-48f6-979f-993ce77f24b3",
     "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "eb668dd3-2a2f-447c-9dc3-eef1a9f26e49",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "eb668dd3-2a2f-447c-9dc3-eef1a9f26e49",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
   },
   {
     "warscrollId": "470d6115-f411-4db6-adbc-66507c070ac9",
@@ -3372,13 +3077,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "a901d3e1-b08d-4448-bbad-99d2b875db40",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "449c59a1-7f31-48ce-b7a1-1b697a9584ba",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
     "displayOrder": 2
   },
   {
-    "warscrollId": "a901d3e1-b08d-4448-bbad-99d2b875db40",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "449c59a1-7f31-48ce-b7a1-1b697a9584ba",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
@@ -3402,14 +3107,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "eb668dd3-2a2f-447c-9dc3-eef1a9f26e49",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "88ab4833-847f-4958-adad-38361aa4f23c",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "449c59a1-7f31-48ce-b7a1-1b697a9584ba",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
   },
   {
     "warscrollId": "82ad3073-c649-45fd-964e-15c04fd184bc",
@@ -3427,6 +3127,41 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
+    "warscrollId": "226657de-ad5f-4a3a-99a0-5be8a49e3a84",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "226657de-ad5f-4a3a-99a0-5be8a49e3a84",
+    "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "142291b8-fffc-4a76-804c-550aca11a3a7",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "142291b8-fffc-4a76-804c-550aca11a3a7",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "142291b8-fffc-4a76-804c-550aca11a3a7",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "d5e0bf47-def3-42ef-934d-d77fc30b851f",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d5e0bf47-def3-42ef-934d-d77fc30b851f",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
     "warscrollId": "24e23e5a-8fab-4e5b-bde5-c35f9ff6c5da",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
@@ -3437,13 +3172,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "88ab4833-847f-4958-adad-38361aa4f23c",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "warscrollId": "e4965a2f-b219-49dd-a48d-b24b385f5ff3",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
     "displayOrder": 2
   },
   {
-    "warscrollId": "6fd8762e-e1cf-4911-8c06-c173e500ad14",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "e4965a2f-b219-49dd-a48d-b24b385f5ff3",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
@@ -3457,24 +3192,24 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "6edb189a-9d83-42ad-a0b5-8658a93e00a5",
+    "warscrollId": "6d66e8bd-8013-45a9-8057-f843559e9a0a",
     "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
     "displayOrder": 2
   },
   {
-    "warscrollId": "6edb189a-9d83-42ad-a0b5-8658a93e00a5",
+    "warscrollId": "6d66e8bd-8013-45a9-8057-f843559e9a0a",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "a6bd69e2-118e-4bad-931e-96a6b691ecb9",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
-    "displayOrder": 2
+    "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "a6bd69e2-118e-4bad-931e-96a6b691ecb9",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640",
+    "factionKeywordId": "1ac47c51-cc93-4142-b160-0de91fe8eb82",
+    "displayOrder": 3
   },
   {
     "warscrollId": "6af999c1-35a6-4f3f-9131-fa909616ce83",
@@ -3487,13 +3222,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "6fd8762e-e1cf-4911-8c06-c173e500ad14",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "warscrollId": "c7bce662-3cd3-4643-8259-b44a60a9513f",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
     "displayOrder": 2
   },
   {
-    "warscrollId": "90065c7b-196e-400e-baa1-5ba85e2806da",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "c7bce662-3cd3-4643-8259-b44a60a9513f",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
@@ -3547,43 +3282,43 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "f5199166-4357-4209-a865-b615881e8a14",
+    "warscrollId": "75ea0c6a-b825-49a0-82f9-1da283f05c75",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "e08a53ad-541e-4e23-893a-5c324913bd07",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "f5199166-4357-4209-a865-b615881e8a14",
+    "warscrollId": "da214432-c7bf-4940-8a7a-5e8d4b1a3a6f",
+    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "da214432-c7bf-4940-8a7a-5e8d4b1a3a6f",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "fff78886-e1e9-463e-b7a8-3d36d3774ce8",
+    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "fff78886-e1e9-463e-b7a8-3d36d3774ce8",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "e08a53ad-541e-4e23-893a-5c324913bd07",
     "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
-    "warscrollId": "da214432-c7bf-4940-8a7a-5e8d4b1a3a6f",
-    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "da214432-c7bf-4940-8a7a-5e8d4b1a3a6f",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "fff78886-e1e9-463e-b7a8-3d36d3774ce8",
-    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "fff78886-e1e9-463e-b7a8-3d36d3774ce8",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "4745c669-b1ed-4c50-8c3b-76747855a379",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "4745c669-b1ed-4c50-8c3b-76747855a379",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "ea84257e-c0b7-4a31-bf0f-efe0fbe17640",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
@@ -3592,9 +3327,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "90065c7b-196e-400e-baa1-5ba85e2806da",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
+    "warscrollId": "c7bce662-3cd3-4643-8259-b44a60a9513f",
+    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
+    "displayOrder": 3
   },
   {
     "warscrollId": "14006619-1fe9-40ef-961c-f7c612b152c6",
@@ -3607,12 +3342,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "33def0da-f8c0-4ad5-aaa3-7acd3ac56670",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "warscrollId": "bf33999a-2b7a-40bc-a2de-4eac8985666b",
+    "factionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
     "displayOrder": 2
   },
   {
-    "warscrollId": "33def0da-f8c0-4ad5-aaa3-7acd3ac56670",
+    "warscrollId": "bf33999a-2b7a-40bc-a2de-4eac8985666b",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
@@ -3632,6 +3367,11 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
+    "warscrollId": "d45e048c-0ec3-45c4-8084-93477d000913",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
     "warscrollId": "cfaf9dad-5682-4fc2-83bf-28efa1c71f1b",
     "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "displayOrder": 1
@@ -3647,13 +3387,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "8f5107dd-7622-442b-bca6-d256c942fd6e",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "warscrollId": "ecd80964-42d4-49ae-b7ff-e2fab6d7ef8d",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
   },
   {
-    "warscrollId": "8f5107dd-7622-442b-bca6-d256c942fd6e",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "ce6bd705-1bd8-488a-8a7e-d040053183a1",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
@@ -3672,19 +3412,24 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "62d333fb-10ed-471a-b60c-7a7175e0af07",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "8b809172-65f2-4d7b-aa42-8de279f73475",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "warscrollId": "ce6bd705-1bd8-488a-8a7e-d040053183a1",
+    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
     "displayOrder": 2
   },
   {
-    "warscrollId": "8b809172-65f2-4d7b-aa42-8de279f73475",
+    "warscrollId": "4c8bea9e-f9d0-4cf6-a395-a4a5fdef9764",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d45e048c-0ec3-45c4-8084-93477d000913",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
+  },
+  {
+    "warscrollId": "66218028-d2f4-4bc5-ac20-c8a754a47dc9",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
   },
   {
     "warscrollId": "563131e7-d364-4897-872f-a8fcb6ad7834",
@@ -3697,16 +3442,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "62d333fb-10ed-471a-b60c-7a7175e0af07",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "62d333fb-10ed-471a-b60c-7a7175e0af07",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "a6ef433e-fe76-40da-9ca0-51a789a51804",
     "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "displayOrder": 2
@@ -3715,16 +3450,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "a6ef433e-fe76-40da-9ca0-51a789a51804",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
-  },
-  {
-    "warscrollId": "d5ab6852-fc44-446c-b342-7db95f92c1fa",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "d5ab6852-fc44-446c-b342-7db95f92c1fa",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
   },
   {
     "warscrollId": "ffa57842-9faf-4f89-823e-8141a600a069",
@@ -3752,14 +3477,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "a7b5f262-5893-41d1-898a-54d41dc94666",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "4c8bea9e-f9d0-4cf6-a395-a4a5fdef9764",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "a7b5f262-5893-41d1-898a-54d41dc94666",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
+    "warscrollId": "3ce65ad5-a414-400f-80ae-f36bb082506d",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
     "warscrollId": "b4d4c63b-e255-4fb8-aaf8-3b4eca5fcd99",
@@ -3792,14 +3517,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "db035ac5-f574-4b76-b879-8849ce7b2e43",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "3ce65ad5-a414-400f-80ae-f36bb082506d",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "db035ac5-f574-4b76-b879-8849ce7b2e43",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
-    "displayOrder": 2
+    "warscrollId": "a787f0f4-9a69-4761-bb32-f7c6c63b52e6",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
     "warscrollId": "bf24a6e9-4de1-4f51-b9ce-cf116ca32430",
@@ -3812,14 +3537,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "eff8700d-594e-44ad-9b22-ea96284d49ce",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "a787f0f4-9a69-4761-bb32-f7c6c63b52e6",
+    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "eff8700d-594e-44ad-9b22-ea96284d49ce",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
+    "warscrollId": "e07f7143-5725-45ac-9f22-9a722439b8f1",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
     "warscrollId": "8d5de02f-cc50-473f-b02f-ba59d24106a2",
@@ -3877,17 +3602,17 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "cac154e2-94a9-4bc0-be00-c46c716e9068",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
-    "displayOrder": 3
+    "warscrollId": "e07f7143-5725-45ac-9f22-9a722439b8f1",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "cac154e2-94a9-4bc0-be00-c46c716e9068",
+    "warscrollId": "23d60979-1890-40db-a8ca-b83380f64b84",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "cac154e2-94a9-4bc0-be00-c46c716e9068",
+    "warscrollId": "23d60979-1890-40db-a8ca-b83380f64b84",
     "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
@@ -3967,21 +3692,21 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "aaff4f9f-3b04-406b-942c-0b627c76fc25",
+    "warscrollId": "8440b84e-6936-4bd8-8496-793d14c557c2",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "aaff4f9f-3b04-406b-942c-0b627c76fc25",
-    "factionKeywordId": "1ac47c51-cc93-4142-b160-0de91fe8eb82",
+    "warscrollId": "8440b84e-6936-4bd8-8496-793d14c557c2",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "75eca768-c25a-40df-9805-0ad818f5982b",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
     "displayOrder": 3
   },
   {
-    "warscrollId": "aaff4f9f-3b04-406b-942c-0b627c76fc25",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "12fbb0b6-2d71-429d-b6f1-412ea23e07f7",
     "factionKeywordId": "658431dd-d251-4bfd-be82-e59ecdee0f15",
     "displayOrder": 1
@@ -4007,6 +3732,31 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
+    "warscrollId": "66218028-d2f4-4bc5-ac20-c8a754a47dc9",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "75eca768-c25a-40df-9805-0ad818f5982b",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "75eca768-c25a-40df-9805-0ad818f5982b",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "f27ea6f0-d4e4-45b3-bb12-108f3b6b962d",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "f27ea6f0-d4e4-45b3-bb12-108f3b6b962d",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
     "warscrollId": "af2b4f2b-5423-412d-8df3-1bfa9c091974",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
@@ -4022,24 +3772,19 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "b27de225-a148-47b0-8522-b63f1bc00ba8",
+    "warscrollId": "eeb6211f-ba55-40ec-acfb-ed2f4fc26596",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "eeb6211f-ba55-40ec-acfb-ed2f4fc26596",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "b27de225-a148-47b0-8522-b63f1bc00ba8",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "f8e23183-2046-40e9-8c27-c44629a13f33",
-    "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "f8e23183-2046-40e9-8c27-c44629a13f33",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
   },
   {
     "warscrollId": "b8214969-9157-433c-9c82-ec07980a6b41",
@@ -4087,19 +3832,19 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "c52e44ce-3274-4b52-92f3-340452744268",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "b9674d2f-550b-45c5-96ea-2d1c877c4591",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "warscrollId": "6ccec673-4957-43fe-8e1a-0d3164ea1962",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
     "displayOrder": 2
   },
   {
-    "warscrollId": "b9674d2f-550b-45c5-96ea-2d1c877c4591",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "eeb6211f-ba55-40ec-acfb-ed2f4fc26596",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "da884625-8323-4741-8d4b-e9202ecf868d",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
   },
   {
     "warscrollId": "fa89fccd-b102-45d9-85d4-3ac7a7c1b52d",
@@ -4142,54 +3887,44 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "4f17c264-fc47-4a04-a985-6ff2c27d3231",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "4f17c264-fc47-4a04-a985-6ff2c27d3231",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d34e9289-ce9e-4dce-8a80-1afd9cfe5ea3",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d34e9289-ce9e-4dce-8a80-1afd9cfe5ea3",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a9c1ca65-d0cb-4a77-9de6-f39c7922dd5d",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a9c1ca65-d0cb-4a77-9de6-f39c7922dd5d",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "ac54f3c4-b399-43d0-ac91-4827b797d03a",
-    "factionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "ac54f3c4-b399-43d0-ac91-4827b797d03a",
+    "warscrollId": "6ccec673-4957-43fe-8e1a-0d3164ea1962",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "6eed1e2d-77c1-4254-a7ad-cb6c786f2346",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "warscrollId": "6ccec673-4957-43fe-8e1a-0d3164ea1962",
+    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "a482bb1b-598a-465d-b50d-16c957d5b6ca",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "a482bb1b-598a-465d-b50d-16c957d5b6ca",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
     "displayOrder": 2
   },
   {
-    "warscrollId": "6eed1e2d-77c1-4254-a7ad-cb6c786f2346",
+    "warscrollId": "d842b070-c546-4eed-a38b-9d21db934884",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d842b070-c546-4eed-a38b-9d21db934884",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
+  },
+  {
+    "warscrollId": "da884625-8323-4741-8d4b-e9202ecf868d",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d5aefc64-615e-4e47-8b0a-c512f45f6011",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
   },
   {
     "warscrollId": "7cd12860-c762-4f81-899b-6bb83890963a",
@@ -4252,23 +3987,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "fb2a5ce7-fbb1-4406-b827-c8eb21a1fe3f",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "fb2a5ce7-fbb1-4406-b827-c8eb21a1fe3f",
-    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
+    "warscrollId": "074b6728-9ed2-4a73-a1f5-4a6e034f9525",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
     "displayOrder": 2
   },
   {
-    "warscrollId": "bcc576ba-ec4a-4502-9808-546e14cc5ad3",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "bcc576ba-ec4a-4502-9808-546e14cc5ad3",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "074b6728-9ed2-4a73-a1f5-4a6e034f9525",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
@@ -4337,14 +4062,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "3d2b9a39-53de-4d84-8d67-46089cb63317",
-    "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
-    "displayOrder": 2
+    "warscrollId": "e1d21279-137d-417c-bfd0-0ca4d7e58e55",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "3d2b9a39-53de-4d84-8d67-46089cb63317",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
+    "warscrollId": "e1d21279-137d-417c-bfd0-0ca4d7e58e55",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "displayOrder": 2
   },
   {
     "warscrollId": "5737be22-e5b2-4fba-aae4-1ccda39f009f",
@@ -4357,24 +4082,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "66218028-d2f4-4bc5-ac20-c8a754a47dc9",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "66218028-d2f4-4bc5-ac20-c8a754a47dc9",
+    "warscrollId": "d5aefc64-615e-4e47-8b0a-c512f45f6011",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "66b027f8-9368-4140-b237-5cfcc6479218",
-    "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
+    "warscrollId": "7750f236-6bda-4534-abf9-f6c14b2fd3c9",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "66b027f8-9368-4140-b237-5cfcc6479218",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
   },
   {
     "warscrollId": "a8c9868e-99e6-47cc-b7f1-c6bedf7b43c4",
@@ -4597,53 +4312,113 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "b036400a-06f3-42aa-a986-df95a2876668",
-    "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "b036400a-06f3-42aa-a986-df95a2876668",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "warscrollId": "7750f236-6bda-4534-abf9-f6c14b2fd3c9",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "3db5edd1-8a80-42a1-997f-5b578943b462",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "warscrollId": "d0758013-4491-441b-896d-0c9b84d46669",
+    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "d0758013-4491-441b-896d-0c9b84d46669",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
     "displayOrder": 2
   },
   {
-    "warscrollId": "b5a1374e-2519-4d17-9de8-292839796fd5",
+    "warscrollId": "d0758013-4491-441b-896d-0c9b84d46669",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "667c734c-c58e-47cc-a278-a21d9ab2ccf5",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "667c734c-c58e-47cc-a278-a21d9ab2ccf5",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "89562fe2-8685-43de-9830-ed9d5c364f84",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "89562fe2-8685-43de-9830-ed9d5c364f84",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9",
+    "factionKeywordId": "1ac47c51-cc93-4142-b160-0de91fe8eb82",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "2e5a2d2d-4ead-432e-8275-8259dd4061c8",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "2e5a2d2d-4ead-432e-8275-8259dd4061c8",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "3a7c2bc0-61aa-444b-a1e4-3bd07bd0016c",
     "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
     "displayOrder": 1
   },
   {
-    "warscrollId": "b5a1374e-2519-4d17-9de8-292839796fd5",
+    "warscrollId": "16700af1-e558-4014-ab20-52ae55f6cddb",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "16700af1-e558-4014-ab20-52ae55f6cddb",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "16700af1-e558-4014-ab20-52ae55f6cddb",
+    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "a6bd69e2-118e-4bad-931e-96a6b691ecb9",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "3a7c2bc0-61aa-444b-a1e4-3bd07bd0016c",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 2
   },
   {
-    "warscrollId": "b5a1374e-2519-4d17-9de8-292839796fd5",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "b5a1374e-2519-4d17-9de8-292839796fd5",
-    "factionKeywordId": "ca2086c7-e77c-46f6-b4ac-f621a56c5f2d",
-    "displayOrder": 4
-  },
-  {
-    "warscrollId": "3db5edd1-8a80-42a1-997f-5b578943b462",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "c2bddef8-84df-4702-9161-62a6d06118e4",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "a6bd69e2-118e-4bad-931e-96a6b691ecb9",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
     "warscrollId": "d0222286-4e9b-4114-8f24-41151198420a",
     "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "5d4ddcec-096b-467a-8a7a-8dcb182427c6",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "5d4ddcec-096b-467a-8a7a-8dcb182427c6",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
@@ -4677,23 +4452,23 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "226657de-ad5f-4a3a-99a0-5be8a49e3a84",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "warscrollId": "fecbbf66-705b-47b0-b401-08e9c1234482",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "226657de-ad5f-4a3a-99a0-5be8a49e3a84",
-    "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
+    "warscrollId": "fecbbf66-705b-47b0-b401-08e9c1234482",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
     "displayOrder": 2
   },
   {
-    "warscrollId": "ba983e99-4300-4b47-bca3-384be59ade49",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "warscrollId": "bcc576ba-ec4a-4502-9808-546e14cc5ad3",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
     "displayOrder": 2
   },
   {
-    "warscrollId": "ba983e99-4300-4b47-bca3-384be59ade49",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "bcc576ba-ec4a-4502-9808-546e14cc5ad3",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
@@ -4767,14 +4542,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 3
   },
   {
-    "warscrollId": "27d4d186-994a-4e97-93af-3b782cc0cce7",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "3a7c2bc0-61aa-444b-a1e4-3bd07bd0016c",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
   },
   {
-    "warscrollId": "27d4d186-994a-4e97-93af-3b782cc0cce7",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
+    "warscrollId": "3f93d3cc-04f4-4e19-86b1-b0ebc5bbbcf1",
+    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
+    "displayOrder": 3
   },
   {
     "warscrollId": "33307074-e207-4cda-8c0c-ffb6060b0815",
@@ -4807,12 +4582,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "b5511bad-9d69-43d0-9fc5-5f09a895e517",
-    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
+    "warscrollId": "3f93d3cc-04f4-4e19-86b1-b0ebc5bbbcf1",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
     "displayOrder": 2
   },
   {
-    "warscrollId": "b5511bad-9d69-43d0-9fc5-5f09a895e517",
+    "warscrollId": "3f93d3cc-04f4-4e19-86b1-b0ebc5bbbcf1",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
@@ -4897,6 +4672,16 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 4
   },
   {
+    "warscrollId": "8f5107dd-7622-442b-bca6-d256c942fd6e",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "8f5107dd-7622-442b-bca6-d256c942fd6e",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
     "warscrollId": "eeb0632a-3846-456e-b5d7-3776f3dc4592",
     "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
     "displayOrder": 2
@@ -4977,13 +4762,23 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "2b52e4ad-7d82-42cc-94b8-b39130c192ee",
-    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "warscrollId": "48818195-19b6-4f67-bec3-00e6adfb63ed",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
     "displayOrder": 2
   },
   {
-    "warscrollId": "2b52e4ad-7d82-42cc-94b8-b39130c192ee",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "warscrollId": "48818195-19b6-4f67-bec3-00e6adfb63ed",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "8b809172-65f2-4d7b-aa42-8de279f73475",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "8b809172-65f2-4d7b-aa42-8de279f73475",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
@@ -5012,14 +4807,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "63a9cf77-fbbd-43ad-8c49-82b095422698",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
+    "warscrollId": "5d4ddcec-096b-467a-8a7a-8dcb182427c6",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
-    "warscrollId": "63a9cf77-fbbd-43ad-8c49-82b095422698",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
+    "warscrollId": "95a1be8b-a98a-4bae-9758-ea90f03119c9",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
+    "displayOrder": 3
   },
   {
     "warscrollId": "d85bdf07-7e14-4c34-9402-d54ecae33df8",
@@ -5062,6 +4857,21 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
+    "warscrollId": "d08c3cf2-d82b-40de-ab29-0a8d0c559290",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d08c3cf2-d82b-40de-ab29-0a8d0c559290",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "95a1be8b-a98a-4bae-9758-ea90f03119c9",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
     "warscrollId": "b366d04a-6d3b-43e3-b253-bdb84aa25ddf",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
@@ -5077,6 +4887,16 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
+    "warscrollId": "95a1be8b-a98a-4bae-9758-ea90f03119c9",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "c28adf0a-d5dd-4dd1-ae3e-80f8a7a28e12",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
+    "displayOrder": 3
+  },
+  {
     "warscrollId": "dfba2d87-ee04-432d-b25e-de225fa39714",
     "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
     "displayOrder": 2
@@ -5087,33 +4907,48 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
+    "warscrollId": "ffd2791d-c10b-4c65-b3de-2907d46ae474",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "ffd2791d-c10b-4c65-b3de-2907d46ae474",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
     "warscrollId": "b366d04a-6d3b-43e3-b253-bdb84aa25ddf",
     "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
     "displayOrder": 3
   },
   {
-    "warscrollId": "449c59a1-7f31-48ce-b7a1-1b697a9584ba",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "warscrollId": "c28adf0a-d5dd-4dd1-ae3e-80f8a7a28e12",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "c28adf0a-d5dd-4dd1-ae3e-80f8a7a28e12",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
-    "warscrollId": "449c59a1-7f31-48ce-b7a1-1b697a9584ba",
+    "warscrollId": "60bbfe85-47c6-4d15-b420-cbe3bae13385",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "449c59a1-7f31-48ce-b7a1-1b697a9584ba",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
+    "warscrollId": "60bbfe85-47c6-4d15-b420-cbe3bae13385",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "dc73f092-0fca-4845-9c67-15c268be5a57",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "f27ea6f0-d4e4-45b3-bb12-108f3b6b962d",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "dc73f092-0fca-4845-9c67-15c268be5a57",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "warscrollId": "7738e31e-6c9b-4ff7-ae1f-a7ea78908e56",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
   },
   {
@@ -5127,29 +4962,39 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
+    "warscrollId": "03f7a4f0-cf00-4cf3-a267-62923a00c845",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "03f7a4f0-cf00-4cf3-a267-62923a00c845",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
     "warscrollId": "d53701c2-027c-440f-b53c-469a4d6b0f1f",
     "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
     "displayOrder": 2
   },
   {
-    "warscrollId": "e03369f2-b7c7-42b9-89fe-409f5648cb11",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "e03369f2-b7c7-42b9-89fe-409f5648cb11",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d5e0bf47-def3-42ef-934d-d77fc30b851f",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d5e0bf47-def3-42ef-934d-d77fc30b851f",
+    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
+  },
+  {
+    "warscrollId": "66a2046e-670c-4013-aad4-fedaa1a779ff",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "88ab4833-847f-4958-adad-38361aa4f23c",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "88ab4833-847f-4958-adad-38361aa4f23c",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "a2f78690-433f-4eec-aab5-120c7d24c970",
@@ -5160,16 +5005,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "82dc37c6-a37a-4522-9141-30761cf8ef45",
     "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 1
-  },
-  {
-    "warscrollId": "6b63e041-cbe2-450c-b305-c3a70a0f2702",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "6b63e041-cbe2-450c-b305-c3a70a0f2702",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 2
   },
   {
     "warscrollId": "efb9407f-3e52-404d-bc00-0d6fd0949814",
@@ -5202,16 +5037,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "42d0aa6d-2f14-4abe-9bac-bd3619d4394f",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "42d0aa6d-2f14-4abe-9bac-bd3619d4394f",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "0fb1882c-5a8f-4458-a650-9aa03a0f6c1e",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 2
@@ -5230,16 +5055,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "3edfd2f4-f965-4ab3-b5b0-09f52590b1d1",
     "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
     "displayOrder": 3
-  },
-  {
-    "warscrollId": "84b51f15-0a6f-45a3-8f72-7628f947e4f8",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "84b51f15-0a6f-45a3-8f72-7628f947e4f8",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 2
   },
   {
     "warscrollId": "7a2ae466-08d8-4a14-ac8d-395802f9ff57",
@@ -5277,12 +5092,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "74e0dd27-116e-4901-98c2-997cf1337485",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "warscrollId": "8f54d2d0-c9e4-4da2-97ad-4fa6afa25c7b",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
     "displayOrder": 1
   },
   {
-    "warscrollId": "74e0dd27-116e-4901-98c2-997cf1337485",
+    "warscrollId": "8f54d2d0-c9e4-4da2-97ad-4fa6afa25c7b",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 2
   },
@@ -5295,16 +5110,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "6a0ad383-a414-4c9e-b485-a5a03d84d5ce",
     "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "f06eb6b9-bc29-4b13-8a69-50dac1881ac6",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "f06eb6b9-bc29-4b13-8a69-50dac1881ac6",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
   },
   {
     "warscrollId": "67656820-2853-46af-ae96-283c02971718",
@@ -5347,14 +5152,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "079ad6e5-ef62-42d9-a0d9-6fb9a5678573",
-    "factionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "079ad6e5-ef62-42d9-a0d9-6fb9a5678573",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "8f54d2d0-c9e4-4da2-97ad-4fa6afa25c7b",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
   },
   {
     "warscrollId": "56cd7ff3-3069-46e4-aff9-24e2f85f2046",
@@ -5365,16 +5165,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "56cd7ff3-3069-46e4-aff9-24e2f85f2046",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
-  },
-  {
-    "warscrollId": "f72384fe-8723-40d7-af21-8de58b65f424",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "f72384fe-8723-40d7-af21-8de58b65f424",
-    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
-    "displayOrder": 2
   },
   {
     "warscrollId": "4dc192ff-bd48-4c1c-9bb9-725489f61328",
@@ -5402,16 +5192,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "a61893c0-7c85-4e6d-a781-09fcb03ddc2f",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a61893c0-7c85-4e6d-a781-09fcb03ddc2f",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "54b93d35-f214-4dfd-a0e1-6fbb836435e4",
     "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
     "displayOrder": 2
@@ -5432,39 +5212,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9",
-    "factionKeywordId": "1ac47c51-cc93-4142-b160-0de91fe8eb82",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "097f6979-bb4a-4fa9-8e65-2af55de478b9",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "5f73839c-5f51-4859-91ac-2844711cd34f",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "5f73839c-5f51-4859-91ac-2844711cd34f",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863",
+    "warscrollId": "7738e31e-6c9b-4ff7-ae1f-a7ea78908e56",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
+    "warscrollId": "7738e31e-6c9b-4ff7-ae1f-a7ea78908e56",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
   },
   {
     "warscrollId": "5bb61e8d-de01-4f2e-ad10-6661943810de",
@@ -5492,14 +5247,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "b3013117-b36e-4677-b070-cef740deee7d",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
+    "warscrollId": "56358663-0f7f-42ce-a67e-fd218d479c3f",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "b3013117-b36e-4677-b070-cef740deee7d",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 2
+    "warscrollId": "56358663-0f7f-42ce-a67e-fd218d479c3f",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
     "warscrollId": "4fa36952-df48-45ce-b207-8ed3fc2ae412",
@@ -5577,21 +5332,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "df17a053-435e-48c5-9905-88ebe2557e8b",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "df17a053-435e-48c5-9905-88ebe2557e8b",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "df17a053-435e-48c5-9905-88ebe2557e8b",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
     "warscrollId": "a6388b6d-e9bf-4ddf-a606-d46ca6b3c8b8",
     "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
     "displayOrder": 2
@@ -5612,14 +5352,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "65b5456e-0817-420f-a1a4-3ea992107765",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
+    "warscrollId": "0dc93eac-320d-4fe2-ba54-2872a1faf1ba",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "65b5456e-0817-420f-a1a4-3ea992107765",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "0dc93eac-320d-4fe2-ba54-2872a1faf1ba",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "displayOrder": 2
   },
   {
     "warscrollId": "4e2acca9-5000-4a8c-8a41-8d3247b25c85",
@@ -5637,14 +5377,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863",
-    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
-    "displayOrder": 3
+    "warscrollId": "358a2c45-0895-48ca-aa7c-eaad45d0c45d",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 4
+    "warscrollId": "358a2c45-0895-48ca-aa7c-eaad45d0c45d",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "displayOrder": 2
   },
   {
     "warscrollId": "c5270cce-0ac5-410a-9012-611e7c0b13b3",
@@ -5657,43 +5397,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "12ce4b08-591a-4808-8963-28efa99c51f9",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "12ce4b08-591a-4808-8963-28efa99c51f9",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "444f4e9b-ed43-4fe0-aa24-7e25f78abec0",
-    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "444f4e9b-ed43-4fe0-aa24-7e25f78abec0",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "444f4e9b-ed43-4fe0-aa24-7e25f78abec0",
-    "factionKeywordId": "5a28dd59-70cf-43b1-8657-128b2f6a21a8",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "c28adf0a-d5dd-4dd1-ae3e-80f8a7a28e12",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "c28adf0a-d5dd-4dd1-ae3e-80f8a7a28e12",
+    "warscrollId": "adad59dd-957e-4c76-b565-3c5ef52c1c8d",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "c28adf0a-d5dd-4dd1-ae3e-80f8a7a28e12",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "warscrollId": "adad59dd-957e-4c76-b565-3c5ef52c1c8d",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
   },
   {
@@ -5702,23 +5412,18 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863",
-    "factionKeywordId": "da05f3bd-dfa7-4ff5-91af-96b38a206d25",
-    "displayOrder": 5
-  },
-  {
     "warscrollId": "3375d9ce-66c7-4910-ad52-332acd2aed64",
     "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
   },
   {
-    "warscrollId": "6c426b44-18f6-4a70-8214-7d13cf836435",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "4745c669-b1ed-4c50-8c3b-76747855a379",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
     "displayOrder": 1
   },
   {
-    "warscrollId": "6c426b44-18f6-4a70-8214-7d13cf836435",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "warscrollId": "3e3dfc26-0405-4b44-8800-8eb80d21311b",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "displayOrder": 2
   },
   {
@@ -5742,14 +5447,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "64e22b93-0add-409c-977c-effe16b4bce0",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "64e22b93-0add-409c-977c-effe16b4bce0",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 2
+    "warscrollId": "eb668dd3-2a2f-447c-9dc3-eef1a9f26e49",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
+    "displayOrder": 3
   },
   {
     "warscrollId": "397b5c01-acce-406b-be7c-de2e940977c8",
@@ -5767,14 +5467,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "529b128b-dc22-49e3-a427-04dc2f009c09",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
+    "warscrollId": "eb668dd3-2a2f-447c-9dc3-eef1a9f26e49",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "529b128b-dc22-49e3-a427-04dc2f009c09",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "eb668dd3-2a2f-447c-9dc3-eef1a9f26e49",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "bda6f3ae-c08e-4a85-b12e-81fe4d1b5a05",
@@ -5897,23 +5597,23 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "3f2fb8fe-f21f-445b-8a6a-b449077b9761",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "warscrollId": "6fd8762e-e1cf-4911-8c06-c173e500ad14",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "6fd8762e-e1cf-4911-8c06-c173e500ad14",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
-    "warscrollId": "3f2fb8fe-f21f-445b-8a6a-b449077b9761",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "142291b8-fffc-4a76-804c-550aca11a3a7",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "142291b8-fffc-4a76-804c-550aca11a3a7",
+    "warscrollId": "9e273bdc-e6cb-42c6-93f4-150f4918d3e4",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "9e273bdc-e6cb-42c6-93f4-150f4918d3e4",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
@@ -5937,8 +5637,8 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "142291b8-fffc-4a76-804c-550aca11a3a7",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "warscrollId": "9c87a56a-e978-4c6e-a985-08ff20c3b09a",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
     "displayOrder": 3
   },
   {
@@ -5962,18 +5662,23 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "be110262-0a0a-432a-8173-0bf9ac519413",
-    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
-    "displayOrder": 2
+    "warscrollId": "9c87a56a-e978-4c6e-a985-08ff20c3b09a",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "be110262-0a0a-432a-8173-0bf9ac519413",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
+    "warscrollId": "9c87a56a-e978-4c6e-a985-08ff20c3b09a",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "3375d9ce-66c7-4910-ad52-332acd2aed64",
     "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "62d333fb-10ed-471a-b60c-7a7175e0af07",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
     "displayOrder": 3
   },
   {
@@ -5997,14 +5702,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "2dd49d46-87e5-4e9e-9da2-ca1b4af72131",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "9d0f516d-7f58-45f1-9736-86b0afa9e0ec",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "2dd49d46-87e5-4e9e-9da2-ca1b4af72131",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
+    "warscrollId": "9d0f516d-7f58-45f1-9736-86b0afa9e0ec",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
   },
   {
     "warscrollId": "cdf522d0-e9f7-46de-9523-fff23d286461",
@@ -6042,38 +5747,48 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "9e273bdc-e6cb-42c6-93f4-150f4918d3e4",
+    "warscrollId": "4a7bbe73-da4e-40ef-980e-2f64bdb3b8f1",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "4a7bbe73-da4e-40ef-980e-2f64bdb3b8f1",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "61ebc9ec-0d0f-429a-8194-1cf9a9fd609a",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "61ebc9ec-0d0f-429a-8194-1cf9a9fd609a",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "62d333fb-10ed-471a-b60c-7a7175e0af07",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "9e273bdc-e6cb-42c6-93f4-150f4918d3e4",
+    "warscrollId": "62d333fb-10ed-471a-b60c-7a7175e0af07",
     "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
-    "warscrollId": "4a7bbe73-da4e-40ef-980e-2f64bdb3b8f1",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "4a7bbe73-da4e-40ef-980e-2f64bdb3b8f1",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "61ebc9ec-0d0f-429a-8194-1cf9a9fd609a",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "61ebc9ec-0d0f-429a-8194-1cf9a9fd609a",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "73a95697-03ba-4b3f-9b4c-996fedcc5a8b",
     "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "33def0da-f8c0-4ad5-aaa3-7acd3ac56670",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "33def0da-f8c0-4ad5-aaa3-7acd3ac56670",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
@@ -6097,14 +5812,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "d08c3cf2-d82b-40de-ab29-0a8d0c559290",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
-    "displayOrder": 2
+    "warscrollId": "62e80fcb-c385-47b0-b2cb-63406e0e3c66",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "d08c3cf2-d82b-40de-ab29-0a8d0c559290",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "62e80fcb-c385-47b0-b2cb-63406e0e3c66",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "0f1dbabb-75a9-4300-be60-3242f623f796",
@@ -6137,14 +5852,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "a4a79f59-d9ab-4fe7-8932-fb0527f3fc92",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
+    "warscrollId": "62e80fcb-c385-47b0-b2cb-63406e0e3c66",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
+    "displayOrder": 3
   },
   {
-    "warscrollId": "a4a79f59-d9ab-4fe7-8932-fb0527f3fc92",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "3d2b9a39-53de-4d84-8d67-46089cb63317",
+    "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
+    "displayOrder": 2
   },
   {
     "warscrollId": "c53af49b-ad48-418f-a93f-f439b846a45b",
@@ -6157,13 +5872,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "d45e048c-0ec3-45c4-8084-93477d000913",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
+    "warscrollId": "3d2b9a39-53de-4d84-8d67-46089cb63317",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "d45e048c-0ec3-45c4-8084-93477d000913",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "60dcc9cd-0b08-4579-a849-4d16684e6970",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
   },
   {
@@ -6179,6 +5894,11 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   {
     "warscrollId": "05d40890-4fb9-4f45-9938-aab60abcace1",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d5ab6852-fc44-446c-b342-7db95f92c1fa",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
@@ -6232,16 +5952,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "82b1fbe8-8864-4e65-9cd0-91512d3254f7",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "82b1fbe8-8864-4e65-9cd0-91512d3254f7",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "47a58477-2b3d-4f7e-b3a4-9c349809af61",
     "factionKeywordId": "658431dd-d251-4bfd-be82-e59ecdee0f15",
     "displayOrder": 2
@@ -6262,14 +5972,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "2cc95014-c662-4f47-9271-c3fb6085789a",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "warscrollId": "60dcc9cd-0b08-4579-a849-4d16684e6970",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "2cc95014-c662-4f47-9271-c3fb6085789a",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
   },
   {
     "warscrollId": "5a2a1de6-51c5-450e-87a6-8c08e64c7fea",
@@ -6282,23 +5987,38 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "beb74a68-a40f-4ee6-aa70-c2babcedc4b5",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "warscrollId": "9676d3f9-a44b-4126-8ded-e5087281bbb2",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "beb74a68-a40f-4ee6-aa70-c2babcedc4b5",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "warscrollId": "9676d3f9-a44b-4126-8ded-e5087281bbb2",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
   },
   {
-    "warscrollId": "6f112458-32fb-412b-b860-23e1f9ec4c7b",
+    "warscrollId": "56934c98-f378-4d53-9d60-910e622667ee",
     "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
   },
   {
-    "warscrollId": "6f112458-32fb-412b-b860-23e1f9ec4c7b",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "beb74a68-a40f-4ee6-aa70-c2babcedc4b5",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "beb74a68-a40f-4ee6-aa70-c2babcedc4b5",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d5ab6852-fc44-446c-b342-7db95f92c1fa",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "a7b5f262-5893-41d1-898a-54d41dc94666",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
@@ -6310,11 +6030,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "67d7a81f-160d-4881-94b8-a58d803b48c4",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
-  },
-  {
-    "warscrollId": "6f112458-32fb-412b-b860-23e1f9ec4c7b",
-    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
-    "displayOrder": 3
   },
   {
     "warscrollId": "e3ce51b6-be3c-4ecd-bebc-82447bd2e77e",
@@ -6332,14 +6047,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "acb3ec86-cfa8-4f40-9bb3-5c6f9a221f7c",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "warscrollId": "a7b5f262-5893-41d1-898a-54d41dc94666",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
-    "warscrollId": "acb3ec86-cfa8-4f40-9bb3-5c6f9a221f7c",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
+    "warscrollId": "135f32ce-8633-4428-959d-18df5b941121",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
   },
   {
     "warscrollId": "f16b2ddb-cd56-4139-8d8c-3b90d2fd8055",
@@ -6377,19 +6092,19 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "warscrollId": "135f32ce-8633-4428-959d-18df5b941121",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1",
-    "factionKeywordId": "0c5a7f03-c1a3-4491-a7cf-71de0b4427c0",
-    "displayOrder": 3
+    "warscrollId": "91debed1-ef22-422f-8aad-13cb4eff1b5e",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
   },
   {
-    "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1",
-    "factionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
-    "displayOrder": 2
+    "warscrollId": "91debed1-ef22-422f-8aad-13cb4eff1b5e",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
   },
   {
     "warscrollId": "b7f9ba55-b2a4-43c9-84a4-af02bfacadd8",
@@ -6457,33 +6172,33 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "ebc1df94-e25a-4fe9-a28c-83738b3a11ea",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "ebc1df94-e25a-4fe9-a28c-83738b3a11ea",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "7150fa63-86cd-4776-b753-7268a71d4fd8",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "7150fa63-86cd-4776-b753-7268a71d4fd8",
+    "warscrollId": "56934c98-f378-4d53-9d60-910e622667ee",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "cd6894c9-a261-40a3-afff-7143b283e380",
+    "warscrollId": "56934c98-f378-4d53-9d60-910e622667ee",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "181fa314-5759-4e16-b1c2-feee048adbe8",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "cd6894c9-a261-40a3-afff-7143b283e380",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "warscrollId": "181fa314-5759-4e16-b1c2-feee048adbe8",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "4112a17e-1bde-49a3-a35c-3749f35b5ebb",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "4112a17e-1bde-49a3-a35c-3749f35b5ebb",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
   },
   {
@@ -6527,24 +6242,19 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "113d045d-fb16-4513-82c7-e307cd6a5166",
-    "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
+    "warscrollId": "ecd80964-42d4-49ae-b7ff-e2fab6d7ef8d",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "fb2a5ce7-fbb1-4406-b827-c8eb21a1fe3f",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "fb2a5ce7-fbb1-4406-b827-c8eb21a1fe3f",
+    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "113d045d-fb16-4513-82c7-e307cd6a5166",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "43973acb-7890-4efa-8f1f-2650bd30fca5",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "43973acb-7890-4efa-8f1f-2650bd30fca5",
-    "factionKeywordId": "b68bccc4-d729-485b-9eee-47a91022d601",
-    "displayOrder": 3
   },
   {
     "warscrollId": "003dbd98-4283-48a6-937e-e83b3b1e491f",
@@ -6572,11 +6282,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "43973acb-7890-4efa-8f1f-2650bd30fca5",
-    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "995b948f-1de2-4275-a507-3b33729892d4",
     "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
@@ -6595,26 +6300,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "67f8f334-425b-4655-899b-2d66018dfb06",
     "factionKeywordId": "1b6516e7-d4ef-4b19-9dea-fe8773b1f87b",
     "displayOrder": 3
-  },
-  {
-    "warscrollId": "4cc747bb-89ad-42ca-99d0-5307752d6a97",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "4cc747bb-89ad-42ca-99d0-5307752d6a97",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "645e1985-fbc5-4763-9060-6c9f4c9cf9a9",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "645e1985-fbc5-4763-9060-6c9f4c9cf9a9",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
   },
   {
     "warscrollId": "230191f8-a564-43fc-9dcf-2366e8a85edf",
@@ -6757,21 +6442,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "d0758013-4491-441b-896d-0c9b84d46669",
-    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "d0758013-4491-441b-896d-0c9b84d46669",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d0758013-4491-441b-896d-0c9b84d46669",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "d962076c-7139-4eae-ad69-22235ef6cbbd",
     "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
@@ -6867,6 +6537,21 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
+    "warscrollId": "3b0cb46c-8444-4a10-bb47-55107d144fca",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "3b0cb46c-8444-4a10-bb47-55107d144fca",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "3b0cb46c-8444-4a10-bb47-55107d144fca",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
     "warscrollId": "5838172c-6dae-44d2-ad0a-deee45bb497f",
     "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
@@ -6879,16 +6564,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   {
     "warscrollId": "8de47fd2-656f-4f93-b79b-211777230138",
     "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "8eda4612-9521-4c00-8119-2ab89ab0557b",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "8eda4612-9521-4c00-8119-2ab89ab0557b",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 2
   },
   {
@@ -6922,16 +6597,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "8eda4612-9521-4c00-8119-2ab89ab0557b",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "cac575fe-ed53-4bee-aa29-0bd993cb1130",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "5838172c-6dae-44d2-ad0a-deee45bb497f",
     "factionKeywordId": "b68bccc4-d729-485b-9eee-47a91022d601",
     "displayOrder": 3
@@ -6939,21 +6604,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   {
     "warscrollId": "5838172c-6dae-44d2-ad0a-deee45bb497f",
     "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "9c87a56a-e978-4c6e-a985-08ff20c3b09a",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "9c87a56a-e978-4c6e-a985-08ff20c3b09a",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "9c87a56a-e978-4c6e-a985-08ff20c3b09a",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
     "displayOrder": 2
   },
   {
@@ -6982,9 +6632,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "7042507b-7516-42c4-8564-318915075639",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 1
+    "warscrollId": "443ebea8-10e9-4a8c-8483-18a64902d9ad",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
   },
   {
     "warscrollId": "f7231b61-b537-4b26-b11f-b91031beafe2",
@@ -6995,26 +6645,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "f7231b61-b537-4b26-b11f-b91031beafe2",
     "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "62e41155-fb20-4e92-b0f8-5cf2adf45bc9",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "62e41155-fb20-4e92-b0f8-5cf2adf45bc9",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "cac575fe-ed53-4bee-aa29-0bd993cb1130",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "cac575fe-ed53-4bee-aa29-0bd993cb1130",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
   },
   {
     "warscrollId": "5197fab6-20c0-4ee0-af67-0239b5262dee",
@@ -7067,19 +6697,19 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "5fd6cc77-d4d0-4cf2-87c9-eff32f2cd116",
-    "factionKeywordId": "1ebc11ee-4774-4743-9aa5-2cf8579cf4cb",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "5fd6cc77-d4d0-4cf2-87c9-eff32f2cd116",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "warscrollId": "63a9cf77-fbbd-43ad-8c49-82b095422698",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "displayOrder": 2
   },
   {
-    "warscrollId": "5fd6cc77-d4d0-4cf2-87c9-eff32f2cd116",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "63a9cf77-fbbd-43ad-8c49-82b095422698",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
+  },
+  {
+    "warscrollId": "0483c074-045a-430d-8adf-7801c493889c",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
+    "displayOrder": 2
   },
   {
     "warscrollId": "78fdf391-9f01-4d97-8826-9613793626a0",
@@ -7162,16 +6792,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "d8d83aff-0e39-4dca-91d1-3c85e3f27755",
-    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "d8d83aff-0e39-4dca-91d1-3c85e3f27755",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 2
-  },
-  {
     "warscrollId": "c8acbc04-aacd-46dc-b856-4de5a9a5d0c7",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
@@ -7302,11 +6922,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "acb3ec86-cfa8-4f40-9bb3-5c6f9a221f7c",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
     "warscrollId": "44085ddb-e834-426c-b242-4b8ab963021a",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
@@ -7318,66 +6933,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   },
   {
     "warscrollId": "44085ddb-e834-426c-b242-4b8ab963021a",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "6df85232-6dce-4946-a69b-fe1611cf844a",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "6df85232-6dce-4946-a69b-fe1611cf844a",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "6df85232-6dce-4946-a69b-fe1611cf844a",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "ec610bcd-83c0-4d7c-bac5-33d51c821048",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "ec610bcd-83c0-4d7c-bac5-33d51c821048",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "ec610bcd-83c0-4d7c-bac5-33d51c821048",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "eeb6211f-ba55-40ec-acfb-ed2f4fc26596",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "eeb6211f-ba55-40ec-acfb-ed2f4fc26596",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "eeb6211f-ba55-40ec-acfb-ed2f4fc26596",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "75ea0c6a-b825-49a0-82f9-1da283f05c75",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "75ea0c6a-b825-49a0-82f9-1da283f05c75",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "75ea0c6a-b825-49a0-82f9-1da283f05c75",
     "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
     "displayOrder": 3
   },
@@ -7407,54 +6962,54 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "6d66e8bd-8013-45a9-8057-f843559e9a0a",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "warscrollId": "e43966c7-990d-45e7-a8c8-ffca27db6926",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
     "displayOrder": 2
   },
   {
-    "warscrollId": "6d66e8bd-8013-45a9-8057-f843559e9a0a",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "f27ea6f0-d4e4-45b3-bb12-108f3b6b962d",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "f27ea6f0-d4e4-45b3-bb12-108f3b6b962d",
+    "warscrollId": "e43966c7-990d-45e7-a8c8-ffca27db6926",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "f27ea6f0-d4e4-45b3-bb12-108f3b6b962d",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "b66a39a0-4d2c-4687-816e-babf11f7da63",
+    "warscrollId": "0483c074-045a-430d-8adf-7801c493889c",
     "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
   },
   {
-    "warscrollId": "b66a39a0-4d2c-4687-816e-babf11f7da63",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "warscrollId": "b6975e1d-400e-43ff-a462-6a9b1891d07e",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "displayOrder": 2
   },
   {
-    "warscrollId": "114aadba-44e0-49c7-9807-43df84c037c4",
-    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "114aadba-44e0-49c7-9807-43df84c037c4",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "b6975e1d-400e-43ff-a462-6a9b1891d07e",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
   },
   {
-    "warscrollId": "bf33999a-2b7a-40bc-a2de-4eac8985666b",
-    "factionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
+    "warscrollId": "6d49c3a6-ed75-4f44-9933-12c87d4faec3",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
     "displayOrder": 2
+  },
+  {
+    "warscrollId": "6d49c3a6-ed75-4f44-9933-12c87d4faec3",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "6982f25e-c504-490b-9ab5-32b3db768d04",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "6982f25e-c504-490b-9ab5-32b3db768d04",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "6982f25e-c504-490b-9ab5-32b3db768d04",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
   },
   {
     "warscrollId": "ab6c336a-76d3-480f-b7da-68d213041206",
@@ -7467,19 +7022,919 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "bf33999a-2b7a-40bc-a2de-4eac8985666b",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "6982f25e-c504-490b-9ab5-32b3db768d04",
+    "factionKeywordId": "ca2086c7-e77c-46f6-b4ac-f621a56c5f2d",
+    "displayOrder": 4
   },
   {
-    "warscrollId": "ecd80964-42d4-49ae-b7ff-e2fab6d7ef8d",
+    "warscrollId": "1bd35367-92db-4fdc-8438-14065af828fb",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "1bd35367-92db-4fdc-8438-14065af828fb",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "ecd80964-42d4-49ae-b7ff-e2fab6d7ef8d",
+    "warscrollId": "6153e3e4-8423-4ebd-bb3b-f9fc731d240d",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "c52e44ce-3274-4b52-92f3-340452744268",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "645e1985-fbc5-4763-9060-6c9f4c9cf9a9",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "645e1985-fbc5-4763-9060-6c9f4c9cf9a9",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "66b027f8-9368-4140-b237-5cfcc6479218",
+    "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "66b027f8-9368-4140-b237-5cfcc6479218",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "b31ffa62-7cc1-4ef2-87b7-b583667ab7c3",
+    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "b31ffa62-7cc1-4ef2-87b7-b583667ab7c3",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "1609ecd0-fe6b-4aa7-8611-e5b6fc53d92d",
+    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "1609ecd0-fe6b-4aa7-8611-e5b6fc53d92d",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "70f255de-79f6-4bc8-b61c-37e795a369bc",
+    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "70f255de-79f6-4bc8-b61c-37e795a369bc",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "f34f8ea4-13e1-4512-8b5f-0b931ec2667f",
+    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "f34f8ea4-13e1-4512-8b5f-0b931ec2667f",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "1d470cd8-4470-499c-8c83-5341d0a560c3",
+    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "1d470cd8-4470-499c-8c83-5341d0a560c3",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "ebc1df94-e25a-4fe9-a28c-83738b3a11ea",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "ebc1df94-e25a-4fe9-a28c-83738b3a11ea",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "481cb116-a321-4961-9456-8da6a8b0e1e9",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "9b0f3d50-308c-4833-91a8-57a3cb378265",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "fd5fdaf9-38e9-4cb7-919b-9bc3fb94b7fe",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "fd5fdaf9-38e9-4cb7-919b-9bc3fb94b7fe",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "443ebea8-10e9-4a8c-8483-18a64902d9ad",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "48bbd51d-5f22-4b5e-85e1-60985c2eb214",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "48bbd51d-5f22-4b5e-85e1-60985c2eb214",
+    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "5587c735-4b81-49e6-97f2-0b841b44bd1b",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "5587c735-4b81-49e6-97f2-0b841b44bd1b",
+    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "7c4f6105-7f1e-4d7c-b4c8-cbca714c0904",
+    "factionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "7c4f6105-7f1e-4d7c-b4c8-cbca714c0904",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "5946a887-261e-4028-9602-006df64908e7",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "5946a887-261e-4028-9602-006df64908e7",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "113d045d-fb16-4513-82c7-e307cd6a5166",
+    "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "113d045d-fb16-4513-82c7-e307cd6a5166",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "0ce5f7bf-a936-4ac2-b7a0-9bf378133e87",
+    "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "0ce5f7bf-a936-4ac2-b7a0-9bf378133e87",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "4745c669-b1ed-4c50-8c3b-76747855a379",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "5f73839c-5f51-4859-91ac-2844711cd34f",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "5f73839c-5f51-4859-91ac-2844711cd34f",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "3db5edd1-8a80-42a1-997f-5b578943b462",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "3db5edd1-8a80-42a1-997f-5b578943b462",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "74e0dd27-116e-4901-98c2-997cf1337485",
+    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "74e0dd27-116e-4901-98c2-997cf1337485",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "7c58a04a-dcb8-44e0-afb3-474321fd15c3",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "7c58a04a-dcb8-44e0-afb3-474321fd15c3",
+    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "fed0d322-6399-4d87-90ae-ed0e630934c8",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "fed0d322-6399-4d87-90ae-ed0e630934c8",
+    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "15087bcf-f664-41b3-aa18-7d5658edabdf",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "15087bcf-f664-41b3-aa18-7d5658edabdf",
+    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "3e3dfc26-0405-4b44-8800-8eb80d21311b",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "444f4e9b-ed43-4fe0-aa24-7e25f78abec0",
+    "factionKeywordId": "e4baec4f-b458-491b-87de-3d6fb4f413d9",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "444f4e9b-ed43-4fe0-aa24-7e25f78abec0",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "444f4e9b-ed43-4fe0-aa24-7e25f78abec0",
+    "factionKeywordId": "5a28dd59-70cf-43b1-8657-128b2f6a21a8",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "fd9faa8c-c4ab-4c39-b96a-561eef254baf",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "fd9faa8c-c4ab-4c39-b96a-561eef254baf",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "cac154e2-94a9-4bc0-be00-c46c716e9068",
+    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "cac154e2-94a9-4bc0-be00-c46c716e9068",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "cac154e2-94a9-4bc0-be00-c46c716e9068",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "62014771-97f7-4e4b-a201-fced2fb9fde9",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "62014771-97f7-4e4b-a201-fced2fb9fde9",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "82eb8a43-c4b0-4716-bb64-83b2bea22957",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "82eb8a43-c4b0-4716-bb64-83b2bea22957",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "c7af9039-fecc-4c94-8fe4-4969c70af430",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "c7af9039-fecc-4c94-8fe4-4969c70af430",
+    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "10b5f932-af4d-44b4-af57-25b72a5e61d4",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "10b5f932-af4d-44b4-af57-25b72a5e61d4",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "ea83c559-492d-41d9-befb-51ba26e91d58",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "ea83c559-492d-41d9-befb-51ba26e91d58",
     "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
     "displayOrder": 2
+  },
+  {
+    "warscrollId": "e9cd270c-596f-4732-ad4a-6f0257508dbe",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "e9cd270c-596f-4732-ad4a-6f0257508dbe",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "65a148a4-61f3-4c35-99b9-9fde5e1fe5a5",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "65a148a4-61f3-4c35-99b9-9fde5e1fe5a5",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "12378aca-546c-4cdb-9ab7-f1873e810bde",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "12378aca-546c-4cdb-9ab7-f1873e810bde",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "3beeb7af-9b51-4e47-85a4-5be13a4981fd",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "3beeb7af-9b51-4e47-85a4-5be13a4981fd",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "3fdc4640-4a39-404a-a3d0-ea5a357c0378",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "3fdc4640-4a39-404a-a3d0-ea5a357c0378",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "4bb790ab-db52-4969-b532-398472038ec3",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "4bb790ab-db52-4969-b532-398472038ec3",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "17730d6d-4d2f-46ea-bbb8-5f1215dadf63",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "17730d6d-4d2f-46ea-bbb8-5f1215dadf63",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "ab0c387a-4ab0-4ef6-b544-86502f1d8a61",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "ab0c387a-4ab0-4ef6-b544-86502f1d8a61",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "54fba4c0-6e0f-4182-adda-e6b4013e46bb",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "54fba4c0-6e0f-4182-adda-e6b4013e46bb",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "603dfa14-e8fa-4db8-81f7-b3ba04da5624",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "603dfa14-e8fa-4db8-81f7-b3ba04da5624",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d6f11832-d3b9-421f-8a66-58fee19229d2",
+    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d6f11832-d3b9-421f-8a66-58fee19229d2",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "31e24a20-3fb6-47b5-a141-cb4918f05c15",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "31e24a20-3fb6-47b5-a141-cb4918f05c15",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "31e24a20-3fb6-47b5-a141-cb4918f05c15",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "786a967d-0559-4bfb-8953-6644543d59dd",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "1cae26e7-58d7-47b2-bf8b-635b21fba49c",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d81c17ed-1d97-4f5b-a5e4-8a4f70ca1fcb",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d81c17ed-1d97-4f5b-a5e4-8a4f70ca1fcb",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "bd31cfe5-03c6-4b64-9a66-da2554b54f01",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "bd31cfe5-03c6-4b64-9a66-da2554b54f01",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "5f6def3d-a822-46f8-b15f-a18cb71a6e29",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "5f6def3d-a822-46f8-b15f-a18cb71a6e29",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "7cbce98d-135b-4c88-844c-c24a0f0adaef",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "7cbce98d-135b-4c88-844c-c24a0f0adaef",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "5f89d588-f806-47c5-a7e3-77ee5558ce05",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "5f89d588-f806-47c5-a7e3-77ee5558ce05",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "2a9d9821-b5d0-4c5a-92f8-9b95915776e3",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "2a9d9821-b5d0-4c5a-92f8-9b95915776e3",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "95a49feb-fc10-4d7f-b0e8-b239cebf66f3",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "95a49feb-fc10-4d7f-b0e8-b239cebf66f3",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d802b2c9-8228-4554-912f-f7b4cea555e2",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d802b2c9-8228-4554-912f-f7b4cea555e2",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "f600ed80-5291-4bb9-9987-f9903ab93855",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "f600ed80-5291-4bb9-9987-f9903ab93855",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "48421d4f-c45f-4679-b259-9d4e57225e07",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "48421d4f-c45f-4679-b259-9d4e57225e07",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "c2a38571-21ba-4f48-ae10-a51a638c4b24",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "c2a38571-21ba-4f48-ae10-a51a638c4b24",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "e51f236c-2669-4303-b34c-735f35e2946f",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "e51f236c-2669-4303-b34c-735f35e2946f",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "ab1943cd-5d74-45a8-99c4-78fa9c6a793d",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "ab1943cd-5d74-45a8-99c4-78fa9c6a793d",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "46323ed0-f853-4ffc-ae1a-4810bba0c821",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "46323ed0-f853-4ffc-ae1a-4810bba0c821",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "0d3c2fc6-6edd-4693-902d-b85fadfe9edb",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "0d3c2fc6-6edd-4693-902d-b85fadfe9edb",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d09668d1-c67f-4d50-9870-bca8f7d16bd6",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d09668d1-c67f-4d50-9870-bca8f7d16bd6",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d3270c99-ec06-40a8-b997-9dd2c7233140",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d3270c99-ec06-40a8-b997-9dd2c7233140",
+    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "d3270c99-ec06-40a8-b997-9dd2c7233140",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "67e624d7-d1da-4761-8ca2-ec2f0bf9f5d2",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "67e624d7-d1da-4761-8ca2-ec2f0bf9f5d2",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "c4ab87fb-95a7-4651-b054-63ba321ec637",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "c4ab87fb-95a7-4651-b054-63ba321ec637",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "3786b9e0-0a60-456c-8953-7d07597cfa44",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "3786b9e0-0a60-456c-8953-7d07597cfa44",
+    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "3786b9e0-0a60-456c-8953-7d07597cfa44",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "a6fdff28-250f-47d2-b77a-5b389f2d71c8",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "a6fdff28-250f-47d2-b77a-5b389f2d71c8",
+    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "a6fdff28-250f-47d2-b77a-5b389f2d71c8",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "eb084c0d-23f3-41ad-8016-6a921da1d49f",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "eb084c0d-23f3-41ad-8016-6a921da1d49f",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "e5641197-1fc4-46a6-814b-6de950219cd5",
+    "factionKeywordId": "1ebc11ee-4774-4743-9aa5-2cf8579cf4cb",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "e5641197-1fc4-46a6-814b-6de950219cd5",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "e5641197-1fc4-46a6-814b-6de950219cd5",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "ad3eb674-53c1-4412-98b8-ed9f383c1265",
+    "factionKeywordId": "1ebc11ee-4774-4743-9aa5-2cf8579cf4cb",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "ad3eb674-53c1-4412-98b8-ed9f383c1265",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "ad3eb674-53c1-4412-98b8-ed9f383c1265",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "5b4a2efc-d509-4e95-8102-9409bbf34f1a",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "5b4a2efc-d509-4e95-8102-9409bbf34f1a",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d34e9289-ce9e-4dce-8a80-1afd9cfe5ea3",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d34e9289-ce9e-4dce-8a80-1afd9cfe5ea3",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "13a599c3-3ff4-4c8f-8453-19545adea145",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "13a599c3-3ff4-4c8f-8453-19545adea145",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "ce78aae4-0801-4388-a6c8-f1ed5d5e1af4",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "ce78aae4-0801-4388-a6c8-f1ed5d5e1af4",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "b036400a-06f3-42aa-a986-df95a2876668",
+    "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "b036400a-06f3-42aa-a986-df95a2876668",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "6e6d7560-c4b3-46f1-8a02-37152b8584f3",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "6e6d7560-c4b3-46f1-8a02-37152b8584f3",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "2b8e09b8-9635-49aa-a4f6-41566e05eefe",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "2b8e09b8-9635-49aa-a4f6-41566e05eefe",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "b300ec1d-6211-4909-9d61-f08ef840177f",
+    "factionKeywordId": "38873e77-2a93-4de0-b2c1-7467ec8c64e7",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "b300ec1d-6211-4909-9d61-f08ef840177f",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "65b5456e-0817-420f-a1a4-3ea992107765",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "65b5456e-0817-420f-a1a4-3ea992107765",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "24fd34a9-2736-4ad6-8c76-f6871cbf15fd",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "24fd34a9-2736-4ad6-8c76-f6871cbf15fd",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "a658963f-e44e-4635-b80f-9043be8349cc",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "a658963f-e44e-4635-b80f-9043be8349cc",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "4eb07dac-62fd-4a34-be09-05aebf6a1f5c",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "4eb07dac-62fd-4a34-be09-05aebf6a1f5c",
+    "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "a61893c0-7c85-4e6d-a781-09fcb03ddc2f",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "1a6f67bf-e9b4-44ce-b975-7c63c704ae5f",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "1a6f67bf-e9b4-44ce-b975-7c63c704ae5f",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "a61893c0-7c85-4e6d-a781-09fcb03ddc2f",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "e03369f2-b7c7-42b9-89fe-409f5648cb11",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "e03369f2-b7c7-42b9-89fe-409f5648cb11",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "06f9ed08-9daa-452e-9cd9-51913dd43953",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "06f9ed08-9daa-452e-9cd9-51913dd43953",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "65b5456e-0817-420f-a1a4-3ea992107765",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
   },
   {
     "warscrollId": "62e0c049-5640-4fc4-9a0e-8e16112ea842",
@@ -7492,12 +7947,12 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "48818195-19b6-4f67-bec3-00e6adfb63ed",
-    "factionKeywordId": "dc5a08c9-e7f5-45e7-b8a5-bb7beb432f0d",
+    "warscrollId": "c2741f86-3219-427a-b3c1-61e6569ae812",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
     "displayOrder": 2
   },
   {
-    "warscrollId": "48818195-19b6-4f67-bec3-00e6adfb63ed",
+    "warscrollId": "c2741f86-3219-427a-b3c1-61e6569ae812",
     "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
     "displayOrder": 1
   },
@@ -7512,916 +7967,16 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "d842b070-c546-4eed-a38b-9d21db934884",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d842b070-c546-4eed-a38b-9d21db934884",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a482bb1b-598a-465d-b50d-16c957d5b6ca",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a482bb1b-598a-465d-b50d-16c957d5b6ca",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "1844d752-8715-4670-8e97-1c43ba13c3de",
-    "factionKeywordId": "658431dd-d251-4bfd-be82-e59ecdee0f15",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "1844d752-8715-4670-8e97-1c43ba13c3de",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "5946a887-261e-4028-9602-006df64908e7",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "5946a887-261e-4028-9602-006df64908e7",
+    "warscrollId": "d4867263-475d-4bb1-97d7-4e84625bee25",
     "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "443ebea8-10e9-4a8c-8483-18a64902d9ad",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "443ebea8-10e9-4a8c-8483-18a64902d9ad",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "5587c735-4b81-49e6-97f2-0b841b44bd1b",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "5587c735-4b81-49e6-97f2-0b841b44bd1b",
+    "warscrollId": "d4867263-475d-4bb1-97d7-4e84625bee25",
     "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
     "displayOrder": 2
   },
   {
-    "warscrollId": "271da01b-9ae3-4a51-b23e-4e6e39a890bf",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "271da01b-9ae3-4a51-b23e-4e6e39a890bf",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "fd57d27f-267b-45c0-8188-849d85cec476",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "fd57d27f-267b-45c0-8188-849d85cec476",
-    "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "1cf61a9b-1f49-4704-a3b2-53c47ef6f123",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "1cf61a9b-1f49-4704-a3b2-53c47ef6f123",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "e4965a2f-b219-49dd-a48d-b24b385f5ff3",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "e4965a2f-b219-49dd-a48d-b24b385f5ff3",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "f0ed01a0-a398-4e76-8d83-2de2f0730b30",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "f0ed01a0-a398-4e76-8d83-2de2f0730b30",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "f0ed01a0-a398-4e76-8d83-2de2f0730b30",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "c7bce662-3cd3-4643-8259-b44a60a9513f",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "c7bce662-3cd3-4643-8259-b44a60a9513f",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "c7bce662-3cd3-4643-8259-b44a60a9513f",
-    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "6ccec673-4957-43fe-8e1a-0d3164ea1962",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "6ccec673-4957-43fe-8e1a-0d3164ea1962",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "6ccec673-4957-43fe-8e1a-0d3164ea1962",
-    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "62e80fcb-c385-47b0-b2cb-63406e0e3c66",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "62e80fcb-c385-47b0-b2cb-63406e0e3c66",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "62e80fcb-c385-47b0-b2cb-63406e0e3c66",
-    "factionKeywordId": "f109a1cf-6121-4791-93a7-a39773dfd389",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "16700af1-e558-4014-ab20-52ae55f6cddb",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "16700af1-e558-4014-ab20-52ae55f6cddb",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "16700af1-e558-4014-ab20-52ae55f6cddb",
-    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "62014771-97f7-4e4b-a201-fced2fb9fde9",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "62014771-97f7-4e4b-a201-fced2fb9fde9",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "82eb8a43-c4b0-4716-bb64-83b2bea22957",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "82eb8a43-c4b0-4716-bb64-83b2bea22957",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "c7af9039-fecc-4c94-8fe4-4969c70af430",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "c7af9039-fecc-4c94-8fe4-4969c70af430",
-    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "e07f7143-5725-45ac-9f22-9a722439b8f1",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "e07f7143-5725-45ac-9f22-9a722439b8f1",
-    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "10b5f932-af4d-44b4-af57-25b72a5e61d4",
-    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "10b5f932-af4d-44b4-af57-25b72a5e61d4",
-    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "15087bcf-f664-41b3-aa18-7d5658edabdf",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "15087bcf-f664-41b3-aa18-7d5658edabdf",
-    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "fed0d322-6399-4d87-90ae-ed0e630934c8",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "fed0d322-6399-4d87-90ae-ed0e630934c8",
-    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "ea83c559-492d-41d9-befb-51ba26e91d58",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "ea83c559-492d-41d9-befb-51ba26e91d58",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "e9cd270c-596f-4732-ad4a-6f0257508dbe",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "e9cd270c-596f-4732-ad4a-6f0257508dbe",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "65a148a4-61f3-4c35-99b9-9fde5e1fe5a5",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "65a148a4-61f3-4c35-99b9-9fde5e1fe5a5",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "aacea25b-e67c-43c8-871a-223f5aa52a8c",
-    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "aacea25b-e67c-43c8-871a-223f5aa52a8c",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "ce6bd705-1bd8-488a-8a7e-d040053183a1",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "ce6bd705-1bd8-488a-8a7e-d040053183a1",
-    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "12378aca-546c-4cdb-9ab7-f1873e810bde",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "12378aca-546c-4cdb-9ab7-f1873e810bde",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "0bc74feb-b7fb-4abd-9581-7d12e905d0f6",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "0bc74feb-b7fb-4abd-9581-7d12e905d0f6",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "3beeb7af-9b51-4e47-85a4-5be13a4981fd",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "3beeb7af-9b51-4e47-85a4-5be13a4981fd",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "3fdc4640-4a39-404a-a3d0-ea5a357c0378",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "3fdc4640-4a39-404a-a3d0-ea5a357c0378",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "4bb790ab-db52-4969-b532-398472038ec3",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "4bb790ab-db52-4969-b532-398472038ec3",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "17730d6d-4d2f-46ea-bbb8-5f1215dadf63",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "17730d6d-4d2f-46ea-bbb8-5f1215dadf63",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "ab0c387a-4ab0-4ef6-b544-86502f1d8a61",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "ab0c387a-4ab0-4ef6-b544-86502f1d8a61",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "54fba4c0-6e0f-4182-adda-e6b4013e46bb",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "54fba4c0-6e0f-4182-adda-e6b4013e46bb",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "603dfa14-e8fa-4db8-81f7-b3ba04da5624",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "603dfa14-e8fa-4db8-81f7-b3ba04da5624",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "d6f11832-d3b9-421f-8a66-58fee19229d2",
-    "factionKeywordId": "2758838a-bfdf-420f-ac22-ac964b95542e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d6f11832-d3b9-421f-8a66-58fee19229d2",
-    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "31e24a20-3fb6-47b5-a141-cb4918f05c15",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "31e24a20-3fb6-47b5-a141-cb4918f05c15",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "31e24a20-3fb6-47b5-a141-cb4918f05c15",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "6982f25e-c504-490b-9ab5-32b3db768d04",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "786a967d-0559-4bfb-8953-6644543d59dd",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "1cae26e7-58d7-47b2-bf8b-635b21fba49c",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "6982f25e-c504-490b-9ab5-32b3db768d04",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "6982f25e-c504-490b-9ab5-32b3db768d04",
-    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "d81c17ed-1d97-4f5b-a5e4-8a4f70ca1fcb",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d81c17ed-1d97-4f5b-a5e4-8a4f70ca1fcb",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "6982f25e-c504-490b-9ab5-32b3db768d04",
-    "factionKeywordId": "ca2086c7-e77c-46f6-b4ac-f621a56c5f2d",
-    "displayOrder": 4
-  },
-  {
-    "warscrollId": "bd31cfe5-03c6-4b64-9a66-da2554b54f01",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "bd31cfe5-03c6-4b64-9a66-da2554b54f01",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "5f6def3d-a822-46f8-b15f-a18cb71a6e29",
-    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "5f6def3d-a822-46f8-b15f-a18cb71a6e29",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "7cbce98d-135b-4c88-844c-c24a0f0adaef",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "7cbce98d-135b-4c88-844c-c24a0f0adaef",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "5f89d588-f806-47c5-a7e3-77ee5558ce05",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "5f89d588-f806-47c5-a7e3-77ee5558ce05",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "2a9d9821-b5d0-4c5a-92f8-9b95915776e3",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "2a9d9821-b5d0-4c5a-92f8-9b95915776e3",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "95a49feb-fc10-4d7f-b0e8-b239cebf66f3",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "95a49feb-fc10-4d7f-b0e8-b239cebf66f3",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "d802b2c9-8228-4554-912f-f7b4cea555e2",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d802b2c9-8228-4554-912f-f7b4cea555e2",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "f600ed80-5291-4bb9-9987-f9903ab93855",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "f600ed80-5291-4bb9-9987-f9903ab93855",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "48421d4f-c45f-4679-b259-9d4e57225e07",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "48421d4f-c45f-4679-b259-9d4e57225e07",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "c2a38571-21ba-4f48-ae10-a51a638c4b24",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "c2a38571-21ba-4f48-ae10-a51a638c4b24",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "e51f236c-2669-4303-b34c-735f35e2946f",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "e51f236c-2669-4303-b34c-735f35e2946f",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "ab1943cd-5d74-45a8-99c4-78fa9c6a793d",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "ab1943cd-5d74-45a8-99c4-78fa9c6a793d",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "46323ed0-f853-4ffc-ae1a-4810bba0c821",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "46323ed0-f853-4ffc-ae1a-4810bba0c821",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "0d3c2fc6-6edd-4693-902d-b85fadfe9edb",
-    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "0d3c2fc6-6edd-4693-902d-b85fadfe9edb",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "d09668d1-c67f-4d50-9870-bca8f7d16bd6",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d09668d1-c67f-4d50-9870-bca8f7d16bd6",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "d3270c99-ec06-40a8-b997-9dd2c7233140",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d3270c99-ec06-40a8-b997-9dd2c7233140",
-    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "d3270c99-ec06-40a8-b997-9dd2c7233140",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "67e624d7-d1da-4761-8ca2-ec2f0bf9f5d2",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "67e624d7-d1da-4761-8ca2-ec2f0bf9f5d2",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "c4ab87fb-95a7-4651-b054-63ba321ec637",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "c4ab87fb-95a7-4651-b054-63ba321ec637",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "3786b9e0-0a60-456c-8953-7d07597cfa44",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "3786b9e0-0a60-456c-8953-7d07597cfa44",
-    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "3786b9e0-0a60-456c-8953-7d07597cfa44",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a6fdff28-250f-47d2-b77a-5b389f2d71c8",
-    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "a6fdff28-250f-47d2-b77a-5b389f2d71c8",
-    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "a6fdff28-250f-47d2-b77a-5b389f2d71c8",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "eb084c0d-23f3-41ad-8016-6a921da1d49f",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "eb084c0d-23f3-41ad-8016-6a921da1d49f",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "e5641197-1fc4-46a6-814b-6de950219cd5",
-    "factionKeywordId": "1ebc11ee-4774-4743-9aa5-2cf8579cf4cb",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "e5641197-1fc4-46a6-814b-6de950219cd5",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "e5641197-1fc4-46a6-814b-6de950219cd5",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "ad3eb674-53c1-4412-98b8-ed9f383c1265",
-    "factionKeywordId": "1ebc11ee-4774-4743-9aa5-2cf8579cf4cb",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "ad3eb674-53c1-4412-98b8-ed9f383c1265",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "ad3eb674-53c1-4412-98b8-ed9f383c1265",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "5b4a2efc-d509-4e95-8102-9409bbf34f1a",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "5b4a2efc-d509-4e95-8102-9409bbf34f1a",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "70f26528-3c01-42f1-a964-a03c3eced76f",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "70f26528-3c01-42f1-a964-a03c3eced76f",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "13a599c3-3ff4-4c8f-8453-19545adea145",
-    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "13a599c3-3ff4-4c8f-8453-19545adea145",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "ce78aae4-0801-4388-a6c8-f1ed5d5e1af4",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "ce78aae4-0801-4388-a6c8-f1ed5d5e1af4",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "2df18dec-6cba-4aa0-b7e8-7e76c4ccbe13",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "2df18dec-6cba-4aa0-b7e8-7e76c4ccbe13",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "6e6d7560-c4b3-46f1-8a02-37152b8584f3",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "6e6d7560-c4b3-46f1-8a02-37152b8584f3",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "2b8e09b8-9635-49aa-a4f6-41566e05eefe",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "2b8e09b8-9635-49aa-a4f6-41566e05eefe",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "0bc4317c-0717-46b5-bb3f-e7c3978980a0",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "0bc4317c-0717-46b5-bb3f-e7c3978980a0",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "008ca1b6-c4e2-4a58-b1ec-84ed4f32a759",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "008ca1b6-c4e2-4a58-b1ec-84ed4f32a759",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "24fd34a9-2736-4ad6-8c76-f6871cbf15fd",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "24fd34a9-2736-4ad6-8c76-f6871cbf15fd",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "a658963f-e44e-4635-b80f-9043be8349cc",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a658963f-e44e-4635-b80f-9043be8349cc",
-    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "31539d1f-6fdc-49b7-9b0e-a4dba6c289ec",
-    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "31539d1f-6fdc-49b7-9b0e-a4dba6c289ec",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "31539d1f-6fdc-49b7-9b0e-a4dba6c289ec",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "1a6f67bf-e9b4-44ce-b975-7c63c704ae5f",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "1a6f67bf-e9b4-44ce-b975-7c63c704ae5f",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "43d6f255-55ee-43d5-a15f-e7d386a4b121",
-    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "43d6f255-55ee-43d5-a15f-e7d386a4b121",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "43d6f255-55ee-43d5-a15f-e7d386a4b121",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "06f9ed08-9daa-452e-9cd9-51913dd43953",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "06f9ed08-9daa-452e-9cd9-51913dd43953",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "da884625-8323-4741-8d4b-e9202ecf868d",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "da884625-8323-4741-8d4b-e9202ecf868d",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "d5aefc64-615e-4e47-8b0a-c512f45f6011",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d5aefc64-615e-4e47-8b0a-c512f45f6011",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "3f93d3cc-04f4-4e19-86b1-b0ebc5bbbcf1",
-    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "3f93d3cc-04f4-4e19-86b1-b0ebc5bbbcf1",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "3f93d3cc-04f4-4e19-86b1-b0ebc5bbbcf1",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "7750f236-6bda-4534-abf9-f6c14b2fd3c9",
-    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "7750f236-6bda-4534-abf9-f6c14b2fd3c9",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
     "warscrollId": "653942be-b06f-48a8-9d5a-9b44e6215fc3",
     "factionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
     "displayOrder": 2
@@ -8582,13 +8137,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "6a39fd76-9257-4f20-957e-c4747e7d18b9",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "warscrollId": "897cba49-7ea1-44c0-8c65-020250914f94",
+    "factionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
     "displayOrder": 2
   },
   {
-    "warscrollId": "6a39fd76-9257-4f20-957e-c4747e7d18b9",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "897cba49-7ea1-44c0-8c65-020250914f94",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
   },
   {
@@ -8717,14 +8272,14 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "be5dd3ac-cc03-414b-a778-48c5df0a92f9",
-    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
-    "displayOrder": 2
+    "warscrollId": "6b63e041-cbe2-450c-b305-c3a70a0f2702",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "be5dd3ac-cc03-414b-a778-48c5df0a92f9",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
+    "warscrollId": "6b63e041-cbe2-450c-b305-c3a70a0f2702",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "displayOrder": 2
   },
   {
     "warscrollId": "1917cb70-84be-442a-a927-f32ab805e8fa",
@@ -8822,24 +8377,24 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "42d0aa6d-2f14-4abe-9bac-bd3619d4394f",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 2
   },
   {
-    "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "42d0aa6d-2f14-4abe-9bac-bd3619d4394f",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
     "displayOrder": 1
   },
   {
-    "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
+    "warscrollId": "84b51f15-0a6f-45a3-8f72-7628f947e4f8",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
   },
   {
-    "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65",
-    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
-    "displayOrder": 4
+    "warscrollId": "84b51f15-0a6f-45a3-8f72-7628f947e4f8",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "displayOrder": 2
   },
   {
     "warscrollId": "181de257-0e9d-4559-9767-fe6229d6af82",
@@ -8897,6 +8452,56 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 3
   },
   {
+    "warscrollId": "769fdf5f-2e6b-4a44-826b-5dc8a77a0f3e",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "769fdf5f-2e6b-4a44-826b-5dc8a77a0f3e",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "7150fa63-86cd-4776-b753-7268a71d4fd8",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "7150fa63-86cd-4776-b753-7268a71d4fd8",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "f4454a2e-9e10-4e8b-8465-58b0f22f5aed",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "f4454a2e-9e10-4e8b-8465-58b0f22f5aed",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "aaa6205b-6886-4ae2-85c2-96ba2e5c515a",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "aaa6205b-6886-4ae2-85c2-96ba2e5c515a",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "b5e5ac37-000a-435e-9a90-3d945e56c1f5",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "b5e5ac37-000a-435e-9a90-3d945e56c1f5",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "displayOrder": 2
+  },
+  {
     "warscrollId": "fffec540-94d6-4a09-a160-8b22683e40c5",
     "factionKeywordId": "18969f7b-ba19-4e42-9bce-9b425739242b",
     "displayOrder": 3
@@ -9007,43 +8612,18 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "e7814b1d-1923-470d-ab81-d1c4548579dc",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "f72384fe-8723-40d7-af21-8de58b65f424",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "e7814b1d-1923-470d-ab81-d1c4548579dc",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "warscrollId": "f72384fe-8723-40d7-af21-8de58b65f424",
+    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
     "displayOrder": 2
   },
   {
-    "warscrollId": "20ad78cc-6d32-4097-a080-1f8b6196e2fd",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "20ad78cc-6d32-4097-a080-1f8b6196e2fd",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "70698232-f357-4b43-9374-6676fdfc5ee2",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "70698232-f357-4b43-9374-6676fdfc5ee2",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "672bfc39-92b0-467e-89f2-7a9c8df61980",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "672bfc39-92b0-467e-89f2-7a9c8df61980",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "warscrollId": "43e9de70-e68d-4549-ae80-4242ecc8bf7d",
+    "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
     "displayOrder": 2
   },
   {
@@ -9097,13 +8677,13 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "b0a79daf-673b-4b8f-b764-0d152860fcc4",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "43e9de70-e68d-4549-ae80-4242ecc8bf7d",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
   },
   {
-    "warscrollId": "b0a79daf-673b-4b8f-b764-0d152860fcc4",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "warscrollId": "adecff8e-767e-4c87-9284-cf79fed6f87f",
+    "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
     "displayOrder": 2
   },
   {
@@ -9117,14 +8697,9 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "4c8bea9e-f9d0-4cf6-a395-a4a5fdef9764",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "adecff8e-767e-4c87-9284-cf79fed6f87f",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
     "displayOrder": 1
-  },
-  {
-    "warscrollId": "4c8bea9e-f9d0-4cf6-a395-a4a5fdef9764",
-    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
-    "displayOrder": 2
   },
   {
     "warscrollId": "0eb63567-64ee-4639-9c67-0709b0e32e73",
@@ -9177,14 +8752,19 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "adad59dd-957e-4c76-b565-3c5ef52c1c8d",
-    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "adad59dd-957e-4c76-b565-3c5ef52c1c8d",
-    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
+  },
+  {
+    "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863",
+    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
+    "displayOrder": 3
   },
   {
     "warscrollId": "37e37cf6-600c-41b7-b36a-384fed5df4c8",
@@ -9197,184 +8777,184 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
-    "warscrollId": "3e330358-f275-4078-aa3f-2a91528dd91d",
-    "factionKeywordId": "18969f7b-ba19-4e42-9bce-9b425739242b",
+    "warscrollId": "bea93bc3-f923-4def-986a-e1100495798a",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "bea93bc3-f923-4def-986a-e1100495798a",
+    "factionKeywordId": "823cc453-fc48-4c46-a316-80db46d901c8",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "00e402db-f205-4ae1-95d7-6a14a91aa1f4",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "00e402db-f205-4ae1-95d7-6a14a91aa1f4",
+    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
     "displayOrder": 3
   },
   {
-    "warscrollId": "3e330358-f275-4078-aa3f-2a91528dd91d",
+    "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "da308fad-d975-48bc-b53f-6a895c5d1f92",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "da308fad-d975-48bc-b53f-6a895c5d1f92",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "6fc894c6-c2f3-46bb-8904-ed8181888594",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "6fc894c6-c2f3-46bb-8904-ed8181888594",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "6fc894c6-c2f3-46bb-8904-ed8181888594",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "3cc579b6-a4b9-48e7-b134-0decf7ed3129",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "3cc579b6-a4b9-48e7-b134-0decf7ed3129",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "aea7407f-e52b-4935-b80b-cb1d9da26325",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "aea7407f-e52b-4935-b80b-cb1d9da26325",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "aea7407f-e52b-4935-b80b-cb1d9da26325",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "aea7407f-e52b-4935-b80b-cb1d9da26325",
+    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
+    "displayOrder": 4
+  },
+  {
+    "warscrollId": "fe19a03b-2880-4cf3-b8fa-9abe8e11c31b",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "fe19a03b-2880-4cf3-b8fa-9abe8e11c31b",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "fe19a03b-2880-4cf3-b8fa-9abe8e11c31b",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "a989a965-579b-4d60-812f-ecb1fda79f5c",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "a989a965-579b-4d60-812f-ecb1fda79f5c",
+    "factionKeywordId": "da05f3bd-dfa7-4ff5-91af-96b38a206d25",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "a989a965-579b-4d60-812f-ecb1fda79f5c",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "454bba4c-e343-4cd2-83f6-bd8e3d18f36a",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "454bba4c-e343-4cd2-83f6-bd8e3d18f36a",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "fe19a03b-2880-4cf3-b8fa-9abe8e11c31b",
+    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
+    "displayOrder": 4
+  },
+  {
+    "warscrollId": "aacea25b-e67c-43c8-871a-223f5aa52a8c",
     "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
     "displayOrder": 2
   },
   {
-    "warscrollId": "3e330358-f275-4078-aa3f-2a91528dd91d",
+    "warscrollId": "aacea25b-e67c-43c8-871a-223f5aa52a8c",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "00e402db-f205-4ae1-95d7-6a14a91aa1f4",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "00e402db-f205-4ae1-95d7-6a14a91aa1f4",
-    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "2016cc88-226c-4e6f-ade7-2f889439cfb5",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
     "displayOrder": 2
   },
   {
-    "warscrollId": "349ad004-e398-47f4-9fb6-87b9fa8d07f0",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "f8e23183-2046-40e9-8c27-c44629a13f33",
+    "factionKeywordId": "db6b3d8c-aa99-49b8-87c6-e903d573050c",
     "displayOrder": 2
   },
   {
-    "warscrollId": "31425f48-566d-4c05-8220-ad82cfc5a0ad",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "6fc894c6-c2f3-46bb-8904-ed8181888594",
+    "warscrollId": "2016cc88-226c-4e6f-ade7-2f889439cfb5",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "6fc894c6-c2f3-46bb-8904-ed8181888594",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "2f655f08-850e-4461-99ed-9b5237d3b0be",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "6fc894c6-c2f3-46bb-8904-ed8181888594",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "3cc579b6-a4b9-48e7-b134-0decf7ed3129",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "3cc579b6-a4b9-48e7-b134-0decf7ed3129",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "aea7407f-e52b-4935-b80b-cb1d9da26325",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "aea7407f-e52b-4935-b80b-cb1d9da26325",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "aea7407f-e52b-4935-b80b-cb1d9da26325",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "aea7407f-e52b-4935-b80b-cb1d9da26325",
-    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
-    "displayOrder": 4
-  },
-  {
-    "warscrollId": "fe19a03b-2880-4cf3-b8fa-9abe8e11c31b",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "fe19a03b-2880-4cf3-b8fa-9abe8e11c31b",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "fe19a03b-2880-4cf3-b8fa-9abe8e11c31b",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "a989a965-579b-4d60-812f-ecb1fda79f5c",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "a989a965-579b-4d60-812f-ecb1fda79f5c",
-    "factionKeywordId": "da05f3bd-dfa7-4ff5-91af-96b38a206d25",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "a989a965-579b-4d60-812f-ecb1fda79f5c",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "454bba4c-e343-4cd2-83f6-bd8e3d18f36a",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "454bba4c-e343-4cd2-83f6-bd8e3d18f36a",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "fe19a03b-2880-4cf3-b8fa-9abe8e11c31b",
-    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
-    "displayOrder": 4
-  },
-  {
-    "warscrollId": "05c274fa-ecc8-4b59-8723-f5c8060db0b4",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "91debed1-ef22-422f-8aad-13cb4eff1b5e",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "91debed1-ef22-422f-8aad-13cb4eff1b5e",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "135f32ce-8633-4428-959d-18df5b941121",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "135f32ce-8633-4428-959d-18df5b941121",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "05c274fa-ecc8-4b59-8723-f5c8060db0b4",
-    "factionKeywordId": "da05f3bd-dfa7-4ff5-91af-96b38a206d25",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "05c274fa-ecc8-4b59-8723-f5c8060db0b4",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
   },
   {
     "warscrollId": "6617bc47-4c03-4afb-bd3c-0d8b354e000c",
@@ -9385,6 +8965,21 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "6617bc47-4c03-4afb-bd3c-0d8b354e000c",
     "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
+  },
+  {
+    "warscrollId": "2f655f08-850e-4461-99ed-9b5237d3b0be",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "dcfdebd9-ca18-4910-bf17-caf0a6bb9b88",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "dcfdebd9-ca18-4910-bf17-caf0a6bb9b88",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
   },
   {
     "warscrollId": "6617bc47-4c03-4afb-bd3c-0d8b354e000c",
@@ -9405,6 +9000,21 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "7388b0e4-6180-4c14-9908-811b62f86317",
     "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
+  },
+  {
+    "warscrollId": "780daaa4-923d-4851-8bad-2b343ac3cc6d",
+    "factionKeywordId": "90585f40-17b9-4c84-9baf-61b31cb30f7d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "780daaa4-923d-4851-8bad-2b343ac3cc6d",
+    "factionKeywordId": "8a8c60a8-53c5-4d21-a7dd-a0faad664511",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "780daaa4-923d-4851-8bad-2b343ac3cc6d",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
   },
   {
     "warscrollId": "fc75e8fb-0c49-4b62-8bc2-f4187448cdd5",
@@ -9474,6 +9084,16 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   {
     "warscrollId": "aebf99ba-1a73-46df-971a-263a8bd7f8c4",
     "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "70f26528-3c01-42f1-a964-a03c3eced76f",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "70f26528-3c01-42f1-a964-a03c3eced76f",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
@@ -9497,6 +9117,36 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 2
   },
   {
+    "warscrollId": "3f2fb8fe-f21f-445b-8a6a-b449077b9761",
+    "factionKeywordId": "12a7832f-5437-4fce-b7ec-8eadf934fb67",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "3f2fb8fe-f21f-445b-8a6a-b449077b9761",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "2df18dec-6cba-4aa0-b7e8-7e76c4ccbe13",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "2df18dec-6cba-4aa0-b7e8-7e76c4ccbe13",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "0bc4317c-0717-46b5-bb3f-e7c3978980a0",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "0bc4317c-0717-46b5-bb3f-e7c3978980a0",
+    "factionKeywordId": "a61424fc-4df2-43e5-a2ac-0c34680063d2",
+    "displayOrder": 2
+  },
+  {
     "warscrollId": "48496b2b-b2f4-4428-b378-26eb06882443",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
@@ -9512,12 +9162,97 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
+    "warscrollId": "f8e23183-2046-40e9-8c27-c44629a13f33",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "31539d1f-6fdc-49b7-9b0e-a4dba6c289ec",
+    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "31539d1f-6fdc-49b7-9b0e-a4dba6c289ec",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "06cac41e-66d9-4688-88f6-7330f6b4cdb9",
+    "factionKeywordId": "78de8c0c-869a-4195-9426-d0235a005c79",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "06cac41e-66d9-4688-88f6-7330f6b4cdb9",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "6edb189a-9d83-42ad-a0b5-8658a93e00a5",
+    "factionKeywordId": "7bffbbd8-d1f1-43f6-9721-316a48e90212",
+    "displayOrder": 2
+  },
+  {
     "warscrollId": "3f4aa91d-2a19-41a9-8132-0875c8bf876f",
     "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
   },
   {
     "warscrollId": "3f4aa91d-2a19-41a9-8132-0875c8bf876f",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "6edb189a-9d83-42ad-a0b5-8658a93e00a5",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "31539d1f-6fdc-49b7-9b0e-a4dba6c289ec",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "a04e937a-26ee-434e-84e6-58cd6eb064b7",
+    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "a04e937a-26ee-434e-84e6-58cd6eb064b7",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "a04e937a-26ee-434e-84e6-58cd6eb064b7",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "43d6f255-55ee-43d5-a15f-e7d386a4b121",
+    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "43d6f255-55ee-43d5-a15f-e7d386a4b121",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "43d6f255-55ee-43d5-a15f-e7d386a4b121",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "f3d7efad-563f-4932-93b0-e240fd9fe162",
+    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "f3d7efad-563f-4932-93b0-e240fd9fe162",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "f3d7efad-563f-4932-93b0-e240fd9fe162",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
@@ -9542,129 +9277,224 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 1
   },
   {
-    "warscrollId": "dce1facb-86d3-42a3-a75f-e1516d346b34",
+    "warscrollId": "128b3331-a6b6-4c1e-9f1f-ee522dad3d0b",
+    "factionKeywordId": "6625713d-db41-4fc2-8036-caf143768870",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "128b3331-a6b6-4c1e-9f1f-ee522dad3d0b",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "128b3331-a6b6-4c1e-9f1f-ee522dad3d0b",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "4c8d3e26-25bc-459d-8997-3fa60fd63f4d",
     "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
     "displayOrder": 2
   },
   {
-    "warscrollId": "dce1facb-86d3-42a3-a75f-e1516d346b34",
+    "warscrollId": "4c8d3e26-25bc-459d-8997-3fa60fd63f4d",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "bd091fd0-94d3-4164-897c-4e53aca8b852",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "bd091fd0-94d3-4164-897c-4e53aca8b852",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1",
+    "factionKeywordId": "0c5a7f03-c1a3-4491-a7cf-71de0b4427c0",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "98149e4e-c8c1-4516-bfca-a4d4fcedf4b1",
+    "factionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f",
+    "factionKeywordId": "0c5a7f03-c1a3-4491-a7cf-71de0b4427c0",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "d2ddb86f-f3f5-4e99-bcc0-8b2c49126591",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d2ddb86f-f3f5-4e99-bcc0-8b2c49126591",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "842e4bec-787b-426f-ac12-efe0508ed10f",
+    "factionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "9e729045-a908-4c41-831b-6efc76ccaa97",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "9e729045-a908-4c41-831b-6efc76ccaa97",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597",
+    "factionKeywordId": "0c5a7f03-c1a3-4491-a7cf-71de0b4427c0",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "a591e412-72bd-4ca0-84f9-2fd84a7cd597",
+    "factionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15",
+    "factionKeywordId": "d45aea9e-ea0c-4f15-a5ba-8dcf6972f9a8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15",
+    "factionKeywordId": "0c5a7f03-c1a3-4491-a7cf-71de0b4427c0",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "b7f16f6f-0bd5-4c0b-a36f-aba16a989f15",
+    "factionKeywordId": "1cafba25-8983-48fc-afc4-6cc2e71b03e5",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d8d83aff-0e39-4dca-91d1-3c85e3f27755",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d8d83aff-0e39-4dca-91d1-3c85e3f27755",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "e678f2db-4db3-4685-bed8-75a0b8e4ac41",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "e678f2db-4db3-4685-bed8-75a0b8e4ac41",
+    "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "f3442df9-1235-4234-9f07-2dd3dbb52faa",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "f3442df9-1235-4234-9f07-2dd3dbb52faa",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "cd6894c9-a261-40a3-afff-7143b283e380",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "114aadba-44e0-49c7-9807-43df84c037c4",
+    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "114aadba-44e0-49c7-9807-43df84c037c4",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "78f35a5c-3350-49bc-a6e5-5768874e3ce7",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "697a2212-23cd-4acf-9859-357cdf7ef1d3",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "7042507b-7516-42c4-8564-318915075639",
+    "factionKeywordId": "7145dcbf-aae8-4852-8e79-406cbfaed7f3",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 4
+  },
+  {
+    "warscrollId": "51f4273e-f99a-4bd0-a831-7ec3de94d863",
     "factionKeywordId": "da05f3bd-dfa7-4ff5-91af-96b38a206d25",
-    "displayOrder": 3
+    "displayOrder": 5
   },
   {
-    "warscrollId": "dce1facb-86d3-42a3-a75f-e1516d346b34",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "4c8d3e26-25bc-459d-8997-3fa60fd63f4d",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "78f35a5c-3350-49bc-a6e5-5768874e3ce7",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
     "displayOrder": 2
   },
   {
-    "warscrollId": "4c8d3e26-25bc-459d-8997-3fa60fd63f4d",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "fd57d27f-267b-45c0-8188-849d85cec476",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
   },
   {
-    "warscrollId": "7738e31e-6c9b-4ff7-ae1f-a7ea78908e56",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "fd57d27f-267b-45c0-8188-849d85cec476",
+    "factionKeywordId": "1975608d-f2a8-413c-a4bb-21d1adee485c",
     "displayOrder": 2
   },
   {
-    "warscrollId": "7738e31e-6c9b-4ff7-ae1f-a7ea78908e56",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "b66a39a0-4d2c-4687-816e-babf11f7da63",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
   },
   {
-    "warscrollId": "7738e31e-6c9b-4ff7-ae1f-a7ea78908e56",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "bd091fd0-94d3-4164-897c-4e53aca8b852",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "b66a39a0-4d2c-4687-816e-babf11f7da63",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
     "displayOrder": 2
   },
   {
-    "warscrollId": "bd091fd0-94d3-4164-897c-4e53aca8b852",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "warscrollId": "a9c1ca65-d0cb-4a77-9de6-f39c7922dd5d",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
     "displayOrder": 1
   },
   {
-    "warscrollId": "d2ddb86f-f3f5-4e99-bcc0-8b2c49126591",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "a9c1ca65-d0cb-4a77-9de6-f39c7922dd5d",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
     "displayOrder": 2
-  },
-  {
-    "warscrollId": "d2ddb86f-f3f5-4e99-bcc0-8b2c49126591",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "de6d90a0-dec6-4b9c-93d5-5bf9f5c14167",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "de6d90a0-dec6-4b9c-93d5-5bf9f5c14167",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "9e729045-a908-4c41-831b-6efc76ccaa97",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "9e729045-a908-4c41-831b-6efc76ccaa97",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "57f5b725-7940-46c3-9254-30f702bc7c25",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "57f5b725-7940-46c3-9254-30f702bc7c25",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "d6546dde-cc29-45b7-9bb2-3d6d966ddc62",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "d6546dde-cc29-45b7-9bb2-3d6d966ddc62",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "a6d0c557-1723-43bd-bede-b5a89a078710",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "a6d0c557-1723-43bd-bede-b5a89a078710",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "49668d5f-3d42-42e6-b3dc-72a45e82f68e",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "49668d5f-3d42-42e6-b3dc-72a45e82f68e",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "49668d5f-3d42-42e6-b3dc-72a45e82f68e",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
   },
   {
     "warscrollId": "5f757e21-fd7c-448c-9c98-acd3a5af0cdf",
@@ -9682,64 +9512,54 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "displayOrder": 3
   },
   {
-    "warscrollId": "fba01e8a-093c-4500-8658-a8c44372e379",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "271da01b-9ae3-4a51-b23e-4e6e39a890bf",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "271da01b-9ae3-4a51-b23e-4e6e39a890bf",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
     "displayOrder": 2
   },
   {
-    "warscrollId": "fba01e8a-093c-4500-8658-a8c44372e379",
+    "warscrollId": "079ad6e5-ef62-42d9-a0d9-6fb9a5678573",
+    "factionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "079ad6e5-ef62-42d9-a0d9-6fb9a5678573",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "fba01e8a-093c-4500-8658-a8c44372e379",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "71719674-5e37-4667-b3f8-0a1b5eb88f1b",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "2cc95014-c662-4f47-9271-c3fb6085789a",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
     "displayOrder": 2
   },
   {
-    "warscrollId": "71719674-5e37-4667-b3f8-0a1b5eb88f1b",
+    "warscrollId": "2cc95014-c662-4f47-9271-c3fb6085789a",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "71719674-5e37-4667-b3f8-0a1b5eb88f1b",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "4021ef68-f0ec-40b7-b007-83bfec0410ec",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "30432f9c-db7c-49ca-be1b-83f7a676e78b",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
     "displayOrder": 2
   },
   {
-    "warscrollId": "4021ef68-f0ec-40b7-b007-83bfec0410ec",
+    "warscrollId": "30432f9c-db7c-49ca-be1b-83f7a676e78b",
     "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
     "displayOrder": 1
   },
   {
-    "warscrollId": "4021ef68-f0ec-40b7-b007-83bfec0410ec",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "170a66b6-f8ed-414b-8f3e-55e5a3a09c6c",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "warscrollId": "b9674d2f-550b-45c5-96ea-2d1c877c4591",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
     "displayOrder": 2
   },
   {
-    "warscrollId": "170a66b6-f8ed-414b-8f3e-55e5a3a09c6c",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "170a66b6-f8ed-414b-8f3e-55e5a3a09c6c",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
+    "warscrollId": "cd6894c9-a261-40a3-afff-7143b283e380",
+    "factionKeywordId": "5ab0808f-5840-4fbd-ba02-841ab3710533",
+    "displayOrder": 2
   },
   {
     "warscrollId": "a784b1ab-6224-4ceb-a83b-9d2f21b45891",
@@ -9753,51 +9573,6 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
   },
   {
     "warscrollId": "a784b1ab-6224-4ceb-a83b-9d2f21b45891",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "dd5e3f42-1a6c-46e6-9336-ffaac336a4d8",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "dd5e3f42-1a6c-46e6-9336-ffaac336a4d8",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "dd5e3f42-1a6c-46e6-9336-ffaac336a4d8",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "3b0cb46c-8444-4a10-bb47-55107d144fca",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "3b0cb46c-8444-4a10-bb47-55107d144fca",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "3b0cb46c-8444-4a10-bb47-55107d144fca",
-    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
-    "displayOrder": 3
-  },
-  {
-    "warscrollId": "70cf61fb-f8c4-4d30-bb19-6511b3c21cea",
-    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
-    "displayOrder": 2
-  },
-  {
-    "warscrollId": "70cf61fb-f8c4-4d30-bb19-6511b3c21cea",
-    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
-    "displayOrder": 1
-  },
-  {
-    "warscrollId": "70cf61fb-f8c4-4d30-bb19-6511b3c21cea",
     "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
     "displayOrder": 3
   },
@@ -9845,6 +9620,16 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "f4d8a357-e025-4166-b08b-a39f850d07a7",
     "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
     "displayOrder": 3
+  },
+  {
+    "warscrollId": "ac54f3c4-b399-43d0-ac91-4827b797d03a",
+    "factionKeywordId": "f45ea576-c9a4-4329-b164-76420e239672",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "ac54f3c4-b399-43d0-ac91-4827b797d03a",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
   },
   {
     "warscrollId": "f766968f-7e13-4fec-b708-abd5ee15633f",
@@ -9910,6 +9695,251 @@ export const warscroll_faction_keywords : WarscrollFactionKeyword[] = [
     "warscrollId": "dc52859a-3319-4220-a61b-f51784a40f8c",
     "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
     "displayOrder": 3
+  },
+  {
+    "warscrollId": "c2bddef8-84df-4702-9161-62a6d06118e4",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "1844d752-8715-4670-8e97-1c43ba13c3de",
+    "factionKeywordId": "658431dd-d251-4bfd-be82-e59ecdee0f15",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "1844d752-8715-4670-8e97-1c43ba13c3de",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "53fc8a9c-13ed-46a1-a154-542e98260d76",
+    "factionKeywordId": "0817198d-0c4e-4e62-ab98-1d2baca06116",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "53fc8a9c-13ed-46a1-a154-542e98260d76",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "b9674d2f-550b-45c5-96ea-2d1c877c4591",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65",
+    "factionKeywordId": "484cc76e-61a4-4164-99e1-f103c4243e48",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "f6e429fa-0716-405b-951e-3f77231f6d65",
+    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
+    "displayOrder": 4
+  },
+  {
+    "warscrollId": "6f112458-32fb-412b-b860-23e1f9ec4c7b",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "6f112458-32fb-412b-b860-23e1f9ec4c7b",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "6f112458-32fb-412b-b860-23e1f9ec4c7b",
+    "factionKeywordId": "c149d149-bbd8-4a3a-b6ba-39801378fe90",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "57f5b725-7940-46c3-9254-30f702bc7c25",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "57f5b725-7940-46c3-9254-30f702bc7c25",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "de6d90a0-dec6-4b9c-93d5-5bf9f5c14167",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "de6d90a0-dec6-4b9c-93d5-5bf9f5c14167",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "d6546dde-cc29-45b7-9bb2-3d6d966ddc62",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "d6546dde-cc29-45b7-9bb2-3d6d966ddc62",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "a6d0c557-1723-43bd-bede-b5a89a078710",
+    "factionKeywordId": "9895ad28-928d-41df-8877-ff0e00adb3a1",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "a6d0c557-1723-43bd-bede-b5a89a078710",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "b5511bad-9d69-43d0-9fc5-5f09a895e517",
+    "factionKeywordId": "af075c4c-fff6-4b77-aea0-e5f28a1c3226",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "b5511bad-9d69-43d0-9fc5-5f09a895e517",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "e7814b1d-1923-470d-ab81-d1c4548579dc",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "e7814b1d-1923-470d-ab81-d1c4548579dc",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "20ad78cc-6d32-4097-a080-1f8b6196e2fd",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "20ad78cc-6d32-4097-a080-1f8b6196e2fd",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "70698232-f357-4b43-9374-6676fdfc5ee2",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "70698232-f357-4b43-9374-6676fdfc5ee2",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "672bfc39-92b0-467e-89f2-7a9c8df61980",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "672bfc39-92b0-467e-89f2-7a9c8df61980",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "db035ac5-f574-4b76-b879-8849ce7b2e43",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "db035ac5-f574-4b76-b879-8849ce7b2e43",
+    "factionKeywordId": "a2f9180b-eae5-4815-a1fd-63deba07e45e",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "63d77f79-ecd6-481a-a9a5-81a9a52fb8c2",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "63d77f79-ecd6-481a-a9a5-81a9a52fb8c2",
+    "factionKeywordId": "b316793e-f2e6-48a0-af67-56bc1ee50d45",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "e9e685ea-35f5-45b7-96b9-ac0a16813888",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "e9e685ea-35f5-45b7-96b9-ac0a16813888",
+    "factionKeywordId": "9cc75690-2c26-44d6-a2b5-9117b24bc7fe",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "6a39fd76-9257-4f20-957e-c4747e7d18b9",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "6a39fd76-9257-4f20-957e-c4747e7d18b9",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "be5dd3ac-cc03-414b-a778-48c5df0a92f9",
+    "factionKeywordId": "abc31d44-0db6-4534-a725-2b2c4302fe85",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "be5dd3ac-cc03-414b-a778-48c5df0a92f9",
+    "factionKeywordId": "a064ee5d-f515-4a58-9db7-30b5af371cd5",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "b5a1374e-2519-4d17-9de8-292839796fd5",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "b5a1374e-2519-4d17-9de8-292839796fd5",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "b5a1374e-2519-4d17-9de8-292839796fd5",
+    "factionKeywordId": "3f91a1c5-68be-4dd2-ac39-cc138a09d6bd",
+    "displayOrder": 3
+  },
+  {
+    "warscrollId": "b5a1374e-2519-4d17-9de8-292839796fd5",
+    "factionKeywordId": "ca2086c7-e77c-46f6-b4ac-f621a56c5f2d",
+    "displayOrder": 4
+  },
+  {
+    "warscrollId": "ba983e99-4300-4b47-bca3-384be59ade49",
+    "factionKeywordId": "71617e52-ecf8-4da3-acd6-85885e67cec6",
+    "displayOrder": 2
+  },
+  {
+    "warscrollId": "ba983e99-4300-4b47-bca3-384be59ade49",
+    "factionKeywordId": "f0479d01-0d7e-4eca-aebe-4eb7bce106b8",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "b3013117-b36e-4677-b070-cef740deee7d",
+    "factionKeywordId": "7093c56a-be85-4bf7-93e6-4ff31bbce43d",
+    "displayOrder": 1
+  },
+  {
+    "warscrollId": "b3013117-b36e-4677-b070-cef740deee7d",
+    "factionKeywordId": "db0e4e52-d4df-412a-855b-e88cc40026ef",
+    "displayOrder": 2
   }
 ];
 
