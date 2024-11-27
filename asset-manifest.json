@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Aos4Builder/static/css/main.afcfce06.css",
-    "main.js": "/Aos4Builder/static/js/main.38b9c27d.js",
+    "main.js": "/Aos4Builder/static/js/main.d01bdb43.js",
     "index.html": "/Aos4Builder/index.html",
     "main.afcfce06.css.map": "/Aos4Builder/static/css/main.afcfce06.css.map",
-    "main.38b9c27d.js.map": "/Aos4Builder/static/js/main.38b9c27d.js.map"
+    "main.d01bdb43.js.map": "/Aos4Builder/static/js/main.d01bdb43.js.map"
   },
   "entrypoints": [
     "static/css/main.afcfce06.css",
-    "static/js/main.38b9c27d.js"
+    "static/js/main.d01bdb43.js"
   ]
 }
